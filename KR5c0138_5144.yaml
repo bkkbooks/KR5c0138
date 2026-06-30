@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5144
+seq: 5144
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 地縣音𤣥怪簡故問之
+  hash: sha256:4fa3f94893bf0e6efdbd26fb4c3fa44d1f1d4cfdd6bce47b7270a11c9e04d8f0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2425cf876a518a6864bc1613e88c6e0304b697a0e3e72f990359050e68056b24

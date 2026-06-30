@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7742
+seq: 7742
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鄭人緩也呻吟裘氏
+  hash: sha256:188b18678ecfea1a9bc52fa6fe785cdbdd922ff1129cdcc507fd045fd7da773f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fac4446fd78d10bd53b3fef8302ab2cbefb783d01f8ed86b25409378f69e7b9f

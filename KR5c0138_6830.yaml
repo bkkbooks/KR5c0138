@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6830
+seq: 6830
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 從師而不囿
+  hash: sha256:e5359f76de71d2521975106ebd61e59237e1b7fb869c9ea0787e260c7680a3bf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:99627eaca15b9f111f182f1abfad7020edb28570f8e9a57c0781b47f7fa21735

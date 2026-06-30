@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1889
+seq: 1889
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復之不由於識乃至
+  hash: sha256:a5f792ad39104b2cea427687f043b69d785779c3b753e449d45846b7102584c7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3334e958987a09ceab3b1af2f8447187e2106f1b70a9ebb857827db22a4e2fcf

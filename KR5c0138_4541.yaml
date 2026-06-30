@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4541
+seq: 4541
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不多辟異
+  hash: sha256:f0805c1cfe03c62fb118a85eb828edab93eb24ff6212dde3732a937093fe422f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7f377163188e1c3b3f447d42104906cba46e7e53f334b8069f08db7f6b3f6ccf

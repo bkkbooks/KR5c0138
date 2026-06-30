@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5693
+seq: 5693
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 魂魄将徃乃身從之乃大歸乎
+  hash: sha256:8754ef90c68dc13b2f1adc4c0c208c1c17dc93c0f0ab7e43cbae68e0efe1025c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6a4a0ecf0ecd1a3b874f3687b02569651cf0ab8d4f8e83d052dc4492ca7e697d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5189
+seq: 5189
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孰能去功與名而還與衆人
+  hash: sha256:b26bd8974505593e8173dbc63c6e681b33db849bd08038d98ffcee8aab8298c8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:733b54a6b2acfc54017b571946d659e856a145bf974b97fc48c96481f0e8d906

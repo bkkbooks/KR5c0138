@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2104
+seq: 2104
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其名為攖寧
+  hash: sha256:7830862cea8a2f5c3a82e0370bc49755ff5d655e8e031c34174b149043f8af42
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d77bdf5170c7f6cb6cc2c31a0f5618ab95dee784771d6f4d7ba501a5b049cbf0

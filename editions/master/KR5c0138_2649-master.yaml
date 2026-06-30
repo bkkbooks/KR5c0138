@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2649
+seq: 2649
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 世以任自然而不加巧者為不善於
+  hash: sha256:6d3f35a65e22fe6c74e472906cb159c8a95c180df32b41769188e70a5d651fe4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:af03532ed108529895b7074b236a42f59d45b7f752d03a103b9418b2dc756825

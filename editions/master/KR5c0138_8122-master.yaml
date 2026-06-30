@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8122
+seq: 8122
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自任以事事不與衆共之則無為尚賢所以笑也
+  hash: sha256:5e8542e2bfb3841798822c6165cba8f3a03e923b1545af6c12fdbd3075b3df2a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bd4f9697bb186d81f65b3654a7dacf5f6adf234a9be68ebb66926a02401558ea

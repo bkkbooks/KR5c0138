@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5278
+seq: 5278
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其畏人也而襲諸人間
+  hash: sha256:fec74d0e422bd5764299f104b3a3fe801357132f1ded6b2a6ccdb272bba8502a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:18356de88095f053ff6343da1549b7554d2db22e4cd9f8fc16cc624db4c91746

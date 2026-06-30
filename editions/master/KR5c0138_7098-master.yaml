@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7098
+seq: 7098
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言而足則終日言而盡道
+  hash: sha256:ccc944ad06cdeb5d3012b7120a95446bd7b9638bded0d27344103b252f9f45b8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b16c5c6fbd7fa3344b5fb119d4b618d4af8954c0ee2c59c4e0bd6c1c103581d8

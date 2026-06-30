@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3788
+seq: 3788
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無近恩故曰棄棄妹一本作妹之者不仁釋名云妹未
+  hash: sha256:9418179985188de763cb18302ac889221ee7a4ce3ab61a128402c6e54b28f712
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:97034dd903f151bab2e254b09134f3046e569b9336c2f39f4be66f3059bdab68

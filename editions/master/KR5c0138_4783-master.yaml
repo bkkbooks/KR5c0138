@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4783
+seq: 4783
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫遺生然後能忘憂忘憂而後生可樂生可樂而後形是我有富是我物
+  hash: sha256:422754262ea59063b3e9e3c5b1220f639b3dc1f35025daa1560be0c389dac122
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b8bcf1b9d619924364144caf48eeb5d90d9571d9f4c288401c5f4e68f3d13b8e

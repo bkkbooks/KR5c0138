@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7686
+seq: 7686
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 春秋後倫朝覲不及等是
+  hash: sha256:4b1aba9b0f643328da00f671abe301e7e3ca4148fa960a10c50bc9faf56587f9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b87c9558a39244d075a03ff9b40ca1a0257a16d897076e8985e07b8b33bc9f2f

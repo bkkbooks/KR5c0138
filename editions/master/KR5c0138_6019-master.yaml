@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6019
+seq: 6019
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 者俱以泰然而自得之非為而得之也
+  hash: sha256:b7eb92e3b4a49ed69ec53d849d4376e1386619aac307286909282f0f29ff502b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0e5df0e10ec70dbe92fc0ec7959b6cf2a143c04a99f649e5ce63aa80fde63b1e

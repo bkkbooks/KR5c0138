@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8365
+seq: 8365
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以二為三曰牛曰馬曰牛馬形之三也曰黄曰
+  hash: sha256:3baf2bc25ef2168cdb9039380893683248235c72fa477643c90fb141c2798ca0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:07f2d15b1e8081e40a90932d0a985e8e0b6915fbee8cbd7768dfaa893fdce449

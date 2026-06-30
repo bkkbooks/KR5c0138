@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4847
+seq: 4847
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各以所遇為樂
+  hash: sha256:8adbf8a3c1e0f23349aafe5bf98cb78f512755a667c0d685a7f7b67d60eafc0c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1109fc9128e0b75b60cd145ccc2fbcc435c56ee223ccd5cdcc585dc0bfc96af2

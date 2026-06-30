@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6818
+seq: 6818
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 闔嘗舍之
+  hash: sha256:1066a125a013a77792e866dd40b4313c2fe65dd728c6993e85a0684b12524f1f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:78e5807a0e3cfe5bf795707a466584c7d19e0eccd57e18d58c07b2a58bc7610c

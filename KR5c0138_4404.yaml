@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4404
+seq: 4404
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道固不小行
+  hash: sha256:18da2bdc4274b803dd0c6a349a00006fd63073f1f2737a0c8987bc0245a94884
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:86a4144be613ce8532ae1c9d9e92854202ecf6e1f436e4d44efaa3805a89407b

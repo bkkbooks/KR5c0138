@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1311
+seq: 1311
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遷令勸成
+  hash: sha256:1ece7f8ce47afc58e60fd2323eb5b83b50caf61e16c22cbfad3de9e97264d3d2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:509b5c360b8cae6f9940ede0bec3d9f6c018547f1e5917306ec1b01149b1b279

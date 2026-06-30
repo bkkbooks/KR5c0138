@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4489
+seq: 4489
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 死生者日新之正道
+  hash: sha256:fb61009a5f1f47036dc4648504b4e4ff007f8d167bab29c2af042f991a08d39c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cdcf97dd4879753cf4b0d80a75235ee3b621683bc9251d025ee65221cc1a2031

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6732
+seq: 6732
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 樊有過而問者曰此予宅也
+  hash: sha256:1156a175216c012430e088f66be5fae83a1c9fd07d10dff7e02e5cb16af6a0ed
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0d7b328e8339c1840420aecc8ac56100f49c19806560b0c0ec38153aabf4fa12

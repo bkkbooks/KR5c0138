@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2328
+seq: 2328
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 它日復見曰回益矣曰何謂也曰回忘禮樂矣曰可矣猶未也
+  hash: sha256:f77fc37a720aad5c4d322032c8cf8f2e81eda9e86bf42d5f57b27539072b6bd6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8542068ad28fffc87f3e03a576c9751872db2bf47dddabe175b3661099954266

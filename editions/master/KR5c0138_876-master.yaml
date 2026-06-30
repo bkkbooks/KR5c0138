@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/876
+seq: 876
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自快得意恱豫而行胡蝶蛺蝶也栩栩況羽反喜
+  hash: sha256:217c3e0f4dac999eaaa2e655288c0bb383b8147b6b108ab2d87728449d8e0f46
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f53c8d180805509162af3713f11e0141a08703bebcc6f69db68708e9cf5ea2f2

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5939
+seq: 5939
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 早聞形隔故難化也勉强也
+  hash: sha256:e87a4d92dd740d3267e35719644be547232f591842662e74bbf116a02cfb7d44
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0e5f2cebdb249995ee763f9bda852577e04eaa9c867d06f4eafccb32b0e812ea

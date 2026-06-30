@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7219
+seq: 7219
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 唯至人乃能逰於世而不僻
+  hash: sha256:026d09f9f6e46b6d05c575a428359a3a0c3d88eb705a3e9c4e691e097373ed89
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2a38edcfc494fdbe2b139ee73d59125b0d8d98c4d5ffcea68bd17190e5f3e09b

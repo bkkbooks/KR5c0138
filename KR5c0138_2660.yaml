@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2660
+seq: 2660
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故至徳之世其行填填其視顛顛
+  hash: sha256:2b685bec39f9ebac9c89e89734aac9f485d489e0c75f99324919b943b16b274b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cfac598742aaaede29d242c12ef62b2a9f4feef4fd3e5f40db43cfa5d3d26907

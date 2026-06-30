@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3405
+seq: 3405
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 辯者有言曰離堅白若懸㝢
+  hash: sha256:812b3844abd1d5c215cc3bab010a856c0dbbd665b17c3abec4e112c5d8216035
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b8df2c70214f1e88743a351b8e4a6ed3f5e49e68a045858fc9b55c21d46835da

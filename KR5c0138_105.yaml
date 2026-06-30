@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/105
+seq: 105
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若夫乘天地之正而御六氣之辨以逰無窮者彼且惡乎待哉
+  hash: sha256:70dd62908114b94f39ddc74b9c78016367aaac4fd0ac31f209fc1c6c749ebe7d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:054012a499ab6dc2306bc21045342aa7d1857bd6de20796303782463df83b03d

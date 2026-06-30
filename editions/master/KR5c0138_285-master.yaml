@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/285
+seq: 285
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其慮患輕禍陰
+  hash: sha256:d4a288d71a3542b22b45502ff5b7e470b5fd527b2109ac44c0be71e3a679fa5f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d8207b4e5720314b1ee1c25a31939074cadf794b2eb20a2bd4aeb8e275b41e4f

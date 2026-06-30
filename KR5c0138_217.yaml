@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/217
+seq: 217
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子游常見𨼆几者而
+  hash: sha256:afad4f2084d4e64f119c56d067484ad6bb704313ed7d52df86c96147f98f5673
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:99546e1dcceeea80411c97d1521b5ebb90328eebd820c798d37d96167d958f4f

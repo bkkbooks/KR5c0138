@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6650
+seq: 6650
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 實已損矣而不自覺
+  hash: sha256:29f6d6f7f107d023ab3e909156e223287d065e72f472a0321760d283e2afc95e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6ea92ce4d69ac2b80e4ddde7e1b8208e58e0a8c1b9013ad85d1613cec0208c5d

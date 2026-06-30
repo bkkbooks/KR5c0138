@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2241
+seq: 2241
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 顔回問仲尼曰孟孫才其母死哭
+  hash: sha256:6d202af574df97fac6fe4e9d02a7100ccf5f973258cc53fb4ca9d834a6d52a3f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f25b43be7937ba9cb2cf6cadaff6ddf51ae51689078a7c5887b96f3c7dbab149

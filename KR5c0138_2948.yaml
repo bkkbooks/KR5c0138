@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2948
+seq: 2948
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人皆自修而不治天下則天下治矣
+  hash: sha256:eacf317b882e9e4ccb9dcda7ad485000208dcb4802f5c2d09e303658c4b70a7e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:16a092c78fc32b3eaef18af294576d8b43871fba7b0770f836b680f7f4e176ee

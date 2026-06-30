@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/442
+seq: 442
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天下莫不自是而莫不相非故一是一非兩行無窮唯涉空得中者曠然無懷乘之以逰也
+  hash: sha256:68035d6127a7a72d3458ef746f891d6bf2061fb8a82b971fa630dac86037b1aa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c15700fe8e5fe079e5b823a70aa255c6e28fc0e208a713df5664e8bb696abbc9

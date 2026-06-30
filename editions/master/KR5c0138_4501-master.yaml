@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4501
+seq: 4501
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 由此觀之又何以知毫末之足以定至細之倪又何以知天地之足以窮至大之域
+  hash: sha256:51d5fa167b660d9353e87291bd275684c3120e24867a46c5678b69eac1bf09e9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d5f5c26b9d53f71761d02d05d1a21526fea23245e4a87c9c3c43f0d95acd20d5

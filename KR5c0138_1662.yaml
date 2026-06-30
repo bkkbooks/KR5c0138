@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1662
+seq: 1662
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欲以直理㝠之冀其無迹
+  hash: sha256:4a2ee71549846d1f63889c86aadfb940fc45cfd6b8ffb9f285088dbbf97ded1f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:08b009e1d8d2ab35c01e0d2b6a383502b5b7900bcf130055376d53c95d779040

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3775
+seq: 3775
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫子亦放德而行循道而趨已至矣
+  hash: sha256:172008b636820a5f8cb35b77e92360e94ea55b45cc68b2cc97a53ba298e5817b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:20837e82a8504eb873776899b213c217e9c5c7f49e9d21656cdd803104aa4500

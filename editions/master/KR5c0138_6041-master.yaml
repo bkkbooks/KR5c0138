@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6041
+seq: 6041
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不可内於靈䑓
+  hash: sha256:92a551e939a8a5bbdffef81b8806270391a8f12a45f8f72ec4cc5972a8e46f90
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e79c772f55ebb2a7549fa580643c70e782699c75ca299b7d16dc66dc54b10337

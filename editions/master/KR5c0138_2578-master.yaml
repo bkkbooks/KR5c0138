@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2578
+seq: 2578
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 則仁義又奚連連如膠漆纆索而逰乎道徳之間為哉
+  hash: sha256:f0921038d47b9abf37e7a553f3ce529de144fde438ef70cad5f46c9db48f82ba
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1eb999330f779fc2ca1d2fe7bfc91f36b41dfe07b7ccb670d0ee3169643a8601

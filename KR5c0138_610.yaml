@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/610
+seq: 610
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此之謂八德
+  hash: sha256:c0b7b79cf12e42f9421f1484a0db29bd73439f86066b21d8af2dfa3a32c2a7db
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fda9d31154245e81b8d3b5be64c9fa9e153731bc2f72fe93d6d71f2bd96d81a0

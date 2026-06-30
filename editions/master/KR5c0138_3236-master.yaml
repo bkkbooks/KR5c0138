@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3236
+seq: 3236
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若然者藏金於山藏珠於淵
+  hash: sha256:6442893f558a3879717c287bc5458d3b3cb7be8950024b788a31b87038d9b16e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:24d11511ca0caff4dd72156e9ce5a965f1e98afc612a4e5f1b267b2d43974cc3

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6021
+seq: 6021
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所不能行也辯者辯其所不能辯也
+  hash: sha256:68eff4e10c4dee4ded54ccfedb597af4486cada66df9328c01a52aa08ef0a0dd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4ec1927aaab9098349b18587218f588d763fe924963cae8a723b8080372819e7

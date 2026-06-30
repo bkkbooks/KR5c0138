@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1246
+seq: 1246
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 中雖事凡人猶無往而不適況君親乎
+  hash: sha256:3b7c28c26889bed5f4c285acb626eeba9df3e808131e1783dab0eb4186dcb8bd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5d7c796d9583c908f6018cfe69f177473dc7cae63a43f4a6784da6758e0201dc

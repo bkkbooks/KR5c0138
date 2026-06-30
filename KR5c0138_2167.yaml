@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2167
+seq: 2167
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孰能登天逰霧撓挑無極
+  hash: sha256:6c7975859e45ae05afc10bce90fc212abb33e8a266f1d78cf8f18b3f86de0734
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fc56af91db4121ad9a72111464dd1fe61cf8e7fe6412f50cb85581d31e0ad332

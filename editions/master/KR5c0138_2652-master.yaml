@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2652
+seq: 2652
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天下者不然
+  hash: sha256:38df8fb7448aa52fc844a6a3f5b62178c8d67dd64855118b090276369862650a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:286e78bc49d4614737db382866de0b24dc51387c9b749d9cd44629eb89072ca2

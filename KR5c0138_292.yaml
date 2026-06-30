@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/292
+seq: 292
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其隕反結也
+  hash: sha256:e933194b07eff210d2c8d1ded812774f9166d47abb5bad27a6deaf419e426bdc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e1259187173fba3ae622c24c6ca880b68c9c6389956ac624e704ec2e7ef5ed79

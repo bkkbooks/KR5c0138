@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1055
+seq: 1055
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 然後萬物歸懐天地不逆故徳音發而天下嚮會景行彰而六合俱應而後始可以經寒暑涉治亂而不與逆
+  hash: sha256:b856735ecda5cbb3d51e1882032c4529db7d520a10f7123f9b92aab6b483ae1f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3f8504a7fd6e04959c19c61ab5675a03b693e6877c732a9fd44e4382b948b30e

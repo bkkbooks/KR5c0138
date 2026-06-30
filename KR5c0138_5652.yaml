@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5652
+seq: 5652
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 中國有人焉非陰非陽
+  hash: sha256:13b1f043bfcb36cdbc281d8cff1022d3dc5d6c6a8f140f4b9f5db0daf1e57924
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fd0dfaaec9e01e7b846b8642142f10f8c244d6efdb5f579e018f19d6ac39495a

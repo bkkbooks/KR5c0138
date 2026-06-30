@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3275
+seq: 3275
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 神之又神而能精焉
+  hash: sha256:339400bf6f5ec1f23907a53486cb5bc532a5594f618bc042060e4e7294e5ba56
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a819389c385a6392dd11a7cc226e45e28e5e31b972c0ae86f3cd8dfb9909fe30

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5839
+seq: 5839
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 化與不化皆任彼耳斯無心也
+  hash: sha256:0c2b4891f641d1a011c6013036b16fd62e53059b89ecba33b766ec9d01c5fd64
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a28d95e0f22131f9a6dbb431d829c57e19d18f3c112e75aefbe11e4d6e2a9179

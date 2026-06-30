@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1324
+seq: 1324
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 當任齊所報之實何為為齊作意於其間哉
+  hash: sha256:a1c2c2300e1147c27870f7b79264c36c40b94572e3a692ad4d7d559f3e9ab509
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e07ffe7d4bd3e6f6fab938719e915bd5208e502cc2032a08668ad62855536500

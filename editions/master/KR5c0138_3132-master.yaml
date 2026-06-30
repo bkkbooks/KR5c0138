@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3132
+seq: 3132
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 成於徳而不累
+  hash: sha256:500acf8563f814a931f22a6880dfcab9c81dfde9bd819b769f63bfc5ba15a4b9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5f1dffeb764c532bd55b8ac705780a4b50274b555317efafceba12aa9b09d347

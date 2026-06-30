@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1114
+seq: 1114
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 名之曰日漸之徳不成而況大徳乎
+  hash: sha256:b1a76d063ac3e981da27ab2404dda1f106456391fc2da52ab213fb238d9bca12
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cacdd8ac35ee4e15ddb2c48428237b2e14cb1d12b4e1e61ae101f33f121bbc95

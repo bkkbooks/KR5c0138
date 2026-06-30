@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7414
+seq: 7414
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六年而鬼入
+  hash: sha256:fc2240b6a121a66ac9e522efe5f105827c5ca5d6f64b92c622875fe394ff8221
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d51a63c4860044103a6b8e63c454dda5b4c0c212e905010e3930bceddddf12e3

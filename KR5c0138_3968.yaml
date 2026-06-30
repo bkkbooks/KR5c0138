@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3968
+seq: 3968
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是故鬼神守其幽
+  hash: sha256:9998d9d5dd7562505831d42d6df2de4495924f4a0227dede170c1ddc13caff5c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ef45cf06d4de6db005b0c846ac7837f59b6e7c761d8e0436d3f12ae38ef7558b

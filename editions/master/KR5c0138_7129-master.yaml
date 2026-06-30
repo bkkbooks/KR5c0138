@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7129
+seq: 7129
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 衆人焚和
+  hash: sha256:618a85d3b9b013d76fb9a703699ba1957f41f41787542e008db4183cac1099e8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d9b7cdddc677bc49795ac13a0984edf69eece12570e27fd98cfaaa92070baa21

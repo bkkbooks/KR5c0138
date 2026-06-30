@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4619
+seq: 4619
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無方故能以萬物為方
+  hash: sha256:a5fac05380e03ae085fab8cdb682417989fb1683aa9945275a1c22c447b692d5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:30dfef226ed0b9033940928bc89c1c026e82c64cfe949a2b1672d836baec7e64

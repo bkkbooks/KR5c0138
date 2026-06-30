@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5643
+seq: 5643
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與化俱者乃積無窮
+  hash: sha256:7a080a0a2d41c80cca2d69c9ad0c0d9edd49d8a8419b3c2f2b33b5b43c856d52
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b6d1399d1a98c4e84b0fcc96f9f447d349631954262517023194a5bd3a62717c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/387
+seq: 387
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以為無言邪則據已已有言
+  hash: sha256:b64d1418cc1d677a5d36b970049036cc8d0aa6a889f79c889a90dcd24fd1a0b5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:88e1ed30055ac955a15eb9b090d8f417f22952c5459d40c37ec8aa1ec192044c

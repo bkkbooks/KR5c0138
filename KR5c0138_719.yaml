@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/719
+seq: 719
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 王倪曰至人神矣
+  hash: sha256:2e2a6afff31ff306dc14ad57b2257e2f6519f37a3f22181270bc893c83fcbe0f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cb0792bfc28db750f3dce8130a6b75d9f67f355e9e59da463b870f326af59e6e

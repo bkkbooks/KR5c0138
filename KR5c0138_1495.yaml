@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1495
+seq: 1495
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是何人也仲尼曰夫子聖人也丘也直後而未往耳丘將以為師而況不若丘者乎奚假魯國丘將引天下而與從之
+  hash: sha256:e2b4a1e18c48da487907d6200387d1133706188f34f152692b603975e120c475
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:465da70dba79f57b29246d96efe75019219fcd0f12daf25aeaa7ccee23eae7a2

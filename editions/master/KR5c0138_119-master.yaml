@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/119
+seq: 119
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物而王矣已音紀注同而王于況反本亦作至
+  hash: sha256:a56906587815db173847e47453f8bf5424257ecc113699d57547c891a94ab63e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:88f56f8f4f5e05cc5593d721e49ab15beebf2cb7bafb319722cb925e2144412e

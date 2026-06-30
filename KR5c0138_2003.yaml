@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2003
+seq: 2003
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而其譽堯而非桀也不如兩忘而化其道
+  hash: sha256:1dda98c28a0d551707ea7fc1a23232e8983f1a68dd46d1c7131f8abdd621f054
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:813a4bb9f62603f81c47473edd4888a0694484aac089d8064eaac9c129a125cf

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6063
+seq: 6063
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 券外者志乎期費
+  hash: sha256:91e41a3f0020d5dcf38ef6463193f8d0e666fdc22d7de10f94f3fa42407c9510
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bb50188f57629546e21330c0820d0953b8d3296d43bb41ef180c1d2dc8bdd681

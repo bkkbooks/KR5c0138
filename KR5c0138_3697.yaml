@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3697
+seq: 3697
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 末學者古人有之
+  hash: sha256:3a5756849a69d5019b8ddd46b4846570a2cde704b29a237c3a8026772166ca84
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f719fb811ee425c759ab1d1ec7d08c03eb3f5dc8773ce9fa460eff05f36ea292

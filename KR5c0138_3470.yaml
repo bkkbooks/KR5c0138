@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3470
+seq: 3470
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而不知因時任物之易也
+  hash: sha256:60ae55fa7a4632c00185ed73110975f19b72f0028a3d12b1353a036b6451605e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e629851c973202032d7452d8bd8001f4876ce4197a3da455d74778045fff7998

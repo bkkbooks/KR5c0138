@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7465
+seq: 7465
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 父音甫支父字也即支伯幽憂之病謂其病深固也
+  hash: sha256:aa0edb2d534382bf33c2d53103acaf75f930fd88442ce5009ff5bc51aa7772a1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:961a82b7f24a083157954892fe48732632a95f971b81334c02e3efeb870a027f

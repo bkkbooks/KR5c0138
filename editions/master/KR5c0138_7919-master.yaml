@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7919
+seq: 7919
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 徴應也不因萬物之自應而欲
+  hash: sha256:96fc60f6228019010e1d523c0a1d13f1cd6fcad2d490c56d2be5c07c1b925059
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cca28d764bafa077b5988c412490de8df57af2edd847381281930e03d0d549e5

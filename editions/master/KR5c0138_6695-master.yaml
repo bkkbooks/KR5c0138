@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6695
+seq: 6695
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫物未有旡自然者也
+  hash: sha256:7581711c4d4b148af3bfd81095915bfeb045b7902875d354414a3420838bdd18
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:507020a0ba540b948b0dde373e8b27ecf1c9c331856f969fe719e5ed4218d98f

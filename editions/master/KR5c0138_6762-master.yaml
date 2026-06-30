@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6762
+seq: 6762
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其所施同天地之德故間靜而不二間音閑
+  hash: sha256:308b2a4a66406d992298ff40ca3e2912abcac679be0a1f005c8fb9b8e56fc4c0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4192053ef1dfbe96d4388ff6ee6f414ead3a64c428c9f447dd1e36c79baf3cfe

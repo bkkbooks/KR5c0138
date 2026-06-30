@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1793
+seq: 1793
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無情故付之於物也
+  hash: sha256:1a199f4fec655e52d9b41dcc179de121235f0765ad2df36171e9d0bb9e8bd75e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a5f1dedc2b4f205643261c5aa2d0e09603d3565c9b5fd6e1a076f0bb0edcb31a

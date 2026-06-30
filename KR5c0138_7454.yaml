@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7454
+seq: 7454
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼來則我與之來彼徃則我與之徃彼强陽則我與之强陽强陽者又何以有問乎
+  hash: sha256:49787d530564b406dbdad0792ee69c37526b4136911c89d5d7d1107132a81e51
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c2096aaac53c349ea915416cc3fe28ddbf02c25ee10412530e4fb8703327f069

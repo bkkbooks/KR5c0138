@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6455
+seq: 6455
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莊子送葬過惠子之墓顧謂從者曰郢人堊慢其鼻端若蠅翼使匠石斵之匠石運斤成風聽而斵之
+  hash: sha256:27e76ee51aab7dc70ce9ec5d8fec97987d7f0348b15c190304f357152170d453
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:da9b7aef1c30702ffc20a5019c7efd6daeaa43b25ea843d538ba3404115cfb89

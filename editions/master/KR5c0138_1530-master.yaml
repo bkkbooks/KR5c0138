@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1530
+seq: 1530
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不宜故忘其宜也
+  hash: sha256:1873cd774bf4c751577433a7894d482998af565229c400b839ae0c924d17554a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b79e7b1902b2ef0a81bf087ca50394f4cf497b8f26a353752cb9793504793c63

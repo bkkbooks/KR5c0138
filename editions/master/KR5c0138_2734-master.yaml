@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2734
+seq: 2734
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 掊擊聖人縱舍盜賊而天下始治矣
+  hash: sha256:0260ce40c4142ec5e4055b42e0e80881e88ee95c217251a11475100c427a8d0b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1c58e1c66393e19cfdb60baa42ace3fe455319747c5ac0443baee26344a64098

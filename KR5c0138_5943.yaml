@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5943
+seq: 5943
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 挾三言而來故奔蜂小蜂也一云土蜂蠋音蜀豆藿中
+  hash: sha256:c865e7de6bbfbf6a6b51d4a96a68955762a0cd46479a9e69d48eb76c04324bda
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4465a953cff2e2a6792c89f77bf55a8ccfdd76a7c1265245d98b4be20d61f1b2

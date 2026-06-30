@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6181
+seq: 6181
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 非生生則所在皆本也
+  hash: sha256:8e8544869236ad2f9bf4769fd415b972855d208a313612a886417e71e5a5bcd5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:839c0da1a6fd81cac368e4296392a1d54e60d2b0b49d6342ed95660d7d0ad4eb

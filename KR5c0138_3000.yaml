@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3000
+seq: 3000
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而自得所求也雲将子匠反雲主帥也
+  hash: sha256:9e73e1574515e944955f25fdf0c6d0a0ef69a7b37a7e2fcec7073ebb54b8060a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e2795387457a82c4d07f43daf7d2531d385e09282a6cf12f8fb233aac026f5bd

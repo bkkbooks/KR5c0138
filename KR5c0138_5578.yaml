@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5578
+seq: 5578
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百物自化而神明不奪
+  hash: sha256:1b647833cf8ab2f2df730c4caeebe0fa25ec679ea7e2b8c9e932cf7d4634ca1b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:413f57e73edef66a8534749a0549168613c52ef1f159f95dbe6aea91aff03083

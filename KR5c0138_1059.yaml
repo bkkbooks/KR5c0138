@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1059
+seq: 1059
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與己争名而反害之葘音災下皆同
+  hash: sha256:6787a9efcdf6d483d97b39a2a9a622b82c25ce2f8fa34e5fa36b9405466c5cf3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a8e384dcd229940511d9ae5c243e6782d9a0b14634cc48dd59a363d7428795b4

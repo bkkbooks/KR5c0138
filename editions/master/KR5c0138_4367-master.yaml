@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4367
+seq: 4367
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 文博者心質之飾也
+  hash: sha256:471d8c2f25e0147f3976a1e1410e680cd4c29f9454b6484b6a664a0f2bc2ace2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:679223f046665c920aa7fb42fba138b92c064fbf06806bd583916970819dc004

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1754
+seq: 1754
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物得以和謂之徳也
+  hash: sha256:4114106301345b92b982f72ebc55739565aea648d4a66d26488e1e2c5b250313
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:da7c7eb10991076211550ef02acf312f2cb3454f67119b9b5756586c3e227938

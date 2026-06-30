@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4361
+seq: 4361
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 心與心識
+  hash: sha256:d8a5f8fc1d97da814763e46bf6a13eb4cea5639eb12698a1ddcb2456b923f779
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:775c278272ee67449d948dc35f389526f3b7ac452db6bd37897b931966833f85

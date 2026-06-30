@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5394
+seq: 5394
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 俱爾耳不問賢之與聖未有得停者
+  hash: sha256:4286d3d1d143c434d4ce8cbc715f2fe5af1f5193980748fe0f87cc5467fefa31
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0fa329789b3ad1c3cd1569a16de6adc64ffb6c85894fc54358e4f0e290b9f47b

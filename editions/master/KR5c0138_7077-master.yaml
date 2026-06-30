@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7077
+seq: 7077
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之於言意之表而後至焉
+  hash: sha256:4f42eda2f2dac0bb1340f55f6c02c01ccbf10d4e11ebf6c08d89b95ba23360cc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b46bb3fffcfd124f8cae6d45e945247ca51c5651d85389e9d3257cbc68eae3d2

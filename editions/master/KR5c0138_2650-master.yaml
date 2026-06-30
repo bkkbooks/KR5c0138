@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2650
+seq: 2650
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 治也操曲為直厲駑習驥能為規矩以矯拂其性使死而後已乃謂之善治也不亦過乎
+  hash: sha256:a825610857453736ab29ee3a6a7a0fae86ee71609d4f09aed9bb2a1ca2505ff9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3b72ef23a63d004ec1691d00fd041b5ea1ff550029abb9ddcddd4b791aab9c84

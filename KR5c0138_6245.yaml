@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6245
+seq: 6245
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 全人悪天悪人之天而况吾天乎人乎
+  hash: sha256:993a8c3ea5307e92c929c1628102202aedd28c3e435c07b5c3bd87163c0f0eed
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:33c59f47b8121f11de932e127faf34988df6941c7a94dd295c92eddbdcbd1354

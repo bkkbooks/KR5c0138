@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2551
+seq: 2551
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 長者不為有餘
+  hash: sha256:4badd8ab031e21210457ce0563ec903c54d95b3761f5a3c5863c7d189afed173
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:533532016097cdc6c15b264b8c28c06498168737338e9fb68c6f4931bc7548e1

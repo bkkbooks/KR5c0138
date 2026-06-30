@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3841
+seq: 3841
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 亦知汝所行非正人也邉竟
+  hash: sha256:b3c102f50ccdb1cc0996ce523f8dec51e07945783c156531c5c9b284aa7239ce
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:373460a35152617d0739bd0d5a63407c4adaf629e530ab0357db17b513c8b142

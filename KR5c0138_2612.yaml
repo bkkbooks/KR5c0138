@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2612
+seq: 2612
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 俞兒非吾所謂臧也
+  hash: sha256:7921baae31b9cd7ec2d2abb5dcdcfc02bc38fe092d5c187bf2a2b50619e6c38a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1ed8f626774a649717975efec011efb0ba06fdeb9085a4504c2fe25d52afdb7e

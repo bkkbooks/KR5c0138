@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7680
+seq: 7680
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 緇帷黒林名也本或作惟杏壇壇名
+  hash: sha256:961cf9a9796963d8b587f53aab72deacea07dc19c4423906ee6221fa619e739d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1fe0654999be4c1d31100b4091cdc0ef2432442743009564f399bcae69848ec1

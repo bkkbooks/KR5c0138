@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6941
+seq: 6941
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 逺其塗而誅不至
+  hash: sha256:403821f6e3d0d2739b3d8835723d70553742f53c717be097974d456d56959e88
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:db4cb7ee13cddd66cbe7b07f31e77c6e5b0fa148d84bfb8903391254fbe140d9

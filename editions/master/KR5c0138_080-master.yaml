@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/80
+seq: 80
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 且舉世而譽之而不加勸舉世而非之而不加沮
+  hash: sha256:5d433596b6febc042946f884326a54c9054fd3515e94948a81225e738eb773a1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b55cd9e3d402232050d642286c3ddfbb7a3f0b9288f29298d4184f01aa1c6986

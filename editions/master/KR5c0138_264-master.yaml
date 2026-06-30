@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/264
+seq: 264
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大知閒閒小知間間
+  hash: sha256:8c49d9025800eb90fd9752d8be3a8cf6b6b819e7873a1596e8cc1a08901b8779
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d837167369438db319d4af8e8a2a5fb9bfe40aa5933086927589dee800f5e684

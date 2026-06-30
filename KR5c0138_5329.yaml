@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5329
+seq: 5329
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 虚而順物故真不失
+  hash: sha256:65f08982b2c372be0d4cc3512a358216df06e2e11c419b1d6422b62e7cf85066
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1b410329665c6db31b5582221653192b53c0aa56e1fb26a5e2cfc5039b2c7058

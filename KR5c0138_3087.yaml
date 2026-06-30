@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3087
+seq: 3087
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 隨物轉化
+  hash: sha256:6f8a3789b79ecd751d9da8a5ab528ce56b74a1d9beb0354b6d280ccc685f5d74
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c9a1e065ffbf534e09e6bdbce73f3d77bccea74770cc6928cd71de91afb57ac2

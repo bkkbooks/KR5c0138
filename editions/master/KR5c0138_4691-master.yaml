@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4691
+seq: 4691
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 性分之内
+  hash: sha256:53118bd99c1bec65ea14ab292d85fe658291ea8bac38ab21fa864bcd0d093379
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:18da57d663f1303317863c045c36b6ffcab663aef14fe8e3c92d5e015dba141c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4089
+seq: 4089
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是而以沒其命者非立乎不貸之圃也
+  hash: sha256:cebe3114bfa5d79185a4868e75da3e65cf57ae73a66bc177b7a51809cb01e3d6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:56fec5a3c4550c483e45aa8481b81bc6565da44ae414fd8ca35b39565d002dda

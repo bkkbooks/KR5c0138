@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8218
+seq: 8218
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以約為紀
+  hash: sha256:fbcaab03b3c64d1d7e9f47e7cc27317f10edc14126ac3a8b7b52b81c9c6919eb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:02dc26c1324130d8d7507d95b5a09459b368c7c59a314e89e8f12f0683e23045

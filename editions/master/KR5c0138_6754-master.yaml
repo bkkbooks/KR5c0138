@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6754
+seq: 6754
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故或不言而飲人以和
+  hash: sha256:e3828b0e8eed84e090c80acaf04655876ebb6002f3a0157b64fffc5e5d1a1b24
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:53c62b2eda914b130d67fba357bf983eb76b6c9124c16f3819f9e10e5ea5aec4

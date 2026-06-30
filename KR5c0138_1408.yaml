@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1408
+seq: 1408
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 木自以無用為用則雖不為社亦終不近於翦伐之禍
+  hash: sha256:b94428800cef63273d47f906f6cffb3b7dddaf3d99e6bf6c2f858787707cded0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d691564e4d6f7e7f19be3c3ed9cb6e65690522191b64b3410c7dde3be979ead2

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/598
+seq: 598
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道無封故萬物得恣
+  hash: sha256:9db43e0568ed10c09e7c1e2e1caa4905b153d74731a056ce9d6d3db953425b42
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1935ae7f0af0752ac2c2480065f7b44e730beb0e8c9a34ff45ba4f58319bf880

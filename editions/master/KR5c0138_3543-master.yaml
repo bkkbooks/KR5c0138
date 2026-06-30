@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3543
+seq: 3543
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 世俗之所謂然而然之所謂善而善之則不謂之道䛕之人也然則俗故嚴於親而尊於君邪
+  hash: sha256:9608947578475505c64f4153fceb3de52a62b2620e2a46f52a8592ce6750d34f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4596477f1e9c6371e7ff38f8515f07f82b35a40872a412aba442c4b9b2ced44c

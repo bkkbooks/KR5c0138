@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2784
+seq: 2784
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 能也所能雖不同而所習不敢異則若巧而拙矣故善用人者使能方者為方能圓者為圓各任其所能人安
+  hash: sha256:341730c921f8d8950602ace5fbd6080017cccafe2711ae2ef8d31e59528142a3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fbbb954ae9671c8158ab8a436a877865f7cca6753985f864a098ff7aa1898a6b

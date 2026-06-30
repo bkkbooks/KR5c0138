@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2621
+seq: 2621
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人何故任其性命乃能及人及人而不累於己彼我同於自得斯可謂善也
+  hash: sha256:e75159dfa1d2a36b08947a01b58772cd0043e739c4617d2bbac2d520c44be392
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:15a035236b14ed42f5489b47bdf5f4254cee235575fccb1132fdc088d7feddef

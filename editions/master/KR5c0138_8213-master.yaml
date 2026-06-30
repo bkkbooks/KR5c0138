@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8213
+seq: 8213
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曰茍免於咎
+  hash: sha256:481693dd32713589726e72a70e5ac7ce5d1af360b7ce72c80debc64fd8d86b4b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b5e4b9300c043e03f77eb981dd33d3545a887b8001dbdbd058b045256ae1627d

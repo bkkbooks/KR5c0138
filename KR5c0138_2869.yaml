@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2869
+seq: 2869
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故君子不得已而臨莅天下莫若無為無為也而後安其性命之情
+  hash: sha256:65af935e3ee448fe7afdaba08ab099084c294abe615807d08c10ef6deda58c40
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7d9c05f59d29316a79099356988f47002cfbcf57cb4225f3f38e9d84bc33859d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4213
+seq: 4213
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 非夫寂漠無為也則危其平而喪其質也
+  hash: sha256:584f7f967f232d5417a7aafe65cf7b62aa95baf35b837782e21bf1ba15a6fda0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6a559468d59b6169730f9831115b26753a235de2d77693c14bda9aae28fca526

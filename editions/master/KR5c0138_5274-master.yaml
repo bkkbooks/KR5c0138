@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5274
+seq: 5274
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 取之謂也今賢人君子之致爵禄非私取之受之而已
+  hash: sha256:392438fcbadb5c96a411050d093d4a551d39992424cbdec43b2704bd857acbc6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:28192e510f1cbd0b26deac53a2c8b683b58dac100e255128220ee6214550919c

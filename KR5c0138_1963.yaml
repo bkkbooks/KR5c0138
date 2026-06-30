@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1963
+seq: 1963
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 順世之所行故無不行
+  hash: sha256:5d81a3230ebfb07b4da1e82a6c250706270a66438ec1549ffdf991ccf05f0acf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e7053b9c63ba51847df6d314798e897f2704bc4e2c49ec8c543eb940cb6fa0bd

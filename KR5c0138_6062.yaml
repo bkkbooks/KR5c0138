@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6062
+seq: 6062
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 劵分也夫遊於分内者行不由於名
+  hash: sha256:13488d792f4ef9a0d68556b0faa35ef8a92b9dcbb1eb5412417f059d01164100
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1d5f3081f380764c4a0839c3bfaf78985bc1e832480c0f15a4cc6cf7f0af651a

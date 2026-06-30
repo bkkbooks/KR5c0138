@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1765
+seq: 1765
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故徳有所長而形有所忘
+  hash: sha256:e7fcf4223fcc6931204be77587168da08b13c8a2d3d5ff600564fc0454255fa6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:56670b3153cba91702d286e45a2de3f05b751d012c2de7a047d7fc2998057fa1

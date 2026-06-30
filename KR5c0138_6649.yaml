@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6649
+seq: 6649
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 請只風與日相與守河而河以為未始其攖也
+  hash: sha256:5a543e9c2592651a60dbb7088caa9c9c968291d37c2ad7b8fa2dd49200dd9c20
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:40bb340faa1c393279e17c2e8d7326b47452a66610672e2f7e8f16cc4a5d49e8

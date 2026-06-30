@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3058
+seq: 3058
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫欲為人之國者不因衆之為而以已為之者
+  hash: sha256:68614cffb8e27433527e6f883ab8436a938c16c3c169981277042291660b38b6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b9a9cea65c8775087a3aee7a037fcab72a973a0d23c82837bd1a8a16c99f4f56

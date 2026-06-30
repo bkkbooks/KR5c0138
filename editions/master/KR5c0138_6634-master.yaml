@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6634
+seq: 6634
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得失各隨其所居耳於生為得於死為失得失未始有常也
+  hash: sha256:2ad97401d45be3942cd7b252c6fccc8dac0a867cf60d2d18cd4e695088225b7d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3e3a955d49ff5966f6ee4207cf8ac05616247444d1afc37815e53c143cc4ea3b

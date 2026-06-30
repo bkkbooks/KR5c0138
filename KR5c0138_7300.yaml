@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7300
+seq: 7300
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寓言第二十七寓言十九
+  hash: sha256:862aaacbdcefa194945890c2b2a1f628ae914e3e42f9a5161cfe8ad3c4afbc62
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0f83a481a2f77eb41ba8060b230fd1e470ed2d1e387137bca6fa83acc4e01de2

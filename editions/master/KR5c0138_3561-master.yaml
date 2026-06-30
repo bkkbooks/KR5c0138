@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3561
+seq: 3561
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三人行而一人惑所適者猶可致也惑者少也二人惑則勞而不至惑者勝也而今也以天下惑予雖有祈嚮不可得也不亦悲乎
+  hash: sha256:af070929ff4cb93b813475ce232d8e5054bea090781583b883b41d36e957dd74
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9a6531508be6ad082124123f428a1c433375ca3d77798d916deba0bf5285a63d

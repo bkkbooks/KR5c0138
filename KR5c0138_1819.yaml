@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1819
+seq: 1819
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莊子曰道與之貌天與之形
+  hash: sha256:44c0bb8149f5b700e3e0d7d7a6ee8b189c6c06aa344d5eb3c6d52d7955d7d97c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e2c9dc5740953938c39c98bf0ab39f847d2dfed93f6fac1b65c5f8d91ead9d9c

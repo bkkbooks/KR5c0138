@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5555
+seq: 5555
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 更相為始則未知孰死孰生也
+  hash: sha256:bb84987fd0938e0e31b1d5e96a73f09308987200626595f9a99aee8face88721
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:741abf1f6545cfb2730740b0d55ef82a9c20971c0947435a08f1658606b36d43

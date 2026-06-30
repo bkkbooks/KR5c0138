@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4262
+seq: 4262
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道之過好惡者德之失故心不憂樂德之至也
+  hash: sha256:60ae12509f8f995718a47d6acb1a9dedc48cf8ebf067c10e2712d6bb777ac0bf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:82c66fba2b4e60d6d690069b5337876046e1b5b04d0685e091272c8a775f36c6

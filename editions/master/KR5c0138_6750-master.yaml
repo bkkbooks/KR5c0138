@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6750
+seq: 6750
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其於物也與之為娱矣
+  hash: sha256:5e6f2f9f97d74ccb819c2c4e6b8d0a33be6e9653c31e1058a1513e2364ba5b46
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a134680e361f38696d8302aea6ed688a1d5c5ab041bc3903c3711734fb20ecf7

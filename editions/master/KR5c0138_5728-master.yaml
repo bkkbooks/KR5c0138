@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5728
+seq: 5728
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無不在然后能曠然無懐而逰彼無窮也
+  hash: sha256:205b0c25b017d1e8ad33146a00d7df9338b493f851092f83a8dc7e6b9acfcc91
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:604c300542f66a6292a266f6f4c28c20010460b3f94a6bd33a2040440199c74a

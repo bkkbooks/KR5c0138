@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4542
+seq: 4542
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 任理而自殊辟四亦反
+  hash: sha256:e3af603e3d6e3a53e521bd655d668d3f5c7241be08db86e9547551c7292fdbfb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d13b70c980fc3497139f38c2768896e8d527acf86f827af7f427151abf20af9b

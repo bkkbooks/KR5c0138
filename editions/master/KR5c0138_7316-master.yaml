@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7316
+seq: 7316
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 已雖信而懐常疑者猶不受寄之彼人則信之人之聽有斯累也
+  hash: sha256:98c3b066060ac593aa261759c68535c26081a3fc0eacc0cab1ae698e39caaba8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f4b07445c3c18acb728816d0c8c7806f36f592d36c561267a500f3c130126cc6

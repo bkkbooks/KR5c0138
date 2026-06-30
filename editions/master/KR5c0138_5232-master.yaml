@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5232
+seq: 5232
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不離不勞則不求文以待形
+  hash: sha256:7b45422fedaf7ae5002bb799ea1fc637aaa5f7487b0de09ab9a17289d525f3f9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c1099664067a4110333acb7922a1cd1f65bacc18925bb3c0d3f30b1da47fa1b4

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1296
+seq: 1296
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 由巧言過實偏辭失當
+  hash: sha256:4e3a4489b2441d5b7d541839a626e82d0de4e6a24da9077bf525391d7b8ec74b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8e7462375f334b5ebf79cd1b905166943dad171eb21b797c922f502447afb5d0

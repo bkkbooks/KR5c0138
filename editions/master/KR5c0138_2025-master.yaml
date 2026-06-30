@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2025
+seq: 2025
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無所藏而都任之則與物無不㝠與化無不一故無外無
+  hash: sha256:55f1993ec158d7b34cc26d6e852fc2b479298ec828e01f8fba172de08d59f8f3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1344455ba9d7e3dd3bbf800970d0dcaad3ffeacafcdc78bf7abd5977a0dd2805

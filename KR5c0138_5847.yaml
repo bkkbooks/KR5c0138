@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5847
+seq: 5847
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 君子之人若儒墨者師故以是非相也而况今之人乎
+  hash: sha256:cdffca6f009dbd68a834bdd50b7c2d0a64eb7579187f67d74da766ca9b22eb70
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b16ee8ae1f7ef418a64c009f4536a3a5b94044ca4e2c37c9ceea9254a9530779

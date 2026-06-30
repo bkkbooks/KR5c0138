@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1872
+seq: 1872
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乃在根本中來
+  hash: sha256:268d445c9b10a1c05f893f12c73ecaad41e68e9b38ab4c779115c5ddac73c1a6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7fd8194c264c2ec3d11ce6f0c100aee31a8f31a93448e6f6db866253c8e96aa4

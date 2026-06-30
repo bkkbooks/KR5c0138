@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8095
+seq: 8095
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曰君子不為苛察
+  hash: sha256:2e98d0e53b75a8168487bee3b2e8512c6f329458b8aaaa6211b5638172e6ba8a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0a9550ac1d0b36c7f6c153f49c8f5ae0901b21db193980fc48aadff79a9c0211

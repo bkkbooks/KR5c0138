@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3320
+seq: 3320
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 將遂使後世指麾以動物令應上務
+  hash: sha256:18764c548bad9bb5dcebc9d41d34fc3461a40ece3b540311ba87e74d860d7e1a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5046520436763ea853dd17cacebdfbd5e81809842f9b9636cc56dcc83b2bc10f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1691
+seq: 1691
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人辭亦辭汜浮劍反不係也
+  hash: sha256:5e1844d7eb1199f49a337e0e6703ce570b90a911d21ef71d85b9f04519102ad0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:27577fce8e7a524ee9a204333ab6cf7cb93035e0f909e57e068f463e196c3377

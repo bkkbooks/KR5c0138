@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5029
+seq: 5029
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 從水
+  hash: sha256:403f8f1d6be5845b2422234a2599840abc965126787527056f63dd6655afc0d1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4c3d7f3dedccdbe436ae55e93b2e611e6f6fef91e0b670ee4769d55047a34a30

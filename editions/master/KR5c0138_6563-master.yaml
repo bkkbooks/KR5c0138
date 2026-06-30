@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6563
+seq: 6563
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遇於天地耳邀遇也
+  hash: sha256:a885b45195341e6bb043a24609f3e4852bffebc55988ae182fcca03002d9b99c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:522ddb951f3a188c8adf02a3f7c0a79ae4e72204505dc9eef6052b4cab3960a6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4804
+seq: 4804
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百姓足則吾身近乎存也
+  hash: sha256:1b9f9edcb01ad29ebe9c2b63b5d7cc1505899a3e0f0646aaf120a7e103be65ca
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:01237c8e4ba417103d626e48508b364931fee83c4a1060973cf7c06139934520

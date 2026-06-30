@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/788
+seq: 788
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 死生一也而獨說生欲與變化相背故未知其非惑也
+  hash: sha256:2b349efe8d79c591d3345e02710d898c37ca2b5abf0f38da416dc1372cb37198
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5a3b704bd8961628aa372583bb51e7d00aa7d2c6f5d5fb3fd0e6088e5d36536e

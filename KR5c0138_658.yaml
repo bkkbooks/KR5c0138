@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/658
+seq: 658
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孰知不言之辨不道之道若有能知此之謂天府
+  hash: sha256:6fde85b34329cb8314e9c0ee13821658b60fa91cc9c648799b9e556ef3f78ed5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bb4ed5178eb307c5b4abb13ca5595cf4aad7017ffeabc0c59999d3eb934bf234

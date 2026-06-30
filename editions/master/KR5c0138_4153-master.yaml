@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4153
+seq: 4153
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 始有倫而今乎婦女
+  hash: sha256:7007c869d0c3533a6d045f8f45fe1baebf27f3c9e651999b65b5a2d75e7ddfa8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:70d18ff966242d3864c5aa60baecf01374aa20bbcf3f35a7e3a2d996bbf266d1

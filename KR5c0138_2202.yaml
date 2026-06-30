@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2202
+seq: 2202
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 假於異物託於同體
+  hash: sha256:72909800ddebb7e16d759e28808a09bc77a0dfd8c2768ef25d8728464b4b7be2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:99fc29959a1eef3f602104726a24e764ba9b79c3c3abee6815111a032ebac01a

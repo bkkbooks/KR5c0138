@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7692
+seq: 7692
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 專知擅事侵人
+  hash: sha256:48d6324ed51deb364991a8a84538429c360cf55eb2b19a030b100e472c26177d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bf6d37305098f5470101b2113ec5ae41f920e7e07e9960c08f8caa153061b21f

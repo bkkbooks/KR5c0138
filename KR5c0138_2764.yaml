@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2764
+seq: 2764
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故絶聖棄知大盜乃止
+  hash: sha256:8869c9861ae7bd7a6545707b7535eaeb20ffb826c45c2cef165921b8f83e55e8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:72b3f3e22cf9570d7b762c73ba538dfe5f7449b2bfcbed87c6430433cca9304e

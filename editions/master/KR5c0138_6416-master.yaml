@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6416
+seq: 6416
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不期而中謂誤中者也非善射也若謂誤中為善射是則天下皆可謂之羿可乎言不可也
+  hash: sha256:53c35b498c25c9cd8d86e9a1bf28b77184539df90fde2c53006409e92874d0c3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d909c16e3eb2e9efb2ad53da5681f92e9bfcb126ec488ee50f5e1f47bbc3f307

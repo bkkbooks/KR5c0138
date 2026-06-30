@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/809
+seq: 809
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而愚者自以為覺竊竊然知之君乎牧乎固哉
+  hash: sha256:ba32911244dfa5822539ba0b4910ab739f00a32b026553b069654893aa342e3b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3caa0b9791ec1ab929ee8eb2c65af15d6969ed2c0e203a050fb42b59a53b1991

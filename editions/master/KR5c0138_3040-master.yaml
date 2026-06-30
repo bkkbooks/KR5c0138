@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3040
+seq: 3040
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若彼知之乃是離之
+  hash: sha256:88c4efeea22d0cc2c7eed1396d4032cc53c442d6c2f68064f119338ae4041fe0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:860b23d649f935fabb1448866f4227cb20bba91564df07b31b291e756e15a8ce

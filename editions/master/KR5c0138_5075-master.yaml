@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5075
+seq: 5075
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 任其自長耳非宰而長之
+  hash: sha256:43c29f705f24e2beaf429f225dd23521e3876e663e6ec703bc14e6e84462f3d5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:70e2fc47cd09f05940d1b12020f12f19f151cbeae2b30fdae0f72e651ee8cf1b

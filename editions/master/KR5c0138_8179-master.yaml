@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8179
+seq: 8179
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物故物形各自彰著
+  hash: sha256:c99b40025dc3fc17ffa7210f2884f7a972823a98bc08545d03f6937e1b8131d6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1714f15944f1a90370c2d3577578ba50c1d7d4bb912073cf0e9c159d4e2a47a9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4130
+seq: 4130
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若非之則强哭
+  hash: sha256:9decd80922464ab366fb8797176ed4d4c5029ccc504c357b3bc4a0f6ae8ae899
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9468d6a8eaa9e09da76d8aea1b0d4d35c778a33a0ff9edcdc19051de8348eaa6

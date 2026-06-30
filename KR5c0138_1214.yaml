@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1214
+seq: 1214
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 匹夫猶未可動也而況諸侯乎吾甚慄之子嘗語諸梁也曰凡事若小若大寡不道以懽成
+  hash: sha256:9851526edbcb82053466ac1b8fe7015e7c021e7ce219725ca0c96aa8d66dcf52
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cff75f2c95b9738cd70c7e9a4ac415f1d483a3de58fb4c953fde69b8313fd97d

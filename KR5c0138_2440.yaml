@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2440
+seq: 2440
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是殆見吾杜徳機也
+  hash: sha256:492720beb149a856f48ad68339cb81c651c5a1154e73e70ed36e8b91d62bf39f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ec451a4d90e0dcc51d0abe90584b4d94cdf3dde28681fc2d17f8cba1395c6496

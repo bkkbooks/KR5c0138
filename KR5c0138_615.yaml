@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/615
+seq: 615
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六合之內聖人論而不議
+  hash: sha256:45e4d17e5cbbc221a994c9399c2583b6556479b15819ba8fad67fb7df9e5b4b7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1bb426b0e8b99ccd8b3f33bcba1eba3ab7c1f593d615ccd04062ef7c6e15c3bb

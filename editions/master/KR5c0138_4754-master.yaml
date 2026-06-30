@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4754
+seq: 4754
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 也詩箋云以口拒人曰嚇
+  hash: sha256:cd7c5d83d61114912f2af8f6bb7d1f51697412b3fd15d477d2e50a35d7745673
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c866ee62b633618f5d42dcb393e7dc23829e796bfafb8eaf2294e3139fe18396

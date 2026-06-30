@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2808
+seq: 2808
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至治之迹猶致斯弊
+  hash: sha256:c6228f241436a9074694f4c35f6dcb96235b40521a62771d9d2bc5a12ec4057c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6ab270a55848c6df2fc1472564b480a7b86d4747f66f9ad341b426fa29d685f4

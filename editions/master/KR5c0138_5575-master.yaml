@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5575
+seq: 5575
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 觀於天地之謂也
+  hash: sha256:2bac35144dba0852505f5e3ea83b068c2ca6a464b898a3e6d5fb364764b7ec90
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9113df9c87cf1834a694ee8e8dc0d65504e047655d5880b5507d5d3839f8a5b3

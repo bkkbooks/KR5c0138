@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1510
+seq: 1510
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明性命之固當
+  hash: sha256:befdf97c993046dfaec317e1d92e03123a5ca1b51bc3b10d605d487b3b6a1b4f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c0d9ae8a2fb81c3ec3f6b6bda8e0e6fe1ffa7a306c4103e12759640535717ddb

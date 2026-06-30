@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4141
+seq: 4141
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不能同彼我則心競於親疏故不終其天年也
+  hash: sha256:d28454d6b2dc206e41b82211afcba3f8c4da1309a9192eddcbde5f777edd71df
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e65e665a2870f139b9410327997ccda152c7d1dc54717d05a055c0c1d33e1898

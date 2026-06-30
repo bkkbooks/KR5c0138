@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6012
+seq: 6012
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人有脩者乃今有恒
+  hash: sha256:86e7c09b01ccf0a64c446d9ab806b782d10b767c9e43cb470568780a9b1e8b3b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:08465b9cbfbffe61c88fec1276387c25d5fef561ebdae7f5537e56f6fb1bb4f1

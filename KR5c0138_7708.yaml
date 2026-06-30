@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7708
+seq: 7708
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言其敬已五先饋饋遺也謂十家中五家先見
+  hash: sha256:cd287a5fad8e781cd0a9a92e6d4ac2c1293fccf7aefdda0852fef7fc2f160fd2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:24b7a7730be30ebbbdf8131c40dc310af3ad2c81782df0217378ec762a119a11

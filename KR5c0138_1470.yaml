@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1470
+seq: 1470
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舉其性内則雖負萬鈞而不覺其重也外物寄之雖重不盈錙
+  hash: sha256:fb6dd25e2509d087070e9a8418734d8137761ccb04b6918410bb3072a9f4233a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e9c19bf9f542be8febbea6559faf026001e5a7b781c41141d272079ef94e5b91

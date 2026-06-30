@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5201
+seq: 5201
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人人亦無責焉
+  hash: sha256:94742418de9ea7dc3768c505c6b40e27ebe077a69f9db6f16bc90ba7ce6e9718
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:81eb70bf8159043349b9bb40111c75666f14f47c61a73f7d15952d2ad67cbdcf

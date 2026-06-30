@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6927
+seq: 6927
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 君莫之失則民自得矣
+  hash: sha256:0fb0e87e9e90eb255323f326e493c2471a21e4fef910d8a10a7e020a49904ead
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e99cf4edeb2d5a08fff921c4039d3decd8c2f80080cb09168b7395c6203892e3

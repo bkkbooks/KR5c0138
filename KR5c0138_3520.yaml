@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3520
+seq: 3520
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至德之世不尚賢
+  hash: sha256:590a6550cf636b0f53fad441ce2b2d790af57a7cbb6f2d5fdf09c27b9e2879f2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c912fda36ee236617d8f5b8052db8f35cace4b43dfcdf840dea316595db16f4f

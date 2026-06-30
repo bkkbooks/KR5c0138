@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3111
+seq: 3111
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 因其性而任之則治反其性而
+  hash: sha256:58d0f5afa1e73a3d4c9a9ac1154bf078a0c769d5d66e1d1586d21d65b4b3a33a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:48b6d4f082d763f10d38f4517abf0a449c3e6a1d852c9040b3b75ba958f8127e

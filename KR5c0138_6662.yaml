@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6662
+seq: 6662
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 禍之長也兹萃
+  hash: sha256:3763ce8e28d7524a00d78b606863ef1824dc7fa53e087c4469b0855bb9a0c245
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:475e6e0950325378408848c9125e0d4256c346f9d93c3e4616d19bc3c0d1082d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2319
+seq: 2319
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覆載天地刻雕衆形而不為巧
+  hash: sha256:c00d4b7c6bc2b2138e2ddb87d3a2c4b210a9ada17600b2b2ce7ae7c890a7bc3b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9362be14b15c44ec84fe53b86882019b0889ef7becc8e5f06c1357a111dea6dd

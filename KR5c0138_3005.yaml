@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3005
+seq: 3005
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫内足者舉目皆自正也鞅掌失容也今此言自得而正也
+  hash: sha256:eb528ad0e1c59e5df82c13c00ba1b94c9e0d65748f0321f299e0899fd64178e2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cf916f592132660857582b18e8aa6be9ddccb08afdfb5d0a69a9c8214ac4b2a7

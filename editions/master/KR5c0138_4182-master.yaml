@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4182
+seq: 4182
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 茍得於道無自而不可
+  hash: sha256:331e74f4ffedc6b982cfc26df2d73c3eab776d27111429134fa92a3cc28278f1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f83e7b5c1f73cc6a2a5da295c0b09e27a8d52c000d9b0ccaf7aacbebadaf59c0

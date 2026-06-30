@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3952
+seq: 3952
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾又奏之以隂陽之和燭之以日月之明
+  hash: sha256:d23f4bf63e90f4374f47af8315026778c995c31f913ae3adb62666d5817d14ee
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7df490f362139553f55719e394ff15cd16f027b14d502cb029223af9ce180843

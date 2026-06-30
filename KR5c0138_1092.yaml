@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1092
+seq: 1092
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫暴君非徒求恣其欲乃復求
+  hash: sha256:dcd22a4c8c945f181502a068da13ae5b28efa1dbc238698ab784d9615fdb6cd2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c8203b745b55b73a8075eb7488b023fc159c8b5ba9b9a33e04a9ab4c868488b3

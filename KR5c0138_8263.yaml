@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8263
+seq: 8263
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無外不可一無内不可分故謂之一也天下所謂大小皆非形所謂一二非至名也至形無形至名無名
+  hash: sha256:920c362970de9904641b37c117b52cdc21e553564242654a865da7dadee89768
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ef1abab78c4e4526629b78247f19ef79b2798426b086372b95727878f41f7ac6

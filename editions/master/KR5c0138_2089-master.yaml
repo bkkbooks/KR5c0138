@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2089
+seq: 2089
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 當所遇而安之忘先後之所接斯見獨者也
+  hash: sha256:3845a429c21306533d91652f645f6093b8223f2854243f21a27fb53d140ad174
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c888b50d72a416ef77834c4d6add441a3b2855b0304b48118dc4dc72d4b3dc3a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5448
+seq: 5448
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 微夫子之發吾覆也吾不知天地之大全也
+  hash: sha256:05aa0e78656c107c79b33f7e0028fddb8dcc13726e9eca17fd33842fc401a28a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:67e692cceb6566723391153f15043a9a64d7f8d07632ab2ff4b6535cfde3c342

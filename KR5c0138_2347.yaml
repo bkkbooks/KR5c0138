@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2347
+seq: 2347
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曰吾思夫使我至此極者而弗得也父母豈欲吾貧哉天無私覆地無私載天地豈私貧我哉求其為之者而不得也然而至此極者命也
+  hash: sha256:7830c90cc739d8f93463ae224e95e3c4b22a85d2ed6b47519f05dd7715857a89
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:206ed68134e17590cfef7f0574b365f4da4df8a3fdc73a41fc0dc9802fe1396a

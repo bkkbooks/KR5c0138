@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5366
+seq: 5366
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾一受其成形而不化以待盡
+  hash: sha256:33f0199dd4147bfae8d095b0b2d2128ffb1716baffcee42e09aff10785e57307
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f115ca774c1193780c248fb5c866ccc1f362d4316104db7321ef92044b2945d9

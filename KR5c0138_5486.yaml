@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5486
+seq: 5486
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其大情也
+  hash: sha256:1922d726da5e4aa0f4b82ad7e65a3b29d82fef1817500a60a4abfb4bd8a588b2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:16c24042eaa0579ba81c458b02ca2e5e5d958b92ef2f4890c86a984c6b65511f

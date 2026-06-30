@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4227
+seq: 4227
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而與陽同波
+  hash: sha256:af48bea67ed943fcf12f682d1154cff778032882aef2b988a793fa229477b8f3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e5da6b34b707e3b5d1139bf362fccac42dde4ba2e40a9e823b8ae09b9b282b51

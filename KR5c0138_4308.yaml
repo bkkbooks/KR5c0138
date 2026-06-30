@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4308
+seq: 4308
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 滑欲於俗思以求致其明
+  hash: sha256:07e5efa2c4e0bd4327646647273db1c889d3f27a2b4b8a99abdb209e8881656a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ac5dba990190066c263d36afc968cdae99f4d6301f899ad9dfadf070cc8c8b85

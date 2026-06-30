@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/945
+seq: 945
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 族庖月更刀折也
+  hash: sha256:22a7ce7443ff3c29c2aeb09e3a92fc6d118b0074776329db536280437b4c19b9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:341bd721e347b90d237d1c5bf212ceb8ae6044eb9aeecf5f759b032785c8810a

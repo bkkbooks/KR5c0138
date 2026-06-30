@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5397
+seq: 5397
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 新吾已至未始非吾吾何患焉故能離俗絶塵而與物無不𡨕也
+  hash: sha256:c0f630e58e2bd282f28e76a1e92498d552df3f69c9ebdd18b7c9f66b6fbf3876
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2c5df54cec05fb79908008a5e743673a2722eb621e341fc5fd69ae5c6a71fa10

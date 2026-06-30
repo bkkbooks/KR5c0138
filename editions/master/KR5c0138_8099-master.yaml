@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8099
+seq: 8099
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以為無益於天下
+  hash: sha256:3df8890cd7eba53b0f5bcee56d0e5e9d06b858f4e90062d2d2d67e185b4d62fb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f30294e71193874a2d2b24354e06ecf16a11c697d7eaba504b10889dabf32c90

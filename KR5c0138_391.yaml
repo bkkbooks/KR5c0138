@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/391
+seq: 391
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道惡乎𨼆而有真僞言惡乎
+  hash: sha256:d11d1a6fb015b1181e6ecfd1fd44c40faf562852dd39291e74ba02331140cb90
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2c61f5e0bbc39cbaf08a7025320761293ce33c9dda1662ca14d3ef3fe0463bf2

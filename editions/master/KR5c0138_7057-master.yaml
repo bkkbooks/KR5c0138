@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7057
+seq: 7057
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 少知曰季真之莫為接子之或使二家之議孰正於其情孰偏於其理
+  hash: sha256:6f24172bcf3774df6aee575e4a8ebc5d4a95915bd6805d8621ad86062b463aa2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:23a7d67d9772bccdb6cd634a55b6db9076b28b0cfcaf49928a9714bf3a2c5add

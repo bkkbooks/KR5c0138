@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4916
+seq: 4916
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫至極者非物所制
+  hash: sha256:61f3f4db5a012185ea7ccaf4ee29493424182dae7541ed54fe25af8db5bddf4c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0b1daf7ccfba025f8da4d6a8ca201f24fe88d34bd3ac69b1817c83c0759a8362

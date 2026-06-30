@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8200
+seq: 8200
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 付萬物使各自
+  hash: sha256:91b1c96e0e645538f2a25be78c05ba09bbc9ea37368192293b798f37baa61d91
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ab45c3eef156bfc73537f4815f134647a3b8288a02a22e669f2418c22000969c

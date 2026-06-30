@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/887
+seq: 887
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 年者則無以明今之百年非假寐之夢者也
+  hash: sha256:41556cd12920378c83bda46ae53f8c1f1147f393f91854d7a39ada36680512ae
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8e0e1e101e31cbbc943f87ec7d7791bb933f42dc4c8a0f1b808007647c386b60

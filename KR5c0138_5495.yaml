@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5495
+seq: 5495
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方矢復寓
+  hash: sha256:4b9f6ea2366d9480c34f691e0b31e8944e0b36028c45ea1c00e0d811f7b1bd6b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:07ceb20e359cf78e8fec2c34fb69014dc0982146eb2c01ddac077afe553c24db

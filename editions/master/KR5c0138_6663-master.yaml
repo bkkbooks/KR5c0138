@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6663
+seq: 6663
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 萃聚也苟不能忘知則禍之長也多端矣長丁丈反
+  hash: sha256:ed3e2119aeb75c4028ef533aeb8aeb1bb3bce7cb43475c10d2fa465812c2416b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b6db9d9d929636116d7431b263be10ab3721b8cddc77a35f44f0179dd21cb62f

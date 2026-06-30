@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5167
+seq: 5167
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孔子圍於陳蔡之間七日不火食太公任徃弔之曰子幾死乎曰然子惡死乎曰然
+  hash: sha256:d9353f2ac2f3e027f239bb4064129c12f0f9bf21fd967073803ae18e6dce5922
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e127baae9664a8c3569b082f4c4ce88f99c5da9cf0cce8af093589080722f3f3

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3192
+seq: 3192
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 官各當其所能則治矣
+  hash: sha256:7934962364e5bbe2577d9c4d702078fb39c9a83e255d465f9b8458193fd7e472
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fb2807d7beba487c6267415b5f623d783d806c816bf66010dd3bf502f8d329f0

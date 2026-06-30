@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1967
+seq: 1967
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以徳為循者言其與有足
+  hash: sha256:c6010aa95c1f5e355d77f23b3f9baed1c1f883f4acd2612b9b403a38f2b209ae
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0eed0dd325b58e6460e3c56d1df31b5ad2f84cd54fe6350cc4f3be7e2391a956

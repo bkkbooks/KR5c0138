@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7972
+seq: 7972
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 譬如耳目鼻口皆有所眀不能相通猶百家衆技也皆有所長時有所用
+  hash: sha256:7643bf13a6bd4ecb6b04b0c94ed7cf14c6e748291b84d382aaaf7babd7657cb1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2208e68eea5f207aef25ed4ecb9fc1ed81ebd359802c6ea899ab6b83103837f5

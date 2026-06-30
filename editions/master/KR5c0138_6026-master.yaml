@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6026
+seq: 6026
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若有不即是者天鈞敗之
+  hash: sha256:47627010dad8a75db54015d8867cf26ffee63dac3f0ae9ab8c65ff3e58bed20f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e7dc8d8223fa791794e7ec563c127c71ed83f0f103b18aa685039331b0cd3bb6

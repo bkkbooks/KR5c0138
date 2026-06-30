@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8221
+seq: 8221
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫至順則雖金石無堅也迕逆則雖水氣無耎也至順則全忤逆則毁斯正理也
+  hash: sha256:471ea8d0625942553a227b777357c6bc9e8a9586d68e92c726c452c39c942bdf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:47a926706228d1d500976b9c469ba37bab1c825ae3844b6d71b0272dcc6d4509

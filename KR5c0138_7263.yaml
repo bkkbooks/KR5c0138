@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7263
+seq: 7263
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 平性則無用知
+  hash: sha256:8645e379181729a63ce591c36c88a8df54879434a50e6e5f691c7939d82135ba
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:19628468917a8970f31c5d18be851064e2d62077889aadd7260d7c809228b3c3

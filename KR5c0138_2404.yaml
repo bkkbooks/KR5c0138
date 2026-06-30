@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2404
+seq: 2404
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 生生而順公乃全也
+  hash: sha256:ecf977e52f86e282b9791470cc7a6cd0df62008e346bef0351c902e2ee2451e5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a02686db91aff5da7e0f9f2eee027142b152696d62616ce5d6a5d7074426daf4

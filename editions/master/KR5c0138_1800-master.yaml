@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1800
+seq: 1800
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之所未能也故無情而獨成天也謷五羔反放也
+  hash: sha256:70bfeac541e0c935b9a1b60787a5a422b439c7103fd2057f5d3cbe24e81d82b1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3b433df88be7173b71b11f5f6f78dd89d4dee6657dd76c1acfe48cfaf71a1cc6

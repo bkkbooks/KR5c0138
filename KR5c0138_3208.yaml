@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3208
+seq: 3208
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子曰夫道載覆萬物者也洋洋乎大哉君子不可以不刳心焉
+  hash: sha256:e0955d4bd341b547ab30fa81a90c611d9c14facce12d7727c45d0e3250b4c2ec
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c0ce39e2d512f84661963f486e3ac5d47d65432beed791f4d79b07f7b0b6fb0b

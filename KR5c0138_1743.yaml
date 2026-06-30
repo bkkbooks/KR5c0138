@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1743
+seq: 1743
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是之謂才全何謂徳不形曰平者水停之盛也
+  hash: sha256:ce238743a94cc63d1afef199422c18218893e9d8032d04941a73fea79735d8f6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:33bcaf61040c28018269e2c16bf011070b228174019f3ddaab3f783c7f6ab34d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3761
+seq: 3761
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 何謂仁義孔子曰中心物愷兼愛無私此仁義之情也
+  hash: sha256:48d3db4a4ec5d5e1b706429176038562d3c5558bd83926607b0aa786a7e2cb0c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0f73d876dc147de628a6f0b99a0bb91ff6f7004cf1d9694857c64a29fea7abdd

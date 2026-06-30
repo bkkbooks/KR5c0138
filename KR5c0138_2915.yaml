@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2915
+seq: 2915
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莫能齊於自得
+  hash: sha256:b9014a72b3007a618b2f89b232db6d7a3a37b7d6328b18992656b047ae7fc42e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:90b4a5a4cdbd4c6430d7cfd709d8ed8746bbf9a599ce773912e87b8f75e775be

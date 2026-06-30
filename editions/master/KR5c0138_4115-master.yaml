@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4115
+seq: 4115
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 白之朴不足以為辯
+  hash: sha256:6c34ca594e04c1e62b2af84a2be3c725351482dc04ea657b6968b5b9bdec78b5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e6d8281d89538a96f7c5a458232a4ab1114f6f934f4d5c994dac7b669ca51bcb

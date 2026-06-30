@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/130
+seq: 130
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以尋其所況而或者遂云治之而治者堯也不治而堯得以治者許由也斯失之逺矣夫治之由乎不治為之
+  hash: sha256:63cb89f91ed5f059549b8348263c9b0e68defa3457b18c548b0b4bf6532de157
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:560c7dbbe26e3d6b6c8c5a4ccca9b608d903143c28496aad1e7b698814b0fbae

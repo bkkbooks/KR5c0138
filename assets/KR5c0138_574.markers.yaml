@@ -1,0 +1,8 @@
+canonical_identifier: bkk:krp/KR5c0138/bkk/v1/markers/574
+seq: 574
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_001_n763}
+  back: []
+hash: sha256:0d48829d98286c66b8e3006d69db7b62733ad404c3319e4241a7e0c8c7d06774

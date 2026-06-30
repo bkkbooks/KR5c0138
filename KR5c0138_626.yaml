@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/626
+seq: 626
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不見彼之自辨故辨己所知以示之
+  hash: sha256:304c3b9ca5189f8baaf0cbb5daa33d4a73e26ec8a9c30d408731e38e28d663f0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:27c9e26d49dcd78d8b0d7d701e43a8a70b5d141e6ef7c9209ed83e38f19caff8

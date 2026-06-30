@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1931
+seq: 1931
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 常逰於獨而非固守
+  hash: sha256:a01188d1d7eb838ed226dd7808a8f85dba72b72ee185344d8c0e7f6d4787fed4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2d07e0dd30cc832a3e2a2f2471c50026fe3e4d53d434a39adafb2b461585b0cf

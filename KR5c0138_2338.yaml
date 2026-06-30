@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2338
+seq: 2338
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 化則無常也
+  hash: sha256:8fc5208da008db21b0114d2109176f6b17d416d0348b9bc01b4b8ac3414d034f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2f0d5627d385c82224720d303040344af51edbf1463eb369e6be4f4952b69a9a

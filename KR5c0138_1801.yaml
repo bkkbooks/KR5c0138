@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1801
+seq: 1801
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 惠子謂莊子曰人故無情乎莊子曰然惠子曰人而無情何以謂之人莊子曰道與之貌天與之形惡得不謂之人
+  hash: sha256:11d8107dd335779751a804ac122180aec6cd7b4967b75e4f72e0b0406bd365a3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5798e5d3b6e3901a3f8e81560ccb96b35abad0b3fa2f5a86819526444ff8ee1a

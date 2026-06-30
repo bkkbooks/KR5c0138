@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8240
+seq: 8240
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欲使物見其意
+  hash: sha256:1fba74057add6ddfe2f25565969b55eb4deee5d6f74eec46932e4b4e2a29e8b2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ad6549c7c2f9429bc1e8d4944c7836fed52e5f1d50db5f258a3867dd09ed2dd0

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2895
+seq: 2895
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 亷劌雕琢其熱焦火其寒凝氷
+  hash: sha256:8aadfdaaf36c3c3d68cadc88a71dd9505c16ec7a58657f660f1dcc143821af47
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ab3604bf964e85b9f230fa0c76daa4f67c8d13812092134910bbe83cef4409cc

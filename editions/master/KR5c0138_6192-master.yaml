@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6192
+seq: 6192
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 使人以為己節
+  hash: sha256:f7d316ab820570913fa199dfe45343fc528f23834beb0d2a758e5e3922bbc3c3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:649ccd2a9dd7f8312183c806e712d5f144cc1ff4e085e87e2a67f726b1f8aea9

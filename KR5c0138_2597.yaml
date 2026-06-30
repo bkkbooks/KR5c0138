@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2597
+seq: 2597
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鶉居而鷇食鳥行而無章何措而不殉哉故與世常冥唯變所適其迹則殉世
+  hash: sha256:71b1e2cdc49969386c8ff58d6f901a49bee1f7c0ea69cdaa8c194d0aa2efae2e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1b7083ed44c7a3b221d58b4690aeb74d9cadd4d3d95cb2e1aabf70f67f0dbea2

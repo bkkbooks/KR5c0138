@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5985
+seq: 5985
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與物委蛇
+  hash: sha256:df3e606d0b7b364dc0ae8a2ab52302cc292b9ab58d9655688cb0f9a91f3d550e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ee7d9b2fd47824356df397f8ff0c0bb3b9cd2ac1f1460d984efd4ae53f033510

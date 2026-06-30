@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2699
+seq: 2699
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此民之真能也赫胥氏上古帝王也
+  hash: sha256:b004afbf92af8f16f52c92c140b8cf2a612235db986e3e7f336063b7cc5f0254
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a481ab9dbe69056abaa7ffec11cbc0d46a2a4ab0a55068eb0a564a958b50c1fc

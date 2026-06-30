@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/649
+seq: 649
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 忮逆之勇天下共疾之無敢舉足之地也
+  hash: sha256:c113c7a146b7295a73bbce3f96dfcc1d44f8068ffa273b0edf6123bc662b79f1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ae3d7f997937a97e559b24d44cb08e9a6da0629a6fd32011e4ee00eae69e965f

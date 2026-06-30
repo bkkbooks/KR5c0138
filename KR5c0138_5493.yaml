@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5493
+seq: 5493
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 發之適矢復沓
+  hash: sha256:f9c4ef11a3574b453928a69a87611aec374eceb8728acee077e34ac99dd45a8d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3ba6ace4a930171d5cdaaefda04efeb6d77950a38f21e6b414b8a050355eacd8

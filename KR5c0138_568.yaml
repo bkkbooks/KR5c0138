@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/568
+seq: 568
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又不知謂之有無爾乃蕩然無纖芥於胸中也
+  hash: sha256:3597bde9d4906d354e390ecfd0e8fdd74b79bdb988e3885c826b6de8ae09e00e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:46e0b4db01770bda0f6d8f0ef7d2a9b5fa47afcd7b3135b39a19e4b3f479c6e4

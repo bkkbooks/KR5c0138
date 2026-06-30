@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3026
+seq: 3026
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 心以用傷則養心者其唯不用心乎
+  hash: sha256:0e89b53d68ca07a69158cbfbb0d69ce59165bf7cb19fe35fae78c0c21d9cf2a9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:59bb81643652d7f2091f1645173010b69d1af2c469d4fafff3988abb4c3731fa

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1471
+seq: 1471
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 銖有不勝任者矣為内福也故福至輕為外禍也故禍至重禍至重而莫之知避此世之大迷也
+  hash: sha256:5ec5371c81a3a2e197b5d786be3a83d34c6de17297d86dcb3682222bd9cdc7b1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:127fb39c890702adb7957e85189e616c1793b59f38a5b90b7fa2f776efccdafe

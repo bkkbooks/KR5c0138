@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4231
+seq: 4231
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 迫而後動
+  hash: sha256:9bf3a453ef1a504035efba92af691371966a0144903836bbdba4ed7dd6df7397
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:65d0d5917da06debaf9a87b25bbf5b040ea6e6b4e2f3b9de051f8cd47312cf8d

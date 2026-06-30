@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1469
+seq: 1469
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 禍重乎地莫之知避
+  hash: sha256:6a1786043ddd619ff808ec9684022fc2274f9304f23a47cc9e0376802ef4fda3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b1b9aec94278e86eff29f889accae0008c6b41e80c511dc93e12fc649ea10155

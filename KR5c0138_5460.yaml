@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5460
+seq: 5460
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聊以卒歲臧地名也
+  hash: sha256:3a6f657279790c2dbb3a128293134ddbb3d7c959be9d54953629dd2e2fc3382e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:04a11c68e3ac8d1461df8e52e65c262d4771659ac103efe71ca836843c26c60c

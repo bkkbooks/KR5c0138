@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4121
+seq: 4121
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不若相㤀於江湖
+  hash: sha256:0c73249ecdddbb64fd740069622b5967401bef032aa19ddf0d3907a9351eaf57
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:326af1ee9cf4ad9224d49083980b9a8bd7496eeac9ffe0901de915dd89a0d953

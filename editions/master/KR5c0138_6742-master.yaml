@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6742
+seq: 6742
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言已順四時之施不能赴彭陽之意暍音謁字林云傷暑也
+  hash: sha256:0ff7326a9e9120fc3399513f87c47bbe2ea0811f8a060ef2e33f9a9af210da7a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6c08a785266eae3bca7b7a1bc010d5407f1903a07253aa60ec76009b542242df

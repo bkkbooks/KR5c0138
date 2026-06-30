@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7213
+seq: 7213
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故曰至人不留行焉
+  hash: sha256:33c0a5803b31ae0cfefe9b4802d0d6f0b6231433f7aebcdb62aac23538e81691
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ad101344f31b97b94004223f89d78ae913c3f7829728c8b95dc40174fab8be2a

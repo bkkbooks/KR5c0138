@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5309
+seq: 5309
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不出坐庭中三月藺力信反且子餘反藺且莊子弟子
+  hash: sha256:60bbcdaec0538166d22dc6d4cc8b1faae908106d4bf2c2aece4ed7c4b670c0ac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:72a9ebbd2fcb7f80c6d9b14997da7797fc42bb96c7252dfb9d650dcb12c253bc

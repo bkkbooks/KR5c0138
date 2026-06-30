@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4311
+seq: 4311
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若夫發蒙者必離俗去欲而後幾焉
+  hash: sha256:9cde0ab2fff6c34432270bb1f84d0432f61c33f9e8a07aa68496485509c46501
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2b3f98c32e48db9571decd1e747fbf7fcad9b7354c09649c90996c38ec792ef1

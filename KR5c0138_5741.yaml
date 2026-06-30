@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5741
+seq: 5741
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 馮閎者虚廓之謂也大知逰乎廖廓恣變化之所如故不知也馮皮氷
+  hash: sha256:e533655fe318b457be7ba000b58e99ff0544367025a30730de09f0473207dbdc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1618506af043f9e9f25584decb20920148ceb06f351054e1b8f2a50862d32b4b

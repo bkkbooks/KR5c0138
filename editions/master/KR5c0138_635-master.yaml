@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/635
+seq: 635
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 滿之意國語曰嗛嗛之徳不足就也言其自小即此嗛字
+  hash: sha256:cbebab55becf39920984b04089fb8d67450c8dc09f9ef58afdd6538e9bc7c79b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b5922583b216c1acf751e3c10b34603a778886cbacbeafc8d9b42f5ca7eb324f

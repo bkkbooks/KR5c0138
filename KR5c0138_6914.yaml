@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6914
+seq: 6914
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 栢矩學
+  hash: sha256:85d331e7f67fab0f6b79d068d28f1f61a005efc7e7dd932d04fc9a2bda7b0190
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:155c4c4ad9d11494a4b2edde4491404fb9ed63a4af7e157e7752855c30fb9697

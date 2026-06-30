@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3943
+seq: 3943
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蟄蟲始作吾驚之以雷霆
+  hash: sha256:9444283f669087d611bda3c1dd3d4fd6618798dd5f92d5f3699028eefae1e015
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2d0b62f1c7427e855a579810c889647ae210fe4f5312488014f18c364b6fe97a

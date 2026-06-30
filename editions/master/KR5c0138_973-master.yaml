@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/973
+seq: 973
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人之貌有
+  hash: sha256:d6145c2e3f8d8e5dab2c8ca43a24ec993aae44fd8c266d591f3ac889d060605c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9903effcd0f1bd0f5a59c9bb50ff48956bfb11ae07649b529ec4f619dc33a2a9

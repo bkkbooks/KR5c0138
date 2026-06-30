@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6350
+seq: 6350
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無以巧勝人
+  hash: sha256:b992f9b496b254a97d26d43f6600122b88ddc9df19d50eb3214b59ab61f56f91
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f79a01fd8354a963edeede97754d4f87e849db64d0ae7055d411e5a2071642f5

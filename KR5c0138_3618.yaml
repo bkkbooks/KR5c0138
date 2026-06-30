@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3618
+seq: 3618
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 者萬物之本也
+  hash: sha256:93673753f48c1b9bf5b961943bf4c7da7e71a10d8f85810c28d25c0575bf698d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3cf3a9fef4140fea9a7f9619d633f473e5213bee13a74551e8214043e2975b62

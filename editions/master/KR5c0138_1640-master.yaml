@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1640
+seq: 1640
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 刖一足未足以虧其
+  hash: sha256:9ac412a91af273fd80a5d7f2d18111f6cb17912836e6eab0aa84637b3f993721
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4596a4e070b2aa4cd5914bc711b87c9f93693301e72d7fb87ab9acaeae39094a

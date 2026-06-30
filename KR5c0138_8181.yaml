@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8181
+seq: 8181
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 常無情也
+  hash: sha256:7c744ba60c0074009ce45f005e8d9b00f1517d1aa8dc6b454459e5dc4b611d38
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4c1af02256d7d80a9bf22deb4b607f538cd4e147ea39e48155734613197a9af8

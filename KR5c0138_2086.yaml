@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2086
+seq: 2086
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 已外生矣而後能朝徹
+  hash: sha256:3d0e7a703b1d81d42ba59c6f574b13c977f26c4c3d6dd4436f00c08f6ff55ed6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0eff48c207c8ac51fb9999f6c653af6f980adc82c864d43f828558a9617d4df5

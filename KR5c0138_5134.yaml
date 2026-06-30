@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5134
+seq: 5134
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之百官委之萬物而不與焉斯非有人也因民任物而不役已斯非見有于人也
+  hash: sha256:76cc031bbbfecd48c035e4ae41cfe86453dde79fda69687df91f9719ca0f9e27
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:87b2f24046c5138de83ac1813dcd0e7366a60c410f77776e29cc76e4d5e48a64

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7901
+seq: 7901
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 逹於知者肖
+  hash: sha256:bf30bc9900dfa3db42c78025958d19704ec8ab288f7f60a8e3eba772fb28f310
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b24acfcf3027734f88b9914976e73f3b966129956c89e4680feb38632e1a6a1a

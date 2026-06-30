@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2339
+seq: 2339
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 同於化者唯化所適故無常也
+  hash: sha256:e9c4ad677e2738f1fedbe502ddfa7446da5f7e45aba315c6f10ba2c663438064
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c813679d483b6fad291de0f70dfd8990f6c869188a7244010e1023779e03420f

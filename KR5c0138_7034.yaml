@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7034
+seq: 7034
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 少知曰四方之内六合之裏萬物之所生悪
+  hash: sha256:866e9fb5a574b892e53f9bdceb4105b4fb7060225af51521ab4990865b2249bc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:146fa37cfb397d7356a6354989923d22d39e2e17c0b84c98cbb587528b28b727

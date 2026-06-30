@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5456
+seq: 5456
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宋元君将畫圗衆史皆至受揖而立䑛筆和墨在外者半有一史後至者儃儃然不趨受揖不立因之舍公使人視之則解衣般礴臝君曰可矣是真畫者也
+  hash: sha256:3f92f3245b248bfce69371485a3d3bcd864c026baae013279c9853b2688308a3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9f59fbbfcf9d33f58d60a70edd530844ab352fec57adde937cc237ef5b5385de

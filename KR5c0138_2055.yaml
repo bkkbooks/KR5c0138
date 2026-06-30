@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2055
+seq: 2055
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 在太極之先而不為髙在六極之下而不為深先天地生而不為久長於上古而不老
+  hash: sha256:255f899a31fa873d274a893a4667d17326420d77916188db3f16b00957a27398
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:68fa427da37559ea4ee97dbb9577a70976dd0d916d3d25e67954f583fca56d1f

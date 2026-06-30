@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7242
+seq: 7242
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人則顧塞其竇
+  hash: sha256:4a4d0f8d68735f043b32ba17dbe65a949933b4680b053889f2b7d5db805fbdc1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:28b2765eaea705124e6cfbf38df02886aaf9a2feb1ced37e4e27195cff263dbd

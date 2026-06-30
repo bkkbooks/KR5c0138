@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7964
+seq: 7964
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道德不一
+  hash: sha256:9b99ef3484199010f14dd97a613241556947d7a35124cc308a544e7077c5d6cf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:255bbc513b8456a61f1a58f17d0798a8e4046b818274f55163553f19b5d0be22

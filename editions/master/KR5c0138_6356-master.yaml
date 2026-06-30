@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6356
+seq: 6356
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫殺人之士民兼人之土地以養吾私與吾神者其戰不知孰善勝之悪乎在
+  hash: sha256:ceb341f08392231e70a8807b2a3f71e0d81a26d58b2a5c6d22c0cf01170cf530
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f82155955f17ffe0ad53320389aab71e435e32533ea3ec7028b0e4144e0bc18f

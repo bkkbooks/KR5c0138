@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3830
+seq: 3830
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不能自舒放也
+  hash: sha256:a309b2f0d273a6e9681195db9e0e7454aad5877c703a1e6163f81ce4db615b05
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:edc986b07e988b098074eeceee0938ac355699fa446a2d00b6e3090a13936217

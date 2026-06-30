@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7401
+seq: 7401
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雀之在前而過去耳豈有哀樂於其間哉觀本亦作同古亂反觀雀飛疾與蚊相過忽然不覺也取大小
+  hash: sha256:47faf8d641e9838b140a87ff0969bea9b560b25a39c87f56e779bafcf479ec37
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c5ebae97686e4afadd7d280e557b822bd76bb74b90600466d4c4cb8e23fa3a94

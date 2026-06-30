@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1186
+seq: 1186
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聞以有翼飛者矣未聞以無翼飛者也聞以有知知者矣未聞以無知知者也
+  hash: sha256:25c4dfe3751a71f39a3386900e2cda953670ea9ec73eb5455f0a2fabc6100551
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f659bc1f683565b85a477c99a1d47f565daff8280b5c7a117e18dd0bb02c3564

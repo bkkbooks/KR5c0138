@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/239
+seq: 239
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此畧舉衆竅之所似似鼻似口言風吹
+  hash: sha256:82bb175cedadd3b38937c9818a3d847b9f7dba3646d9af15d501b223d296c77d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e80af1aae0baabab915ff109b70dd2541387244a2e1f4bba85612d58b94f9c9a

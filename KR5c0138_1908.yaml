@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1908
+seq: 1908
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 因人心之所欲亡而亡之故不失人心也夫白
+  hash: sha256:ec4c45ce85d0f3e71d80c505e6ba8b4dc463cb8effeaba1e21db4a79c371617d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1b4e0b964465ed360e4bd2bcc057b8e94a4e18a7eef72e68695021bcd1247700

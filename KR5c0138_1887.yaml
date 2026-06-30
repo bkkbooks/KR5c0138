@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1887
+seq: 1887
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不問所受者何物遇之而無不適也
+  hash: sha256:c3821b9b20cca15e4ebbe192f00922b4897393cec7b71c07a10062c7db347e26
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:24b741c2b593949d7959c272f6fc30143d5545fadfa4f2dc7fc1cf5a32a623fb

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/797
+seq: 797
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夢飲酒者旦而哭泣夢哭泣者旦而田獵
+  hash: sha256:d0f0cc98fce012546b9d203cb0da3253709ed9f69bbec946f0c1949630404eaf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3f5ec377acba9657d3d970db4efeed67262175499e5fd2d8f2029b71b02f44a9

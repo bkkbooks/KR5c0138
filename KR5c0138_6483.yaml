@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6483
+seq: 6483
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 我必先之彼故知之我必賣之彼故鬻之若我而不有之彼悪得而知之若我而不賣之彼悪得而鬻之嗟乎我悲人之自喪者吾又悲夫
+  hash: sha256:c56a1ff0dc04891328bbe90b7e01074a5a49a6c6d5f33954a5cba62cb2f9f88b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:12c0dd40aee8dfc4bbd79a71032f045ea8a397e4ccade53e66af8c0c421ca75d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3338
+seq: 3338
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 田恒非能弑君乃資仁義以賊之
+  hash: sha256:a3cb859ea06f0fc4a3838cba50b452ccfbc77e62d490688ae38039d171f24884
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e364cbc105059b0eea519261fa7f58451cfbe1152c64da637d84cd16e4c2287c

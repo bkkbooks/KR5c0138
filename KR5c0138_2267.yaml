@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2267
+seq: 2267
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無不自得何為在此而憂彼哉
+  hash: sha256:835e72931c30b6f310c3cfcb91ce5d309abd20520e20a300f7c273a4c878253d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c04f953a204654e9ca4d9f11b87f0c60795a64431ae802c14c401190c89fd841

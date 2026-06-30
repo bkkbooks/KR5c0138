@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3741
+seq: 3741
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 治道先明天不為棄賞罰也但當不失其先後之序耳
+  hash: sha256:35b304c1021f47ccadb9413f53e9eb20bddad030fcf61d924f3be401fcca2a76
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0ddd7e0c156960123f2376587cb897116cf830e83af6de209fe94389856a9d78

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7055
+seq: 7055
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此議之所止
+  hash: sha256:3e230973ae6c94e5ea3bc4db9566be2d3087851734e4a8f7dd2d9880dd6a5fd7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:64c72d71d45384d13159fe87bec6956156fa9065e1e434c87564478076d3f178

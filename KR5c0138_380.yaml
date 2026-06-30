@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/380
+seq: 380
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各有所說故異於吹吹猶籟也
+  hash: sha256:d2a5aececa21bd362fa40f9fd71ceb30f37cdf254998dcddcf61df858e7a7487
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4e561730114dba7cd20b2289e2adb5f61084d80e19000b6f2adedb07f7e22944

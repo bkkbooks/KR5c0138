@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4438
+seq: 4438
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 北海若曰井鼃不可以語於海者拘於虛也夏蟲不可以語於氷者篤於時也曲士不可以語於道者束於教也
+  hash: sha256:857b7ca3ec4a90d6f803bea9d5f6dc3b836ba70fd67e4c448d107e9badbc59ac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c41fbee95aa6e86b5a0d8e5d0f6392cde865aae033fa7ee943b5c5662e6b59c8

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3449
+seq: 3449
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 音羔桔橰也吾師謂老子也
+  hash: sha256:af644b97f6c87ddeed12ece3a5c2f43d32b022e4311642ab32546f0fc10fabd2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0da485f52f10419cc147f7d6f39696e70b2f12e22da8f9c9ac73b3bfd9125202

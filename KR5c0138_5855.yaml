@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5855
+seq: 5855
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 唯無所傷者為能與人相将迎
+  hash: sha256:e82bbafb393727cdf310bfbb7e4e4a30d5bb813b3f771ec4d17c39de21e51269
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3fe1fb66a6c3ac29cfcf29d19d52994b129c0f1e97945ff91e7ed75a596dc9d1

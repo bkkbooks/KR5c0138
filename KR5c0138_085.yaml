@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/85
+seq: 85
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 榮已而辱人竟居領反
+  hash: sha256:ec9f9625d7c4d8eb811c57d8923669a0dfa6c5ad986915d980d62643a7273347
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:52e9c341a08f0098fed1e86520880c1ff2f36faf701f45090b96ae1f9a3077cb

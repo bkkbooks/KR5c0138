@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7089
+seq: 7089
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 或使莫為言之本也與物終始
+  hash: sha256:6899d8be638e4a122ad92379024dd743362dc09973e4ada86d9d51125ac654c0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7f369ba52e4c7a5e760a0532e7e386e28cb7f9a14f4fd1878dead5daba43036a

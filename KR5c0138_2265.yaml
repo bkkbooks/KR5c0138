@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2265
+seq: 2265
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫死生猶覺夢耳今夢自
+  hash: sha256:dd10a50ff000eb9a4f36ec5e40db62643cc2b48b7dc1acb445c4668970eb058e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:944a2e9cc098488886f3a58f7c9ad195ca824f63f9e858b90f06181658180ce6

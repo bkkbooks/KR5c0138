@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2765
+seq: 2765
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 去其所資則未施禁而自止也
+  hash: sha256:8d7b075039a5a09847c3092f9631e3dfb562bba5e41ec647167cab185ac9b06c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5f86aab2be310d34df8b16ce4c8a40292bd104e891a6a707655c5ae9745ad8d7

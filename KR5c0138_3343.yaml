@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3343
+seq: 3343
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寄之天下故無事也
+  hash: sha256:47b48b5d82b3dc136742c625b75766b48b519904d08258b261d1a597e426746d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c560d28041433f66662818fbedae5e2b199f87defe7aad6f3d98d9d537f7d15b

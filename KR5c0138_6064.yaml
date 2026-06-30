@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6064
+seq: 6064
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有益無益期欲損己
+  hash: sha256:b25d8be96728ee085c68b2fe4c9fc768f71199f046103e9a7e450d0bc3e43cca
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3c58246ab0e585c53a56d3adc2e326a3f32f50d8dbb39586e9a8061c285fef0c

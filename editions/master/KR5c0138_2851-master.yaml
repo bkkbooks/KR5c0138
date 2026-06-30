@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2851
+seq: 2851
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舉天下以罰其惡者不給
+  hash: sha256:3be14272c6e8060c1afee7f22ee99b9650555225c1002cd3875d1741dd731573
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:013601bd506f910e7efe0e6bffed3d0e01bcc59d170f2dc81d579bfe292b1319

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6258
+seq: 6258
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無賴於生故不畏死胥靡刑徒人也一云人也一云腐刑也
+  hash: sha256:05e1682f7fa0d8d2292eae13dfe00f3fede6907e39b883d26e3c1961fc9672da
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f661108e80bd7538b4a467e13db2dec35d56282ec4d837b6fc26833c7c227e30

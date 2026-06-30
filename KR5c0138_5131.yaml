@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5131
+seq: 5131
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 見有於人者為人所役用也
+  hash: sha256:c014c9edc737d5cdbd83065c489d48b3b8f5c28cda37ac2461a765f4592e6962
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e03730d5fa9c84e0247147412642db8134f9f9bec59917c0e1711f72491f2ee4

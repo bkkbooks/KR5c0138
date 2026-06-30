@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/63
+seq: 63
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夏至商年七百歳故以久夀見聞世本云姓籛名鏗在商為守藏史在周為柱下史年八百歳一云即老子也
+  hash: sha256:7dd8e5f076faaa48bbbe8a1ccac29d1e8e3451b5a351e2e5e891eddeb93ed87b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:500c10da0b4b1d0f5d14b223b20caeef81f50a3142f88e9d942155f25ec59721

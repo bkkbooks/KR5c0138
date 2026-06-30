@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3206
+seq: 3206
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一無為而羣理都舉記書名也云老子所作
+  hash: sha256:3ffc3abdfe660619a1666870586643e1cdc6adc7b480d8d62478e62367dcaf7b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2ff34cc2822403b7e08975c66fc1df073c016b84b3092a19abd42b41ce8bcf3a

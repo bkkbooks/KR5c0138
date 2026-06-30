@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5045
+seq: 5045
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 則以天合天
+  hash: sha256:4ecf24b42f68ffa49010b55c9ca439ebf15b68ee6d08f935d940c4a31988308d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5a6ab2db15b027667fd65de2b0e3d6ed3e340d7aa3d8761bbc65db040bfb077e

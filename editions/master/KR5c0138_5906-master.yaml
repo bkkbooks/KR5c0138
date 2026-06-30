@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5906
+seq: 5906
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若嬰身於利禄則粗而淺
+  hash: sha256:79aac839e0dff897393256059c9a435ce8bca02b7d9a6858bdd02b307c177b44
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3e0ea436a472b508104ebc542d4907b62e16fe17cc503b35567e392eb1303fec

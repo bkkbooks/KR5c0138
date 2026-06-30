@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4303
+seq: 4303
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 苟以不虧為純則雖百行同舉萬變參備乃至
+  hash: sha256:4fb825394baab6c6a6d02cb0c3e9da38f4bfce84ffe4b0a51315f6f70cb08714
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1a6859a6465e43fc109e5afe1a6ced5080a6ec7a720cf34f5ae59cbec12fca26

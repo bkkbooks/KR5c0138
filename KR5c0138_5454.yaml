@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5454
+seq: 5454
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百里奚爵祿不入於心故飯牛而牛肥使秦穆公忘其賤與之政也有虞氏死生不入於心故足以動人
+  hash: sha256:dbc0af894e3a63c873a3d7071d8febb04dc59f8894b51fe76bdae03676fce516
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0ba643b5301f58c97afd012db8cd1f7de51aed385048269007f85d3848f5f4dd

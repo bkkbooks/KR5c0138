@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4634
+seq: 4634
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 消息盈虚終則有始
+  hash: sha256:2a5a00893e70133d17f99f440b32cbe0fe0a22c028be1cc455b660ab298edf49
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:03deea682f611b3be893f1194830e3f4b6228afc43abd323e79a02db22e0a19c

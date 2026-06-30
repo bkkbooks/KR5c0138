@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2557
+seq: 2557
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故性長非所㫁性短非所續無所去憂也
+  hash: sha256:2be913506e16971113930b3c44ae8d7369347b6e7a7f8ec599aaafca110ad7ea
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3d4b966f7f3f09d24f77c77086f1a32dfe1d8a1b2eedd4eb84be49419a8ae9cd

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/686
+seq: 686
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若自知其所不知即為有知有知則不能任羣才之自當
+  hash: sha256:9cfa76240c19f86b272c3ea3300532ffe92ea9efe3918fb3beff0a18d7ca03ae
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:55b78585844cf0427529efe3cc582d6580488f0daa20ffdb3639f4fad85f3ab0

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3889
+seq: 3889
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 音弛樂音洛勸本作倦云讀曰隨言誰無所作主隨天徃來運轉無已也上時掌反彷薄皇反徨音皇本作旁
+  hash: sha256:e6226445a046d9edb1fb2b5e3e778c519d45ae0aab276d57ac5048cea1c905ed
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ca9ba9ec595d501683325692f85765f82e9b09cfedb7a6c55e08fca0c8a0a8c2

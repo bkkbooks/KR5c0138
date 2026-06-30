@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/356
+seq: 356
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人謂之不死奚益
+  hash: sha256:8f423a442a7c0379e9c9ae6d183d383e08853e99767246a2a1ddeab646ac9e37
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e0dc58fdd565e49f4f3830d2ca0a8461f6c6383f71d89d117b81b74eb19eb9e7

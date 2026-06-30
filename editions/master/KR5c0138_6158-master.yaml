@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6158
+seq: 6158
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 封雖非一姓同出公族喻死生同也此兩説與註不同聊出之耳
+  hash: sha256:1605f750e7804d1b0755d46d15f73a39307968c98e373f3a9e9bd72206184339
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8b1bc268bd2e4acda134e2e932faaaf4534571e9c11e0433e676c6aa87b204e7

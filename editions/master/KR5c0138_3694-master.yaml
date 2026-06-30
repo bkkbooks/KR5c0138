@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3694
+seq: 3694
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 同乎天地之無為也
+  hash: sha256:0b4120548f79f30cf7170d8f550db47874c4c32fb5ccb70b9a83e5151eec00ba
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:44ab8ac105734c04cd8e3815f9c94a2066573c6e21d30d776e8191799eff86ce

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6800
+seq: 6800
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人之安之亦無已性也
+  hash: sha256:b314c6ebd3c515e992a8c61a098d1c0279d0e961813f8b6dd0b62a9cc3da2835
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:64cf210b87bfea087e1bb6ad14e2144f0d2c1814e1a1fdf2b994a064c3e9da3f

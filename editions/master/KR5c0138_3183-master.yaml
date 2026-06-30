@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3183
+seq: 3183
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故曰𤣥古之君天下無為也天德而已矣
+  hash: sha256:915dd4d0fde292d6c9e7244998498773460fa8e3ee9164448ebe6852b8734e6c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:853c73128058aaaf66496e74fdf421841569f6556a444fc396bc85a8070431ec

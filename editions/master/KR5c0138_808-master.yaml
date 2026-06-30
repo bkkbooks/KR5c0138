@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/808
+seq: 808
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫大覺者聖人也大覺者乃知大患慮在懷者皆未寤也
+  hash: sha256:1eb38e6f5666e55c0891e5327521cbdb9692bdd7ba51d097b4d922b2caefe6dc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3a1aaf500f7b2eae0197fa30cbc6dfb5b40a2fc85f422a7e6d363e2d26c39e45

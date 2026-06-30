@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/915
+seq: 915
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 茍得中而冥度則事事無不可也夫養生非求過分蓋全理盡年而已矣
+  hash: sha256:951e6a3065d38d79a1d4deeb45a10d0c2b9a4d96eb7a92d29b95ddcaba0baccd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3f67b85e8d653d31ad5984b748c982bcb09324723e58b4dd5fcdc5b358a62144

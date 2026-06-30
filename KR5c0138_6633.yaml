@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6633
+seq: 6633
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古之真人得之也生失之也死得之也死失之也生
+  hash: sha256:8fbf2a63bc5ea5bafa7a4cf57903b33520b7bf48188109bee2f418f4db3e0c4d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:aa1a629f38da6232df309c0536f276d37ab783dbfe57c7fada727aa4c807798f

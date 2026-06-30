@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8123
+seq: 8123
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 縱脱無行而非天下之大聖
+  hash: sha256:71e724ed1ed8d2c1e8db6787fc03b4f35fc98cfdcfa722cbe4f9855eadce4d6f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4c2cc481ec6928833b216d80445a32b5ec7a020ae2ad85ae76641e1e145b87db

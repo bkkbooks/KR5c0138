@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/678
+seq: 678
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫日月雖無私於照猶有所不及徳則無不得也而
+  hash: sha256:f79c86f4f4ce077cf0116109676a4fa1a0591210b6e6f1eb728153af5ad14ae5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3b11dd2d5fe16b99cc3a67356f69fb3ada21ae264d579096edb8e1703f42a22f

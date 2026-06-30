@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3278
+seq: 3278
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 萬物接也至無而供其求
+  hash: sha256:45c40fd5965f76a28213f42152515b53f3f0780515763b301e587da61185ca7f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2da0943d87798adb82c17a58332e2d4a622cba9899dabd822d1536c25378bcf4

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5225
+seq: 5225
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孔子曰敬聞命矣徐行翔佯而歸絶學捐書弟子無挹於前其愛益加進
+  hash: sha256:74ceba8d5d5d82da3d308cdb90888b8645e24cc2e9c4800b7f1908691ed13804
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e3e5f4e2f1e1a01affecea762a131560fee7b98a27180ed00026194d52793b63

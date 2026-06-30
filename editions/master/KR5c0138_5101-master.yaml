@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5101
+seq: 5101
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南越有邑焉名為建德之國
+  hash: sha256:31de4434887218b4e79c6e0008ddea391c451cdd9e1edb9fefe9925b468ecd54
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:10c1ffd677eaa29aa98cca295ed41b2688404043e382bb0c00f2069ce8cc8e9d

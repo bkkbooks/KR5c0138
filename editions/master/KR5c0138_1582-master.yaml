@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1582
+seq: 1582
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 申徒嘉兀者也而與鄭子產同師於伯昏無人子產謂申徒嘉曰我先出則子止子先出則我止
+  hash: sha256:3cfe609c4b6278872c1c2088d831dad3589d8169e3e80d5970b3fef758894d59
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:89e731d9855918b46bd102973f2d3c637a192347536f24b9afc3d77d99bc4815

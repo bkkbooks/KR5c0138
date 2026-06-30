@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4249
+seq: 4249
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不豫謀
+  hash: sha256:48da6a3ad8aeb2811a19f4620f1427afa54d1aede09c046408d6062fa725a301
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ac62e9532fbbaad9fa5fca432232742e0e81706aa4ca5bbacaa6bfd4ea7a6697

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1057
+seq: 1057
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 命之曰葘人葘人者人必反葘之
+  hash: sha256:d8375bd43dab6b8c9a4cd95c176f5460ab0bcc8077ee3cffde71ed670817f423
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a7ef133746b85faf8f328659cca7bd7409cde69411ae4d8f53a250310fd99905

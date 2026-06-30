@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4931
+seq: 4931
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 萬物皆造於自爾
+  hash: sha256:a12066869bb3239afb097af24a8a2ab969f588b31b3dc8c27f2fa521e2ab1189
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d9152204ce339db3c3c6c02f8bef8bfdae1561af57bbdc34ab043efc81d090df

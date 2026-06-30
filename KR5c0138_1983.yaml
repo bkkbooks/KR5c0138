@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1983
+seq: 1983
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其不一與人為徒
+  hash: sha256:9f5b9b901c261dc6158abf028f5f294b85c2ff5725a76c02c86d00c246ad6b4a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e12cef364b33b81920e1e65b01d0f23d9959312b0c83ca019036fe8d07f8d387

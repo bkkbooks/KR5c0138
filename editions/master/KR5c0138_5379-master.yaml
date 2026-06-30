@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5379
+seq: 5379
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不係於前與變俱徃故曰
+  hash: sha256:36575af686867b4ec0325ad09bb4cbf6fa89089ea073f2da30f01d53401a38ac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c0cb9d3347a82a003e1e844bfb3abb0e1846a36fe3c08960b316812474028551

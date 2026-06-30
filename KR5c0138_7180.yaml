@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7180
+seq: 7180
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 事不逺本故其功毎成毎者毎有成功也躊躇者從容也從容興事雖有成功聖人不存猶致敝迹流
+  hash: sha256:a602abc5f52bfddc615e6999875c29f7a7c0ac8a57320ac1dac87cbfe3e582b7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:855eece161baf8352d53b16f282766c5d25acfb553d1a056c41768379d7a8b9e

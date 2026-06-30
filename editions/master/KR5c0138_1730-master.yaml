@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1730
+seq: 1730
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 當則雖死生窮達千變萬化淡然自若而和理在身矣
+  hash: sha256:c19d43080b72d727092fc6154d372fc85b1269b3ea82ae9b6aa3a23b4c26029e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ab0a70d2ee5e85b9f4aeae62cd9fff72760a96ef846234e19ff8e95a3cb67a25

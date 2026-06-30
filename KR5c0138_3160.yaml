@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3160
+seq: 3160
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不明於道者悲夫何謂道有天道有人道無為而尊者天道也
+  hash: sha256:03466005ac288c1279df917e8c66c7fbf13b2a444aa3efe17cea8f65eba25382
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e548f8f469b625433040088b8d4677f6c8a5dc62f344a48e1e80740480c420db

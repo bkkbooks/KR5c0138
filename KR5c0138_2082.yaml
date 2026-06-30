@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2082
+seq: 2082
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 外天下矣吾又守之七日而後外物
+  hash: sha256:641de0e287ea714bcb94a10d9482b78007721a93f9600cae948807bdc56f8c2e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c6369b12ff06bae8bda7a4447c0a4e9cd57be2e3765e35098ede656747d9c161

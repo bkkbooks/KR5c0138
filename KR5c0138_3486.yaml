@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3486
+seq: 3486
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言其指麾顧眄而民各至其性也任
+  hash: sha256:220cab55f3e035a06b835476fa0a548f7ab708d67a3e082d23552cd21e5eb36c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4392cbb311dd6025c5636d5fba5cd7d4cfc4217534ab8f266e46aa1747a8c58b

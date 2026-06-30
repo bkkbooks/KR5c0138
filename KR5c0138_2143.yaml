@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2143
+seq: 2143
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 晝夜我安能無死生而惡之哉
+  hash: sha256:8d445e0d49b73998217a74aab6c62189a41105e47040f9d5566b6b9e43b5df6e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9ff70d7526c6526e7486f949f3b66fa16e097445e6ca1f97d1f1a739bc62415e

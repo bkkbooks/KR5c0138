@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7527
+seq: 7527
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不能自勝而强不從者此之謂重傷重傷之人無夀𩔖矣
+  hash: sha256:3c31ab1ada908afa23c8ddd5c00ddb6b3c2f6472b8eb86ccc3c04e1a66e85681
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:92769e7e594f0405c7f25c226eb47441c0ccf487417814dff02c57838e010b54

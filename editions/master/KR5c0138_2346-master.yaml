@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2346
+seq: 2346
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不任其聲憊也趨舉其詩無音曲也
+  hash: sha256:5cf4ce5a6bcf077860c3fb07659b45fe4872bf5f2e5f2af26cd7ee8c9be5ed2c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cb9b601dd2a11272be472877a3394007ec80777575f49890c3bbd5d2e3cff8cd

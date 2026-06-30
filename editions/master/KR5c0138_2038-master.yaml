@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2038
+seq: 2038
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 善天善老善始善終人猶效之
+  hash: sha256:6274745391c9075e022cc23dbfc300be2fe90c4956ecfc4892d12acce371d360
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:585cc7ec1cceb338d5b6277739708e14cbc95a7d47ff1c183c462176b5ee8041

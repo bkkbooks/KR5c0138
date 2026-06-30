@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/560
+seq: 560
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有未始有無也者
+  hash: sha256:17f3c98b558dd2a3cb21dad9a9f9c496a04ccb1825c73d4e95a9fac3039d4dff
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f9ded06e56b3aee9c74d57101514bfde6f84f42abe8f7295207a9256546f3874

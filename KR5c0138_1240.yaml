@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1240
+seq: 1240
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是之謂大戒
+  hash: sha256:570c1feee4ff53a9864ab0a5515545788b4c6e13343b716a5a9eab96057c95be
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:432c3b378e0f12a617abae7291aa18cb92baa256abdadd5539e5240ac0ee465d

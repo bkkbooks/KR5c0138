@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5059
+seq: 5059
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知忘是非心之適也
+  hash: sha256:f5e1a7d5edadcb01b7388ca7da6b3a8f95b7bce14630d260e545f1def2f87da7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9257089c27782bac9211b40de675f1b9bcbf40a8bc9a2091adb97ed50fdea942

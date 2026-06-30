@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4142
+seq: 4142
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 禹之治天下使民心變人有心而兵有順
+  hash: sha256:1faa3c90445d2abf1f8d0a169a48c52134fb3dd84504611f40760a9eef917fb0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3136fc3a18fcbbbe5b503ce44b5c35c4e441bf35ec4c2a1ac9c3953f8c8911d6

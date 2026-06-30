@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3707
+seq: 3707
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言非但人倫所尚也
+  hash: sha256:234c530e9fe79f4841f8750d5c687311f30bd091af99541f9ab27c6d67ab6b4a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:878c69b54559f1a4babbbaa67bf996b472b0bdcf5813a9de79f6990c4853252b

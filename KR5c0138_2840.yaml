@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2840
+seq: 2840
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫堯雖在宥天下其迹則治也治亂雖殊其與夫後
+  hash: sha256:05c5401f5a1ec1015138c27e00ad617ed8758be4d5bc060d9f0c3e02bc309e4d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:de24ffd83e934610c92797c9724ee64e06cf5e4527dbea2faee50585004a785f

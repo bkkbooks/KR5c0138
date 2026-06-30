@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/272
+seq: 272
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 穴地藏榖曰窖
+  hash: sha256:17a3e8be67dd35f60fd789c09bcc924aa6df0b796ed62a5de991b07072cd056d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:887224fccfdf7d968f41859673a21f1ff41f96f2aef921c528dd04151a2b2b3d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7948
+seq: 7948
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古之人即向之四名也
+  hash: sha256:69100cd268f1add1626bc25f9cd58c3077475dd109b938cc712de619ccaef8ae
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0653bc801d4fa33161c8c05725cb2bbae63b0ad38d96c296fa92af9ed89e9463

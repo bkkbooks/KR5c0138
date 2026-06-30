@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1654
+seq: 1654
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無趾語老曰孔丘之於至人其未邪彼何賓賓以學子為
+  hash: sha256:03cd9845b6b4dccb0a35194df07280bac0413bb9951dbe09cd27f10079a4d31d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1251fa09dd3dc66917159365b7028de5a2a00adf3c0b404c66bfcd5f9aa14b34

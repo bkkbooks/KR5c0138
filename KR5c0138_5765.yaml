@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5765
+seq: 5765
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明夫至道非言之所得也
+  hash: sha256:4301ddfedca3ca91f92c0fd45fb1ef2456b57151ac5e505f949bc60094bdf118
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:886c0a92e5dce4ec8a5b30dbab4b2036e8cfdc0eb0bdf704c36ea86388a149a1

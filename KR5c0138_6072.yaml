@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6072
+seq: 6072
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人見其猶之魁然
+  hash: sha256:56718b984b482845838b543f5cbdec2c5cda107ae4818b8a0250eca636500b2b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1f8f2e72fda0e185ee8247b3690125e47abe9f9d5c8432302e010b6ca9497ed9

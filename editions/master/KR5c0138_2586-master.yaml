@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2586
+seq: 2586
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 何以知其然邪自虞氏招仁義以撓天下也天下莫不奔命於仁義
+  hash: sha256:273e53b730ed7362703055c3f13a9878f196391e4e8802c371d33044697b6ef2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:248590261c903b52e9a859427b4f55d97bbee0f49180f177821f7b68d5b3f5dd

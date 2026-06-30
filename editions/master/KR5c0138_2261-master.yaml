@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2261
+seq: 2261
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方將不化惡知己化哉
+  hash: sha256:2990f7b8893279dc95b1ac3d0c6a0f23bd2b8cc7959ed378d21b145d36deab93
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d4f6f330f54daf2a16dab901882346e6ce88450b7d1a5fbde9e32a94c57f5f3a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7424
+seq: 7424
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 生有為死也
+  hash: sha256:42a0222e4ed8daea12654bf598a1b1e54948b67ee4f0ffe269b3d2ae0deb6868
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cc0734795e68ca05c3dc61bb72bae0711814f130e51c88dc398ce586d7933061

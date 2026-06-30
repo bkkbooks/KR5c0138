@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3755
+seq: 3755
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日月照而四時行若晝夜之有經雲行而雨施矣
+  hash: sha256:cd89b1cb686124af65d62949f5f2549d2e3e5da55a4950cc90fbd1fa246a6d86
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:319fab003400e87e205e6a0845b5747a5f580d74296147b93b26b95459ed988e

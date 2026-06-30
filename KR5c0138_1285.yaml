@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1285
+seq: 1285
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡事亦然始乎諒常卒乎鄙其作始也簡其將畢也必巨
+  hash: sha256:83a023378ff9447e3c2b2b13a67ef44649a1de35baece7627a06ade61b1ab52c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6e5f4f826e943251b314764a5870c8447f02245cfcda65a3c8de6f89310660cc

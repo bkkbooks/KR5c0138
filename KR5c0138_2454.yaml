@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2454
+seq: 2454
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 嘗又與來明日又與之見壺子出而謂列
+  hash: sha256:ebf7381f85a6c6d70c10a591891bbd77693b884193b51251811b3e2aa1c4c5b9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e082c99d8e7e7cb509ee08d097ada17a9a7f9b3f5fd314f505ae8280c723dac0

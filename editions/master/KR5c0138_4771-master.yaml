@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4771
+seq: 4771
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今奚為奚據奚避奚處奚就奚去奚樂奚惡
+  hash: sha256:bff4ad505bec33e3e1500ecf28bedd2965affd8d063fd08d361759cc98406f76
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d432353adc2c3299a88d93aa5ff4866afca00e3b727aaa8b6454778fb91c8dc0

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4324
+seq: 4324
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道無不理義也
+  hash: sha256:c220b59eaba334d8f18b7b50648084ac8f1ef3e2b971c5911213848cd6e91d62
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:601d2e4ce38d999460d302cc498ecfa1d3a486d86c408f9ae07f16019a97e3dd

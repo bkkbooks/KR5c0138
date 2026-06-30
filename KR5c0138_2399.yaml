@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2399
+seq: 2399
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 合氣於漠
+  hash: sha256:a7330a2a1b9682305c1e7308b2512cd7a3e71634e57d071a863c85fe20532bb7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a7d8d28f73a5c51b50b24ffd9dd18721280ff7d4b53f81b5e0bb09ec1e1f0172

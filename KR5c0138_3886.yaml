@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3886
+seq: 3886
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孰隆施是孰居無事滛樂而勸是風起北方一西一東有上彷徨
+  hash: sha256:f2c15d876bfc3db5e14b0a7e13522c478b64c1568d6cae79be678a3e1e309302
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:459a538cb0f8b5daa66b0e785ccdbe1123989c3ebde83657cc67510e510b7acd

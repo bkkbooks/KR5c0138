@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8390
+seq: 8390
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謂無經國體致真所謂無用之談也然膏之子均之戱豫或倦于典言而能辯名析理以宣其氣以係其思
+  hash: sha256:3e931e9637310cc7d29fc4f90df23d9a451784e38a2193f805b64ca2706299d9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4af5d22b1e127c35559e0970d1b7ea593e0d25fb9f54dd2f4a43d21a1aa96223

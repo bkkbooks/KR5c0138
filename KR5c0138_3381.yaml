@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3381
+seq: 3381
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而自得此生矣又何營生於已生以失其自生哉
+  hash: sha256:37a893380dbf37a0eb11aa229c2fd061ae48c9cbe03e6b204446dbfa53cbe4cd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cf4b533d2d85b2d6a4f880215139812c2d06080bd26ffa1ec1d7824b9470c645

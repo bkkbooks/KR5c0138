@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/98
+seq: 98
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 茍有待焉則雖御風而行不能
+  hash: sha256:b95e1451166522a3f3ecb4ff9a9a829cd2011cbaf13360bbecdbaa7670774c11
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b763dc752f5877c77ed763204da9e223f1fee75be7bd42aa7e06d63c7d845601

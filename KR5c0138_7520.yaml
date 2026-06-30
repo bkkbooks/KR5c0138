@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7520
+seq: 7520
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 中山公子牟謂瞻子曰身在江海之上心居乎魏闕之下奈何
+  hash: sha256:2974434d43e804ebe373df14216385405f344b4e6a0d86b24e0ba0d110d18924
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d41c9753b39842ef229e3af7da802113d02082f677f70befbbc6ab0b34f6afd8

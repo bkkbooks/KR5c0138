@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8379
+seq: 8379
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南方有倚人焉曰黄繚問天地所以不墜不䧟風雨雷霆之故
+  hash: sha256:08c59ff34a80e89b22710e829ce79ffe3d55c75c253362082393d10aa346e212
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e93bf55c4a437ae6b8576e21aeac1564c7225c6dd6ec988f7cabb7a3e38202c4

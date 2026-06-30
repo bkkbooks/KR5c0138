@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1014
+seq: 1014
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與人羣者不得離人然人間之變故世世異宜唯無心而不自用者為能
+  hash: sha256:df311a3053bed6fd61e99cd1d39aaa3edd217dcc50ecf3a657a2f43bfd2df7ec
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a795d05b31df394e11d3e04df46476349c7f71142ba9c799faa28e63c7ee5288

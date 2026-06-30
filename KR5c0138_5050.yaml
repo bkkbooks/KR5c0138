@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5050
+seq: 5050
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 焉故曰敗
+  hash: sha256:75ad4b25900a95a9435d9fb2f869a885c1a031938c048ae48a04e277d8a787db
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2e17140c3309e2f5a86eff97eac0bb0d516fa23e65dbfc0eca8ccc1575ef7c77

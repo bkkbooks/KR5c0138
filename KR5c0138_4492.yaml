@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4492
+seq: 4492
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明終始之日新也則知故之不可執而留
+  hash: sha256:5af3054c7510ca8620bd2a9410f83d3c3bac8cb07a2dcb5f34045b3084e5dd73
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:31dafccce1abd671ff1d1e536e36165fedcb5ef59cb843c6fbf4fad0c78de713

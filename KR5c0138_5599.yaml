@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5599
+seq: 5599
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 畜之而不得其本性之根故不知其所以畜也畜同勅六反
+  hash: sha256:a6e61cff24adc7a55b5d85b16be51d3621f83fddc3c97292059bc96cc37e9646
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:89697b883ee0294a3be93e3cfb3dbf431daeb5b93b7c1cfcb777439ce6f436ed

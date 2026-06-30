@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6102
+seq: 6102
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不出而無得乃得生出而得是謂得死若情識外馳以為得者是曰得死耳非理也
+  hash: sha256:4d24d72ccb7ba882ece88fa087611fad908c6cef351000ed1aac83eeb04cf7fd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2803538245885d77e0d30adb461d44f13aecc9f9ef5274b3a784622c4632cf25

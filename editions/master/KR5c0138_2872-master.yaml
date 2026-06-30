@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2872
+seq: 2872
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故貴以身於為天下則可以託天下愛以身於為天下則可以寄天下
+  hash: sha256:797ec0e329a0b3f4c1103b7d646acebc3eca754a889e8fe4d1b762b63650d59a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7f240f31987c2a6366413fc65f9d8b9a969ebdba0911f59184e07a0efeb5facf

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2896
+seq: 2896
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 非焦火之熱凝氷之寒皆喜怒并積之所生若
+  hash: sha256:35e33803bf852c452928b92abdf8948db067f613bb23d5dad48f2cd8f2d5d0f3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a39f5613a581a07f3cb55d8d883dae327985acf1098f65eaf2d748cfe495e066

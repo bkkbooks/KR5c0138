@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6316
+seq: 6316
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與物共者和也自許者姦也
+  hash: sha256:3129f801939e32d654fb9f7f1dd8bb9bbc1245c352618b338077a36cd0d6f94b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:876b153726988203880099f09061b7e00d8f6b907f3010d069dcca3e484db468

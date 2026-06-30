@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2524
+seq: 2524
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 多方乎仁義而用之者列於五藏哉而非道徳之正也
+  hash: sha256:65f10c916fdd1dece487787aedc9e3816f00ac150c934371deda036cc59a0c3f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4512cb9bce8a81947425fb05376a5b93ac80abc54c556bc6c686485b0c5f4f01

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3245
+seq: 3245
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 㤀夀夭於胷中况窮通之間哉
+  hash: sha256:d4e7d4e826618ac272376300f9a2d33d03efddd62aa8ec6a3f1a916dfe1cf694
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:18baf3497b9d4a99c9fc6d8417efd93f086fc4325192762f7839604a2b17d210

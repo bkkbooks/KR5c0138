@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1604
+seq: 1604
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不狀其過以不當存者寡
+  hash: sha256:fe2c821f25080ad6adc5dae3699ce5c06d55bc9198663d6b296bc52651e02d58
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:aea279efb2019662ca0475c826f0a1b8cf0976cade65a851ec8cc10dce37fde2

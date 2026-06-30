@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7539
+seq: 7539
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 連子云共伯後歸于國得意共山之首本作丘首
+  hash: sha256:79cecd2399050c013714646d034ead856da70a756018a116940551afd6c5dec2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:59c8cc31ec6c59204f4bb23d1a709fb759b84d59d048ca4fd4dfccff12a1e292

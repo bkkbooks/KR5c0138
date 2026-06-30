@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1979
+seq: 1979
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其一也天徒也其不一也人徒也夫真人同天人拘
+  hash: sha256:6a0bd843bbeb52799f7770cd18c54a154b0c4a10b61d187d863ae5ff36ce7614
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5b0076e1ff012f06420225b228a6cf722b2bbe7c3208dfd4967eff289d2c4036

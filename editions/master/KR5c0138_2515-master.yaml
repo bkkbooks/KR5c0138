@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2515
+seq: 2515
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物來即鑒鑒不以心故雖天下之廣而無勞神之苦
+  hash: sha256:fd11704750aef1676f30834fb2dfdd2b6d963f4e56da40132af90317bd0de10f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:48e5c0c63d4450a98aabf8d2c58cb9f74b3e097703e6823c08377fd60e6ad736

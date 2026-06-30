@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6885
+seq: 6885
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人中隱者譬旡水而沈也陸
+  hash: sha256:fca1b2b2311ee3175574974fb41c65ecb96f6969d1ac5aa756efc3a96807417d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1407a7c4033abb6479483f47d8fd7ae0327368f577c9328de7fae8aac55217ce

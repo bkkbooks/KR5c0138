@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2543
+seq: 2543
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此數子皆師其天性直自多駢旁枝名自是一家之正耳然以一正萬則萬不正矣故至正者不以己正天下使天下各得其正而已
+  hash: sha256:a317c82026d45ed6029065095d914df1af4c77f4f9d2240d5de2eb20975df603
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:25e1a1226e66380ed0a4881bff1ebaa4c2db435d0e0c9645de709ecd8098d5b4

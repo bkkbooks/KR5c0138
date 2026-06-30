@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8250
+seq: 8250
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其書雖瑋而連犿無傷也
+  hash: sha256:47a50336a7dd4e36af812ff17c5cb6786a0f7ee406ea7a1906ce38da063085b9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:37910d42b40951aa0b468b806069b35808e6824fa997784d4ad4e7e6e7190e7b

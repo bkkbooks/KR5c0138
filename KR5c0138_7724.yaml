@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7724
+seq: 7724
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 權輕利薄可無求於人
+  hash: sha256:5c4dca06377649206cde0c87cc4de1cc3cd8ffde691f8965ed7f9f7be48d036e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9cf66b19526fc80efb1224c20ae75c824e657e8cd92683ee874e0af4267f0d02

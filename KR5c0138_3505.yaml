@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3505
+seq: 3505
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致命盡情天地樂而萬事銷亡
+  hash: sha256:6f4f535e28058aa45d44903ef9bab733dad6ab94458596dfd9326c2f09db7765
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4e4fb8fb494480cd754888c45b85ea94bf00998ad8325143b268d61c109f7865

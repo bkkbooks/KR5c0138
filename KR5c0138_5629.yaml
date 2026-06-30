@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5629
+seq: 5629
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫率自然之性逰無迹之塗者放形骸於天地之間寄精神於八方之表是以無門無房
+  hash: sha256:2a90c45a5ece959a17809dea70acba1c1fd8b5de429649c0f617f26526eb90a4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:abba02d2d550fbd92f41a513b4858dc9c9f67209e79729aade10918c535b0ebe

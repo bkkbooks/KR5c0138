@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6275
+seq: 6275
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 情欲好悪内外無可徐無鬼緍山人魏之隱
+  hash: sha256:ef8dbba5c324b3cec19a77983303af6c5b6716359e89731c60530a1110670259
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:407b18055995b0aae9d83ce315be4c9981fc658a4a1d307de7b1afe67f8ad8af

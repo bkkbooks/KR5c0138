@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6849
+seq: 6849
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蝸至㣲而有兩角魏莹魏惠王也田侯齊威王也名牟史記
+  hash: sha256:fcf69bf26b0ac8b25c0cf6337c8f0aea6788be098d7803952772c8665d3fa38e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:47afd5596433e04d536042b45e860b99e37f8b7143e47bf012a40326806b3f54

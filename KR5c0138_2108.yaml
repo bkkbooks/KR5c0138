@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2108
+seq: 2108
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物縈而獨不縈則敗矣故縈而任之則莫不曲成矣
+  hash: sha256:3e23e8ea0ea3a760bdd21f54cb077555115f6195ff7b1b5e7897c65aae94a466
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d48f6da86748943ab4430d4ae791cc0bbcc10a13669e2090bd8ac2b4a86264d7

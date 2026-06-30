@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6922
+seq: 6922
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若以知足為富将何爭乎
+  hash: sha256:cd1e624ce757042d3f0398ef8682e553478e59b0ac067705837c9c1660cf7edf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9fef0a127949b6acf2b762cb36840c1dd60cd9b0dc6f35cd253b3153cca69e33

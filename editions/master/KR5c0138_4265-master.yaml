@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4265
+seq: 4265
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 静而一者不可變也
+  hash: sha256:453e696d3cd9ebc29ba5a0bb3bf524154e5c25554b183658bcde89273ebf6be0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a2993ec7970970293dd4dd29dedb88f925999f05893e0fcef79b5f706c9ae62e

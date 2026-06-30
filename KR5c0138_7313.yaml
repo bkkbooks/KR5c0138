@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7313
+seq: 7313
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 親父不為其子媒親父譽之不若非其父者也
+  hash: sha256:693bb7c845d330e62a81d1cce85344e9f521cfbc382d1b58a7a6c487f16593a1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9c20717e7d33112170f67886291eb20c787f83f40b89a8f241756c4cfdbe524b

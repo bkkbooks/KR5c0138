@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5925
+seq: 5925
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 偽播其後以致斯弊
+  hash: sha256:ba4d864f63d8876dd8677f5721be83a3bd101cc5e61991b20ad094d8e6a6231e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8b84b481d919fe738b738197bd07d45d6fe4e5f3930a6f381b671856abd3f0b7

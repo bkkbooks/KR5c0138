@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5226
+seq: 5226
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 去飾任素故也
+  hash: sha256:7dae30912be082bfffdccaa4e386ee63eab95645bd63837f1ee58a688a790c19
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4582799f140aee0a77e0868c519a4b72a00c0525f8964ae317c5cd964b29a3e2

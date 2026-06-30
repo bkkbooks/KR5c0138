@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6976
+seq: 6976
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其慢若彼之甚也見賢人若此其肅
+  hash: sha256:d2cde816f2323300c485e06968c321e48b63b2dbdc10f29f33bba0e9a3845512
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:63c280f3d9be648d0e45f3c96800536c95c77787a5ea2e9b67f2c0cd352c8e20

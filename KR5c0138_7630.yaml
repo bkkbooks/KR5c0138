@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7630
+seq: 7630
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 父為父所逐
+  hash: sha256:1d578feb51cb1a4c85e9405c4d6370b53ef6ab75afa973022bf7dd7a052230c1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a61954aaeac72871111c576e911ca630f4de4f7f1800d602aaa5290c5dd5ecf6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5510
+seq: 5510
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方将躊躇方将四顧何暇知乎人貴人賤哉
+  hash: sha256:61806a9e05be19f16c50a9e572e428cb0d4bbe6377f76d4aef74b7bad11b48d7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:653ce1d7e34f949a1e716e2a5919671303948cfc50ebf0c2a5ea18289d6cc547

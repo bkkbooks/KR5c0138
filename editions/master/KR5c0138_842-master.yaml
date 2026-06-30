@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/842
+seq: 842
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曰是不是然不然是若果是也則是之異乎不是也亦無辯然若果然也則然之異乎
+  hash: sha256:90152c8ddfa159648bdada77afde5ff09d516cc3e014155e5a686a2bf4e7c77f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0d0ec2e90bd256358610102c4c16b81fef3d4bf1274ab68daec14e5cf7463e16

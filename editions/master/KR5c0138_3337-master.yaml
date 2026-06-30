@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3337
+seq: 3337
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南面之賊也
+  hash: sha256:6474e5e1d2f9a2b7d840739683a31773700e69cb5c61036dbef37aa3c264b979
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f8acc0857a96fbdf4c2ad27af9bff4df335b37e3a6f5338a1196f94001edb16c

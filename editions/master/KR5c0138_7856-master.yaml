@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7856
+seq: 7856
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孔子曰凡人心險於山川難於知天天猶有春秋冬夏旦暮之期人者厚貌深情故有貌愿而益有長若不肖有順懁而達者有堅而縵有緩而釬
+  hash: sha256:ac44170429fb5ebfabef03ac93c523136815d64837cdbcee5581ada320636d8a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:02e20c54507f2248e2905996cbcabf6fdd2f8d746fc1fc3a893cb41a0244a1d2

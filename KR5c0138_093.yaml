@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/93
+seq: 93
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未能至德也
+  hash: sha256:f3e5db16137b6e3deba6f68b53c85e9578358ea51cd0b25cdfccd349994acbed
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:895997c2494ab4878378a93fcc2031ec9bbf11513ea92b7b97e51076e4f21995

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1001
+seq: 1001
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 則無往而非我矣將何得何失孰死孰生哉故任其所受而哀樂無所錯其間矣
+  hash: sha256:1b1d5cca8bf477706d5e5568d1d956fcde5652aa56878284567624c3df4c2fc2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:820bc43766665ddf354a6a99d11fa45be9cf8f681ac04860876211ecf3777184

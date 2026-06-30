@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7437
+seq: 7437
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莫知其所始若之何其有命也
+  hash: sha256:13cfcc7574e11b46284d4c1af8e6278ad460a7e980f6d411defacc91eb6b52f2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3e5c9376f5394e08f36bf91197a2a5a746d7491a57996958969cceabd575772b

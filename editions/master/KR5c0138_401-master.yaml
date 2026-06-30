@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/401
+seq: 401
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故有儒墨之是非以是其所非而非其所是
+  hash: sha256:a58f6b8ab3c0b79f1bdfe721a6866c07accea779781be7565b2bcfe1634d19a4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:753769f70caf6ebe1571673e4bbf2f9ab1e1428db645cf461d71ecbf390e3111

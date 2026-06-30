@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2941
+seq: 2941
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 問至道之精可謂質也廣成子或云即老
+  hash: sha256:43b788df612aee6c391297c72664105dbd66bb60d4547b6fe6b5e31e27c4a698
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b345b6c37bfea608f05bbfd092370a7125ab20abdfc67690470cd519d206da2f

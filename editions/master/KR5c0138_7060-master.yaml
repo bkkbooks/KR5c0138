@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7060
+seq: 7060
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大公調曰鷄鳴狗吠是人之所知雖有大知不能以言讀其所自化又不能以意其所将為
+  hash: sha256:b791ff4cef6914d98c5c33190a361e87ac98231648d54fd29c9ae52e79b783ff
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:145b9e61e2452866aeddf511242f163fca1aa6cdaca60d5f85952ddeffa721fc

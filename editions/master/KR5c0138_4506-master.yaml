@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4506
+seq: 4506
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 圍是信情乎北海若曰夫自細視大者不盡自大視細者不明
+  hash: sha256:3b087a2706066d113994b08f7cef3061464000c64c9d089ba5b77bbe8c465e2c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cd3161d4a558e5773c02eb15d5d17c158cf4a3602b019d6015b210fed867e011

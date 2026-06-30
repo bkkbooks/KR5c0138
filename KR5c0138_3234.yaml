@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3234
+seq: 3234
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 沛乎其為萬物逝也
+  hash: sha256:794b8489f6a8e33c50d884080e5512bac3cadb56c68906c84945fce766d86a04
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2d19ef7fa335be26d74216133de011ad7d88f76e97d62145371400cd748e4c20

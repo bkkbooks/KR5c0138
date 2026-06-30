@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5303
+seq: 5303
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫有欲於物者物亦有欲之
+  hash: sha256:6b52dc73c398ef684a6c12328592a121aa1a2a6133651a77b290300ea35bf418
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:076382789159c7a629478428b861862864bdfd8848f4c80a62c2a6bdf6287fce

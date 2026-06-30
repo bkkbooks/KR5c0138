@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6477
+seq: 6477
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 辭顯三年而國人穪之
+  hash: sha256:056e5345d7148b516665364b4436519826938f31be5e4ff191ce22b1d48567d3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9f526ced901917abd4f7eb1561f3930ef435286ee806282d546252c0123264e4

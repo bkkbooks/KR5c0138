@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2455
+seq: 2455
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子曰子之先生不齊吾無得而相焉試齊且復相之列子入以吿壺子壺子曰吾鄉示之以大冲莫勝
+  hash: sha256:ff02dd7d6581ffbe1e40c0625637e9993fec422929ddebc57ca96d4f63fbc9d5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f3e81c355b0d64cf2300c829de4393b1ab79f79d90817e707551eaa59c55b30b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2960
+seq: 2960
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此皆率性而動故長生也
+  hash: sha256:15ea691bec01710b95be8fbe7c0e14c6e2ebca0676a740339f425eaf9510b378
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a1fb10c12ccb41dc740328db0e6a5333f303dd285e24ae02a1543861afd7a9fa

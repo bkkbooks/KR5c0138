@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3663
+seq: 3663
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一心定而萬物服言以虚靜推於天地通於萬物此之謂天樂
+  hash: sha256:6a63b9931f6f445884e397bbbfe61d8c6b5c46afeba8baec83cbd1c51b966cf5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6ebe7125f72f234a9d535a1ad31f5b7cb76468ff2f559102644847e9ab5be0fa

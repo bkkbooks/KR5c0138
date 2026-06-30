@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4647
+seq: 4647
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 者知其無能也無能也則何能生我我自然而生耳而四肢百體五臟精神已不為而自成矣又何有意乎生
+  hash: sha256:e7a93f22c08bf64cbe7f1d738d75ad42c0c7232bc0c2ca4093ce912e40320b60
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:13588d043ccf06f8428d2a591fc24c165056165a2efd2a9747ba9f6ad1c88bcf

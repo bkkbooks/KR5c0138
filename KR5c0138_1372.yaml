@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1372
+seq: 1372
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 僕僕然羣著馬
+  hash: sha256:613d309c9c79bb7de76d7581c36d2393621845e67bef2f54c4eed46df7e8d60e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9455179819a269b0620c14630908906f5585083e5ae27c36da0a23866e2ac9cb

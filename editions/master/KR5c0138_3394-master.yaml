@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3394
+seq: 3394
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無心於言而自言者合於喙鳴喙下豆反
+  hash: sha256:4f033dbda765ea03b9fac057ae3966f9df3b0e56c78e9f2683ae49543dc026df
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cd78eaa8c9d295e2eb8cf4f8979ab375e70951d89fe46d113f14ea73bde93e7c

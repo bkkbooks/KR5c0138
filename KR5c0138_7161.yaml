@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7161
+seq: 7161
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 老萊子曰夫不忍一世之傷而驁萬世之患
+  hash: sha256:c60fd35f4007468e22e04c5d7caf0d53fad65d6a0244c94ee07f931f78ae927b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1a7cdff80323348a0c351be1c3a39486691c4ae67479f77e5f092f598c23067e

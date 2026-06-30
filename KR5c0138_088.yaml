@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/88
+seq: 88
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼其於世未數數然也
+  hash: sha256:54c2fafd2d49dab8290192f96e418cb830a3e4fcbadb7ad1e86044e05a0bc4bd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d16c416c70faeca8b747935710b8d9d3d05d48a3c20a6125b11ff9234f66a8b5

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3319
+seq: 3319
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方且四顧而物應
+  hash: sha256:f9187fce0a1b59a1a79572b946e7ff0be427df4513266e076ae883fb6d081559
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:898b4aec1f5aa5da9db5f48d11d26047139701331d7a9f09b54b46818ce760b6

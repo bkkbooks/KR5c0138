@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7768
+seq: 7768
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古者謂之遁天之刑
+  hash: sha256:c399ff7def95997b83cc9afd2362530ae70fb638d2489af3bbcdc69a7bddd40d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c2879ad022204ae9a497491471efceec0912afdcae0d3dbe5971669ff3b0e2ad

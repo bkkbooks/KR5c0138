@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4337
+seq: 4337
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 失其性哉
+  hash: sha256:c82c838a3091e989b10d295ce530d9deff77e596d91100776386e206c1b12c5b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8ab80f8ac9ac4710cbe070972ae219c476ea933916f0c53713ae706ae5f743a0

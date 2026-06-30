@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4717
+seq: 4717
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 由處矣吾命有所制矣
+  hash: sha256:a0a072c46e045dece40269da838e4f9e6ee07b16298e3e5428fb3f8ed23bfd79
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:52709986086a8539a48df88c3eb2ec91a6e13611cc1e83bc1198eadf9dc4b95f

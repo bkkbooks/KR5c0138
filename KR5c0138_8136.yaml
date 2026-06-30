@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8136
+seq: 8136
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 患生於譽譽生於有建隧音遂回也
+  hash: sha256:f18df55d23273402a848026a72e9791c2ecd6ce6bec5f5d636d08a0c0a4545c0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6811232efbb3cf6d04ac4b30e3d9994288cb27e3dca9d7cc987798029c462d5b

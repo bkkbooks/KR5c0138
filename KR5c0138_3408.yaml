@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3408
+seq: 3408
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言此皆失其常然也竹鼠也一云執留
+  hash: sha256:75e6c6eeb919ec94be2a06b5dd2088bdfc20d8c2d28ff597895849a5eca6cd6b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c0066995cb6d8c37f58960b64f2fffd5ce5925765dcf6a2fd94facf0940bfd1a

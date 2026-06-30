@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7374
+seq: 7374
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孔子云夫受才乎大本復靈以生
+  hash: sha256:f78364b5a79f1ddf462b57005d19e28a38b975fc1b5e2bbb2267d8b893c80926
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e18a0cf456c918d385f1a55bebc43c500e50da800d9831e5eab3d1ba1fcda24c

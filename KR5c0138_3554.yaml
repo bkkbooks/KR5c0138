@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3554
+seq: 3554
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以此得人以此聚衆亦為從俗者恒不見罪坐也
+  hash: sha256:f0815d14974b34578aa6f7527ac69f741a9a1703dd43466e4e7629461183ec78
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6bf7c1ef3896962cbe1beab1ba5c069ab1e871bdeb0252428a90c160b02b2e58

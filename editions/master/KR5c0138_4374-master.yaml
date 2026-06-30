@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4374
+seq: 4374
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道之人何由興乎世世亦何由興乎道哉
+  hash: sha256:aff565fa2f29706db3a2a511760eda2e51aeb939c356af0f14a36abf2a9fd421
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7306ff2f564a4fe1b1f6dc517eaade45ac5bafa7da973cfe59eb5fbe22773bdf

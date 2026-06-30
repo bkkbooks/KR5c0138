@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4278
+seq: 4278
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無非至當之事也
+  hash: sha256:1c6639c8c3f4f2365a4a2f897a2c73990aa98529f76be7c9ac443fb2ef5f12ea
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:66c4fa3286fe6bf2a1e55def7dfc541fcb2250372494b8468a65fb7a9afe545a

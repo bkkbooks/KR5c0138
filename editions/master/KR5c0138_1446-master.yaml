@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1446
+seq: 1446
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 役則不與賜則受之四斗曰鍾
+  hash: sha256:f9cdeb2aa59e08b170545d349139eecced1ff12a1cead12b2972a534d5f5c658
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:df7d23ab163ac21b97e706cfecae824a8365ea72b487d9702bd35f7b215133c9

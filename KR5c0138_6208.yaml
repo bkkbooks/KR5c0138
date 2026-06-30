@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6208
+seq: 6208
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言嫗詡之無所辭謝嫗於禹反
+  hash: sha256:6f6a70f1eb14913d74a44e2765c7940cbf460069059015762b02042b65fc92a9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4f67f86b4e29a3d590ce7438be9a213262726f3a4115595789ac34ae07b6f39d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6470
+seq: 6470
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 盡遺故僅可也
+  hash: sha256:6a9f4ecb34b7d971d9c90affe1047f7de1169ef1bff28f5395195fc7151ff9b7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:37bde378dfeb216956a080171a4788f35f521082a4491f9e5e7ea31015f41a36

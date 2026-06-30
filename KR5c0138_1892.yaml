@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1892
+seq: 1892
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若然者其心志
+  hash: sha256:3c68e40a7b43d99007c6122262a97dbe48fa59dea7673cdb46ebc14ce6ada292
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:14d9a6682ef61a91e9c0737db06b090525acecb6db378e550c02d081b1115a31

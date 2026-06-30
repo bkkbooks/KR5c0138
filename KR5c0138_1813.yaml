@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1813
+seq: 1813
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾所謂無情者言人之不以好惡内傷其身
+  hash: sha256:95e7824c31d67260db707dffe0b60e5965daa2513af30eb8d07aa15bc8aef1b6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ba86f137957925f40e908afbd387ce87748f203babad16beddd7d22b77233f63

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6934
+seq: 6934
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 反其性匿也用其性顯也故為物所
+  hash: sha256:1dd104ed19975501671958621848680067ad6e8614d3ae102dddc218174f878e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ba8c606b6ed5de3770f10cf4e5ef5a7183af9bcb54475e1f79e3ef3ae11c5eea

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7080
+seq: 7080
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 已死不可徂
+  hash: sha256:150c8871d325b0731204e46b52cc8c56876fb95981c2e7c25da270aca2db6f45
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4f3d378db923086c5a2f79a6bf7b6f57bacb0ca6e71367ab0ba5f6408d26040b

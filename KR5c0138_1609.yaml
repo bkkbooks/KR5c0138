@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1609
+seq: 1609
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 羿之彀中耳雖張毅之出單豹之處猶未免於中地則中與不中唯在命耳而區區者各有其所遇而不知命
+  hash: sha256:02b8dbbb754add5181fb8ddc75848921235fbc90790a36e6beaf7e45b7fc8c3e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6db3dd791f789fcd8eceba4c8e6dbc7a88b91d979b0fde6a68d8ab3516e0df0f

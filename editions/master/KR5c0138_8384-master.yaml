@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8384
+seq: 8384
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 由天地之道觀惠施之能其猶一蚉一䖟之勞者也其於物也何庸夫充一尚可曰愈貴道幾矣
+  hash: sha256:1176690c7af10c145f098f74fd41cfbfea8a99a0c751eac1a3200bee10629410
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fa1982f6111fdc258dbf1859ab191bc1bc5421be2e90b7fc8a6ed3166fa6b380

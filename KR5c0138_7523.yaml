@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7523
+seq: 7523
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 瞻子曰重生重生則利輕中山公子牟曰雖知之未能勝也瞻子曰不能自勝則從神無惡乎
+  hash: sha256:82c173955adc3038d88e18efd74d4f803afb059bc8dd480df3c4caf362520ad8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:41896b56f224566fa6e74383aa1041fd806f80fc1b4ee85b5d72d820cdf8ec38

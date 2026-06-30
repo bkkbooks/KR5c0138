@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2325
+seq: 2325
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 仲尼曰何謂也曰回忘仁義矣曰可矣猶未也
+  hash: sha256:f90197bfba1a0f8feec1ca549783dc15535089c4e1b30dc317b62a77b921602d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fbe7a2f57dd14b4e3fee5b4054efb37e61c7ab4da29652e3da66734a483084e2

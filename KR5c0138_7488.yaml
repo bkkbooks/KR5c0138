@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7488
+seq: 7488
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自飯牛
+  hash: sha256:f0c48677520fd8eb95b2288b364b9ba893af1dc0a5ab562e706af039b59ebe39
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e3547933f35a258ddac9f87f90b5703411f6208aa88b90e07e7d4919e485cc2f

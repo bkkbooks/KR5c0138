@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6118
+seq: 6118
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有實而無乎處者宇也
+  hash: sha256:a990b48369ec77bff0c3a0b152b4384055085d99b5145ec93081e48ac1a60d3a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7e5dfbf04eb3d02c818fc1abc0daf092081ebe3aa3958f312e08047ed99332ae

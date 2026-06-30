@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4852
+seq: 4852
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 勝計種章勇反
+  hash: sha256:ccdbf8b3bfd33422976ba50c7559b05c739e5981f3384d9a995d56034cf36382
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:037a022211994769d99a9af77601599d7aa48d0f47d2cb4633cf2164c6f25c51

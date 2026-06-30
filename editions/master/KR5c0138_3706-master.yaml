@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3706
+seq: 3706
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宗廟尚親朝廷尚尊郷黨尚齒行事尚賢大道之序也
+  hash: sha256:9e7da443f5b6885f0c4763d20fa608eec8897d6647a73ff5e833166a7e4d9bac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:84c1c04268395618870f8ead0d5ff48909a39d4bb0ef1d4a77ca6b840265b6a4

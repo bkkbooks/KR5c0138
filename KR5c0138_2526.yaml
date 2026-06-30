@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2526
+seq: 2526
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是故駢於足者連無用之肉也枝於手者𣗳無用之指也
+  hash: sha256:f96cf3a908b402c822be7dcb62e03ab3e7c0d2e84d616bc926634cad3f6565c4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f1fb00db17e507292270b081e7c6c78f0b04dd919f4c7544fdc29dad53b1b09c

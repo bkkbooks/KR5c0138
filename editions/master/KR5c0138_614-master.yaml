@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/614
+seq: 614
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以惑聖人也故聖人未嘗論之若論之則是引萬物使學其所不能也故不論其外而八畛同於自得也
+  hash: sha256:ee14c1092380abc0775d1fae9322ae2b9dc37156315819009641f89ec9087e65
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1541fffd4f9b3c94acc89b7140044190cac65bffc529c1a52ce02ccbe2035063

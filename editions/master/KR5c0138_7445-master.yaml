@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7445
+seq: 7445
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 動運自尔無所
+  hash: sha256:af0a27bd1f8405af0da9d2e6ffed0d49e3ed8d97d1ca0aaa448fa38ad35f764a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b9ce67de6212bec1e99a1ee8762bee6c65713641edb162852e80fcab8bf0444c

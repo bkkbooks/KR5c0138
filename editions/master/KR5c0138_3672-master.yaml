@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3672
+seq: 3672
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有為也則為天下用而不足
+  hash: sha256:73bea87499d53d942d3847149cd36fb0d9d224f8f30197a768d3309fd1f48c7c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:826fcea184a82ca5db0e65e17b86226cd9cc2d798731241256f847416962cd27

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4258
+seq: 4258
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有欲乃疲罷音皮
+  hash: sha256:c482783636f7ecf6afe8040e0ffdff184b4df326950448409f9c60cf76d4f0b8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:99af16ccd869c62a7ccb2d67910ae461c959a9118fa06b4fe30f984ee0474f90

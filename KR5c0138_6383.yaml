@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6383
+seq: 6383
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 馬以過分為害去起吕反
+  hash: sha256:873d0d2511762229666fd66072826b4e230f1e7f1d93a3d7d47c97248e2b85a1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5cd8f5104dc5dbaacb1015cd7cdb125f0be463ee55e719daf4cbca8de111a562

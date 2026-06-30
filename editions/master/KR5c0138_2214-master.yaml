@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2214
+seq: 2214
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子貢曰然則夫子何方之依
+  hash: sha256:06057e451439b214d4cd84658b2368cf7bd53e3f8b27aec1a3f89eb39f016eea
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f932b750b9301ef9deeea3d513786e9554ee3ea14f2564423f4afb315107d871

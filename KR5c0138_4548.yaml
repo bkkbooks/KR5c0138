@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4548
+seq: 4548
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 外事不擾於心
+  hash: sha256:7667762f63a43543b9325638aeb4957d3beec99b18d0e4b19fad846ae1e1c788
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f157170a0b2a775b07c6d5ce1f1580b5a394a79d452b3ad5cd858e024eac260e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書子部十四荘子注道家𩔖提要
+  hash: sha256:7aa780bf363002301e31b84ee638fbafe1a83557b05f2e868d57c18fd0151d80
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e1e931a5045c208afea2fe9daf41847c66569f1a6b82a514cffd010bc4ba5a61

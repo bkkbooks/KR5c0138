@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2935
+seq: 2935
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 淮南曰大者為柱梁小者為椄槢也枘人銳反鑿頭厠木如柱頭
+  hash: sha256:b0319e76d3c139c518d471bd98791edf852b3e884af264a966e7086b21ba2220
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a151f60368a95fa2dbd51e62ae58427f7cec47cbae967e4728d288450561905b

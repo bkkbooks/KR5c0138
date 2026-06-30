@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/123
+seq: 123
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聖人無名
+  hash: sha256:a387194b4147ace33e62df8a2c0d2de5adf3636add7d18c16efdf1c885803d87
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:525653adf63b8e0f86ef8fb2d09b9902389f4e21d9dd69a5ab92784ebd300bfe

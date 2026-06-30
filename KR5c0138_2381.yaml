@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2381
+seq: 2381
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乎能其事者而已矣
+  hash: sha256:2f17208fdcbafff8bfe934c04b96ee820e0ff0082b1b4fba13fe5917435b6e0b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c7770462b6387f38054919cafa506c5099a3d7e946d2be1f3ae69524729662f0

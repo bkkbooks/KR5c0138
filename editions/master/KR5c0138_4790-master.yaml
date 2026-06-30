@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4790
+seq: 4790
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故夫子胥争之以殘其形不争名亦不成
+  hash: sha256:e5e03755b693703c52b602cac649242fac00016e3fad77bf4b1d490475d9ecd1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:069e84858daddd184e41841b9579152a763828e9f2f749dd4c9f78d61a0e2a3c

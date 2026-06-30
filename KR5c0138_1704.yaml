@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1704
+seq: 1704
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 刖者之屨無為愛之
+  hash: sha256:8f1f0723b1cfaef9f4b65fd74343ae1777749acae2c4095257510213ca7cf520
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ac537ac378cd7724cc7f53398d0b8a29d029b88faa4806e043de2e20ef0d4c8e

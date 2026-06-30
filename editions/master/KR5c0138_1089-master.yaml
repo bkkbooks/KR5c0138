@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1089
+seq: 1089
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不欲令臣有勝君之名也擠徐子計反又子體反
+  hash: sha256:e4cc75b176a898fedcaffe01054458f275909fb053f874a2d53276662d7c3a4c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1c5bda7afdab8273cd7fe30a5bb9daf8fb9da63d29afaaa37e1de1b43b63fedf

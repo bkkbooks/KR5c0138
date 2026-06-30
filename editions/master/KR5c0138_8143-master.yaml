@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8143
+seq: 8143
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 豪傑相與笑之曰慎到之道非生人之行而至死人之理
+  hash: sha256:222dd13da9b3b703e4f348e1832977072692df0ac3893ff779ca0e4f39c1be32
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:81102573b5fd27ab6995e9726186aab00624fad1e29fabe7be1077de7c43e9fe

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2606
+seq: 2606
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天下皆以不殘為善今均於殘生則雖所殉不同不足復計也夫生奚為
+  hash: sha256:f21b86693729e683cc168c860fbfa16df2b2f7ed27e7221d7c5c79c64fec8377
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ce30a3c3fe3eac811fd5be9ce2a39c38b6e17cd2f4d3717783a2c0d73b6a6c9c

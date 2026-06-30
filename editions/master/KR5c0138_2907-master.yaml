@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2907
+seq: 2907
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫黄帝非為仁義也直與物冥則仁義之迹自見迹自見則後世之
+  hash: sha256:2b61bc8457c78e06563f3ecfcecc6e2231277ded4e41302ef59fc1f761dfe86f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bfcd9221160027f7228741f6239687bfddbbae68608300d018b80c5616bc7893

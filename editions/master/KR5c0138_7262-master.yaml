@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7262
+seq: 7262
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知出乎爭
+  hash: sha256:0e5ec30c3827b806df7161b09d0f21bb83796c9d771e878f22b0bd43385d1238
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:adba7473919648cafd31b32064f249dfe14dd626453970ab6694e74b07768423

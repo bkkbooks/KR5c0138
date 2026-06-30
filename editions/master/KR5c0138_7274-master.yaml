@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7274
+seq: 7274
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫事由理發故
+  hash: sha256:2357c77a5b2775100113a2fc0b7a250bd24ff0ffc43279db16c9c80aa01d7beb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c15f24caa2bdf84c4d2af7b86309e37063e4e6dad6170089c3934fb37601b33a

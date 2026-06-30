@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6906
+seq: 6906
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蒹葭始以扶吾形
+  hash: sha256:b8d241a8dfae86ce9340670bf2a60911b240bdc6f611dc359de3e5c53185ceaf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:617adf9558240456f35574d9cb68a1dd1c1241eb7b05e7a7fc3e63e0509f35f6

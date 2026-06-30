@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4457
+seq: 4457
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 伯夷辭之以為名仲尼語之以為博此其自多也不似爾向之自多於水乎
+  hash: sha256:d3044b7c914698376ec66e7ae84a02cf62acb9b12093bea02ee8202d79a78afe
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b8e4ec5bcab17a6af946d704ae4be08b6f40d3d3f774049f34c96bcf133943f8

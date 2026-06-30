@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3902
+seq: 3902
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卑貴賤於其體中各任其極而未有親愛於其間也然至仁足矣故五親六族賢愚逺近不失分於天下者理
+  hash: sha256:cd3ef88029c9cd23c0fdc917313a3578cb333161bc1787d3a5cc2d8bc9c831bc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ccb22703bd740d56fd01242875119da647c0afb4bad8d8a01dde63a220e4369e

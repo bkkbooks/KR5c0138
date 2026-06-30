@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5767
+seq: 5767
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 視之無形聽之無聲於人之論者謂之㝠㝠所以論道而非道也
+  hash: sha256:6b71cdb430cc0e6e98cd9d471cefb74bf1e37bec91897554b35224d62d88a33c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:76e72477e9edbae5ecd927da08a1418218becfc0a5f23a800046ed561d093b61

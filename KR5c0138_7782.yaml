@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7782
+seq: 7782
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 順矣兵其安有
+  hash: sha256:40b959d7ad747b30549432bd1ce0aeb690bc96265500621a61ed9b82d4ee5f23
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5757f97ca1bb1c5afd6b1e5f1dca2167dcf64b2948eccce29b4fd9f8402be8d3

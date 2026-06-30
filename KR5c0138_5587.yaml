@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5587
+seq: 5587
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 秋豪雖小非無亦無以容其質
+  hash: sha256:0519a38c3fb3aa24b7507da2f9bc329729d6e11dcfbf778d93986da525dc0f28
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a57001b925e563997259e8895a3c0d4c9974865d62b47faaa639a16197912193

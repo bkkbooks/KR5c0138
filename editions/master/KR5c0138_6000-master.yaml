@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6000
+seq: 6000
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 非以此言為不至也但能聞而學者非自至耳茍不自至則雖
+  hash: sha256:123602d3d95747b6b4841968aec7efb8001d0f63c8c3dfae79f3c13dde54eb13
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4ba2673756a8fdff6a94f15c98400ebda4495f79db1e8cb23c12ac650716e467

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3796
+seq: 3796
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 老子漠然不應
+  hash: sha256:bfd9ae2f29df71fa62c995fcf2e9151285f161a26dbc58a1553c6aa26d71f859
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6d5e01d4346da5148d334cdee56eadcc1bf02e5ccd2708d9057909e1e8f2f452

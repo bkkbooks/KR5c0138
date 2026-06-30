@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6339
+seq: 6339
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 君亦必無盛鶴列於麗譙之間
+  hash: sha256:c4618a1ce1c9138d4562948ff844eda5274e276fab9e845ac4fb74aa6b3a6bff
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1654d9943eb71b0223091b68035e9617c7634007f8b506b449cb8a9378efe715

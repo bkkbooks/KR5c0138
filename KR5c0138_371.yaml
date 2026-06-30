@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/371
+seq: 371
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 非知也心自得耳故愚者亦師其成心未肯用其所謂短而舍其所謂長者也
+  hash: sha256:c389785e5cf5c9a765505fe0fcff23a019f60da1729b4675a264e9c7a41d4ca7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:05156711f739e7a0c23d8800710ab3682a2bb8a90551a77fd661de8d1a800f43

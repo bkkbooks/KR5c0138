@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2833
+seq: 2833
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宥使自在則治治之則亂也人之生也直莫之蕩則
+  hash: sha256:26c610da036439693f22344a60b9571ee34eb5ac1b79cc08fab8e30390544861
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6a4887ebdc09b1286ad04fa03b1b0b0707981aa8e1ae5fc177816298ace0a068

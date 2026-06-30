@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2314
+seq: 2314
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 皆自然耳亦無愛為於其間也安所寄其仁義
+  hash: sha256:29da4dbd7f3f92b39cb5accfc9be56cf1efd92dc176462ed1eb8132d2f2e3e7c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2307f2fbf3854c43dfc268a30eee3d44ea8ce54d3dc4735c456498f5ba43b15d

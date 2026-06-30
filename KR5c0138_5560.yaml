@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5560
+seq: 5560
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 患生於異
+  hash: sha256:e066daee5140a3390434f17acac3cd43a18a535923443c4e16986959ca22c852
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:514eb65f8e1930444051a3b92a9b467ed078303be62aa5e3b9730a8bc36f46f8

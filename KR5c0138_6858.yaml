@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6858
+seq: 6858
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若存若亡乎君曰然
+  hash: sha256:89d6a95b7e82b3312d52e7f55be89a28959499c42efeac9a0548d829ddf3c165
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f70ffc3bb9ec6fb08ae6a0a9d45437c4da69de61e11eb09e600248a7f22eae52

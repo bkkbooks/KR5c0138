@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/746
+seq: 746
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡有稱謂者皆非吾所謂
+  hash: sha256:b95c1594cca95beb5d49d5c62d57bcc21ccbb366773e88025fcbb63cb2ba1294
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5e58e5181e1772e8eac053841efc552940cf0f0d45151f21430ad7a67f12f67a

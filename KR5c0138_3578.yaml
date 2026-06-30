@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3578
+seq: 3578
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而今也以天下惑予雖有祈嚮其庸可得邪知其不可得也而强之又一惑也故莫若釋之而不推
+  hash: sha256:486d55613562ef9a3ab49e7703965f229bfb55257120b0bf88806f455acdfe31
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fe4c73d1dc18d38d960aaa7e6bd012bf894f8378b138464f8f3aa63daf18a218

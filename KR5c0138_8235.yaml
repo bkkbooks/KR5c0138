@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8235
+seq: 8235
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 萬物畢羅莫足以歸
+  hash: sha256:c80f629a48908033bbe24ad612310255168444e3a35854329730181f44aeb1b5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1d94d9a437d526f49432178afb95e0ebd2fba6cead7c34b6878421d1546932be

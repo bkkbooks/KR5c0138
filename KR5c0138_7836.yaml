@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7836
+seq: 7836
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 布而識之非芻狗萬物也施如豉反
+  hash: sha256:c536ed48f61aad2c40b986988d1fc5ada4bae602bbaa4674e570c89763b58569
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9261abd5897c3bfe817b4866e2c8901b62e546f48025caec7a4c7158677d7697

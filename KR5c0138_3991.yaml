@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3991
+seq: 3991
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 調之以自然之命
+  hash: sha256:ba889ae7b82386dbaa0e5b5e8de42131f4178c9e4fc1952d7486ba8a0f92364d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7b680102e4b988e27455adc254dc9a2d9433eac2d8f8c13cd1b1813bf632ab1a

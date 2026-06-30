@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3937
+seq: 3937
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 由此觀之知夫至樂者非聲音之謂也必
+  hash: sha256:873db831deb4b4e64772b341985927a5d10dbfc7c035723c6bc21017477d32e3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4fdda751de0c2b10a57a66132ffad1abdd0a2b21a63d917a82c83f597cdcf187

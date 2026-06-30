@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3892
+seq: 3892
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫物事之近或知其故然
+  hash: sha256:c63645b17e019119c4677ff819acccae991cfd4fe296ba16add8e3a1f0e18aaf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:32dedb50a8b1fc1461967b37dd3dd1b7240e0a832d78951aa6d465c19572ba71

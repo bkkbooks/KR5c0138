@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5350
+seq: 5350
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歎也仲尼見之而不言
+  hash: sha256:79da4946b7fbd508731c002832ab122b9ce1c0129f3e14272e46b682d70dfb27
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:20c7eeed3a1796c57f9e66ff3a94659e1f7510f8655176d1048a15bac629a73a

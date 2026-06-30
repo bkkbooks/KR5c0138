@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5325
+seq: 5325
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人貌而天
+  hash: sha256:31e9defaad53baefcc33dfa0600eadcdcc77a142c4dc36da7882392f782864a8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8e6d6fa02dc1da110f3f734ea0a0b5822f19bb4f1c24329def432385ed525ea8

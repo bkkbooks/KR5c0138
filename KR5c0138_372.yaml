@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/372
+seq: 372
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未成乎心而有是非是今日適越而昔至也
+  hash: sha256:f4e07a41a76dc3a4428308bfbf6bbdb532a2238f8ce471837ed75096fccf8ddf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9d9b340025e85c2e813918d9a7260246b0675f63012d1c6d991ede4dfc153736

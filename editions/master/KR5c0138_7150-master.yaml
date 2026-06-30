@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7150
+seq: 7150
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 視若營四海
+  hash: sha256:e66f8fffc7e99892925dd4b94025b82eede24d3c01c4cce2b3457eb5e7c0e058
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e7d4858da2ab69d0161254b48e7b8180889d6406ad669ba77ea771d651b95bed

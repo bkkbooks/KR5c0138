@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1129
+seq: 1129
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 外形委曲隨人事之
+  hash: sha256:4c125ef1f93331d31646969d0167e53e5e3b03bfb2651879e99601cedc74c969
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:92bed57063b07bb0c39f72f828438c1907f29c0b8bc8e28162efb81fe6711b98

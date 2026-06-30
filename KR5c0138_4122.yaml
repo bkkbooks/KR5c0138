@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4122
+seq: 4122
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 斯乃忘仁而仁
+  hash: sha256:57609fdff35ad871bf49d09ec1f495dbed6aa51d60cf9be1b99f776fc5df5d28
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:152d4b56f1f4f293e616cc159c3d0bdfbf74b1d1d996ac83aff7aab0f4c67cac

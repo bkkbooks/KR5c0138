@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1810
+seq: 1810
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莊子曰是非
+  hash: sha256:68b9d2f66a565083648df045d5ad18394bfcac7229823c4bcb86465cece94726
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1aae8f52bba762c03652096a99aa68d98e7cd108f8c0ffad91ccb00769de6525

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5187
+seq: 5187
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 昔吾聞之大成之人曰自伐者無功功成者墮名成者虧
+  hash: sha256:e6b06e5308a7bf314cbdc4fd1a165c4ecee8f450535eddfc34e84c6919c2e6d7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:73f4b332157a94a0bbc148c4398b3b991aa51fc1eb2f1ff95eb4177f4d95e422

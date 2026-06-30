@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7992
+seq: 7992
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 勤而儉則財有餘而急有備
+  hash: sha256:9caa2892c55b09e7670921fd3663ba64011f2e15cc60f8c941648f7b0a6d3818
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d0914c9ff066a87d34f5832cd391e2611d76f7bac264a89ef6bb2a1172ff3833

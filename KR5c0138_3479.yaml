@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3479
+seq: 3479
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 𤣥同孰識之哉所識者常識其迹耳
+  hash: sha256:6e246d20d79a270f44030335732dffaa376f5f351851548447c7280e2b2c52d8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:799c53bafd25de9463982043d67cbe233e80ddb07a777f6401263e6d3f35872d

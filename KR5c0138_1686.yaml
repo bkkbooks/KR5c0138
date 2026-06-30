@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1686
+seq: 1686
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不至乎期年而寡人信之國無宰而寡人傳國焉
+  hash: sha256:41aa9bbc87b4a2d751523929ebfcd65544cb35e410ce6f2216a53989c7be2f2e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f1de929bfd1ba326339ac8e603c1853e436f12d579803c66937d271ea1c84eb7

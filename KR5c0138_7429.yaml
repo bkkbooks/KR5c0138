@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7429
+seq: 7429
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫生之陽遂以其絶迹無為而忽然獨尔非由有也
+  hash: sha256:1c2a687070da6113aa6b5b65331d500c7dd47feb695e7e456ae69902e60d0f5a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cf65ebe036bc01173d8497b9637af1efa46cfc4d607c81f8be00e42c0dbd3f7d

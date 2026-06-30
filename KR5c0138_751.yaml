@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/751
+seq: 751
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫物有自然理
+  hash: sha256:f5c80d482febfcb75dcaf5d6c18e1b1a672b2a74b1494e1e5eb0d0fe9059575a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6f7f0315e8710368ffa9181afbaca66f13c3bc2fdbe7caee06f4b819a877da48

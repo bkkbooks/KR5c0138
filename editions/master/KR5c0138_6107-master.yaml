@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6107
+seq: 6107
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖有斯形茍能曠然無懐則生全而形定也
+  hash: sha256:69c2eb34efbb710ca5ce1eed9f01f51b840ae916a4621d98297d36800cc461fd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d20f4e8759d96b01eec65a6775d94501b6f4217f6c43c96eebc9e37f99b5eb2a

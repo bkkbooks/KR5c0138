@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6893
+seq: 6893
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 果逃去也
+  hash: sha256:7774ceb670e77847e8efd6c022475749ce3baf57c7fde97948785a6f0a9a6bcb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ffb9cf256546bc20a05209f933ad156af910b257b115a5998f9739a0476d0ea9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2755
+seq: 2755
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫跖之不可禁由所盜之利重也利
+  hash: sha256:ae74dd35beb653a3abe9b48fcb96865f21a7bb4bddc9505dce7c22dd485216f5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c17b52fa32e619ebd4600a7d76c2afeea16b67c2e906405643fdcaea456640f1

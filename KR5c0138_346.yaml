@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/346
+seq: 346
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 終而愚者抱愚以至死豈有能中易其性者也
+  hash: sha256:f318fc0eb93fa6e2281b7928421b39c9c9343cc94beed9554b9294a650dabb73
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:40243b47b69a2be42e7515b2508997bcd7b936743ec26b4ca0ce4a6afcf421a4

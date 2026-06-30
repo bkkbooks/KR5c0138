@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/826
+seq: 826
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其或是也其或非也邪其俱是也其俱非也邪我與若不能相知也則人固受其黮暗吾誰使正之
+  hash: sha256:c9c9fe5deb5ead19d8406f8d5b682a54bd1a4a4c870f8d543c94cab3630e6670
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2df67379a0c57b61c2a5b56869fc80134efeb83cfeae045508952012b9570e1c

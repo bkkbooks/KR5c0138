@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5601
+seq: 5601
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與天同觀
+  hash: sha256:0105f7ebc8452d3c4dd7aaf9e20cb78a155a48ebb3f4360db6660a3a96de3bf8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:313c8d4314e7fbccde69258a293e5dae4bf1140921596c34061cb79a00572a58

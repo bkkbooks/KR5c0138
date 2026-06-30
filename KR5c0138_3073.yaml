@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3073
+seq: 3073
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 獨有之人是之謂至貴
+  hash: sha256:70812c267d20948c82509c04e5541709df5378e961a1ba26201dc7bf7324b039
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ca04049912e0afbd9be62b46caf1469c6442bfd9762c99913bce4d4acdc947ba

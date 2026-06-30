@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2794
+seq: 2794
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若夫法之所用者視不過於所見故衆目無不明聽不過於所聞故
+  hash: sha256:9d4aec1f4d16f8df500eacc9b3706bb1927f3f9d83767a91dcf63a48c0de7f32
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dca79026d7b490793c24441a0fc6228db1b1acdfb71dfca681e69a48d18e8569

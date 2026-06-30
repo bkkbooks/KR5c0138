@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7301
+seq: 7301
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寄之他人則十言而九見信寓言十九寓寄也以人不信已故託之他人十言而九見
+  hash: sha256:1417f108f8bec5830854b37315afb65d6d2f4771705605feffa9d76b518a1f63
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9d32dcce19c3e0601e6f5dc4c2a4d16558f5996c55de923e10a17b213961a8dd

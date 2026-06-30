@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2142
+seq: 2142
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天不能無
+  hash: sha256:a091a5ba7075429fdfedde20e6c708fee8add2ca5625c63f04d9b1a964d231af
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5da2aebf46b17fc10949cf6c16db736afd917f260aaa9f4f62ff1a7427398220

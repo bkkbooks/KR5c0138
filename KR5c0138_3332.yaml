@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3332
+seq: 3332
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 治亂之率也
+  hash: sha256:ccd75cf9aedb48031aa7e26b47852207e2a0fd59919797ef861ee53af68489d7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:eeb3abded76187105fb004272f7d0fcdc9c794df93276bd9525c4bf22b50f43e

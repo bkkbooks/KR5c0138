@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1322
+seq: 1322
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 任理之必然者中庸之符全矣斯接物之至也
+  hash: sha256:66f59ec3388eb1bf3e53288f7e8621c2a4fc54afa0b65865b8b3a2ff7d2ae109
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:196c745662fd17e19c164dc6eb4dc55922b335f4f033b9d821d2a27e26143553

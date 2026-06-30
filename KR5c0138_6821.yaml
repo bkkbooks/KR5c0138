@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6821
+seq: 6821
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 師天而不得師天
+  hash: sha256:c0e9785f6c10aa92b405716bde530df0f094c0413ced2423af331bc13928d1ff
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:74217365f0ad2b1dd5f9faa22a26287d91fb006527090a0813fe2b8a7d5e4f23

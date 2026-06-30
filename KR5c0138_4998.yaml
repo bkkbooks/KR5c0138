@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4998
+seq: 4998
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 陽既外矣而又出之此過於出也
+  hash: sha256:f04b5f753633c10bbf732b626e3b71b29e2844fd7b9f4a7632ea78777c234679
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d653154c0221a4c5cca5c4c73c2fd385a54b711d3f8eabe74c8d68f41fd3f5cf

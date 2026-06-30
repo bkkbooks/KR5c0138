@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6184
+seq: 6184
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 因以乘是非
+  hash: sha256:8284a1eb26c9ceb821ab3f21b13e1236b9fca17e16d47ac87143b9cf09dee052
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9332bfd3aa48b6a326ddebe85886d2f785bafa324093715040f093a263096506

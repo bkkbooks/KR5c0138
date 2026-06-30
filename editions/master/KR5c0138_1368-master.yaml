@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1368
+seq: 1368
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫愛馬者以筐盛矢以蜄盛溺
+  hash: sha256:bea23cea6fc170f63a06d5e33efc936e49ce1a268df52a42aef24abff3bef900
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d37e51ce2d826bff3adcf93d5590be3b6c28798e0ace07cf93d86e80317b0dc9

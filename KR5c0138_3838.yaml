@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3838
+seq: 3838
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡此十事以為不信性命
+  hash: sha256:f9129a2c8f0f16a81a1741ed05b0f9fabad947bc984f4a1a66938727087312c1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:caa948df3a2ae86c945283f85636d211f36742104e386a86b1bafea9032a195f

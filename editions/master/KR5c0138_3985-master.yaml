@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3985
+seq: 3985
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言物之知力各有所齊限
+  hash: sha256:75f42b2056b10ec07021be478ef4e66af95e51a4beb29499b18fde2e5dec122f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:62c4afa569d0c695e39be1c0d7d1a07186b23511662f91be7f1e53a7ff11396b

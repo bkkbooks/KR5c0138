@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4088
+seq: 4088
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天下未有以所非自累者而各沒命於所是所
+  hash: sha256:fa348a94e4905d2d39f5e71456e8cbbb0a8c0a17432bb23893615738a428e9a1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7312cd4193ef656c0f619594c20897e5c6a4d283c5afff2485acf15c4072b4a0

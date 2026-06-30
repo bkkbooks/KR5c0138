@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8329
+seq: 8329
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 生於水火生於木木以水潤火以木光金寒於水而熱於火而寒熱相兼無窮水火之性有盡謂火熱水寒是
+  hash: sha256:0e33acb6eeb6c74abd0e9ce809ddaf737672bbd5c66fde7c4eec6da299bba144
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:96079d805543e6ced2c4ae43bac0562d26e9f159992fe0e5e3a62bad16cab2b3

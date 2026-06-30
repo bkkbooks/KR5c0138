@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3662
+seq: 3662
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 心故王天下而不疲病王徃况反下王天同祟雖遂反禍也
+  hash: sha256:a105bd75d5308fc9d870964d28b257332f5f4fcab853e62055e599d8ea3de691
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3aba97f61b03e69db252ff94e93e635d050b0c640d010287fb2907bc1d37d1be

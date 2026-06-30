@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/963
+seq: 963
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 善刀而藏之
+  hash: sha256:9cf5ff270a3521ebbbd1fc6eef971f93662f3a44cd09eb2a620270cf6f28a8c3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ce5dbd64beb9567b9f02746e7a5a8f59f73a72a70ed88ed283e44d1183809700

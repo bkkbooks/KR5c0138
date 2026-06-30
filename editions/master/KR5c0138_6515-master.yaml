@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6515
+seq: 6515
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道之所一者德
+  hash: sha256:a0e747b0daae04e60e9f9950bc565f3980b96f63c8f6e28e900a8c5a2c298a19
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:74e518c8746b4244b415595a7fd2fd31fca21ab03cc9a8d4c0f9856813651aa1

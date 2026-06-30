@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/435
+seq: 435
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 偶對也彼是相對而聖人兩順之故無心
+  hash: sha256:ed7457bb593769bd50cba355745c5753d44d2cd3f97d0603eda035e27f3f6d89
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5590e7e83ae36b811c4cbd489a2eedccc33fcceb178c48b0b7c671a1b741f5a3

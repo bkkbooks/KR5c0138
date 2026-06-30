@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6015
+seq: 6015
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有恒者人之天助之
+  hash: sha256:a17b5deea42bd6d53fa940dcf13784e3ee299e687a8857d34314dc1ddee4dcd6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:999d7fffc2a48eb5cd95444a8ea745443d6e93efa95f57dea38aad42881fbaf2

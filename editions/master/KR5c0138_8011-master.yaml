@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8011
+seq: 8011
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未敗墨子道
+  hash: sha256:3c199134ae1befb09e221bccdb9263bddc34bd4ed1c968b00585b9f0e8f46732
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:88015bec8b1d45fa69749a59ff84228450ba317126524a97c2a874d62f5735c1

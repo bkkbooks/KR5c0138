@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/bkk/v1/markers/199
+seq: 199
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_001_s262}
+  - {type: line-break, offset: 14, content: '', id: KR5c0138_master_199-bkklb1}
+  - {type: line-break, offset: 35, content: '', id: KR5c0138_master_199-bkklb2}
+  - {type: substitution, offset: 41, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3155}}
+  - {type: substitution, offset: 46, original: 呉, replacement: 吳, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3155}}
+  - {type: line-break, offset: 56, content: '', id: KR5c0138_master_199-bkklb3}
+  - {type: line-break, offset: 77, content: '', id: KR5c0138_master_199-bkklb4}
+  - {type: line-break, offset: 98, content: '', id: KR5c0138_master_199-bkklb5}
+  - {type: line-break, offset: 119, content: '', id: KR5c0138_master_199-bkklb6}
+  back: []
+hash: sha256:bc5373443df30f64c62570e834b72e4e93845e1389ebc7cc11f928c3cc3aa6d8

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4994
+seq: 4994
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 仲尼曰無入而藏
+  hash: sha256:759519d6f0a1e2afd3f1b56dfc831e2f6566c9b983c15e0ffb62b6655e06d361
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:24eec8f784925ad447b1d13bb031a540808b9c9f04db7f029e3f1d537013f450

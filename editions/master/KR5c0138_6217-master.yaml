@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6217
+seq: 6217
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謀而後知非自然知
+  hash: sha256:62bd9b52e41fd17436e40e70a99d0bda1a131ab6780aaf0e41c88b87f8a1d4ca
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f487f7f7240e5be4523c1dd0e8525aae8e758f118f524b38b677a22c3c9a48ec

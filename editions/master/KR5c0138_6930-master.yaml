@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6930
+seq: 6930
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故一形有失其形者退而自責
+  hash: sha256:7d299239babb0c5492325fafe78a406c76788a0863107ac6fc4ca538e0d199cc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e78343eccd041bab312b7bb667f6e73772aa7740f08d62018db38367d7f26849

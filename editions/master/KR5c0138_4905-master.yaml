@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4905
+seq: 4905
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子列子問關尹曰至人潜行不窒
+  hash: sha256:7f18d9385813eb0c7f605a678bf45b2dd30f98f4de139cdc19c1d4ebd58c2e9a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2387d27ea75744913496a0beb75b45fc6a285e3009a264f59e4f25911275a5d6

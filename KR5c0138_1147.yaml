@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1147
+seq: 1147
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 挾三術以適彼非無
+  hash: sha256:5b33815449a9cc0358a938dccef0bdeb3de32fe638450d8838be0f5393812085
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1e6c3f9465554f952c7dd63967e0a6518b68f0eda30138da83cbb75b1f4be415

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/661
+seq: 661
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至人之心若鏡應而不藏故曠然無盈虛
+  hash: sha256:c0a402fe370b1adf2602e95a835421a08ec42902e322a280500172aedc70e6e8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:80d865a8d2085abda25bb8181c12e680e839481ec80259910d71997fd04cd4c3

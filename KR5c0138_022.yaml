@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/22
+seq: 22
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫小大雖殊而放於自得之場則物任其性事稱其能各當其
+  hash: sha256:21f6a4deba8a5ae2bde570c521cfb8319610c18da8f3d899241a2b6b135aa6bc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6364ad57ff4efdbedbcae62eff2577f4c5c1e1d29ab3157c21ebd73cb71b9640

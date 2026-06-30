@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1052
+seq: 1052
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 心而彊以仁義繩墨之言述暴人之前者是以人惡有其美也
+  hash: sha256:b998c67e866c3cba9146e8a8b85939605be84ce12498a04b7bf58f57990f8722
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8dc339d3d0ff33b350faeffc48989b165053d78011593cb6e7d63aa41ebe01d4

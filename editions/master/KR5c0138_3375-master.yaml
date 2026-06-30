@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3375
+seq: 3375
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三百變後世得道伯成子高是也
+  hash: sha256:c4bc3a451a10655eb444156fc30d2d96d4d3bf1fc462ebccb693e323cfa129a0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:27e0544e3ff304f3877faee03fbd2e08337b64c9e11e3bda234fabf9dd751e7e

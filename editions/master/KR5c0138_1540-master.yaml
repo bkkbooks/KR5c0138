@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1540
+seq: 1540
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 常季曰彼為己以其知
+  hash: sha256:4c90ea26756ab01330b2d2ed8dd5bb225c9a0dc63bf1fb0a64db14051d3cce0d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6340f5cbadc12f028f04336b0d10981f08038a7b5033f742079313c5a345eb79

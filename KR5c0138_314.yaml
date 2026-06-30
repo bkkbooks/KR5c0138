@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/314
+seq: 314
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 情當其物故形
+  hash: sha256:5af95fdc3c2e34cddf29d696ae3d023c2fa43c481119ec2861fbade29ff18ea8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1b8d26e347e90040e271fea1a863d343658300263c2b8a2f0df2d09a81082645

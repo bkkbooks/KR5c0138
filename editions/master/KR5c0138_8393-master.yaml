@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8393
+seq: 8393
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 郢匠之謨而云其書五車其言不中何也豈契若郢匠褒國寢斤而相非之言如此之甚者也荅曰夫不失欲
+  hash: sha256:2cf6f19a5e58ccb8874816bf2fa77c6eced5e2e66302658c4f18b39c6274d492
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c65c69b349894aad99adaa6cf6378d226f965f8faff6a5eb9486cb84073e4cf4

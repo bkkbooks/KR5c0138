@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5774
+seq: 5774
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故黙成乎不聞不見之域而後至焉
+  hash: sha256:5a49e64df191723483397c2e3ec0ae5ba180bb2be791067c95c289e1a76ed161
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f409d1b2ae54763e1db33b8d85e736e52c718ea63fc7ad0a07114962f24e70f4

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3210
+seq: 3210
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無為為之之謂天
+  hash: sha256:e211c3384450f7a388e455dc862dc5a4a85354ddb77b9de121243218f598fed5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e3934a71e1520c7ca4665ccf8b14e75c59727837658840d08eb782280f5071ac

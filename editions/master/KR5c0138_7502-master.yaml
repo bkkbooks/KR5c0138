@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7502
+seq: 7502
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 王名軫平王子
+  hash: sha256:d647a3ca05097e3bc734d682fbac6bcaea7f6f7520952b0598197b991d940dd8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b6fd9806ce81a4fe75483f61d8c6eaeb457a4a636fce6e937580af0dd1ec9265

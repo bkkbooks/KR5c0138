@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8279
+seq: 8279
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無不離也若火含隂水含陽火中之隂異於水水中之陽異於火然則水異於水火異於水至異異所同至同
+  hash: sha256:2ed74287a3507efdb9a0ee3959f05b1e1e5309ec7af138f1a27b187cf82d1122
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c751b8f018981c761d742984c1a63e888c361644a9755301b48b1710e9dcc299

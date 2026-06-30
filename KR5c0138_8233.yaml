@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8233
+seq: 8233
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 芒乎何之忽乎何適
+  hash: sha256:7582404f4e508072f08669d3e59f1b4cf2301ea752a528e3f75298a451d3af7f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ac74b1952243cad2cc7cfb895076621c2c563f3b18282fa53fb8eefc251ac657

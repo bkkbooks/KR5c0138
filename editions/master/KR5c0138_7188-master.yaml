@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7188
+seq: 7188
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宋元君元公也案元公名佐平公之子阿門阿屋曲簷也宰路淵名且子餘反姓余名且也
+  hash: sha256:2c4c4962c2999b819fccd590d6693f172e14b399c024879233480f9bc48f311b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fd597e287a5b84f299ff576c1e7f123702fcb866972548227373d6ce9d604140

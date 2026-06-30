@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4198
+seq: 4198
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書莊子注卷六晉郭象注刻意第十五
+  hash: sha256:61c04c34fa372fce2eaada0c5a3d51180c09cc57e32cf554c525b5eb47f462ed
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:85ae9b52ff3301c9be118e54e427c4bbf2b288ef15e3b6f1bb51b6edbe6c8253

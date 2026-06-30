@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7404
+seq: 7404
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 顔成子㳺謂東郭子綦曰自吾聞子之言一年而野
+  hash: sha256:2d4e406b7dccb058e5fd6a6c2453f7616ef8e5c7a62eaae1cf70790d584950c7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:462f1923f82659d5c3caa49fc023cc8957b1611069adc5ce7cbde7b1f25e8ce8

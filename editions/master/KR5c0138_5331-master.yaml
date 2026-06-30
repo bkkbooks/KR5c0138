@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5331
+seq: 5331
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫清者患於太㓗今清而
+  hash: sha256:ddfa1b7bdc4d3a05c810f959ddca9c907c9a9f0cc52ea7caaaca08349f320be7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:00798aa75a058680c1392e376356afd6536f1901ccfca7d2445b41abdcc693f4

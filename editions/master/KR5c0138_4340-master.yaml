@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4340
+seq: 4340
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此之謂至一當是時也莫之為而常自然
+  hash: sha256:f845a9f6b442c40ea7d3c195d8b6739968da3cc700fadabbcfacc81a786a3402
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6a7e05c26de63a55094dc31684c0253fb229dbd3436eae91e75e85c3854021cd

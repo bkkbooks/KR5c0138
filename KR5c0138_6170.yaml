@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6170
+seq: 6170
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物各有用臘力闔反膍音毘牛百葉也
+  hash: sha256:e1df9ec6ab446b561ed91e9b76d16ba3b626be6b7a53cffc42a5a5d17d0137c5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2ff93d91ff2756818f9e5895ba68f5a061a4813a44560496fc05141e8661a1e6

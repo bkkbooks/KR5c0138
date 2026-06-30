@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3267
+seq: 3267
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其心之出有物採之
+  hash: sha256:203d63ca9867f909809483850dc2cc1b0cce807f00a8ac73f29b46c7c6e4877b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:253216c1e1f26f122cac08cb77fae2c438e52b1aa4a91f032b7e34c2bff86aaf

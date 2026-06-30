@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/156
+seq: 156
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不食五穀
+  hash: sha256:5724e58baed0ceba4bc900d25bc09a49505979bfb8dee1f28a0200343df744b8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:63c4ecf5279fc1e3a539637bbdde812dd5d197bd1d420ed0d71ec5bd90ce77ea

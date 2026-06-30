@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8270
+seq: 8270
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卑如字又音婢李云以地比天則地卑於天
+  hash: sha256:d23d5e6067cbbf998367f8ccd098cf3bf904186caa768f226d0ebab592f33986
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ae395e592caf8d4381f4215f050a231d25970785d91945d08c40926ce391f1f1

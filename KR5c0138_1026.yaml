@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1026
+seq: 1026
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 死者以國量乎澤若蕉
+  hash: sha256:e176083319f0cd49c02e1f2553af9ddfb61fac28865cae69e44e2bd3b4bb7827
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:35e3b3c4a02bbfb2fb4db5e57f0dbf7bfcf03574f5d80a8a64f07fee3f5b043b

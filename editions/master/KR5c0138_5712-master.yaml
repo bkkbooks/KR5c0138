@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5712
+seq: 5712
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荘子指名所在
+  hash: sha256:866d061642220998d692db9e5a4cc28af9fd905f0c128b1e4ae1372a2825a725
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:af0646904b815c489ebc79018c989e46dbdc2832df11f653c0aaf486352ec0ba

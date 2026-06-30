@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6542
+seq: 6542
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 唯自然乃德耳
+  hash: sha256:04dcdaa6b40db76ea6e54f22883cb6e8369f64e12c6367c6887a66959af1c8bd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5cec4bec291200490c4f8068ac97432978d16aa07e6e1e337b2a1d8733288d50

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/958
+seq: 958
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得其宜則用力少謋化百反
+  hash: sha256:53e4e0e88353c8149a78c2e1145aeba6f8f6600231901be4b8e2cfac7151ebd4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cb252fbb486e0bc8971e4bdcb094d16129f4a62f394614588d9159db4e08c257

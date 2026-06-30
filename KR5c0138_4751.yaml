@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4751
+seq: 4751
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 揚兵整旅
+  hash: sha256:a8d05165f6d79d3f0e5fbeb1ce150728e9d22e5fc1f641c3d3e3cc7a3245c857
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a7cd0558377d808a43b26ccce7c1e0e212f54f842cad9e47f226115af4cc050b

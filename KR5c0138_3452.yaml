@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3452
+seq: 3452
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不㤀不墮則無庶幾之道於于並
+  hash: sha256:ac0081a865e7e1aabf71fa655f2cedda36dadf7db9da0087c9b792dda8b1fa91
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:da709d210107dfddd7160ba6ba690a1a8174fb2d6ab012ff84ff3f33b0e45373

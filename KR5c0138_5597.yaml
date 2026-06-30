@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5597
+seq: 5597
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 挈然有形則不神油音由謂無所給措也
+  hash: sha256:dda3e89bdd6e214e27943ce88589137aa590abbfc7f77279282e3bc3dc9632c2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e373d726c10389efc8e054bb80a0cad255d9db281f651d15a12356986e92de85

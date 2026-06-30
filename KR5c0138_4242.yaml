@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4242
+seq: 4242
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與人同者衆必是焉
+  hash: sha256:e23ce7917542203a7819a0f78ad03cefc4aa807f4435dacbacd9d652259cf69f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0954e4641c1c1d39bf6a0e1c6e93c0fd612158fbbb4075068802811a2daccdc0

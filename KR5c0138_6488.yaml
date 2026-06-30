@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6488
+seq: 6488
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古之言者必於㑹同孫叔敖案左傳孫叔敖是楚莊王相哀
+  hash: sha256:e2b10336dc9bf7cd3e69dca58fa6a9136f37c091264317ea3e7215875a35c9c3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ec0d05a705fe2bd031250af1a7650abf187da38993749e22727597ef3d869802

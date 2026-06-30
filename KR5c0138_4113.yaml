@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4113
+seq: 4113
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自然各已足黔巨唵反黒也
+  hash: sha256:67725b11e03dd2b161da11b4a20e0d76ca5a0cb719473046019ccb140a4720d8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:710c53fe497a251011d980654e14cc80b2f327780f5c443352ff4db69e5157f1

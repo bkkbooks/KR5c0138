@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1975
+seq: 1975
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故其好之也一其弗好之也一
+  hash: sha256:06b921c93eab94df042cff22fa79fbe0f727ac3ad143b38999b7eac3d48f8347
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ab22db5fac33659e29dc82b6c48339a44efd28a77dfb3921ca936566c0273a5d

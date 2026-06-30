@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2643
+seq: 2643
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而馬之死者已過半矣
+  hash: sha256:76d8a711481336828a1e218200d1b7d31b6f28a74ea23f1ad3afaccc251a17c9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a49caf1a69221fa059e542123249c9f324faafba0dc7831fdb8da00d7aa7ced4

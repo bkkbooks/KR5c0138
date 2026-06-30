@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6230
+seq: 6230
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 動以不得已之謂德
+  hash: sha256:15d1e50947dadfc9901e2435ae440b542002da80732cea7a76920bcf0188aaac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b4c9305251b27ce28aa3b6d64ec551bf15357319eebb2e731c89f389bace4c03

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/742
+seq: 742
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不喜直取不怒
+  hash: sha256:3190a63283233c01ddc96f997fa1710320db794fba7d8eae96c807efd46ae705
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:66ef7d8307dde7f025fec12ef890da469d49a21ea1e9db7db4ee93717f38688e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4394
+seq: 4394
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此存身之道也
+  hash: sha256:9c845921db1624a01060a719cd276612545a87008d1a842e079238f3e9e56ea3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:09b3a30565a7f0632be9c0800a277d7e2a1b3d6de7ab8b526fab19d11d0bca23

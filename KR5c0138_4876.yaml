@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4876
+seq: 4876
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有生必先無離形形不離而生亡者有之矣
+  hash: sha256:9a47e666c73f2ac97d8c1f77e3bd2bd9c59eb8d1d8e764e5a078a23a695b5e78
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0b4e82ea5db534238093d70b9a99b0117908c1cc668db31b0f032ba95259f026

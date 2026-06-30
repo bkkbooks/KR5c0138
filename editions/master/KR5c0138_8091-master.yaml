@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8091
+seq: 8091
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日夜不休曰我必得活哉
+  hash: sha256:44e93b70ff4836984fe6ac4a8baca6eefdc106786368278882f3f2ef22c0d5ed
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ab69c54cca2351d13c67e9a3c76ddebbbe721be22834103af87ab1fdc445fe83

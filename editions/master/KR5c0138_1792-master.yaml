@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1792
+seq: 1792
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無人之情故是非不得於身
+  hash: sha256:9ea6f85100494e8521cf02da71aaff95c37bc75a537bdae16437a1176212357d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0bb6ba50550babee459532fbff1c6ab6c93556cb2e6e326e82508fa5f1fa0b1a

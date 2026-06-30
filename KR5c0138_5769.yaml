@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5769
+seq: 5769
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 於是泰清問乎無窮
+  hash: sha256:f328bfebb51f1d3248d37ac7c5ff672533c03b6f71e0d1db83eab5c269fcf555
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9e3e320a3f66551c57df0a755a5a60843af861c41cd0ab6deba3c75ec1e566f6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8148
+seq: 8148
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未合至道故為詭怪
+  hash: sha256:817b117e53e28b4f14f106a0694a66049ce0602909c0a9f01bfc8fea9f5721f0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b544b8608cbb4d47e05cb1b1b87fc67676da56c97e565f147dbbe273128587a2

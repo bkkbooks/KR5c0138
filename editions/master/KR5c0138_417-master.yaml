@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/417
+seq: 417
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫死生之變猶春秋冬夏
+  hash: sha256:13e5879656e64c277a62953e93381cd4bb3d9b211050c0c0ed43d8b305849991
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a51d36a0863d248bc3fa89d42a8e208d29e6f1ff8e88158498adea36af2e032f

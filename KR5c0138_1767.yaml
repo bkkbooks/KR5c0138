@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1767
+seq: 1767
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 長於順物忘其醜長於逆物忘其好
+  hash: sha256:20f7413b9180d603048659b872fc7efe8d69694a77122743338d1efc774ebd6a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ea2ed60db23c8eb7209749fa8c774632d66a94af2bd68e92f69de1243351a785

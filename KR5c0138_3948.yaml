@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3948
+seq: 3948
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一死一生一僨一起所常無窮
+  hash: sha256:f54dca9cbf82996bca528e8d9359c53df3f5745c723d8a6d6d4544a51248dadf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:92ab4832f65270886e4063c031b27c71f26891b8622663489b393128fc71d5ad

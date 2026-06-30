@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1536
+seq: 1536
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而不同則死生變化無往而非我矣故生為我時死為我順時為我聚順為我散聚散雖異而我皆我之則生
+  hash: sha256:0f10fdf23377bf8678d8838f451204023f3aaf3ecf67e91a28cc3b0bc9247310
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:faba018bec641540a7cc0747b51b5b2489043b0385ed2238f5d75b65e5286c5b

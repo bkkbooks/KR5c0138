@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1068
+seq: 1068
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其言辨捷使人眼眩
+  hash: sha256:e54527ba4b60de81fc77bddcd9d0f8446440c51327948f0341e1e889d2f469da
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9d9b49cd57e4b5142564efd084af03403d3f53449a000b270c245a17bef560da

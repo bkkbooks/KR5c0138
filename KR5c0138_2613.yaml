@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2613
+seq: 2613
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 率性通味乃善俞兒古之善識味人也
+  hash: sha256:4e879207d3d47a5437642a6c39485ce71d328f85f9e8dd5d0acc02342ed44fec
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1f684862937dcd050a0c65a484d229cc6db371873c0a22d32a0c98059476102e

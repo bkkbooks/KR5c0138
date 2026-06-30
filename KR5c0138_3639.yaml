@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3639
+seq: 3639
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所以均調天下與人和者也
+  hash: sha256:d357a0a7aea1416c9faeecd42317bc0f08f4c322f30e6219bb4eb25b69b96b13
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4975132a1879c975e68a7edc628fea9c01d533cf62c930bf9ad9595c314e667b

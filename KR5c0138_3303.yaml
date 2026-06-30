@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3303
+seq: 3303
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼審乎禁過而不知過之所由生
+  hash: sha256:f509570e66f5fb37eed4ccc5edd5dc589e1a51b8136c95cdb635be904bb1a291
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9e3b8e447577cffd20fa37a560feeb6a6fc1be94aa14aab465c8151c1148e49c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/444
+seq: 444
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫自是而非彼彼我之常情也故以我指喻彼指則彼指於我
+  hash: sha256:d5fff6c3612eef5e4a0152c959d45db1ba9b7743355fb2c363cf38f484d8b53b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:db8ab8636f64ec61a2878ce72dafd7ce10a2d1a993393ce0d0db05ad8b07dbe0

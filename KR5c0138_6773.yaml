@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6773
+seq: 6773
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復命搖作而以天為師
+  hash: sha256:6cad8ea5f55a6c8e4829e4d18286b8e1a9950b2206035a4f55b8b24108d16faf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fdb42b816c937b3298598d45e2cd5b6dbdbd600c4a31226698899e5fd836fae9

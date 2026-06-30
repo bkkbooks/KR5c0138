@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5867
+seq: 5867
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所不能者不能强能也由此觀之知與不知能與不能制不由我也
+  hash: sha256:21a27e162326bb415f008d89baec80f35cc70c292b9b91748c4cae0c0154f04a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8f0507515d4831f8b3ab1676dd4a1532ca4da5286f3477e99b9b0861a095efe2

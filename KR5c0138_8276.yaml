@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8276
+seq: 8276
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大同而與小同異此之謂小同異萬物畢同畢異此之謂大同異
+  hash: sha256:f88e6755ba7ca97abe11e707b4e4744d1a8764d91fc333196b5fe29ad1ba49b1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d7524c76654c8899057d2b85ed902c65b31185af4d018de15e4f004e6923c67b

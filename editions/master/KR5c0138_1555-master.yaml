@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1555
+seq: 1555
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 受命於天唯舜獨也正
+  hash: sha256:e4441e8d81724c65986bf449dd31a05454c67e254e26685ba29d8f852a9d2ee5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f11ce59eb25a6b8fdebd62c7c670eda1d2d052da40904ce0e9a7e6bc793d7b7a

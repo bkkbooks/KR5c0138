@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6377
+seq: 6377
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黄帝曰夫為天下者則誠非吾子之事
+  hash: sha256:195d21a5c61e000c8944f58aba2eaa85f48eefcd60bb205407fb5dcbb656fc8e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2210260da947d59e5fda8b6b05fbf7a3156762bc9b3cfb1ad75fc9ff09179628

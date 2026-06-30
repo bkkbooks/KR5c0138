@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3560
+seq: 3560
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人道同而帝王殊迹者誠世俗之惑不可解故隨而任之
+  hash: sha256:ce624b4aa6c0db14aa381493cec57a2e68af1250cd0f2ee49f6294e0badd2ab9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a142754297c4150f71ca3d4c866da316e01b0b242e3ded08cfaa69f2325ea7a7

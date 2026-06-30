@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4652
+seq: 4652
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖心所安亦不使犯之
+  hash: sha256:b5d8332f4396f681067b552aec2dfe71a9109dd1a610e339bacb8b7c3188bcaa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d2320baf716e51661303432b10f8bc19386b39f5aba68645b872589261ce2014

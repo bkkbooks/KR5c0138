@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4380
+seq: 4380
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若夫自隱而用物則道世交相興矣何隱之有哉
+  hash: sha256:c3bd01ea3bc002d6248826498d7085ec20df09c6de7f7c044bf1a6ce2d1d543a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:030cb770aaef57a8394edd25aaa3b9360d7556f3e37fad56499319b3d3367faa

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/67
+seq: 67
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 窮髮之北有冥海者天池也有魚焉其廣數千里未有知其修者其名為鯤有鳥焉其名為鵬背若泰山翼
+  hash: sha256:9a48771d9590b4e983884f7e15a6eb2b4d362c22f5dcbccbac14d4e188ec8cdf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:668d6ccbf401f2a31c18c2db5e3ce93bb055b71d442a36a813625e6d1ac1f873

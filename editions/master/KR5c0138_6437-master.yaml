@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6437
+seq: 6437
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蹢子於宋者其命閽也不以完
+  hash: sha256:81814b37af6a1f67871d80fa0567bd68f95b564b3808e42926986e506f44ea3f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a4ab5653ef8ebffd54e2ab6d5abf455b3b9cad84cf85e0dc4bc7314c528cf665

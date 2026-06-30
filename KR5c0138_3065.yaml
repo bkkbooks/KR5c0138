@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3065
+seq: 3065
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不能用物而為物用即是物耳豈能物物哉不能物物則不足以有大物矣
+  hash: sha256:a4b0b440cb1a56be4670202ffb127f746b425ddf51547c787c36629e45b3db54
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6409c85d712a8552a56b206097e6bf4ae5782d538bd709644bd08757f1823ac3

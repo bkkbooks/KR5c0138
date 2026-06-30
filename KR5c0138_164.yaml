@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/164
+seq: 164
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 連叔曰然瞽者無以與乎文章之觀聾者無以與乎鍾鼓之聲豈唯形骸有聾盲哉夫知亦有之
+  hash: sha256:64999e033d3c6a18e255cdceba78ab34434186a8c825be0bc43a11e7f990b632
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a8a8b9512e6d64826bb8786ab986f8d89da96defa22df93d7d3bcfa500e6c1c1

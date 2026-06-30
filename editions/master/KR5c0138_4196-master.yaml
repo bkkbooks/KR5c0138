@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4196
+seq: 4196
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 老子曰可丘得之矣
+  hash: sha256:d91bcb97411c83758fb08c95fde216f1ce855d30a2936f48cc16fb93bd709f86
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3eb28bee8a3e090f196ea445b7af464d21d539b79836ebcf93d5d58f6f19ce19

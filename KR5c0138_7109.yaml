@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7109
+seq: 7109
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 善惡之所致俱不可必也外物夫忘懐於我者固無對於天下然後外物無所用必焉若乃有所執為者諒亦無時而妙矣
+  hash: sha256:05ac263371568e803b699fbdc3a40db2a651efa935dcb19f97d7afd88f2d6863
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:68ee1f37d6191075a1c52c4c7032acedb0e0b27591e725844674be4587f3e178

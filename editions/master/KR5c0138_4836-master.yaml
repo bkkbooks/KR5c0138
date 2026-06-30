@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4836
+seq: 4836
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾恐囘與齊侯言堯舜黄帝之道而重以燧人神農之言彼将内求於已而不得不得則惑人惑則死
+  hash: sha256:b2f5d386f72bf4bff825c35a576c165bfb81c45a4fbb7ac22e028a81ef177d6a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6cd922c46e6a675b29d82e51ce98fa420936bbb6a2bbac93a6dde0c85f510096

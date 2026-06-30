@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5081
+seq: 5081
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今休欵啓寡聞之民也吾告以至人之德譬之若載鼷以車馬樂鴳以鐘皷也彼又惡能無驚乎哉
+  hash: sha256:a3697073f8793a819c2bc0bdcbacceb2a08fcf3efd4a48d97fd65272b63375a3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4dfe3de6006c15b67d50145933d4309f1d5920e1bed2d22a70f95d68d8d373eb

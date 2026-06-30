@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3222
+seq: 3222
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故執德之謂紀
+  hash: sha256:4cea60f71681b72383cce273728adbf80d54ddcf0db5b944cfcc5c2d7281579c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3696f3a9e765931c5db35b636fb985639e4c1e73a305f9441b911a445a90b3e2

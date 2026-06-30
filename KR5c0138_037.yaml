@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/37
+seq: 37
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天之蒼蒼其正色耶其逺而無所至極耶其視下也亦若是則已矣
+  hash: sha256:5b3ad4959ea87a6284ac0dbcaa6b84add805597c3d62798c2fec3f1250c4a200
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c577dc936ad644d85168a931b497ab12641303cc591228e5e55b556031180fd4

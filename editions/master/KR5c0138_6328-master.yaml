@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6328
+seq: 6328
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 生於後故成美者乃悪器也
+  hash: sha256:2c1aaf07a3be58c030ca8eccb3160008d9a6136b4fd0195395d87746c5a5f364
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3b4ef3c7b842da9d6a135e5d29a46cd49ef9e6067142f4e3da0f5985d5613ad5

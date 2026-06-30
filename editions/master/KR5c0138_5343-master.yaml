@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5343
+seq: 5343
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 温伯雪子適齊舍
+  hash: sha256:dafed55a761493e019b0e7322ecb1d1571c0dde27f1f51ea1c179bb83c17bf72
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c37135c256e4d0e01e35542fd23dcf81ca3b399eeb69010109428c8b725388e8

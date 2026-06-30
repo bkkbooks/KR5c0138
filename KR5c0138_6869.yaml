@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6869
+seq: 6869
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 劒首謂劍環頭小孔也吷音血吷然如風過
+  hash: sha256:2eee675c803e687e1404de67e8db01478c5061abdd94eb3b0ecbdf0dd2d44039
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d6b1b7ce77ccb38807b674d2be9902a499e12b7f22e46d541f8b4252e3d4f94d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7379
+seq: 7379
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 律者衆之所為聖人就用之耳故無不當而未之嘗言未之嘗為也
+  hash: sha256:c41a5477302b2d93fc343a0b2f61737da0bd88c970116664268c9650178df166
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9c2bcaa4e72d322b1df32d3ada7429836f547c33c2b11ef7552a265fde423bf0

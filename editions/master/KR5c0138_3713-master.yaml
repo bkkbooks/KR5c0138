@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3713
+seq: 3713
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道德已明而仁義次之
+  hash: sha256:1facf26fe20221702634a2ed1b03031c93d37c0d66f6133fad50be19964866cd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d3582d8a1e481f781f4fa0fea043d2d73993f6c18bee6387b09dac6a14906c63

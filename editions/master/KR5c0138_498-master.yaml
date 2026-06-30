@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/498
+seq: 498
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此忘天地遺萬物外不察乎宇宙内不覺其一身故能曠
+  hash: sha256:35450c20c2b029aebbea4ba68856164c5e6cb41609f9868edc1959d3186221bd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1fab35072e4b1ac8a212029b7518a13a411dbf07ae7ebaf0176175ae03dd5a91

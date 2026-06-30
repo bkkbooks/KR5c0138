@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5751
+seq: 5751
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謂盈虚衰殺彼為盈虚非盈虚彼為衰殺非衰殺彼為本末非本末彼為積散非積散也
+  hash: sha256:c443105d8d56b96309e04c5d47edc43d7b3b2ab41ffb9327e201dfb657dc7ab4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:31c1b8140f8e0136ccb238bf437380a092841f531fd7e95bf643adceffc9db0e

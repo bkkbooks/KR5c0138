@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7170
+seq: 7170
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 中民之行進焉耳
+  hash: sha256:2f83195db83b5658f5bf06df00a98156be5d4a9d758e5bb8c9b1b4bfcf192e26
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:534ec652c28eadbcae2b5b51a270620f123805d8804d5c1eefae2bd80ce67baa

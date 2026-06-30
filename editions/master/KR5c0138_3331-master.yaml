@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3331
+seq: 3331
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 衆父父者所以迹也
+  hash: sha256:f5dd8aad46a419faf0ccde39f95943b757b6a5b022566cc1ab99096a5105a078
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b9e341a7c98fccf22a425a757ceb7ba4b933fb331c3479dba9e4aac13c49ef9a

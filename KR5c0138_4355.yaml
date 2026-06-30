@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4355
+seq: 4355
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 善者過於適之稱故有善而道不全
+  hash: sha256:7b578e2473a5f8055b6a6864edf126aacf5ef7f3f86915abbbd809d62a12d963
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6f3e1fe534768592f4447a5fcb2920f843885f124acf993b025360ab7b2e6872

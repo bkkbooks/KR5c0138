@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1699
+seq: 1699
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所愛其母者非愛其形也愛使其形者也
+  hash: sha256:3f7bf1e210ccf667702599805e01f190546bf6ce356015d046363d3a09057153
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2f75f9a77cd509342821743694dff410494f28601d883e7bb8a3b981ebac0a3b

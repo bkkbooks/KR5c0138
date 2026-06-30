@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3986
+seq: 3986
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 形充空虚乃至委蛇女委蛇故怠
+  hash: sha256:f7677eb0dda2bcd69d49fdf9305fa6e4b880f70aa905aa9d4f5b88f5206dd1e8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b395ae2f79642ca0af617414cb7fd6382b4434cac44f1417474461e37668e70c

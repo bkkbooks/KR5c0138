@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1794
+seq: 1794
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 眇乎小哉所以屬於人也
+  hash: sha256:082a5d82fc8ce003ec563096e4dbd1e7c711cf539947d634441a3a320c060d24
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a7318ac8432e98793e89bc18a256b0ddb6019422a906ac9116af40315797eb2c

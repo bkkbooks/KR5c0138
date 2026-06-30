@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/92
+seq: 92
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 唯能自是耳未能無所不可也樹立也
+  hash: sha256:b02c8295b2b85dc6270fa683c0c7a38e318fb27f9194c83d66fb59efb0afda72
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1701b7377ca17868503ebe2f49b47827e51701c404aae0b523fbf3685465e384

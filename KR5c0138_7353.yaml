@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7353
+seq: 7353
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖變化相代原其氣則一種章勇反
+  hash: sha256:138f142ca9de9e1f1716b1524ba90f12fd2154f646ce0c815ca942cccb3ae64d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:26946a671d8bcba78f10fcf66f0bf5101b0a23cd316794f1a9c1f155e2ab85a5

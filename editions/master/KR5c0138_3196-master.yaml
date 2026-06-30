@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3196
+seq: 3196
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 萬物莫不皆得則天地通
+  hash: sha256:1227b7252286fd8d9aeb4bd49d416fe1d736e32417cc697d5ce7589305bf2c3b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:57727a436550a52a35a544794094057123860d93de19bdfeffa45d014ea036dd

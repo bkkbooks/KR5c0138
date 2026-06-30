@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6060
+seq: 6060
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 幽顯無愧於心則獨行而不懼間音閑
+  hash: sha256:486999d7c0629d9362ee8f8e2c4185701c31c50a719c35b43194f307ee20c23b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9b465c4ab308dc816513a62045ae7a99d518183f89e4c113ef1e06c8d95eeda0

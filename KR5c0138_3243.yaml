@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3243
+seq: 3243
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所謂縣解
+  hash: sha256:7b0407426abd1acefa72e891315dde234239268df2baef6f59bd9434cc591dc0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dfda6047196d064c9d7b5a7aa47d402cb02d3336e8b09908f3287b6f0a560b6a

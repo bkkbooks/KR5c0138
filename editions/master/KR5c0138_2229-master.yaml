@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2229
+seq: 2229
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莫不皆然也俱不自知耳故成無為也
+  hash: sha256:1068b61362c83dd9586669b1e00ef7d34be32641f431347f537eac713b8647d0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:842644192161d143d2517c6a1c65feb9f6ecc80869547fd5c3e2c4aaa0e5177d

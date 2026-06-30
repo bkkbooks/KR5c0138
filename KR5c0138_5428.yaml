@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5428
+seq: 5428
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至美無美至樂無樂故也且如字舊于
+  hash: sha256:d478b5fdde0d3b3af14fba75b82fcc1a7bc43aabe51184e29838d83e413e1830
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ab4d9c30937fddfffe08917d82cfa795788edeec4678bad7917c31718cfb382b

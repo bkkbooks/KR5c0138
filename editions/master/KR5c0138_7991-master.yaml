@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7991
+seq: 7991
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而備世之急
+  hash: sha256:2c5cc3ed1eaaf20069fe994a14a1106f95fd350b87669c64bfa3f22bc87a4f9c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2fcfb13bd1b9c841dd38ec6678ba36e438ded37a3d26f22e2f4834e2c767d484

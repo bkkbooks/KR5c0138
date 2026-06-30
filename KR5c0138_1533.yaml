@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1533
+seq: 1533
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不得而不知者亦未聞也故放心於天地之間蕩然無不當而曠然無不適也
+  hash: sha256:b4f14bdcdd07563ee01034008ce65653504c3bdf8ef92547ae415a8bb89f8f06
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f5d37adff3fae6e364d967cc994111ef5b5026ffd7f9df59ae951925c4076a5c

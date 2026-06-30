@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6743
+seq: 6743
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫楚王之為人也形
+  hash: sha256:5566ca6c8b658327b683c5755ac18816af027542d05843643ef49e7204e678b0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7bedd5a4b0da29f2489cc1ffcc81b77ddff53e0c2d46033be45692207f39c6f3

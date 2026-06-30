@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4210
+seq: 4210
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此天地之道聖人之德也
+  hash: sha256:1cdcf490b3e95a9311cf62646318e33206bb793288398bd7f1fd58cf7ab583b9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9b8b4a80e5a2dc6954a527f57baa238f84919e2ac2730463fc191d901a153dc1

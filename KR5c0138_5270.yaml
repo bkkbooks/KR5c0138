@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5270
+seq: 5270
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人之生必外有接物之命非如瓦石
+  hash: sha256:82aa8c0ce83fa598986e438b025301a955a515f71fb71acec991e789255c7777
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6c413cbdbc4b58891e403cd96e39d4fdefcca4beb69a9f40ad8bcfa962007c3c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7304
+seq: 7304
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 世之所重則十言而七見信重言謂為人所重者之言也
+  hash: sha256:6cee8a277467dfbce115357fce97195d5ce9e19102e4a9e8b13f1b03cd76b2c4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:42ba746e9d14cf2bb7e23cfe6bf29f74c14039a39beea46066ca98fd4be91aef

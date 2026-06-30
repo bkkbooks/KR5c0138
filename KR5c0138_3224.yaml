@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3224
+seq: 3224
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 德成之謂立
+  hash: sha256:a6e9d79f57e277217b8b9910724b1f6c44b15728284a528630cb91ed7e38128c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:baf29efa60c65d8d38b65196839a9a32c0186cc76d480738e2693d3ade7d44d3

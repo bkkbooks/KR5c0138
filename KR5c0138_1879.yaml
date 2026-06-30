@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1879
+seq: 1879
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其出不訢其入不距
+  hash: sha256:3070231a140e6391da1aeec6e87a80adede717d200271f7275854c0676c0b904
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3346fdbffdb54cd87914743869adbf0ae9c794696395fdd0fbe546bc1d857429

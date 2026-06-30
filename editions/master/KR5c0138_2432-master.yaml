@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2432
+seq: 2432
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而以道與世亢必信夫故使人得而相汝
+  hash: sha256:8e5bc229939cbbc0e988c1d5cc59124cb80efc27e2c0167966119aec19b11fa5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b86b7936ac230e8d75ca4fc15ff83bf6d6c8207939e5aa37a694ddd2d6970880

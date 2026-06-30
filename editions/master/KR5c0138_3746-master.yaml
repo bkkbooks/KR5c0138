@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3746
+seq: 3746
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 禮法數度刑名比詳古人有之此下之所以事上非上之所以畜下也
+  hash: sha256:6afab9e1250eb3e7403933bfe58add22ee9a08f7e0171fd27d40e6e031217bdc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:70da6aba4907a60ab89ffa9fc380e30070c09516c8e32d98aad03ec8ed5a6bbd

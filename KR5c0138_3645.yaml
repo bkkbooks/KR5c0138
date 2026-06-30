@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3645
+seq: 3645
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莊子曰吾師乎吾師乎萬物而不為戾
+  hash: sha256:5469c61379dea30536c3a199af8946f35d183be881fea55182836392088b8cd9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0a6bd13d2811a3862535e76d3de6ef5d581df299d664ab5d019cf48f9a1f7a2b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2889
+seq: 2889
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 排之則下進之則上言其
+  hash: sha256:93202972da1a9b3de21c5e6b9d09569f5e2d387639b6d87f8212e3715784f17d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:58a022353cabb1bb2d263ab57ac0a3eeaa9148e3f2c4f2b43a51779c7268f162

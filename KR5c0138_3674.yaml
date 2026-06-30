@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3674
+seq: 3674
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故古之人貴夫無為也上無為也下亦無為也是下與上同德下與上同德則不臣下有為也上亦有為也是上與下同道上與下同道則不主
+  hash: sha256:01881ecf784707273f4fad017f213843d7813487465c560b9fd5cf796ffa5747
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bec2179e4e40c976877d0f2c38cd7078c56e46beb56a0803292a27bead4c5927

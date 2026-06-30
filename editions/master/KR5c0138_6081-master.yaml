@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6081
+seq: 6081
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不能容人者無親無親者盡人
+  hash: sha256:3d05c59d0b0516cc470ae19af3d4d378a3c399f68d1503e0713b7ed8ee04b9ec
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ad6a6819c416a2b7912355f56b73621ea91a313b8bf90528c18535a8d37d296b

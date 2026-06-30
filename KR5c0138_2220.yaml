@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2220
+seq: 2220
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 釋之而理固自來斯乃天人之所不赦者也
+  hash: sha256:67c9a08e8b54a038e3c92c7fd4c26ac95212292147a48f9c55389156d3afe32c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:966f05629d5e6fd40b3f2a71de5bba78cba6b38b1290a910e471b6cbe1208699

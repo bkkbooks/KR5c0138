@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2137
+seq: 2137
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 安時而處順哀樂不能入也此古之所謂懸解也而不能自解
+  hash: sha256:00c97693823a879d39722c7417c930aac3a215a9f49aa7dea8043190f0ba46fb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4222ebf73aa11a23fb55436644b09f525f703ae34311dabeaad1a49f6fa487b9

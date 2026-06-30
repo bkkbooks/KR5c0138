@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5744
+seq: 5744
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物物者與物無際
+  hash: sha256:04538904410c4805e28e5e52d78a2a7ea3cde55d3be1d81d67a1f92f757e68b1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:53c0dceb5377b2a933d8e06091576aae85522ac9858b76eba226af047b1296f6

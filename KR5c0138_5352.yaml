@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5352
+seq: 5352
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子路曰吾子欲見温伯雪子乆矣見之而不言何耶仲尼曰若夫人者目擊而道存矣亦不可以容聲矣
+  hash: sha256:903b5f98f7857ce26fbb4762026d5f43c32cbbd343ff2e76b89eb6f06cde5095
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8c721df0587c881cb61e3cc2d9a044a7b7f052dc31b71bdca32e121e75dcc668

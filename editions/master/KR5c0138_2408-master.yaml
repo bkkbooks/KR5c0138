@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2408
+seq: 2408
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此皆以其文章技能係累其身非涉虛以御乎無方也虎豹以皮有文章見獵也
+  hash: sha256:575b52b360e9ef16a2f2c6a0750663fc79c5d8dea6134a656a961fe063fa7517
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:29f4ec2daeea7e45ed786c2188bdace2b2b7917f9fddb0dfdf520e7d5d1e3237

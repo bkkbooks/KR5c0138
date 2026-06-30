@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7215
+seq: 7215
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫尊古而卑今學者之流也
+  hash: sha256:e5ed4d3299e23eb6bf8b96b2359750cec982b06befc5a3eb99930e3067d62986
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e7c849ca5e0da2dbccdda65a7df62c299b67086ee82891df87b43ec77a15c262

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4393
+seq: 4393
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 事之世而聖人未始不澹漠也故深根寧極而待其自為耳斯道之所以不喪也
+  hash: sha256:cc5a34bf12f85d40c9f483e52e32035a3d1e2004cf0d7c9ca5ac36ee37603c4e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4fcb68244f43fe5d9488520fa7907d17fb6b1202b9d55d6cff264d3e87750c6d

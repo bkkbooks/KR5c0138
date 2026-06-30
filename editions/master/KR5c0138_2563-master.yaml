@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2563
+seq: 2563
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 且夫駢於拇者決之則泣枝於手者齕之則啼二者或有餘於數或不足於數其於憂一也
+  hash: sha256:9c93f7098bcc95ba9fdcd6942fcf05d20cbe5f80d76e15affad3aeb1b352a5aa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:50af152c6154750f6d8aea4b23790f1d18feba9d1186752bfecce14a468662c1

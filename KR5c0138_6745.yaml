@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6745
+seq: 6745
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 澹然無欲樂足於所遇不以侈靡為貴而以道
+  hash: sha256:42b6752c34cb8feb7c1304666e7a59144c90298191685e03663157c44e697b5f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:651bc4e1a9383c9e929698a3d99514cdbe42b877190d3341121e9691ec51982a

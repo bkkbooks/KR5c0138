@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6797
+seq: 6797
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蕩然以百姓為蒭狗而道合於愛人故能無已若愛人由乎聞
+  hash: sha256:96ae3b92f539d5cc1aa05e40231c05c970afbb71d553bfa60d2bac745eaa100d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:acc3db0aeb9beaccdf07661a9439694e3a06f3947983178213590306ee85941e

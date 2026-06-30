@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4842
+seq: 4842
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 居一名雜縣舉頭高八尺樊光註爾雅云形似鳯皇
+  hash: sha256:7af1fae6e6c10ad83e5b962b07d16e6e6498f2516804d6f9cd35fa9154a313ee
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7c4568b09f33e016ca36b2f978cf49bafe5c391692ae05cc76d33553bdfbeb3f

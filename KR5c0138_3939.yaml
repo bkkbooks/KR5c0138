@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3939
+seq: 3939
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫至樂者先應之以人事順之以天理行之以五德應之
+  hash: sha256:27314b17b95fb1c12c0ac1c7107e6ad8d04ea70dd56e5c0fdc34d6cee53792db
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:75be1a81f29919666da8383d04c4f62a43fe3d3ce4bbdd9bbc7c2ba00f410e91

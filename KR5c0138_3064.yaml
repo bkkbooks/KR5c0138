@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3064
+seq: 3064
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 悲夫有土者之不知也夫有土者有大物也有大物者不可以物物
+  hash: sha256:21c4ce931d9efb0f483d78fd6b0656ca8fab514b9f4fd7e603499ef6c08df24b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:46519c926f2bff706b55a7fbbcc6af8a43e2c9ba0f645a73de092603414d50f2

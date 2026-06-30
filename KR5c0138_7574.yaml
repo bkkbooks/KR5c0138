@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7574
+seq: 7574
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 栁下季即栁下惠字季禽
+  hash: sha256:b6ec735d952808ced94f735c5a92244421c448a06b90b62a91290aea83632613
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7d24eb66c74fd80e2157a3f8d32e5bc8d57fdec3997464098c66d7d76aa88a67

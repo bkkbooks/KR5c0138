@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/992
+seq: 992
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天性所受各有本分不可逃亦不可加
+  hash: sha256:fade66e11fd30e49eaec1af5cc775c2a3547122529a4a6606aafe495224081da
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:906125c95eaf403374f5e1f70f07b5591f0df17c448b63578b946c070249025d

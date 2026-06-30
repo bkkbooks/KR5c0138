@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4971
+seq: 4971
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若乃夫沒人則未嘗見舟而便操之也
+  hash: sha256:f2e555ff8144719ffad82f6c7ceb73c60f17d5596d30c84e6437dd7b5d71a2f8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:79b61160c9676b13310ecd6c2a108cc6557cadc66c38ebd92214f9d15bf9a4eb

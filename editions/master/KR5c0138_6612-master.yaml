@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6612
+seq: 6612
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是以神人悪衆至
+  hash: sha256:12afc86468cf9620ce956b03ce5f12fce838e3483e08af2e32e4c52d85ab20b6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9b658a138edd0e495bac0baef9b832b8b5c66c8b65b75b1ad6cfd7de3901ab02

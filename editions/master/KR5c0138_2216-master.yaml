@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2216
+seq: 2216
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 也世豈覺之哉
+  hash: sha256:f09f4d45d2dd64affa9cd527b70ebc8129bee5a8950edafcebf771d36cfb5f54
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b7e89497c2aec407ae910b5dcde1a8bf099c111bd092868bea90566b3a1c1616

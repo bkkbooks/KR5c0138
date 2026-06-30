@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1359
+seq: 1359
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不敢以全物與之為其決之
+  hash: sha256:50021591a4f25f3016d162443a391610929754304bd4946d9b2be11c4fec1876
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:935014f1fcc8f8666a9cfbe3eebdca3a3daef45d4286c2262a6360ac92b874eb

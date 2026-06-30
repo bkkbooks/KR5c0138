@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3295
+seq: 3295
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾藉王倪以要之
+  hash: sha256:207f027eaa4a8e3595ce97ae39e2c722dcaa337f19f61dce538ba2ef18ed8bda
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ac30117f3c8d6b87d09fa242a8e5363612d27dd2de46fe108b36c8156357f78b

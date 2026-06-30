@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6949
+seq: 6949
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 盗之行於誰責而可乎
+  hash: sha256:d7af0978c4a45d9686e7d960bb4d3ff4d45acc568d27f16e36775be71dccb7f8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8b7390ce750561e22fd199d0d69350088da723e0012ca1d208d5da09734ba7d3

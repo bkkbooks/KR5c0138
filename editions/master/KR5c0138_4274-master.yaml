@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4274
+seq: 4274
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 水之性不雜則清莫動則平欝閉而不流亦不能清天德之象也
+  hash: sha256:b18a183dfe60095094e2a215e16d2b8a52ccfae60811ede4b0f07728ab93782f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9e1cdad2b7e825a01d8234e5a4318f55b88688bb600f2c2270b79f5d5b1ab6eb

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7158
+seq: 7158
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 受其教也
+  hash: sha256:22a681ccd4dcdb8f61c843b3d1d8f37de4ba79638442b0a3769376a7887de2a8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5a75ed44f6224001d18d1520e95df72fa95bcb6daa0fda9f1a704984b1b85fff

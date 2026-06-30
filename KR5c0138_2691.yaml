@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2691
+seq: 2691
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 工匠則有規矩之制聖人則有可尚之迹
+  hash: sha256:481347ed96abc7f46aec3c0e7de3d759e9bc04ce0004ec1fda14612b4b431797
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:232aac0a49848387e1e56009f38c6ec5f9fbbbc89641aabdb21fd78946b66fb3

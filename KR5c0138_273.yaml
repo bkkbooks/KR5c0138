@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/273
+seq: 273
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 小恐惴惴大恐縵縵
+  hash: sha256:f735e68a4f9885bd911302c0202c4631029ca043e1664d2500fcc098ab36b31e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:90ea4d4bedb429276a7172a6012203f986fe02258da50cc265f184e059dc8387

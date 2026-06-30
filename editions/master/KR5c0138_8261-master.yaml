@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8261
+seq: 8261
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物之意分别歴説之
+  hash: sha256:17154c7022d89bf9560f3c18bf01053ce38cbbfeadf1f3b747b0d4f656409c33
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:95f430b4f49c098a2cf879157615fff537c587238ad4dc4a8ae86c66032cfd44

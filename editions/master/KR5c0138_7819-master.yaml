@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7819
+seq: 7819
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 後世人君将慕仲尼之遐而遂忍性自矯偽以臨民上下相習遂
+  hash: sha256:36db692d1c8a37c2a9b563f64dda780136261f1e7a9a32d33a9192c3d7129a48
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:84cca4311d24f2e0071e2c4f98f49e64a0766b530b40e2914b99e9d515dc5b99

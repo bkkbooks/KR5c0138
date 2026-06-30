@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3762
+seq: 3762
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此常人之所謂仁義者也故寄孔老以正之藏書藏其所著書也徴藏才浪反徴藏藏名也一云徴典也史
+  hash: sha256:93053a501291d2d754ab23f25109607f2cbee715a84a10b7dabbb46086f80aba
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:49f1d4401afd1c508ef297ad17707fc5ac83dcda217e03eb56d253b1bd9ce7e1

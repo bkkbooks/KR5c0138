@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/222
+seq: 222
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 汝聞人籟而未聞地籟汝聞地籟而未聞天籟夫
+  hash: sha256:fcab54027b4438a7b0e8fa9fef748c29d56d0df887e324a279e8ba12678f252b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7eeee3bbe2d45b8cf2d6bfe4ef14c390db441ae1d75fd976ea920f0f8a4e8be9

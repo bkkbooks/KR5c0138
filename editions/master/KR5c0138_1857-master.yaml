@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1857
+seq: 1857
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不恃其成而處物先
+  hash: sha256:979fa72610695f72359faeee9470c28f78b9554ff62dc8b8a4c24b390cae04a8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:09f8981ec9898e460345b2d5e49aebb1c5f8e6401cdf14885f03afcab9e8c485

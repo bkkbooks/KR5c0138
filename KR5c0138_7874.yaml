@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7874
+seq: 7874
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 賊莫大乎德有心
+  hash: sha256:58dcbe6c8e12f90345f08f38974aed09793aff8ee0226dfbf47a25cf55afa140
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dc69611cc3b90042dd184c4dc75cb563524bf926b579287f7cf994f34a2d8f50

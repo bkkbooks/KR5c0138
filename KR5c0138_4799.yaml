@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4799
+seq: 4799
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又俗之所大苦也故曰至樂無樂至譽無譽
+  hash: sha256:8e5b8bfa6126b91f8f9924b5ee45135ec300e5f2d14bcd8a844dbdf6d440b750
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:28e276e948ca0f594c9d8930325530b35281142054fd748a7492d93570e0c8dc

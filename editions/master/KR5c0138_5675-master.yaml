@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5675
+seq: 5675
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 調偶和合之謂也
+  hash: sha256:bc4dde3d31a89af7aace66a98ba4688066291aac80e9d775774c7cc5f8d144e2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c8f3564b186121cbfdd0c98badef648f4c7893cd511c2ce6e259bfef1f291037

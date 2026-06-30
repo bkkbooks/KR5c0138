@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3860
+seq: 3860
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其貴恒在意言之表
+  hash: sha256:8ae52915fcdf78db4dd5f0334c0314fbd3309a4ffbdb489e35b8f049b5c7e571
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dfd908b20511f2f81c92c637e29ee2f146cfba158818ee4c1b69e48e0c9e3f19

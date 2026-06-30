@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/707
+seq: 707
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 也耆市志反
+  hash: sha256:ac172134271604f56848d6a0d3bba60b5073bb2b8ef38461aac05fd34047e71c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6e73276ae6742fde64ffae70a33e4f8158c2c66c0c5ce9b7c8fe03fb705c8486

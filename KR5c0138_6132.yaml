@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6132
+seq: 6132
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 名徒有名耳竟無出入門其安在乎故以無為門以無為門則無門也
+  hash: sha256:0bd69656dad370b285d6eeb8b7b1d8d86e5aa163329f400b6c49f8fc8fbf0bd3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:48a81057402256be744f22d1c15d584da6b2e28d5b9a49bb7d0312df8b777c71

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7521
+seq: 7521
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 公子牟魏之公子封中山名牟瞻子賢人也淮南作詹象魏觀闕人君門也言心存榮貴許
+  hash: sha256:99072b542a546a0ac8f023d27bbcbcdbb32841bd64d9d937daf83e400af3d7b3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:765ee98e9caceec3313101715ff8aa67d4574db7ae310a7c1b1ed5f2c2cfc0e0

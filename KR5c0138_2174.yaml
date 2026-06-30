@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2174
+seq: 2174
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若然者豈友哉盖寄明至親而無愛念之
+  hash: sha256:af6cfc2578b8a5d7a9c0ea637f844d227c68b2f5d7a764ee9cba5935a68a2f20
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:398d8c9398a7237dfa60f2a59b6df799d6d52725b0a9c40e7ab1a40aef82fd1a

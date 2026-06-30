@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1476
+seq: 1476
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 萬物而𤣥同彼我冺然與天下為一而内外同福也
+  hash: sha256:4d46d2888543da319bbc580e3c0174d448ff3464fcad475ed3fbd8811ad9ba8f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5753500856ee2b5b640bca85b36bbdd94dc8f7eb62fa1d89811285bdcbdab327

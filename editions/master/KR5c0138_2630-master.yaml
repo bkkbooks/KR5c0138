@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2630
+seq: 2630
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 愧道徳之不為謝冥復之
+  hash: sha256:a89a64130e2d75cfd4405e19ab554d6d2c2937e93f9767358d95da87e48f103e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ff8c4256efb178010c50addcef56b2de8356f13073da66a7ca38f0d48c110996

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2863
+seq: 2863
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 必存此八者則不能縱任自然故為臠卷愴囊也
+  hash: sha256:2e5a4aaf8e493b671f1622e8f9e8b2a58a3ef53f918137ab71d55ef617ffdc0c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:801b26e27de64e33910e072260eb42fc1632d1ac14a0713edfc65d2d7f14808c

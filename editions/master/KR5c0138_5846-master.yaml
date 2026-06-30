@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5846
+seq: 5846
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫無心而自化乃羣聖所逰處
+  hash: sha256:b96eae3063d161e0f005eb8a82e58fbbb6b6e87fcd198e353b32ca3d04b0e470
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b5fee645ede877f1a752b1c7560403c592a049a36f9168a07924e515236d7337

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4572
+seq: 4572
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天下莫不相與為彼我而彼我皆欲自為斯東西之相反也然彼我相與為脣
+  hash: sha256:54cf4738795f3af53dd0fe554a6aa7c3f27bbb31faaed6f5491822658fed5b63
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:293ceb0dd4b144c9852b9b14218d02fc01f4288e30acad4f8126570042325dc1

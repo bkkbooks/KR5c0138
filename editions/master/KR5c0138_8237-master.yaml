@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8237
+seq: 8237
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古之道術有在於是者荘周聞其風而悦之以謬悠之説荒
+  hash: sha256:203b6a5116fab1838e613becf0836ea00b0442970b7534b962f79211da5d55a3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3a5b1866f8289e966a8417310f2fcba7058f4671328910cce4743791cd016faa

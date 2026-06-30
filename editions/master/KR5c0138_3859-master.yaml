@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3859
+seq: 3859
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 貴道者書也書不過語語有貴也語之所貴者意也意有所隨意之所隨者不可以言傳也而世因貴言傳書世雖貴之哉猶不足貴也為其貴非其貴也
+  hash: sha256:79ced3b1e4cbab2c46b0a67bd6cf6b179d7f8405995b7ff292d4415954af9012
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0fd2436e59c7a8283d96247f36a472f37e6013cbfd3afc6f9420ab362d472bdd

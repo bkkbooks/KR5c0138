@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/773
+seq: 773
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聖人愚芚
+  hash: sha256:8e5da990c382b5e3d8d4f8e59e19a93c2fad7e109771118c044986ff90d30432
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fe0452a43eb6d600ba5aef36adca3ee46cf4c268deda063a726f77771aabd859

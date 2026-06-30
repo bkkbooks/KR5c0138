@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7241
+seq: 7241
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 通理有常運
+  hash: sha256:c93eab4a1d414b61d0e88aa0c44494958381503dcf163133efb2fcf882c127b1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:768812b68338e90c92d4af1ec008a19625f78b2f92110117dea442c2f289459f

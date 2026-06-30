@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8089
+seq: 8089
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 先生恐不得飽弟子雖飢不忘天下
+  hash: sha256:ca4742baba15dd7df1fec600da1740029e46a7cd0796cabece8ff5e31371d7ac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:268f5881062667ae7b22e328b0a9deb03b7ec08e1a5d175dae2c6b528b54bb32

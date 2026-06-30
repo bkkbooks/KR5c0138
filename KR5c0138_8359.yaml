@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8359
+seq: 8359
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 形分止勢分行形分明者行遲勢分明者行疾自眀無形分無所止則其疾無間矢疾而有
+  hash: sha256:e9914e6fd7f04fb0a48ec257e0ef9eb9a54f1b0db32854383358657eb9060e0b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:14f76b66a3d7d188a20a9f01cf294e9b22aa272510d8361540a6b3fa713b53b7

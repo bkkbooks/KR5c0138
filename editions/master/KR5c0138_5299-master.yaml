@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5299
+seq: 5299
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 目能視翼能逝此鳥之真性也今見利故忘之真身也
+  hash: sha256:47040cf22b8630f179169cfbf1cbde78c31e839caf28488c70e2ad569e3b76bd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:68c43f28960f5d63f9ab267268b84713df6e61681b47e39500c9d050444e0578

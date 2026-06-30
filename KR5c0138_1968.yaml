@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1968
+seq: 1968
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 者至於丘也
+  hash: sha256:b140436b1b7e5f41eb4c7a2b1439731167492fd0b28cd33a7b1b26ad5f7bbaae
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7c3ae36b4cdb92743c053aa3750fd42a40bf2e5550e6c5137fe9666e526b2dca

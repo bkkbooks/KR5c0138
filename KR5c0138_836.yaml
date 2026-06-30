@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/836
+seq: 836
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 非若信非則亦無緣復有是之者也今是其所同而非其所異異同既具而是非無主故夫是非者生於好辨
+  hash: sha256:2925446f62d39d264f07ef2087d35df8a28e27a4c687bb7be38415698cd54868
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5745154ffe0b22bf3abd8aa179d6a12f36fd156d37f0c7a504072eb3f67cd8c8

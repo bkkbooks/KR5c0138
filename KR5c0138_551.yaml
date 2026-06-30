@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/551
+seq: 551
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謂無終始而一死生
+  hash: sha256:15a7c9cfdbdab451cd4823decd23d00a6b29a5d8a58448d80be68e19c8008dde
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b7225d89cfde70f61d84fb1271e1d7c65866a06678810fc00e8ebf94795cdcb1

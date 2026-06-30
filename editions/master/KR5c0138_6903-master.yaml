@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6903
+seq: 6903
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 亡以衆為之所致也若各致其極則何患也飱音孫
+  hash: sha256:05d44d34f84d8a0f1d6e6a1cde0a3e4d1a5aea4f89185197ab2291b8aa27ed4a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:095e64284ee811eae860f2d3aa828ca1cc820b1a817e796362bf3ee007c25418

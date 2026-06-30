@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3282
+seq: 3282
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黄帝逰乎赤水之北登乎崐崘之丘而南望還歸遺其𤣥珠
+  hash: sha256:e35dd5c53e6a04da3684c95637dd43a8a7f0804e32c95d615df717689cdfaad7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8132ce1c7c5d4c21bf12367bd33a2936d751e8406a28e57f0ce1ccc4dd29b18e

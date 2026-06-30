@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8001
+seq: 8001
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又好學而博不異
+  hash: sha256:9868fc575f839b8cc42de59863aa0c11d6572dc470eb07d378ff3075617ff0eb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8504e08e0936fedc84946a83e432f765f9e39d50b7e31daf189500481632a492

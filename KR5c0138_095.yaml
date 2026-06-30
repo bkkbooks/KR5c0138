@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/95
+seq: 95
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 泠然輕妙之貌列子鄭人名禦寇
+  hash: sha256:8afbbba014b84e16676e2344fc20255c7f32b6e29ff3e6da9a01782003fce8dc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:81c1df62f7249efae35e2e4435ec81ddef76563937d4582511639e9261fb189b

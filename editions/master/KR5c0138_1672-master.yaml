@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1672
+seq: 1672
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明物不由權勢而往
+  hash: sha256:db7d73a65e1e12e257ffec5dbbdfe06b4d4879e007cd265deaa2e6563b50f84e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c0fb38dad3ab1d0cbaa57e4b9459b1c490d7b7ce6b13f9bf3cdf395224d4345b

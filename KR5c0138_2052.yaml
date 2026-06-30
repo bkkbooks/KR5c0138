@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2052
+seq: 2052
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 神鬼神帝生天生地
+  hash: sha256:e7073bb7773d4a1112bce232d395a70246e8f6156d447c0c920cd2e9cc7844e3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b41f4f1b626180ad64343b57b258667bff24a69ea7fe2b8da5c1013e079da2c0

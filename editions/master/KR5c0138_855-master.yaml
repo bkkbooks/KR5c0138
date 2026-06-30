@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/855
+seq: 855
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 罔兩問景曰曩子行今子止曩子坐今子起何其無特操與
+  hash: sha256:ab5fd1e0943795d875eba9f547f51e96def22be47cc3c0c9c144b5ddf36e5998
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c466d5fb97001a7d084c95b9f901945f03c51aaab5de64652d1b3cf587c3ae44

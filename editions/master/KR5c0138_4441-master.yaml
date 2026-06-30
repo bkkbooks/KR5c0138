@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4441
+seq: 4441
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以其知分故可與言理也
+  hash: sha256:93febac428bb93eb7274386b98b6b1036ed98dffb261634cab4ca2b46a247219
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c72e4c227aca431aa3993c9036d04ccaf5290c1ec62811b9025b5aaee095108e

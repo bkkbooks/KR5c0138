@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2773
+seq: 2773
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 掊斗折衡而民不争
+  hash: sha256:625a7fbe5cafa6c0ae4dabc1b8c67f4796024a1ea370d142e9fe21d45172754e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c7f1e5361ddabd94b8641c240a0654623d5d0d41468bee53a8c9c0a555006fe1

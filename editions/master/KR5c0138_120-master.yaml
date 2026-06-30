@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/120
+seq: 120
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 神人無功
+  hash: sha256:6779403488748a8586f70d926b68e875e4c6421e5da9e5f7b1218c338362c90b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:158fdf9b2bc94b4adefc6a7a7f11c8040ea71876aed12d55e24ea108bc3144c7

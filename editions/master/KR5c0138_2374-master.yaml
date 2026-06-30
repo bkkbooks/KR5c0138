@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2374
+seq: 2374
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫寄當於萬物
+  hash: sha256:5543352e52a8f8b7ea187161cacc9ab1d0e64114deb413610478a5e394d83c3b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:523cfee430bc27f20257569351d937ac86ab10c87eea649a56ad2ccd93ab4e41

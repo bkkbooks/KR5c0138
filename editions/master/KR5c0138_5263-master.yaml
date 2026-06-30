@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5263
+seq: 5263
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 何謂無受人益難仲尼曰始用四達
+  hash: sha256:0e4b3551076016f1f47067904063781a1f8038fe57276eb184d1acc39c698d05
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:83de2b3f057a24ee83e4210dcd64cef7bd44fda47e0442d72c3f07319a6e490f

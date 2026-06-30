@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6784
+seq: 6784
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 生而美者人與之鑑不告則不知其美於人也
+  hash: sha256:609953d59d9ff67ef969cedc62efd60eb392324652bd49838bc58281cfa9e723
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f37c3b8d4e2260efe3f02252e98221b791592c000eb922115a4da3698a5c1cf9

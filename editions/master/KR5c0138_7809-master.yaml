@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7809
+seq: 7809
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 魯哀公問乎顔闔曰吾以仲尼為貞幹國其有瘳乎曰殆哉汲乎仲尼
+  hash: sha256:0d92f99923690d21237ec1bbf4168f10f935da22ba71b67330ff02f395868c22
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:96ac6cf89487c991a269b9fc24474242c4eb6cadf89aa635a689c447519a344e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/394
+seq: 394
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道惡乎往而不存
+  hash: sha256:eed690acd534b56185d8cd50a3c62342386bb0b44d16d8b8d8ea3b779c45fe6d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c32d07dc4fb0def4f77833c284c12617df8bb387cbc5f4862e26fd25edc3b601

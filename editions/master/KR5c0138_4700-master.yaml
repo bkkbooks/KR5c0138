@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4700
+seq: 4700
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無足風無形目形綴於此明流於彼心則質幽為神逰外
+  hash: sha256:9c2af68f2547e176d5a55f22be08ce414762bd0c7a28302a35f7e4f7b990d344
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8dab60bceea9c3da38bb80abab725f8d2da36a54b75c838d7afdcfa7b270ce45

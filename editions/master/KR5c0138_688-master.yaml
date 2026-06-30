@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/688
+seq: 688
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 都不知乃曠然無所任矣
+  hash: sha256:01feea16b0d0dc212aae4e145f683b8710de5044a87d4c250e171573e63f086b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6ecfb7ac9c3a4d558779029757309ab862581f19ea8262c7f4ac8cc4a9e67dac

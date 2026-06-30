@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1159
+seq: 1159
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 心意而符氣性之自得此虛以待物者也
+  hash: sha256:be7cd15edf8a0395f100139306fd51868875dd4476bf99dc4afa786282c250b3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:098f098a2d47f51f26d6a2ad3890050417176fa629fba239bbc3d25e37527260

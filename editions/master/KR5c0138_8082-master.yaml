@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8082
+seq: 8082
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 調之理然也
+  hash: sha256:4127dcaf07983c02601c76f3f0bc3d519f3132610faee057d2e37f89bb6196bb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1e84ce09bfb931bfb84986ec78a918480d4bd1aad84580f202f21bc1ce730763

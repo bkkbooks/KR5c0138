@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4499
+seq: 4499
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莫若安於所受
+  hash: sha256:8a378aaceca47f3b294f2ab7aec87f1ddc314efaae6425e3f42e2a23f2996800
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0bb92a5a12a8ab482336403229685752065d4391651dcdceaa58c4f831928591

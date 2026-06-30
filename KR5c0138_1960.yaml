@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1960
+seq: 1960
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以刑為體者綽乎其殺也
+  hash: sha256:34050417a79c83f7e56f1767c652d81c3dc94ce17dc3adde3801b80c985a3c99
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9d62fd4bf2a473cf3fb09291b77ea96f26c263e7666933d5fbe332bfab5f5fec

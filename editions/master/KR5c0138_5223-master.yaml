@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5223
+seq: 5223
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫無故而自合者天屬也合不
+  hash: sha256:c4d993803da0684bc3f1981cd1133653537e05617be019ffc520e0a6f62efd98
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:89b80daa50f874e3fe29b22c75d9253ddae54f3a66ff3a0931bc9ce103708dea

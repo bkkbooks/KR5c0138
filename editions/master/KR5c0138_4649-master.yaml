@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4649
+seq: 4649
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至德者火弗能熱水弗能溺寒暑弗能害禽獸弗能賊
+  hash: sha256:2514df599b4c442f0de4b068f960c2415874fca43126a59fe6e86f8a19fa4264
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6133adba4f8ab7b64e04ea4d1a41806fc50c0f510b85268894600a85a2591803

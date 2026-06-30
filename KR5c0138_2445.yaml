@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2445
+seq: 2445
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 列子入以吿壺子壺子曰鄉吾示之以天壤
+  hash: sha256:d26fd02d90c338d063a82d84dc91bd444a545748ccb96cbdd85a27680ea79136
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d9db5dc9682ff7905ba0de10912175f4d0cb25036fa6a39ca526a2d2f968d296

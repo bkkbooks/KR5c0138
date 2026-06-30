@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5078
+seq: 5078
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 棲之深林浮之江湖食之以委蛇則平陸而已矣
+  hash: sha256:bbe7ddd7441265835e27cd767589055c76c09786c6cf2b2a77c2ed77e03d7802
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cb2c2add49bd81f39a0de31a9fc6ff28459d7d204d442dda7e76c0aa0925fd1e

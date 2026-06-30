@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3831
+seq: 3831
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 發也機
+  hash: sha256:7847531eec99167edaadf2565dce8d552bfaa14f97794d68e231402a482af54b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:040af967d88a91ec1fdfd96aef134a257ef2bcf60caee7716e3fe60dcffb2a89

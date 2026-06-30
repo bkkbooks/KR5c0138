@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7810
+seq: 7810
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 汲危也夫至人以民靜為安今一為貞幹則遺髙迹於萬世令飾兢
+  hash: sha256:5e6b6df03d192bf6d6ecfe0a6ef99ca6c5d08ad8e3d479cfec6754b0abb51afd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2fd6f07db085a61463185b40dd88ed3cfca060a593b29d1c1ed6dcf9fb7695a7

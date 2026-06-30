@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2401
+seq: 2401
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 順物自然而無容私焉而天下治矣
+  hash: sha256:34f7a2e312aceb726f0c42363e28036a872b5c7fc6183c7ae02b29945c8002c3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7f6000ed680f535f7bf412250f20aefca40ff73e124b24259ed6cd2754c2b902

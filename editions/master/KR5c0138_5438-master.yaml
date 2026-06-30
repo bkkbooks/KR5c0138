@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5438
+seq: 5438
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 于𨽻故棄之若遺土耳茍知死生之變所在皆我則貴者常在也
+  hash: sha256:9af28966f26935088e86520ba1e63c6b985ca1350161eb7dbbb7a09f91ddd803
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a83a1ef20b886f8d2979fd4a91a62f82d254d7a8f7e2d9eb704dd88c3dd97ab0

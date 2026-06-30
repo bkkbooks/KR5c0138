@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2604
+seq: 2604
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 詔謂博塞也
+  hash: sha256:06d197230cbad58a182a5a5b86d1c515770fdbc44cbd7850a11d57551f063120
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a56e1ff21a65cc44bf116766004c9ac54379a5358bf8fa1c32be51bd3ba3789e

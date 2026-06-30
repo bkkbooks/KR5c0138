@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4183
+seq: 4183
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖化者無方而皆可也
+  hash: sha256:1fe1feb68b8dd904e6675add2ec7c02b3d0c0bb922168c05c84f1cdd1be2c05c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ca738622a2bf00bf698840e1583ea112e7ed0e1449b23db03fddfa2f6e78ed55

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7716
+seq: 7716
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其内實不足以服物
+  hash: sha256:223267f75609f6820ae363c3be0e8dc6be51db7f84c192ce4d1a8e15b149d1a1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c12b0214189d8a22eb6e389431a52ef9de115cc3f5478aebd9a6fb59274c4372

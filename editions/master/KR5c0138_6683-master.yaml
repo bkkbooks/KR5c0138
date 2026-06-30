@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6683
+seq: 6683
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用萬物之自見亦大目也
+  hash: sha256:481c812e1b46b66283c551b411c8fd1fbdff822a14777e8b0f64b69aaf5d200b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:475da68096f70e9ea7cd57757568924585eca9a0f248be46270b4c1edbaa284f

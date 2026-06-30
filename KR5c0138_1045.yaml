@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1045
+seq: 1045
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 且若亦知夫徳之所蕩而知之所為出乎哉徳蕩乎名知出乎爭
+  hash: sha256:b4d08df47d7b0f426308dc780a7c7a2737055cd90cf07d92bf72b1460c83f463
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ad7a799e8f9b4d0c6def53c6ab9a1ea4530d2998b7667ed309729b14f03e8f99

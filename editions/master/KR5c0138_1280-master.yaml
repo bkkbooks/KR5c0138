@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1280
+seq: 1280
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有别旅酬有次
+  hash: sha256:0672463612b9cec80b46d5f785bd087f7ccc4b43449ebbef901f7382b430d34c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ebf74e18f2c570e530febd12c3f8879cfa72e0bf1bfbefe1d16dd02832bf74d2

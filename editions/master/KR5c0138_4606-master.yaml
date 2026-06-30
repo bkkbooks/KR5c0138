@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4606
+seq: 4606
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無一而行與道參差
+  hash: sha256:ad79ca8a5fbbc551d4009fa8b1c9ac88587f4fe3e5c9debadcab75459d71df74
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:10a2b0c548e2f5bdd40243868f6bdc83fccb0bdc201a42a7a466ff2ec31b4a6b

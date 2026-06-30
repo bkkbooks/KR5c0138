@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7014
+seq: 7014
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 正於此者或差於彼
+  hash: sha256:d2eb4eaf3ba3ce90afde7f236dcf1dc253d929dd5863e4ab54d2af902db362b1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f2ee3dda0b8950b244527d45cfbf725610c942410639cbe0ab76f8219a730247

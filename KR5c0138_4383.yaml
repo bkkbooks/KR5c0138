@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4383
+seq: 4383
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 愈失一斯大謬矣雖復起身以明之開言以出之顯知以發之何由而交興哉祗所以交喪也
+  hash: sha256:08f4ac185066bf786ed8b856dd22dd93573039a89fc907909db043649880edcf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fbe55f6c60f54c6f87045ec17b43cd2c89cd46c193f3a31dff7546cbb376f2eb

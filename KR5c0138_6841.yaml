@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6841
+seq: 6841
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 仲尼曰天下何思何慮慮已盡矣若有纎芥之慮豈得寂然不動應感無窮以輔萬物之自然也
+  hash: sha256:717bd7ce7a8d5e1431c18dc063e43a4574667656aacbb33d7bf8626a4a8dff8c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:af2662b9f3badbbe13a22b9617cf6408e6b124040fb34d348545e7fcf5aabf97

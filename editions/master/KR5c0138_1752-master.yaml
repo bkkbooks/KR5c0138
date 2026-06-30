@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1752
+seq: 1752
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 徳者成和之修也
+  hash: sha256:24335abe6ee27940ccdaa0166723c3d80673e9a1f2765be9655e2328286b585d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5d6da22d82fade0b866f9dcb309f7707415d528f7441503e7cb65df646a3589e

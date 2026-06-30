@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6779
+seq: 6779
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 任知其行則憂患相繼
+  hash: sha256:161cceff95c62381f854b1075d623e1f775e7f6bdff303515cd374898acfee99
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:287f0e6b3ba3564551e4b1ddd557aa9ad1be12b04715c513075b3e1cf659e8af

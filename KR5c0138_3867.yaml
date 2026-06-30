@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3867
+seq: 3867
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此言物各有性教學之無益也
+  hash: sha256:c619322acccd4e011ac062ec5b7fa54694f326263cd46d78d3877f1063c0e4c3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6c267e69b46d267024db75e0a1cf645eabb760725dbe7080c21fae74a4a07e51

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6827
+seq: 6827
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 何徃而不至故曰皆殉也所行之備而物我旡傷故旡壊敗也
+  hash: sha256:f21560fed5578fd4e233f9416b8403705a1217225c6f420470850178983a8919
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6e4aaf59141947a6088d6cc2616c0038e797eeff2c937bd0a22e4438e7ad3915

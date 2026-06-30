@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/586
+seq: 586
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三況尋其支流凡物殊稱雖有善數莫之能紀也故一之者與彼未殊而忘一者無言而自一
+  hash: sha256:0db52b8b4d99ab33d7d61634eedbf5b67ff6a41e4b69a2df4ab8ba0848277156
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:37f7c0ea3001355c35b215b7ca396d35c394d0789bef2630a3dbf7abd480fce3

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4830
+seq: 4830
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舊説云莊子樂
+  hash: sha256:042592736a07a5866bb07b2316ad8843a5599d367e8c9347b3e0bb638acc4437
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:48a6392cf0e77c4a6e526fc8088e71aa9ea57e2b70dffcea4387bf7a5f03a83a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1158
+seq: 1158
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遺耳目去
+  hash: sha256:35222a09d0d46a66788f7573ced3dfcc454b4ba88db5ae8cd182b2cfa3ba0250
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8fc874f3d2ed6b3dbb6bf7353449523706a2ade6b6506e3dc08f23d7613626f7

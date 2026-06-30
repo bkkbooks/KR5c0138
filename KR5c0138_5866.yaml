@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5866
+seq: 5866
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知能能而不能所不能
+  hash: sha256:9c163dc7b22d02e4fc2021e52a6c82211f2ec89c6c7ab6edc5fc4950323308f9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:97ce4263127c1f32fb776aebefedc7991d39995601a4de48eead4e6462e1e2d7

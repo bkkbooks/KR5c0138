@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6615
+seq: 6615
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明舜
+  hash: sha256:85b2314ed0b0ab54c4a236e205432fd7f1b07659ea61e1e2a5a055b6d541a968
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1d779a698610c0bc9551b1c4837a3855f483e14b359397f671f54dae52183d7b

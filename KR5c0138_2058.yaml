@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2058
+seq: 2058
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 終始常無者不可謂老也
+  hash: sha256:357e17734c860bd5fb355b51c9d39931f52837cfb0113a3c44bf56bf2b0640c8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b3f0dab203cfb1638df2c2847f2f895f710588534040c5fbd6fe2886e60afa32

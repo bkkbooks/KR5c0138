@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2222
+seq: 2222
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖為世所桎梏但為與汝
+  hash: sha256:df15797e172c6990c24128efcee239cfea4f332c61d99b84115683822b150493
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7e61356c99c1e159b283ba859fcc75f9f58570a677fe6c06e43295ff842742b4

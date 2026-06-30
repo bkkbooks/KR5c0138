@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1292
+seq: 1292
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故遺風波而弗行則實不喪矣
+  hash: sha256:3f161b20fb9032c6502f5de117c145a1fd4bd2624460714b68e8bb569121cdf0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b69021953229d7030c3818d70a33c6653f8a1fa6a302eda80e3c0f408cff51d2

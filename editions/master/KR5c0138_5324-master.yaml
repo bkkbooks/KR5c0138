@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5324
+seq: 5324
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無假也田子方魏文侯師也名無擇谿工賢人也
+  hash: sha256:ab943555f4ac9fb56cbff3f47d92d73973e9629bbce41b1f9b39f8bf520a7d21
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9665e03de5b5ed6a5348a1e135ad425bfca8c4358e98998ed636387a05bcd1a4

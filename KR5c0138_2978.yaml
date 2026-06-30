@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2978
+seq: 2978
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 徒見其一變也
+  hash: sha256:135c7988e11a2e1b84ee790c2af9e64aef3900c456c731f30604738925228c78
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7e3616dd6c38a9af780d9eb2b538f36dd66ff6cdade7f4b6cdf306bcbd89bbcd

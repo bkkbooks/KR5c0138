@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6703
+seq: 6703
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 則其解之也似不解之者
+  hash: sha256:7d98257e37d84de0115d7ca949fc545a8e66fc24aa8ed10a6d3605519666dcd8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b7143e5ae5b1ea6909747dae68e8c315a8df2adaddd42dc8cea0bee7fbcbff5a

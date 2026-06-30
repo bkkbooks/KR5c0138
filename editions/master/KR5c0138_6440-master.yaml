@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6440
+seq: 6440
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其求鈃鍾也以束縳
+  hash: sha256:14c591a7948d127f24c35b557e64b47310d335b8a40ea785252ab537797b38fe
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e20a92a51a78d98344e893e879c38ba415e8c1ec75b0f339bf22d26adbe56f3f

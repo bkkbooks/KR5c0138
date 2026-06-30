@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8254
+seq: 8254
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼其充實不可以已
+  hash: sha256:880f87696e8795843399fbfb75f4b4220fd8ddabd478c0dc0c59ad649c6c3233
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7addf1f34aabe5f4c98c0c6f989d83f3146dd65ed0a5740d2bae2ac2009f44ce

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3455
+seq: 3455
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謂孔子也
+  hash: sha256:1ffafa7b82748cde52e86f98dccaa4e315cc1181b784c61297a2980b1dbb187a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:122d376125067cb1d0a2019290ac6bb948a62593457ce7adf774105dd428fcdd

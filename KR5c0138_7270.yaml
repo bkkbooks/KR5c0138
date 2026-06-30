@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7270
+seq: 7270
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 怒生銚辱於是乎始脩
+  hash: sha256:0dfcfb0f24c354cb5cdaa96ad3c6116432756509ec25437fad1096061e6c455d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6a9d1bee399976358df7d12033350577a51bf58d24febaa5e806ea843e6beb5c

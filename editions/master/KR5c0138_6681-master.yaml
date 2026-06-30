@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6681
+seq: 6681
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用其分内則萬事無滯也
+  hash: sha256:4dfe47612abe1cc94c84f8fa6f5c7bf0a2dcf7e5d7e54e97b5d4f19745e29806
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2d3e9d7ecc7102c0c5e2084f684dbdda04b10da911b60521767d8101e4086aa9

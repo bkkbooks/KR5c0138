@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3225
+seq: 3225
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 非德而成者不謂立
+  hash: sha256:5dc566b11544721400dcd9d3e8eb1e9428e7926edf845ba681a464fa3ebc39f1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1b4e07abca5f12ffc125ecea90099f6df7e71bc7f4e8f6e4825c03743435810f

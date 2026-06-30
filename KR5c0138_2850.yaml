@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2850
+seq: 2850
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 慕賞乃善故賞不能供
+  hash: sha256:e6e7b8736664854d67b3b9dda879918ac59bd64161e6688e96278d5b3f514bd5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:55c3b973f975f359443b373424ae21b4b8bce27d675490aea1ae6011ac32ea54

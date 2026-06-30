@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7289
+seq: 7289
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 君子所以駴國賢人未嘗過而問焉小人所以合時君子未嘗過而問焉
+  hash: sha256:99ccb363843fbb7dc6300383d7c03584003cb9343116eec5b53cc98399bc7632
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ea27988f33e37dffdfbdc8d87329dba8eae0deabf8f3cefeb1bd8e45f659410b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/157
+seq: 157
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吸風飲露
+  hash: sha256:26d02b6b2dab2232e178d44b77b0f315d4e6aeaddad24cfb2b99569142a649b9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5110899e74cff7f68c861c0def6418c380cbf0b756d3736085d2533c030f29f2

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6042
+seq: 6042
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 靈䑓者心也清暢故憂患不能入
+  hash: sha256:0dc288c1216540007b6f42a2f4931a311b04d21ca6552d4b27c4a2b07545f100
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1cd37418a8666ba659306d9096916f69e1d99e41a5c1c8cf19457f617add7857

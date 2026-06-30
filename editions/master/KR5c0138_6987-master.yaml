@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6987
+seq: 6987
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 少知問於大公調曰何謂丘里之
+  hash: sha256:7be07366e41b84230d72d15cb7d4cca793914df9219e0fdb746b9b8891327ea5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2b9424f253de697c6de40f87a9e3563b0301283d510c9a90ae3efbd8969e7c6f

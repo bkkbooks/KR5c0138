@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6468
+seq: 6468
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 賢下人未有不得人者也其於國有不聞也其於家有不見也勿已則隰朋可
+  hash: sha256:eb7bba5052f8ae29f05d4d977c139192377a414cff4d5fd17db5f35d60cbeb6a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c9025536636899d38dd84bc9448e725e60b71c0294d1e6369627028ffb37d6f1

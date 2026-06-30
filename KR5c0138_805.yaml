@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/805
+seq: 805
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫夢者乃復夢中占其夢
+  hash: sha256:b1bc68ef1056ee762413f2a39f2043056a2a8a5b4a4d7bcd24edd3c3f9913901
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cc946d5019ece781f067f49d5fadf6bed559ceb3c62b818c18ea1fd72fca2d05

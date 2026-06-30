@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2594
+seq: 2594
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有為者之所尚也尚之則失自然之素故雖聖人有不得已或以槃夷之事易拱之性而况悠悠者哉
+  hash: sha256:0595a9e6b14daa16e5e5ed91e436dd43b4aee71903af08039c4ce9c1d51954f5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3dc2ffd9093c5b03997e5c3f17d7b9a024a5c1c49bdd9ffd73711cc3f7f825e0

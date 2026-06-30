@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5663
+seq: 5663
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 奚足以為堯桀之是非
+  hash: sha256:40a060f8fd2861f469e7b9e553e83f0d3df70d50524ed0a069a33554f4e54cb2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:52fe7a6e066d0e8c9e0533dcbbdf6c3d3c52a95f68ab871d4ecbefaa2f1f497b

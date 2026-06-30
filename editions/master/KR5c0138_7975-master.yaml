@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7975
+seq: 7975
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故未足備任也
+  hash: sha256:31b7c571df1e68d99ef61562689c73fcd0752afaa2a5f6f35cf61c5c8723b3be
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0a3a7dc352e3888431e22f97b228601c6a0f290818a29bbe1492d4d00c9fe6d8

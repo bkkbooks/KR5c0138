@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1989
+seq: 1989
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 旦之常天也
+  hash: sha256:01a425afa6af62671832cef7dd8021a747873f8bb54ef35e6a35010be289151b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d920082b61ef36cf6583220d5de186eda0a88923193e3a7aa9ca4302195921b6

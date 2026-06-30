@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4944
+seq: 4944
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故無攻戰之亂無殺戮之形者由此道也
+  hash: sha256:a6697031e1d6509375929ae39b61b865b334a93128c7a5ef4745ed71f2f38eea
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6e578791066de7782bb77d90a187f296b0f5d0d6908c9f4253f021986a958ffc

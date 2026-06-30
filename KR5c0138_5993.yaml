@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5993
+seq: 5993
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曰非也是乃所謂氷解凍釋者
+  hash: sha256:3784ad41465707d4364f0ffc7e5e9adb45595a5a799a5c783f53867298481764
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:72eead451da16a69d059ec6e4c9d2054f5533abe672b34763fa414efc4659d45

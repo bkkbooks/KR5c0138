@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4581
+seq: 4581
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 昔者堯舜譲而帝之噲譲而絶湯武争而王白公爭而滅
+  hash: sha256:4cb1494d2e28f3ef2c5593ae59a75fabfcdb456c612557526450760a86405bc5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1f0cd737a1d6fc07effd43829380b20e95a2423e053edcd0d67dfda0fa406efd

@@ -1,0 +1,13 @@
+canonical_identifier: bkk:krp/KR5c0138/bkk/v1/markers/750
+seq: 750
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_001_s988}
+  - {type: line-break, offset: 1, content: '', id: KR5c0138_master_750-bkklb1}
+  - {type: line-break, offset: 22, content: '', id: KR5c0138_master_750-bkklb2}
+  - {type: substitution, offset: 28, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4545}}
+  - {type: line-break, offset: 43, content: '', id: KR5c0138_master_750-bkklb3}
+  - {type: substitution, offset: 59, original: 鴞, replacement: 梟, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3173}}
+  back: []
+hash: sha256:24e21bda52f98c0286fa303a48d14e0371b40511c474efb27cbb73daca0a073e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/445
+seq: 445
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 指獨為非指矣此以指喻指之非指也若覆以彼指還喻我指則我指於彼指復為非指矣此以非指喻指之
+  hash: sha256:398ff2a972c58e4255f31752c958b5db4dcbc9dce8ba6aa4c9f7e7101a4436c5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4ecbfb14ba040a130e023728e0c0baeb0f3581f8f4304438be4ea1913e2ae98e

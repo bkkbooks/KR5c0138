@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6814
+seq: 6814
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與物無終無始無幾無時
+  hash: sha256:4b3d62fbd29a2ebbf319c505a12f0c76e0740c359c409452343291f8d5f163c7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fabf02aa0030e9919efb802c8b91d6a02a32d4844cccf2b2fc9ead5e8a88e926

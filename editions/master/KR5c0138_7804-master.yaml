@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7804
+seq: 7804
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 任拙大寧而至
+  hash: sha256:3513346a8d0c5f908e623ac6669536842e31fad51c318a3e3c98632ee1cd9976
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7d4517e2944d75e86ec0f074600efe364b21a13c0257d789e3e008e5e73d7a8c

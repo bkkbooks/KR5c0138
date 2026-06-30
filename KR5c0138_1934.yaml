@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1934
+seq: 1934
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 邴邴乎其似喜乎
+  hash: sha256:d3f8be41cd2301169eaef43cccb62469611f2d66e2844a82e374b5aa44faaeb6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e21211776a86f2e05957295ede3499a1af871b11875462abc3baa9b23f90abf0

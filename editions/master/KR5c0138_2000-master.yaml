@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2000
+seq: 2000
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 泉涸魚相與處於陸相呴以濕相濡以沫不如相忘於
+  hash: sha256:0765927b184e4f0d38d7786cc99ff4fea5539bbefceab34d4e721652a942d18d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ed397ffa7cfe2a05229a7cef474f233f2b5af666549e6b56b4f116724fb4f529

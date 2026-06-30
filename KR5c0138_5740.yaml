@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5740
+seq: 5740
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彷徨乎馮閎大知入焉而不知其所窮
+  hash: sha256:967aeea98650556ad7809c75fcdc94c5ca9dcec38d0006fffcf2849959e94191
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3ebab019e1a7f60827e7c6793600fec9090a58ea1f1b96bae385bf0518c6bafd

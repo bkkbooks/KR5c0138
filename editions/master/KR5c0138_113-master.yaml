@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/113
+seq: 113
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知則吾所不能殊也夫無待猶不足以殊有待況有待者之巨細乎六氣陰陽風雨晦明也平旦為朝霞日
+  hash: sha256:668213eae49a2bb295303d4624b708079c8d7ddc1f656285de30f40273fbb36e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:db0b95fac227cc856952dd619a7bbab3402741ef2742d677375854e5acc40ceb

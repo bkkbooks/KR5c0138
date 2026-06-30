@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5707
+seq: 5707
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 辯不若黙道不可聞聞不若塞此之謂大得
+  hash: sha256:5ee40d198b770e852422841d5a41860db98985d3b0ce09df27051937b10cbb39
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3b8993c43021279186d0bfd83593cd35cdbd9d1db4fc4cf323e3cbc02da98b51

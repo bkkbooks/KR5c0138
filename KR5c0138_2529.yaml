@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2529
+seq: 2529
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五藏之情直自多方耳而少者横復尚之
+  hash: sha256:cb11bd889195a9c2981e51f9f772d0b336831f0727828db9001c95859c0c61c7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:723bebfc874ec2fc53c295f443d17acb6d8bc5d23dc5d26790ae5d00698ef661

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3631
+seq: 3631
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 時行則行時止則止
+  hash: sha256:fcacfa67ff5851a71a3ca363b1d2bfe4145aabc4115d05319b46733d8ff77117
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f02ff673081f1c69e0436488a3cce98c199f6b98b0b0e27ff17753cfbf07e7ea

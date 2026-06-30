@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6866
+seq: 6866
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自悼所爭者細惝音敞字林云惘也
+  hash: sha256:8425925f4a7365e0310d3c0529dc27e33349ac5ba5e42c6b53f833e61b0d24d5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b928c8675df46c0d2589e36bed71d8ccc70db66b0303f86f3595d2992b3234f1

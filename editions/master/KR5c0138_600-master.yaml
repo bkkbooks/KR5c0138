@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/600
+seq: 600
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其分域為于偽反畛之忍反謂封域畛陌也
+  hash: sha256:7d25e6ffa3e71e97ced3f37090cd34facbb15a2034c863c4ad2934491a9f5d6f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1919d164ab0f7a4e0c856e7785dad80edec104b310883dc01549ed40c3426b38

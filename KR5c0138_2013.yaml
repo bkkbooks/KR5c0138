@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2013
+seq: 2013
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方言生死變化之不可逃故先舉固逃之極然然後明之以必變之符將任化而無
+  hash: sha256:962367730ccdcc425c3e3699b5f3fa0a3f961fe951fff42c5a54fd360d1d2dec
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ea1dfc078f44a6c045812749f819e6461251a0753367ff2e9eba920786489284

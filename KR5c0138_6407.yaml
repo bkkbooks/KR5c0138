@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6407
+seq: 6407
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 可得乎故貴賤無常
+  hash: sha256:987df9401dbaba2a06dbc733e5104226077eb648ae4ae84fe9f414d0f4cdb740
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7e8e41e3b7961216860d462242f6d5ae35dc9a372835c4f467aedd5f2a977c67

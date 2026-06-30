@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5173
+seq: 5173
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 常從
+  hash: sha256:60345617accb429262504a64b0237926c52c88392b1f86323ad7eec691408bd6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1c1f1778d7836c32d0ac7c6c86189e43a48b65b7e14e80f80b6ac7ff5fa9f221

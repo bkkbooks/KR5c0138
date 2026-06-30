@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2615
+seq: 2615
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不付之於我而屬之於彼則雖通之如彼而我已喪矣故各任其耳
+  hash: sha256:2b88a4170a8fff411f49aaf25feed00364cffef5f8b6a4caca65da86f140a8dc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:81a448a13b9b6f3e3d570fdfcf739614a03cdcdb7a919c3961ac32189d479d86

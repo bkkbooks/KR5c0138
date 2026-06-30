@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1976
+seq: 1976
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 常無心而順彼故好與不好所善所惡與
+  hash: sha256:8eceb6dbeb27b3f0929501e6d30b345c1b5a7e681df8435cf64f9884c0001f70
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:92fd6f7b7abc7955918515b58a74c9040277b36fd9d4f7fb179e6d9b33337d73

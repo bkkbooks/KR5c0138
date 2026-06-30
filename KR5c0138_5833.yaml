@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5833
+seq: 5833
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以心順形而形自化
+  hash: sha256:f7b3f976ae6975efc8eedc371830cc1e31c956d4836797c03ee3c9f4064a2e2e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ab51928752bfeb6f2010e429262a20dec05e1152dfc334295b2e620cbf3a3957

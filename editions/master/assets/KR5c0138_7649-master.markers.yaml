@@ -1,0 +1,31 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/markers/7649
+seq: 7649
+markers:
+  front: []
+  body:
+  - {type: xml-element, offset: 0, content: '', id: KR5c0138_master_010, name: p, role: open, attrs: {'xml:id': KR5c0138_master_010}}
+  - {type: 'tls:seg-start', offset: 0, content: '', id: KR5c0138_tls_010_s2, seg_type: root, member_ids: [KR5c0138_tls_010_s2]}
+  - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_010_s2}
+  - {type: page-break, offset: 0, content: '', id: KR5c0138_WYG_010-1a}
+  - {type: line-break, offset: 0, content: '', id: KR5c0138_master_7649-bkklb1}
+  - {type: line-break, offset: 6, content: '', id: KR5c0138_master_7649-bkklb2}
+  - {type: indent, offset: 6, content: 　, id: KR5c0138_master_7649-bkkind1}
+  - {type: indent, offset: 11, content: 　, id: KR5c0138_master_7649-bkkind2}
+  - {type: indent, offset: 11, content: 　, id: KR5c0138_master_7649-bkkind3}
+  - {type: indent, offset: 11, content: 　, id: KR5c0138_master_7649-bkkind4}
+  - {type: indent, offset: 11, content: 　, id: KR5c0138_master_7649-bkkind5}
+  - {type: indent, offset: 11, content: 　, id: KR5c0138_master_7649-bkkind6}
+  - {type: indent, offset: 11, content: 　, id: KR5c0138_master_7649-bkkind7}
+  - {type: indent, offset: 11, content: 　, id: KR5c0138_master_7649-bkkind8}
+  - {type: indent, offset: 12, content: 　, id: KR5c0138_master_7649-bkkind9}
+  - {type: indent, offset: 14, content: 　, id: KR5c0138_master_7649-bkkind10}
+  - {type: line-break, offset: 15, content: '', id: KR5c0138_master_7649-bkklb3}
+  - {type: indent, offset: 15, content: 　, id: KR5c0138_master_7649-bkkind11}
+  - {type: indent, offset: 15, content: 　, id: KR5c0138_master_7649-bkkind12}
+  - {type: line-break, offset: 20, content: '', id: KR5c0138_master_7649-bkklb4}
+  - {type: line-break, offset: 41, content: '', id: KR5c0138_master_7649-bkklb5}
+  - {type: line-break, offset: 62, content: '', id: KR5c0138_master_7649-bkklb6}
+  - {type: 'tls:seg-end', offset: 63, content: '', id: KR5c0138_tls_010_s2_end, seg_type: root}
+  - {type: 'tls:seg-start', offset: 63, content: '', id: KR5c0138_tls_010_n3, seg_type: comm, member_ids: [KR5c0138_tls_010_n3]}
+  back: []
+hash: sha256:53959cf9898f8f8e989f2c1126e5af2df15db18ad76f606d92d182f1f3602df2

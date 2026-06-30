@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5398
+seq: 5398
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孔子見老老新沐方将髪而乾慹然似非人
+  hash: sha256:c095bda5559b3100d021725ab955d237712130ea6c8eaaffd19e21137675a1ac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d10c378316deafe7f2512e7971bf064e14ddc612eab4c13a9e9dcb6df299b67f

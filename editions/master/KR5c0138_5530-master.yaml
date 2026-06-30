@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5530
+seq: 5530
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 由是觀之則凡未始亡而楚未始存也
+  hash: sha256:f3441d583a957d8d440eaade1d8c45c8607cf8f4a81ec514d229de1d13f5671f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3614dff66833e9614304b9727d2da11f56559acd447d3abf3d26c07b43021ec0

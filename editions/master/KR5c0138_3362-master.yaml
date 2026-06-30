@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3362
+seq: 3362
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乘彼白雲至于帝鄉
+  hash: sha256:57549de3c7dbd9f62fef6746f47904c9e866b42b8f62b0a269989965fa4f1efc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:48893b12fecc471eca788a8eb52e2d6112d561242c6451922c6334fb1abfefb6

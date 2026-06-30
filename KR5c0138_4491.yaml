@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4491
+seq: 4491
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 説死而不禍知終始之不可故也
+  hash: sha256:6a6dc39f1a63fcf5ed9bf8c1fa0ef1f19ad38fc7a9dbb45ebe4f91870a8710de
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fe221d3bd75a1e9ba5fc4fe8cf5bf8b9def04ef24f5af264c63c48ae038fe08f

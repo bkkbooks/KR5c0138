@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2876
+seq: 2876
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 尸居而龍見淵黙
+  hash: sha256:87c50abb74a2a8c43a4bb872e1022a0e83618d7a536413b2b894f7081dc5abed
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:afafd963170f70c99c48529d32055ed36f32d1df8c630a07f56376f2ee396f84

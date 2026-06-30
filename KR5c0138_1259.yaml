@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1259
+seq: 1259
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫兩喜必多溢美之言兩怒必多溢惡之言
+  hash: sha256:abcde540109d4a68e21d02ab229103d7bd24ac2e1079263d550b8ae156f4c059
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c1ad43e5dba65ab688191ed019acdb6e989d54edde6526f0c3e05340ac00b241

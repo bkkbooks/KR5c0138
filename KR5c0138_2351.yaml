@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2351
+seq: 2351
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫無心而任乎自化者應為帝王也
+  hash: sha256:779dc32850fcc9f6681141d12f9ca8abd5719ccf6df5400fc8dbccdbc3f2fca8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4c5d105139e4fa99fd24614d66b068ddece26a12fd32e6d52773d46820b1c0e0

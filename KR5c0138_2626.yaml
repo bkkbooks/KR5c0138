@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2626
+seq: 2626
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此舍己效人者也雖效之若人而已己亡矣
+  hash: sha256:9c17b4701a26233221f9af702d806053a6e51febc9b769ebcdc03be7aed4698e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bb0196dd1e2ff557286a1deaccf136a70f9b4db1264dfae7fc7fc0576075f151

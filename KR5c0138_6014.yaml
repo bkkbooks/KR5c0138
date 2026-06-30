@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6014
+seq: 6014
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 脩人則自得矣所以常泰
+  hash: sha256:032c98d82ced6883835109fef41d7f8ae6f53befa3f5959d8f9428222884bb6a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ff8950a1569080bd3f3f11c156d8f4e64524294ab09b0a0158e674915597e398

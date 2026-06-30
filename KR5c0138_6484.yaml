@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6484
+seq: 6484
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 悲人者吾又悲夫悲人之悲者其後而日逺矣
+  hash: sha256:d7199193362e30774b0b9b12e6e156e1f14992d061911d622b25aeef4d5c349a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:54e07f94babc8117d1b48126b0275e26306a397c13d243c21612c9c440416962

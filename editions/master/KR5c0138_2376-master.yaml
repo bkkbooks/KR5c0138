@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2376
+seq: 2376
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫聖人之治也治外乎
+  hash: sha256:ea57d3f17818f49860841f28bab76289f6d3875fe56ddf540dd1b8b134054da9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b04487e737df16fd5d6576d4db1dd97b39b654b6cc636f509821bde629a5117f

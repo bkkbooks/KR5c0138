@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6544
+seq: 6544
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若天地然奚求焉而大備矣
+  hash: sha256:f6819f70ec0b184f1edc532cc0ce18257078fde34dcf50d902dc74d982339d10
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2d3a8350df5e2ec068c8ee4694337df6dd1624405145cdb4711752f9b77c9f0f

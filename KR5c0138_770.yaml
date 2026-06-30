@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/770
+seq: 770
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之相合也滑古沒反亂也涽音昏
+  hash: sha256:dec420a3d8a4310e9f87dce8273c058906684748dddaa1914e201a6f23bac959
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f9b382074d37c5bda862cb96cf70a585319f129e55dd2081526386afd0a4fe24

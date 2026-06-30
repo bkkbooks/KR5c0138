@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6517
+seq: 6517
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各自得耳非相同也而道一也不能同一本作相同
+  hash: sha256:7e6ed8d1c2ded226f04d29ed5de13089e19fd3689a4b82de04c19ef228e78c27
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:30a2d83189ea4bf7e422422a5aba48b8e912cb6454597012120af9f69cfbb594

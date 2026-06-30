@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6730
+seq: 6730
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至也是以聖人從而任之所以皇王殊迹隨世為名也
+  hash: sha256:42ee2cfc3d4c452c85686f9b9e17009ce24cef165a9ff73d147816865e090783
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:583bb2377d98c8e31b8ae24ef4de825bfb7f602dd3ecdbf85e77303fdee6b715

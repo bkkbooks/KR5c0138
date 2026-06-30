@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4194
+seq: 4194
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不與化為人者任其自化者也
+  hash: sha256:8b7212a92ac07bd654187455cb8e684af4420a135b598404951af980e8c65929
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8f675fda05e78494f9ff2a6ff2977409b07dcc279c0ad03974b2033657b98355

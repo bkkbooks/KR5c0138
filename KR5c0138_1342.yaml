@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1342
+seq: 1342
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 形就而入且為顛為滅為崩為蹶
+  hash: sha256:ce80dfcec03f511e29387404117f4e043a5f4b25de26d785a62eab64cc7ee24b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:57e2ecf2bfb69445604a3bed01755dfebe3b90ef54e25493d8cbc9078876d579

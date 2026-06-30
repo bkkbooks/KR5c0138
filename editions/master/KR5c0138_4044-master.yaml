@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4044
+seq: 4044
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其味相反而皆可於口故禮義法度者應時而變者也
+  hash: sha256:238b4699d5530e60782110f5fc8fbc25a5db91b0de27be2f13342cfa3ce667d1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ada31c8cb746cc1b70d53e879341a2e786789d1da047fdbdb2022558d1df0c62

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4330
+seq: 4330
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 信行容體而順乎文禮也
+  hash: sha256:49da4248d408ec6e877e2b3ebac378f3df4e86b52644568cbc80052fcaca4712
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5589199e37bb4970408e0f68dbc145dd24a0c9311379380b3d027a0ca083dcaa

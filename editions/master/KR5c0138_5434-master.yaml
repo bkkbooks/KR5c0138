@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5434
+seq: 5434
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫天下也者萬物之所一也得其所一而同焉則四肢百體将為塵垢而死生終始将為晝夜而莫之能滑而况得喪禍福之所介乎
+  hash: sha256:23067421e994472bb63b94f519f52fde52cfa923fb2a8e9031f4953839cd9c49
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1376513da4146c95fe5830905fc855b184f8c176fd3a6c7a53f5f9b915a4fba9

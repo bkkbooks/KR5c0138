@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2880
+seq: 2880
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 神順物而動天隨理而行
+  hash: sha256:4dfc93ba29e419147b6cab832175bf7f467df236be5ec2cc51f7fd6896812408
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e0e8e2789fdb76dfa132e6a27e7a8560e2a12c2baea915b5a83ccc491dd3ebe9

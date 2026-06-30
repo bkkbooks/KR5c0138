@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8368
+seq: 8368
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 狗之目𦕈謂之𦕈狗狗之目大不曰大狗此乃一是一非然則白狗黒目亦可謂黒狗
+  hash: sha256:a018774a57968e90aa41902723a075bd00c7133131a0e3a6483b67e22f5f2928
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ea59da25627af8fd5fab62fdeb087624b28acdec6cc3d84da1ab1caeb4c8b095

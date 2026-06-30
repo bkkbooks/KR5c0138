@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6197
+seq: 6197
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若然者以用為知以不用為愚以徹為名以窮為辱
+  hash: sha256:8e1a8a7373c8965cd8744e766589bb5bd092863aa9da16bc423948697bdaaacb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fcaa78e6a94f7d0e76b906764a5275b641e6500c5db4091d5a7f2d0d087a6d3b

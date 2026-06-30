@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6463
+seq: 6463
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 髙而不亢大病謂死也上忘而下畔言在上不
+  hash: sha256:ac969f2fb7d367d5fa2b7052ab1437c0e85dd204450891515b8115b528693add
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:55dce9a1020bdcca02c3fe26b9835caaeac825db0d95893168899a6b9f0a7147

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/268
+seq: 268
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其寐也魂交其覺也形開
+  hash: sha256:0d8918faefaceeaddb351c9ed0f7d54738704f9dbb00558085457da9bc165249
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a8d1e1d13a2da4780d6962354c7978c82ebf967f8f6ada1e4f9670b49f7e821a

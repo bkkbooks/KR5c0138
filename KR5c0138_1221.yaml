@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1221
+seq: 1221
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人患雖去然喜懼戰於胷中固已結氷炭於五藏矣
+  hash: sha256:d8980299b9d37999f9f93349efaddd38114cacff901238685b3c665f903fac48
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2e27c61ae0265ab273d77d558dd5f50cd5438c171537f82611506103dc281634

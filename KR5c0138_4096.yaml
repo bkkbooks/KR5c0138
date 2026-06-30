@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4096
+seq: 4096
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 怨恩取與諌教生殺八者正之器也唯循大變無所湮者為能用之故曰正者正也其心以
+  hash: sha256:c25fdbf568a74e413caff49bfcadd23004890476c401226e2423926cb67315ff
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:68b8b332176038e8990efb875ce32aa5df1a59e315ea7b9a070eda2f0b306b6f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1559
+seq: 1559
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 羨於大聖而趣之
+  hash: sha256:0086e042d9683bcd5ec02db562c1c6a584670edd7d64278a486e4b37c9a0e991
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:923f8b210f0c14f9275f63663835d7ad411a8f57eab5b26186eb2eb81ae9c2f6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1233
+seq: 1233
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 恐懼結於内而刑網羅於外也
+  hash: sha256:808fb53eb92ef363019b2b77bfad36a5d08016f82dc5ac35691b02e932a20a22
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:722ed3505e5b1444fc7b37a7058d1f54e16907802bb9e5b946eb504823b94cff

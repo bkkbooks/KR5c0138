@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6623
+seq: 6623
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此三者未能無其耳目心意也
+  hash: sha256:4f3a6ae9eb24ae9353ebf29505ca5aa7e5a30731064f15abefb01cd8365b0951
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a09df8c8c9d64f2ff503cdd3edc9405e92f82bcc3f35023eeacb8c1ce072c711

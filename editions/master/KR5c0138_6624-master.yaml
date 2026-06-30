@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6624
+seq: 6624
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若然者其平也繩
+  hash: sha256:c1f9d1c805efe6d02084f3ea21875fb49a9a01b400cceb8611aa869f40d87e2b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:30d7e10a7914a190239c75eabdb968d1d13382b0cc5b1bb43ac8299a31328d0f

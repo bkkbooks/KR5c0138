@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3786
+seq: 3786
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之推壌餘益蔬外也
+  hash: sha256:0352fdf6df6009a29ee56a546519cc1432c6d832546136827807e7d778c5621c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5e54ffa225e685a08b4450a3a9eaf83253d9cbc23b7066b4c563fd3770d2932f

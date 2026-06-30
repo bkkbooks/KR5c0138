@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/914
+seq: 914
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 可以盡年
+  hash: sha256:2fa3689337a14eb2228c9e5db7c24f05c89c481ee65f7bcc312e5bbf9dff9a32
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a1acc3cd749a465dca537dc7d7e360437fa786b882b03b04604c5155543ea5e5

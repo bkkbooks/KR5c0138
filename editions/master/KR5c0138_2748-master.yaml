@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2748
+seq: 2748
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 小盜之所因乃大盜之所資而利也
+  hash: sha256:621d624fe68630016b26b4431fbed2439d50f9a79b0adb0c7f7c895f52638e0f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:01f90ab6fd55ddf356697a24afd7a8681f8c84642e1bbf79696a8905b1858810

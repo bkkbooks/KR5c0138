@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5824
+seq: 5824
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 死與生各自成體
+  hash: sha256:169d3dea32bf759246ac2ec384e629cc58bac9c652258429702d83d9f79756b0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e50c920ad8286a396c51c3a777f3de7c9fa824b1d0651fa29a99d75f58d093ed

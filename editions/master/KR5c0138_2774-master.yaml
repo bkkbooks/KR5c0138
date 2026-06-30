@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2774
+seq: 2774
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫小平乃大不平之所用也
+  hash: sha256:0ccd4a4c1d2b398de6721845bd8766a3877d33c5154e997fb124432932de720e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:95a416bb3b14b48634418b578776d8badd9ead07df777c2bfa16f2187d82712d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2977
+seq: 2977
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 廣成子曰來余語女彼其物無窮而人皆以為終彼其物無測而人皆以為極
+  hash: sha256:d11e713dc8a1b4a32a648731651f0aff69bcfe9d069459b16f2e19d9352cec70
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0f0946b160dec324b33001b01c2eb9609f0db26e0c9bd67e779e6c16c4c53cc7

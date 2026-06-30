@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3955
+seq: 3955
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 齊一於變化故不主故常
+  hash: sha256:2f2020383845c4d1dd4d1e12fefd41458f87466a500cdcbbf429b1c0355c2e43
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:57ac1706e49e918b5855dca676ec13e7f2ea3bd9edb54f6646fe65f44735993a

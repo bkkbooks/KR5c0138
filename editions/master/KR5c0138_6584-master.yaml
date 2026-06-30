@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6584
+seq: 6584
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 買梱自代終身食肉至死一云渠公屠者與梱君臣同食肉也
+  hash: sha256:bc0e5a68ab69855d750164d1917ed7689280849902cc312188f9118dea28fa4f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:66417f0020928df78a152d7f4f5bff6d3b48aa9f2e7744a3890fd17610ea2fdf

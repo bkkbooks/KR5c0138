@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3256
+seq: 3256
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故金石有聲不考不鳴
+  hash: sha256:7ea2037320f5c49db97109fab1760e25774074179cc62f85b02733eb31cfd187
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5ad601d2611c6a195a82eaca505d0ba39d925a459fac0b6d6b4b954457693b2c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7225
+seq: 7225
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 教因彼性故非學也
+  hash: sha256:328de27fba0b40df1e3656bab21afe8dc548d30fa0a21871c924765507a1b23a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ebdc48a022463130ef755440b14d3afbeb95851cd7bfc84489b6c8912c986afb

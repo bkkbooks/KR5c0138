@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8382
+seq: 8382
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以為寡益之以怪以反人為實而欲以勝人為名是以與衆不適也弱於德强於物其塗隩矣
+  hash: sha256:bc0bbd6a5a494aca840c5e6ce415375f6189fdf0465a3a0b59e6ccecf2c1005a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d090b55c2b50c1f55d99252fadad964ad6440b0c5ccf1a3e82528e43c7afa5d7

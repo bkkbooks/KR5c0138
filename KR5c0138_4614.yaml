@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4614
+seq: 4614
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 泛泛乎其若四方之無窮其無所畛域
+  hash: sha256:f8db3b431a8e9a2b6f2935f7a8bd643773b8db5abe1034c5ebe0bbbf9d936519
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cf8c8da9f5c4c13d0c792d0e77100efcea22f779bd194b69ac1779edb899e462

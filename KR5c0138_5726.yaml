@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5726
+seq: 5726
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三者異名同實其指一也嘗相與遊乎無何有之宫同合而論無所終窮乎
+  hash: sha256:53c4ab16f5d41db690619f46e31a4afb78ca0cea8b656a462354d94f091541d4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:96cf4398497596cb5b9538db65afe01da7401f1a14db5f7da36dda5f15ff8980

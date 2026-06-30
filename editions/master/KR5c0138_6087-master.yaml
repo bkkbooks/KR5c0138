@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6087
+seq: 6087
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 臟而所在皆隂陽也故不可逃
+  hash: sha256:2b8717effa2aea6b4e048b5c293391540e3e2196b558b236c530bf5c04b8d28e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a10904a13779821de7d73ec2f2ec3172ca8cde602ed0af2d7d44d863f65e0df9

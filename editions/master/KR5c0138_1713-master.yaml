@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1713
+seq: 1713
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 形全猶足以為爾
+  hash: sha256:186f115b93d71235a2c258092b9985dd4b713f6d0ad2994d93504452de3c315d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b546545beae7ada806e0ac86721a4bc9ee1b20ee3de42bbf5a87e75bf03cd0ab

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5611
+seq: 5611
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若身是汝有者則美惡死生當制之
+  hash: sha256:52d9600371bcee4356bf6f861d9dd457337e81fdb5155535787af65808b0815c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7d58f185d9c08c9ad7f7e9d47f22b2edf38a2a55309c4f36e26e7211e2b9d3e2

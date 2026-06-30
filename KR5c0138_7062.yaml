@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7062
+seq: 7062
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 斯而析之精至於無倫大至於不可圍
+  hash: sha256:dc2d381ed8121d219df9fc41c52fe92e26a897bae78a341efa66bc9aea979012
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8df0d2771550878b53db2b42a09f933cf7a6e8dfbe50d6ae2b91ea259bdf343a

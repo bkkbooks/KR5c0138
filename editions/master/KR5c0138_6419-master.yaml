@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6419
+seq: 6419
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若謂謬中者羿也則自是者亦可謂堯矣莊子以此明妄中者非羿
+  hash: sha256:4800c25488e068dce4a7944b96bcc677913ee4d49676ece800f9b04e6dcfdf92
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:987d27aad3c8e007b77529ac17d916fd4e570724841fc6868466f3525c0969f4

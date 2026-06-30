@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4789
+seq: 4789
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 庸之德為然蹲七旬反
+  hash: sha256:aa971167bf80752df728493964477a54b478fd2ff8001560763fafb5f39557a5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:69e64d1cabe5f4321c86197635777e9015c2fa78d6a4b2693d275c4aa6fa913f

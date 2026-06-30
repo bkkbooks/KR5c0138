@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3863
+seq: 3863
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 則知者不言言者不知而世豈識之哉
+  hash: sha256:1793e9406d32afd926471c1c034db371f06b3e4f540228abeeb97b4e356cc5ce
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0f112a80501f96021b87b046f5e3ee62c57421641afe3c589eff02228069e7dc

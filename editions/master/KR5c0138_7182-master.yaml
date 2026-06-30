@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7182
+seq: 7182
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 奈何哉其載焉終矜爾
+  hash: sha256:c9671da3c03aca17562d57f3499866a2241b5150f03013d67e0425e2b20a892c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fb216abf641b6d9d5178ebea63d7e35d2e2e84f3b6f58cde970e5c31639950fd

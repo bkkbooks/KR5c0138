@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3461
+seq: 3461
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 白者之同乎世也
+  hash: sha256:82b5afd7e396cba5414a16ea6f6a4f5e10c62f3cc513fffb078deb4838bb1d5e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d389bf0513172beb21947b0ab41ef0bfd759b37edaf38ca844e144c0c2b8f348

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4354
+seq: 4354
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 離道以善
+  hash: sha256:14bdd5d3737c6d03f0312ac874c70d58d719a3275f71c653fc944e1497cdde53
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:119b2776225a56024479100ec50fa91c88c7cb9974184a0135f059329aed49d3

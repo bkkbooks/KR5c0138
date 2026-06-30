@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5063
+seq: 5063
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 始乎適而未嘗不適者忘適之適也
+  hash: sha256:2f44e75fca0a247acdf18d94d3118605bfe15afed0b6a570f07af268f77ce050
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:640ec09c26171024feb1cf6bf6bcc9ce935c2d1d4ac6de552a0bdd5b86531157

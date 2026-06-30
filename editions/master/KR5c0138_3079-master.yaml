@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3079
+seq: 3079
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 心哉猶影響之隨形聲耳
+  hash: sha256:17eee291edf1de91afa03b3d2b8fc9088ed6865aad9e2c0c31f87c45bec664d1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5ee6c392a7b38b31a1e96205053dca3c81b8325c819ec8e72cd81bfa1ecf92e0

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4272
+seq: 4272
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故曰形勞而不休則弊精用而不已則勞勞則竭
+  hash: sha256:8346c73a4abb35c8bfc8c1566e46c07ebffc6f8756a413ea4dc16389d5bc6290
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4cc95b685c6520dd30d0886bb3735969788fd457702053b4ad070c17c9d44740

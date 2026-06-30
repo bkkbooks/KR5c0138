@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1573
+seq: 1573
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知與變化俱則無往而不㝠此知之一者也心與死
+  hash: sha256:df6197fd4349d89e7ed0eff58a094bd51db41e121f5991bd69cba0a90560aa97
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d6d6dee6103ba879099794b13bd929b5bb5899ddc7a834faa056d1eca89b6773

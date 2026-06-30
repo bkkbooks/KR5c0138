@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7439
+seq: 7439
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而然謂之命似若有意也故又遣命之名以明其自爾而後命理全也
+  hash: sha256:74f5021eb428db55fb23cb0a0b45b81cdd6760909265c828ab8ce52f614e37dc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3196c094046f0fb7f1b1e5389c8ea21ac8e5f0d9c8271a571a52fc004e17cedd

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7321
+seq: 7321
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而二異訟其所取是必於不訟者俱異耳而獨信其所是非借外如何
+  hash: sha256:74a54e23c7912937095f410a100dcdb276fd025fa3590d846f7fd17f853f9cd7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:be97e148f22c1b66db34324c5dd5cc69a290a9b6354ce706a736f0deca984439

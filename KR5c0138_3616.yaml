@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3616
+seq: 3616
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 俞俞然從容自得之貌
+  hash: sha256:f69f2768f2c0f36e5a91159cdb6545698b1caf169ae83ffb19c8ccf6072473c4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:14d7f313edfd4b0e0923645b4bb54c09bf78d1825b139fbdf25499631c239d9b

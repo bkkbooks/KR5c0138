@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1267
+seq: 1267
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 就傳過言似於誕妄受者有疑則傳言者横以輕重為罪也
+  hash: sha256:b29bbb284442f9c57f2cabe595f4370133b7fa2f1ee34d2826748b2217eb97f5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b69e4d8d50288e9527dcb1b3e3aa4a425bcfc257a63c5732d3020d1387e28a5d

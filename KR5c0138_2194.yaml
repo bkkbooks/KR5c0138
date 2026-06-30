@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2194
+seq: 2194
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼方且與造物者為人而逰乎天地之一氣
+  hash: sha256:a4454b3e8c549eb80fc474f849757690a3894d8040ecb056b98eb2ded98624cb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7140b7ddbd88f5812c8a035d64a51bea45be5b5e75cc3890a1121c9eb0bf5900

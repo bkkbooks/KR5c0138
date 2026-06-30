@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2228
+seq: 2228
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所造雖異其於由無事以得事自方外以共内然後養給而生定則
+  hash: sha256:476ce771b4305b3df0b7ef66d65995f35814b7b8659395bdae6bd144eb5d6297
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3bac4f428cfe35c90151fd08ae489241a5c23f27f257bb0af0f9ca5d748ca939

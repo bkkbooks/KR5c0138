@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6482
+seq: 6482
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 綦為榮隱於靳反田禾齊君也尊德故國人慶之
+  hash: sha256:7598129acb017af2923fc6f333c5cd5eb276486278260e95465b16bb318a83f7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5f591930f3820655f5097a70345bba7881db3fed7c9655963d4090bb9d2cb1a9

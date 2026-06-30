@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2980
+seq: 2980
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 皇王之稱隨世之上下耳其於得通變之道以應無窮一
+  hash: sha256:135892d6880607081d52d8bdd6fee17849aaf264407ea7817e0fe9de15c01512
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3a903a852bea5826afa623ebf3e54c792e4389fc3194de983073f8e8696a9b8b

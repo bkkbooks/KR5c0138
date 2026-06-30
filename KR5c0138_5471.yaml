@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5471
+seq: 5471
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 史夫夫盖篆字夫與大同見文選六解四斗曰螤
+  hash: sha256:3cf9c56653b567d8acf8f7c6aa3c14ccb058a9af3ff1602dbc6f73e0d3858941
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1d970468b6a97c4848705dc594128afa51668450a59521f9ae33b36b31ea2bbf

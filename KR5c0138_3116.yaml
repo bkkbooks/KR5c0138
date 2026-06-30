@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3116
+seq: 3116
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法者妙事之迹也安可以迹麤而不陳妙事哉
+  hash: sha256:56c5ea20131a1d9bde37f3ebfb0ae30aae82e08bd5f55994e1a133311a4b4ccc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:22b6ec0bf654cd8b504ff7ae31174ac5395b9559344b328c6d86d6ba67f5ae51

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4961
+seq: 4961
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 累五而不墜猶掇之也
+  hash: sha256:c7613c09a377edb02ab1e1af22b007250eaedae5c508f7a69b752ceb3cedcdf7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2d89f9a31af7cbe9d21531ede947e0e4952090addeb6f07e6158d0c79f16490c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6760
+seq: 6760
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 父父子子各歸其所
+  hash: sha256:617e25f4e438bc581f3267ee3987e3568446a11a5ea6d7d68cd2480692d53621
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3af8e6e6894bc90212b1ff5fbe1422d2e54a13aafbc4a7237b0097e6356c2adc

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/784
+seq: 784
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 藴積也積是於萬歲則萬歲一
+  hash: sha256:2aad827b5342e10dd5a8b5d1b6336885f2dc25405d13b654351e597b8a1b7fbb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:df59b63dcaebffcc913c4e77c4b9f53e23a77bf73d7ee7a547c1a9853f481b72

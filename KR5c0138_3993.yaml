@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3993
+seq: 3993
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 者非為也皆自然耳
+  hash: sha256:2e65dfdb66fae2e13f72f1ecdac66ce2aea6ed8093e935363c4e547223211c18
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:14053956e39b837cadc5d85f3fdf3b0cf437fd89d21b258565f4a73c82c81a15

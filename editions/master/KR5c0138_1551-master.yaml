@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1551
+seq: 1551
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 動而為之則不能居衆物之止
+  hash: sha256:048303d7c6cc0b730fef1acafb6a2ca92bd41b071daf4aac8301aa8af95980d4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e694594d3332cc3f7c125f4478b3ce4f5373dd4795a15f49b6eb520f415e8653

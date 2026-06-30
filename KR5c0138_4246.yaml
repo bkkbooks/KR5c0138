@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4246
+seq: 4246
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 汎然無所惜也
+  hash: sha256:6bf18b81f9ddfa89be9eca60b5f0c204ec99b530845862a032681e295961bfa9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:446d2c63cbaf614aa62a4dfcdee964933b0cb71ddbfde641f47695b975e964ad

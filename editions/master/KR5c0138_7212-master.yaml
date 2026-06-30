@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7212
+seq: 7212
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所以為人齊同
+  hash: sha256:eba9899d3e896ec0398e25da39559292a3f62afb083dc2663c3d9d5e6afd65de
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:48fdc1fa1fcf767287128862b18158ebe93897fc67c2de3bd261e736e59a2713

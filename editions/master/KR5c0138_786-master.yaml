@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/786
+seq: 786
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 予惡乎知說
+  hash: sha256:c14eedc1943bc65de9d332355573c44a47883b69b077694b0332d93b420326aa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:68f0ece684b3f4016db0ef1ca8d259a3466be27e8c7323ee44805280ae7dae10

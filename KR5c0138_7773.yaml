@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7773
+seq: 7773
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所不安不安其所安
+  hash: sha256:cff94b40a2c2e99f062c133fc464ff973efe7f078e031d509c2e33ef971517a3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b0d5a3ed1b4e3bab5d9edee1833e1b8ab112f569df18d3003a0cd1e8c4cfc3ff

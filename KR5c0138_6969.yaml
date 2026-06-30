@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6969
+seq: 6969
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 靈即是旡道之謚也太音泰弢吐刀反
+  hash: sha256:5b0a84d78bb37cdc2e43741783f0224d17faa9a03f5bd911156251499993f925
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a145ad955d5c472f62d66d17db4b38f1165f062a7192b836c10c1c4f838de532

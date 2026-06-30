@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3453
+seq: 3453
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如字本或作於吁音同夸誕貌一云行仁恩之貌
+  hash: sha256:439a1712464d9d224516d8afb41266588b51d6b57e7956eebfb4014fcfc0966f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9af3e71ccb27a9b0433d6009bd7d48d1f871ba8680af9afaf35347c6147ae2da

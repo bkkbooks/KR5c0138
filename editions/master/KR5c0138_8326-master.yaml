@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8326
+seq: 8326
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無定稱在上為首在下為尾世人謂右行曲波為尾今丁子二字雖左行曲波亦是尾也
+  hash: sha256:70a988729b3ecacb619ce794a33c8aac164283ce4532dc3fe825639fb19b258b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:476ee68044aa438fecad3da83ae95501bd747d7a19bdecce8e942533cedcb31e

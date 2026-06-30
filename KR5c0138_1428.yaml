@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1428
+seq: 1428
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 薄剛反樿傍棺也棺之全一邊者謂之樿傍
+  hash: sha256:74ad3ffbb78b7f5d19a55a7f672f1fca9552e3d965db12c0fdcfb54cd76ee103
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9803cbe6783e1b1ec5370fd0c2c92ccc30ab82270d27348849d2dd21c8fcc76f

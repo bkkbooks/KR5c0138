@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8152
+seq: 8152
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所謂齊萬物以為言
+  hash: sha256:28e9367424a7b099700c44c68c43cb3d54d95b0573cb42c2337f9f77ea56938a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:06cd677c718e9079f0861d6ba5ab570f7b7b6fcc2322e7b0c8c7511233644551

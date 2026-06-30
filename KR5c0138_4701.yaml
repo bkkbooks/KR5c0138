@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4701
+seq: 4701
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蛇謂風曰予動吾脊脅而行則有似也今子蓬蓬然起於北海蓬然入於南海而似無有何也風曰然予蓬蓬然起於北海而入於南
+  hash: sha256:fd59160de5e7e35259b36bff499f45ea4b8fef0d05d790d898d795887aedd282
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bdd3f083718cd90e6c4c895f447e3cd9bf9d0839dc8a038024e3c966d0a0582d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5250
+seq: 5250
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 於今為始者於昨為卒則所謂始者即是卒矣言變化之無窮
+  hash: sha256:0ed8ef7ea3ef8e3c99f1b2bc64ddefd3066c43121a15bda336377f1982ccfe1c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9c47c37096adcf8325ea1327cdba36c5a07dc37f585f9accea15629cdd361535

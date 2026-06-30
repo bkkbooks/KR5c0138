@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1133
+seq: 1133
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今而比於古也
+  hash: sha256:b01b1cca36ef3ca2cca90d646bed2aaf4a8d7def8bb86491a0e356e9f45b0698
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2cbcd149c7bada32f80f00852d32bd0266c5cc83f884a16b8218c7c39b44dcf4

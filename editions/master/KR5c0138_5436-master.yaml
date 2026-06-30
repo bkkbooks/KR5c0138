@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5436
+seq: 5436
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 棄𨽻者若棄泥塗知身貴於𨽻也
+  hash: sha256:3e9ed9c40243c3955e61b10ada9f9731e33d2d1f2d3754864dd2dec969a2e911
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d686e4ac03cd6162e0db840d509282faafe4567b339fe1ca53443b5e9f29787c

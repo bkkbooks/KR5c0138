@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2737
+seq: 2737
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 刑此之謂也
+  hash: sha256:ec8fe93ac243c83357b4f50353d4b6d4042e8efdb3b49b0824bee8ee0a7d9f82
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:43f11a72b31bdee4fd65bd9dc22ae5dc4bd9e959c61bb049e025cdd2306c43d6

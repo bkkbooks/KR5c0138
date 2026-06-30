@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4309
+seq: 4309
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 已亂其心於俗而方復役思以求明思之愈精失之愈逺
+  hash: sha256:c2ad058dddf7daf562dececdf8acd9708a48ea1c70845fb661b05886ba2673d8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0c485bdb19cf7f35829bf030658449acf3b58390a7637210c60e85261adda9d4

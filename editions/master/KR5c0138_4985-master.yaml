@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4985
+seq: 4985
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其巧一也而有所矜則重外也凡外重者内拙
+  hash: sha256:71dfbaf51d8b46e1124916251244698d25e9d5396b476de502448228a082dbfb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:af1034480064dea738b4a8c4654cba823b3236f1ce867e26d2ebd165135a700b

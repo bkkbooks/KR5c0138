@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/389
+seq: 389
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫言與鷇音其致一也有辯無辯誠未可定也天下之情不必同而所言不能
+  hash: sha256:fa86c8ee35abae89445357cebe263c9e7622800908e8f36d8a72bbac5c651f4e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:70e5e59af97c8985c2a5236d88f3ce3531e7964ac3894fbc73774784cc377fa1

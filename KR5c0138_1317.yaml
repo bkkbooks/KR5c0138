@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1317
+seq: 1317
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼之所惡而勸彊成之則悔敗尋至
+  hash: sha256:7e4cb9983fea3bd181f34998a2647be38427f2f90944a44e0ec7c3ee868ee585
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:be56fd78d6aa88e40325754bf5318295f57f22fa6497fa8d0f2b1094bef6b592

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6112
+seq: 6112
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 歘然自死非有根出生也入死也本始也竅孔也所以知有形累於無形者以其出入無本竅故
+  hash: sha256:ee6f36bf8a02fe671882c356bbf53addaa3dca57ad56a0515379963bdc54e820
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:60edbe56aa59daf2547db0f4c9a15a661e71d443f79b161ba290f056ba95ae5b

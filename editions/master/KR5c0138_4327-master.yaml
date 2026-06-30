@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4327
+seq: 4327
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若夫義明而不由忠則物愈疎
+  hash: sha256:1893cef7d4c58c6254cd43dab65cc47519b4a3c80895a4b7cd2338c8fd12ca2f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:45fcf2e4fa6714a32994580e847b4f6c809b4b1a026567cea4f1bf8f3f8e7110

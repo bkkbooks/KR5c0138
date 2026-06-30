@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3723
+seq: 3723
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 反原除省廢也
+  hash: sha256:7ae43d27bf6292ec91fd06804a9fa4c5bfc19d75efaebd058cf75eb4553d3597
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1d0fbb3bb299c8bd1cd4304fe426763887649d3e87e77733708557bbf3e9c506

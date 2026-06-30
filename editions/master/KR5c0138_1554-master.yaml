@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1554
+seq: 1554
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 木之傑耳非能為而得之也
+  hash: sha256:074fff701ef3ad01b4c361687506ef1ce51c7e9a98d783b0ebb52b524aae7b13
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c82426aff6160add1982fa661e52e8987c38f3e5434b4137fae78a3a840d1df2

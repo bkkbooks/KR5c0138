@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7896
+seq: 7896
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 仁義多則
+  hash: sha256:ab68ed3535477bc78dba86e4d092f1c7c90c2d633a78fa1830c1f951fb661c50
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7dd638096cf33a3123fadd59d49adaed8eb6dcd7419fc0f06ddef50c2b30649b

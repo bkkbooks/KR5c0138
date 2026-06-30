@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7953
+seq: 7953
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其眀而在厯数者舊法世傳之史尚多有之
+  hash: sha256:d6eb3ec4c36d0963c210bc7b53d0da8c3aa6e40e559b56bd998d26e7ee8e19a9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0abeb4ab1d2ceba3c3894784187b1ec7b0e3ec9f22b42db2fcd064078152059c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5689
+seq: 5689
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其天弢墮其天袠
+  hash: sha256:d603185d98ec6fbef8e2490c35915ac93839e98788a6ccb41d4332acb7ad4905
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c2af078ed592b8cb759b9a6549e196e84e0d04ed34512787f8911d79e27dc152

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6400
+seq: 6400
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 錢財不積則貪者憂
+  hash: sha256:e9122e86c0a43654788116b535db1298addb3a79e55a00187c203e4bc8443c69
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:46fbb0d74a732baefe1e4f02d77c3ff0f791f37ddd7eccb7d81b105a8f2c6aff

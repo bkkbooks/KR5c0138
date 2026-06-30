@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/587
+seq: 587
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故自無適有以至於三而況自有適有乎
+  hash: sha256:22617a32ee4f68bb53b8ddc77d0bda7f5c6963e413819d509b69419a18ce0ff8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3b2c9400c98b26e56e12995a62c5ee162bd21520b68eb4304c9f2d2491965858

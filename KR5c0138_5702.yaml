@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5702
+seq: 5702
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖論之然故不能不務所以不至也
+  hash: sha256:6021e676bb17a7b5b71b2fb8a9d90058a355de9a27d2acaf57865427d2dd312f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:73fb665061e08d51abaf8f9fcc52b4792b7c6a6acab0dcdfb5e71b472f33d622

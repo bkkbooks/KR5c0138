@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3765
+seq: 3765
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乂一云春秋十二公經也物本亦作勿愷開待反樂也
+  hash: sha256:bf462542998681b57e6e81c45b5575a15ae62b9cf31168eb3f549ab0e5045893
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2d88946869703b0004cc55f80cb0642823dc5b80a997022842a983720258285a

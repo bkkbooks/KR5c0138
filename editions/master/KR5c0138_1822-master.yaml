@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1822
+seq: 1822
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不以好惡内傷其身
+  hash: sha256:2144f2dd875cc9cbb16b1c9accdb39adf31e48a86a4034bf89e7424552738505
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:195a2b32bc5ff7ae5e67884d6313f7d60f5718b00f033b6e976044432c24830c

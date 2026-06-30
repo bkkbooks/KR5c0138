@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5542
+seq: 5542
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 禮有常則故矯效之所由生也
+  hash: sha256:c942ea158e48667e3e86014f0f1655dfd9b95b68bc2b193b907009ddf34371b4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:59a6182c8709714ea132d28caef4b3fd0a865de00d65e0b6c444ba24838515d1

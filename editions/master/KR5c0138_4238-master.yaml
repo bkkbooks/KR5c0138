@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4238
+seq: 4238
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 災生於違天
+  hash: sha256:33e301cdcda5e5a6f6985d124a4b4c1d6e667f0a4cef4f3652a284ee7d4428e0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7a6a7a278d3d235b5666fe727e6a04c13b89bf994703b127a34e93dca4eafaae

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6622
+seq: 6622
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以目視目以耳耳以心復心
+  hash: sha256:ea32bd82cca87867ff42a9b01cb657e7167dcb1c4a9a1d8381e83979f12afc28
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d5a3d175ec8dae86ff9feb414c05de5348d4b82b78b172ae530bef08c0839d47

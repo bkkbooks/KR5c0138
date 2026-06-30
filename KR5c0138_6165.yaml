@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6165
+seq: 6165
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 嘗言移是非所言也
+  hash: sha256:913859a4641ee99da320a2cf96c814bc3939612f47985efa63609a523fc06b5a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3a35b61f759ca91ebcbda92deaddd5848fe7b0f51bb97f145d41edcb0e40e900

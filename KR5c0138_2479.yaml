@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2479
+seq: 2479
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 然後列子自以為未始學而歸三年不出為其妻
+  hash: sha256:36fbe54144ce750e44820b83ba2290c8c8c726d1e24f68ae8166d38a44f78916
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b2f99d833f1e72e0c04ffc8597394129e838f4060f08c4124534b76ae5f203b0

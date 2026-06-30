@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7427
+seq: 7427
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自由也由有為故死由私其生故有為今所以公者以其死之由私耳
+  hash: sha256:64c55cf9a2c0a5abf120ba70a7dd0697e464112fca7b153cf86f77622c6520e9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d9a994dee099f26eaed36e71b85e8a6945d693afc479ee196381acd744dd5c33

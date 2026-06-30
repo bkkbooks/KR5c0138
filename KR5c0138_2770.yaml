@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2770
+seq: 2770
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 焚符破璽而民朴鄙
+  hash: sha256:a985dd5acc5c5d05946331a13b873d524bdbc27dc18fc62809aa049e17d18ec5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:08a4061f6e2f1bcfd7e3967b537bb73b5b7b107332cabdb228c90fd694676cb0

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2763
+seq: 2763
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 示利器於天下所以資其盜賊
+  hash: sha256:5a2314ee797551983aa52adf5627b41755d6eed0b706ef809691984d3130bfc6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:de9e8e04e705b867da3b724b37990a20d059e4c55fc4ebdd3f446641c63d470e

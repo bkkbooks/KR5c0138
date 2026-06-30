@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4763
+seq: 4763
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 尋惠子之本言云非魚則無縁相知耳今子非
+  hash: sha256:36e62fe9fc27a8c0cdcf2cbc539a681417006563e33790c8a0328aac20413aff
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2e96d77f9a2d208acdfc79447c94b62f12adb65f49cb5c3e8a454ada5d52be18

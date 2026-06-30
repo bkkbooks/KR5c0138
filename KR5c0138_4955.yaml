@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4955
+seq: 4955
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 民之所患偽之所生常在於知用不在於性動也
+  hash: sha256:75bf51d1c458ba52f73bbcd1ba8c95eaaeb5dc92ac044574110fdca0572f9513
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:97663b727cada411d18552b1ea8e878ec2be4ad124349686df17251d1e242f2d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/772
+seq: 772
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 馳騖於是非之境也
+  hash: sha256:179603bb86d861fdc9703b31b7ecb5e3c81068bb3551f285010eb1e9ac0b6a48
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c892d93cf773b744ba06fea55953075815afe9ec80689cfe85d9593383fac8de

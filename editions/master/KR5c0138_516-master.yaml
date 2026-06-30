@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/516
+seq: 516
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 昭文之鼓琴也師曠之枝策也惠子之據梧也三子之知幾乎
+  hash: sha256:4472e2c5073fcb88a521428affb2f0539ca2e77a2fec8097908f4d7db9cfd2de
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:964668ff5456833dceba5d96775cc6379868b6d04bf0714adf9a9f29ab3797ff

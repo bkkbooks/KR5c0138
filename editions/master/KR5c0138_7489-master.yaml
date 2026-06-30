@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7489
+seq: 7489
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 苴音麤有子麻也
+  hash: sha256:fbb03d4ff2791e5fed378dc749662a8450b1b6278fbe7f3d3ee9d1a8d86110aa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:eee97364a5e1486de7b37b5c2fa538e3864df6abc2a9a6e61a7a51b9b3ad30a9

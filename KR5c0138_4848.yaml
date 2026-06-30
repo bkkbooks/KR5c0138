@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4848
+seq: 4848
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若果養乎予果歡乎
+  hash: sha256:288be3b5cb3bdefe1f7f76b93efec79515e5d6132f07cabbd4f7a70c4f30a854
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:70800ce349762fd62cfcf3688d7fbfc1c23fc91050bbf735b068543c5c6cfb54

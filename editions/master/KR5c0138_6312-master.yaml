@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6312
+seq: 6312
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如此違天地之平也
+  hash: sha256:5b6e3ffa76df678b768375d71def0ef5b33d75bfd54dd619c6292d6dd7e385ea
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e16840ff620b2503d77fbf83958339ab8df600af14e88efbb5894bdcb836d78a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3590
+seq: 3590
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天道第十三天道運而無所積故萬物成帝道運而無所積故天下歸聖道運而無所積故海内服
+  hash: sha256:b1b4c88f71c08ac42cf2f544e695400be42b1769a2973615dbd0384b7b08c36d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ee111f9191f99f607cd9d80c906775896da2f5506113626de32720c1f22b4952

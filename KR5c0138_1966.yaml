@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1966
+seq: 1966
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之極者奚為哉任時世之知委必然之事付之天下而已
+  hash: sha256:56a37458a491cd11b2fbc421daa3858ecc20a4480adf9f1c8c138d5b4ecbbcc1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:243bc8d96e51c1f56e02f42ceb17c0f454249d04c566a81facf0178ff5f1e080

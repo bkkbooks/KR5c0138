@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/704
+seq: 704
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此畧舉四者以明美惡之無主小爾雅云秆謂之芻秆音古但反牛羊曰芻犬豕曰豢以所食得名也
+  hash: sha256:030ff3a467fb08c20adb2bd2c8a7a901fdf66b73b751f7d1514b6eb7475ba44c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e42894c60755421499205e63f2f49c191eaecab55be95c25c511d2b0214845e6

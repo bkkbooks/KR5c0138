@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4161
+seq: 4161
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子貢本謂老子獨絶三王故欲同三王於
+  hash: sha256:75142e85719343a28385471d8ec7744a4cc66e9b85f56c4a193119146f412cae
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:11dc8c8a9e562953ebe82715f4801227ba5ef33854346ed1b8b23076baf44ef4

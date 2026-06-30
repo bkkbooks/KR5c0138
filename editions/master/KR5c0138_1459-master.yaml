@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1459
+seq: 1459
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不瞻前顧後而盡當今之㑹𡨕然與時世為一
+  hash: sha256:c96b44c25fe64cf95aabf5e5ec1d7654a52060decb0421d4a2335e06fdc06869
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4db382cc10598dcfff9545a8fbded94ed08d937149549df9341e4b6af47919aa

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8096
+seq: 8096
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 務寛恕也
+  hash: sha256:625ce2a3a4aca9ef117741d37891cf752a39a9d831d70643b24f906bc4083a32
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6ebbd1c55b4805fa5e4379348e84d5df0482d712373e78711cd7e65ba314cc87

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4943
+seq: 4943
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡不平者由有情
+  hash: sha256:cce604d5864ab5d9f85cc3347f36bb50f112be10bc9617b053a75b13035ec530
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:82a2c9cea000fc773f771e602ba0fbedacadb6103fb26a616411187f727fea25

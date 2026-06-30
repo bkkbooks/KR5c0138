@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2995
+seq: 2995
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人其盡死而我獨存乎
+  hash: sha256:7c89f7052ceb45ee1b36a6da8a0f8ad5893ccc2974f577744c34adf2c4c431ec
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d95d377e40c9c9af5c7765bb59bc366c69ba21e20df4ea5b7647d1d41f8f5e24

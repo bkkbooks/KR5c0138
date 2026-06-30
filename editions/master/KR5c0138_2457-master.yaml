@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2457
+seq: 2457
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 然泊心而𤣥同萬方故勝負莫得措其間也
+  hash: sha256:60ab683cfabb47c3573f7aa113870b0c71da63c92711be78e466cf67b16ea477
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6bd3023852197f2b890bf960dffb619eee4013b11a1505c37c39e9ebaae85f18

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5383
+seq: 5383
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而留也故雖執臂相守而不能令停若哀死者則此亦可哀也今人未嘗以此為哀奚獨哀死耶
+  hash: sha256:7f02eca529acefed6247de7ec2321200f3857f570925c8d7051db299a94b4ec5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:96bddebc8816749a39ce3aa346276a70ef095753ac53526c8fd35fd8553f20ac

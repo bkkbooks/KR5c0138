@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3507
+seq: 3507
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 事不妨樂斯無事矣
+  hash: sha256:38d2e61d1bac38fb20e9dbb7272dded556b6b5bb6bd3e04db842a885606a6193
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6f200e39160314c3fa992412ea01d727d5a9ee4f1413785641385ef69fcc4e63

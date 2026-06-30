@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/690
+seq: 690
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以其不知故未敢正言試
+  hash: sha256:dce6b2fbf0a807eb772d84a44fb71566da906f8ef21c383b4d9ea23256c9ee03
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:219ca3b653e47fb8e2e92a354bc9a8d3afbe8057d6b5306537d832bba070deda

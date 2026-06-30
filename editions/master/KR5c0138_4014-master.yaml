@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4014
+seq: 4014
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天機不張而五官皆備此之謂天樂
+  hash: sha256:865d471bfe44335870f10ec61a70bdb8a40074aebe2a048b9d3e5821e3abfacc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c974392ffb296a2d6e69362ef3cbc95fcad55fc0e3fc8709b3c5b42f4f072e6a

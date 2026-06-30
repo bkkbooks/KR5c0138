@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4867
+seq: 4867
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 生人俗本多誤故具録之
+  hash: sha256:044ac2535624ba6609ba777eb6b39f03c8594c99d8912423909954febb080ce7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a9f057d4d700900f84c703cdebf3a5bead74ed74601f60d232101d52079e527e

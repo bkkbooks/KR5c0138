@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1851
+seq: 1851
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 我生有崖天也必欲盛之人也然此人之所謂耳物無非天也天也者自然也人皆自然則治亂成敗遇與不遇非人為也皆自然耳
+  hash: sha256:a95917851a8d13d4fe75870e00c9e9c90dcd95cd7250630a7ac0419827c7df3e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7c7da181055b79ce6df017729b85582a61c2ffa3316d1fe7dc4de95da160250f

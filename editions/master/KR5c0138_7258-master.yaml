@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7258
+seq: 7258
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 名溢乎暴
+  hash: sha256:e0e631962fa9a3d51234aea09a407fdc0b2dce82ae8b62ca57566c2752bbe449
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f60dac7c9acf9e9006fa660049f13cfc6c31dc7d0f0207401347309296c31936

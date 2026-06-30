@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2387
+seq: 2387
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天根逰於殷陽至蓼水之上適遭
+  hash: sha256:5558fbfa53d1ee1cef494a1e7ee336ace66c85960c329e9e983b5d89ba2f6f2f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:aab3cd35fd2a1639e93ed370e6c7556b9f5cdd9263633e5ae34cf5cdf9cfc7b9

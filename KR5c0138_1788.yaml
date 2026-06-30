@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1788
+seq: 1788
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 掘若槁木之枝掘
+  hash: sha256:5ab7a4c2b7afc61bbf7f52bb8db2d9355f502b0e9f9795b9053602b6d024beaa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6330d0df38fe00da8a01f7a677e5061877895ece7c846bebe1c62abb8abc4503

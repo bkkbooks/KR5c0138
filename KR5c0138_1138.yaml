@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1138
+seq: 1138
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寄直於古故無以病我也
+  hash: sha256:7c2ba885dec99af4d449c886940a06eb6677475cef07492b5599efe744f58f1f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2254e6d3daf597389a550e7ff10099b212ae74ce8c28dd0935df88435f4ae762

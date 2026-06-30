@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2788
+seq: 2788
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 去其亂羣之率則天下各復其所而同於𤣥徳也
+  hash: sha256:da9b530e44e61e6b18b12f293045bc74e02bfa7e22033915028541ac55a3f0a8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3a944a501599150b6aceae3b904541dcdd54fa07f667392290d792b5c4ce23e9

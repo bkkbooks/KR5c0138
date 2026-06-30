@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3722
+seq: 3722
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物各自任則罪責除也原省所景
+  hash: sha256:948d90e7608459901a11da9c75105010f972274260cc107455875af26f73bb69
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f749cb9dbf1338038241f369fd9b706e8f05cf2f8b92aaabebc9cc3a0e3121cf

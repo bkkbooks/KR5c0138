@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5280
+seq: 5280
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 社稷
+  hash: sha256:f2fa2ca81aaa74308d4b215b5eafc7f03cb986db29a38582e9aedc590d2a55de
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9714fe396548da7340de08239a439a5c2dff80894a4b76452620ab76065e9bb5

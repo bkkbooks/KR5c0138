@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2230
+seq: 2230
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故曰魚相忘乎江湖人相忘乎道術
+  hash: sha256:b467168c8362dbe77adf57a9b185ab36e9cdaff315fda697d80bb498220f594c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6fb817282c4ed846c40f481c85ade62771805607fe3462d62ad2fd3d4d4e0be5

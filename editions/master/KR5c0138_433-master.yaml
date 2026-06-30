@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/433
+seq: 433
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有無未果定也
+  hash: sha256:2a2290fdc73657451e71892684a27887f95fa74885b3476efb33eed897c9a63f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0a2ef02f6fcc1ced39446df9fb1c894f50a21b1438a51851dbd2ccc0a3107abd

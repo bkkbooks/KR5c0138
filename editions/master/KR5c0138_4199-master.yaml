@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4199
+seq: 4199
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 音義曰以義名篇
+  hash: sha256:d1b36794aa1e7c7eeb5baad535ef5a4104f48b7d27a00c1da26cfca296b9d390
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c934228d795a3e07de59494167fcaff145bd80a2fcc35b4fe77ec47af027c751

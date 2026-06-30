@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3783
+seq: 3783
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言其不惜物也士成綺人姓名也百舍百日止宿也重直龍
+  hash: sha256:1f184d3a2d84b73b09aa4e7a9d87a5b2aba2296da997e25b5e9e10ee96b7a898
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c6829ffa844539f97f5759c256fe57df4a0005855d00189bdb450b89d9f51373

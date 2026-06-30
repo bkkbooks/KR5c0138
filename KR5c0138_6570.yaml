@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6570
+seq: 6570
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾與之一委蛇而不與之為事所宜
+  hash: sha256:4effcf010c7bfaa369eb3d3cc94e2c7fc791ae8f181da69dfc191bd91ccd23ac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:875a833e43277a9cd91b815ce97a633ba057c7f59e86a1bb8d84abf8ae86f78a

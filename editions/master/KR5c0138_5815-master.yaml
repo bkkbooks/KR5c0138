@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5815
+seq: 5815
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 冉求未對仲尼曰已矣未應矣不以生生死
+  hash: sha256:b9c5002967773118fb9d6bb90286be2b787daa6475f5f7dd61bb927349e6cbfc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:842fd872f7e31e2a24d02cd039528ac115df2a17350c49bee24be541000f06fe

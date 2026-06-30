@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7452
+seq: 7452
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 火與日吾屯也隂與夜吾代也彼吾所以有待耶而况乎以有待者乎
+  hash: sha256:d52a79cbdd7ddfb973fa795b066afd7b1b2cc4aa7fbb6a0fd2a1c767c7057983
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:597f0ae5c689825a66ddbb5362e1af95b793dd72c3eb3a04e4db5d9a29b224fb

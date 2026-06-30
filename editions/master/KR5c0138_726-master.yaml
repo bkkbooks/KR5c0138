@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/726
+seq: 726
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有晝夜而無死生也
+  hash: sha256:cf1411f5b80c5b90e326d25af7720b376e463cf57a73666d657cb12a41dbc53c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5788777c384a953824762547ba7bf62f9b23dd90532d508491d8c801d6c4e8c7

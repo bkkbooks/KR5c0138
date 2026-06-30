@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1090
+seq: 1090
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 司馬云毒也亦云陷也方言云滅也簡文云排也好呼報反令力呈反
+  hash: sha256:a843fc5c810f5b92e1b7ca2a46dc53d3eaa1ad035d2769de3504b76f1ad52831
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d14242349a345e9c63a2d86e24138c732efc63d90d6d355192894747e038bdce

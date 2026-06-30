@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7079
+seq: 7079
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 突然自生制不由我我不能禁
+  hash: sha256:1eb836dae93f228c5898ffa65f5a291c3c4c38b925e207c86a41d8e6b1b9de62
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:55e2a3323bbe49f2f81c0cab83680d4760a93388d03f2a1035c7f2937b7c4a37

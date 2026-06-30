@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5864
+seq: 5864
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫知遇而不知所不遇
+  hash: sha256:b81c5c043dc80e615b7c21e23fc364d29546963f4b481f74159d0c79c6cf8cd1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f518b8580b344462b85f6b46e9ac8453bb72dbb293e2f4278acb7852e6e5cfcd

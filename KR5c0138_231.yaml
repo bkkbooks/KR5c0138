@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/231
+seq: 231
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言風唯無作作則萬竅皆怒動
+  hash: sha256:5b6b1ba22bf9750f13bf3e1a314bccd4c40908a759a00ed0d0329ca67c73b8ea
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9a18d7e655fd1528be04d3f2d58565e25dbe7f9fd42bcd4f25d092fa37acaae5

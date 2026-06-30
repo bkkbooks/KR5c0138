@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8144
+seq: 8144
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫去知任性然後神明洞照所以為賢聖也而云土塊乃不失
+  hash: sha256:32f3346a6fe74eddb1752801c768971d5150bdb4ead012625ac8bd3e391f2bd2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f247fce6a8b76e5345e4afb963429b8029576717f90c5c8dc33c889d0760dee5

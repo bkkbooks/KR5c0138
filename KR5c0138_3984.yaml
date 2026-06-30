@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3984
+seq: 3984
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 目知窮乎所欲見力屈乎所欲逐吾既不及已夫
+  hash: sha256:21b5051589428c3e6d7e9b85c267f444b04fe75bd203d130ff569342237b78d5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f63555bb8d8561534819458fdca8c9a63e42a06d5cf00f1f6bb2bcffa3259974

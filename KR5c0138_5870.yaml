@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5870
+seq: 5870
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無知無能者固人之所不免也
+  hash: sha256:b850d8274f2ebf7f742e3aadda1d665784d09b948102258efc2ccb22f964d8b5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:657ee49e03800335d76d7f1ac3e876bb2aaa8c8b0e4468f5e74e70dfce648c9a

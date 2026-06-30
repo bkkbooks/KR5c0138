@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2178
+seq: 2178
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 樂臨尸能歌方外之至也莫然定也有間有頃也曲蚕箔猗於直反辭也
+  hash: sha256:f2d386fa1adc7905a1a7487527d267ca498efa6875b3c0f2bb58a778690ca274
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:989308aab553597df98ebf6ae4a90b89b9edd7d3f5702da708e32a9d941adf32

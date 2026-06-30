@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5648
+seq: 5648
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 名取於身而足
+  hash: sha256:52adefbbcf49b5d293d7dfcfd3cbce3bf30ee455e42e07ffcf5c6ffb3560306e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:206b774804f3d7f1d581b727d1302fb31f9afa154640c8838a7c69ff9b46b091

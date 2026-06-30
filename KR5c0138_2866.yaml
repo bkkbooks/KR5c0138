@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2866
+seq: 2866
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不能遺之已為誤矣而乃復尊之以為貴豈不甚惑哉
+  hash: sha256:f6a664515745346e4d2a231fc8e03f83eeca1b0a080b8c6bab4bb66aea39c936
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f96d6aee83e690277894ce3480147a7b9c51d21105074cfce1473f8e7ab843ad

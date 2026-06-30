@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7087
+seq: 7087
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾觀之本其往無窮吾求之末其來無止無窮無止言之無也與物同理
+  hash: sha256:cc814d47ca39c4f9d598b07f8d87af7203a38015122ccfd2fa5d5da29da46a3a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ad8ec4f0a4ca8485e132c832da4d9c8ed71d9d9bec22e094e93b84f46b251322

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3923
+seq: 3923
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫孝悌仁義忠信貞廉此皆自勉以役其德者也不足多也故曰至貴國爵并焉
+  hash: sha256:7a3bde860d3bf8401385a6c5fbd2f6da3df6518a1c6062fde420264ad3d330ed
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7fd894a3c9e038656d31181b413e3e600735d849c00e49eb649b45d26da32110

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/926
+seq: 926
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方今之時臣以神遇而不以目視
+  hash: sha256:5ba52c057f1ac19f5bbf30196c67cf26b8f5bfaa01158dfc617b7563c0feced7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:54a7c75a92f6c8d99dad41d96fd8d4fcdb75dd94c84d7bfc3da91d17ff9f84ac

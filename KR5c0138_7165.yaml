@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7165
+seq: 7165
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 直任之則民性不窶而皆自有畧無弗及之士也
+  hash: sha256:c44f818508cfc0f976d28cb536b7c89995a1e782b62cea9589f39e450752bd5b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9b7223b4711a4487963d0cd5efc2119dc114d0b8fc67562db7608f0882d49683

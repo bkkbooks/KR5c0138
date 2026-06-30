@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/361
+seq: 361
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 心形並馳困而不反比於凡人所哀則此真哀之大也然凡人未嘗以此為哀則凡所哀者不足哀也
+  hash: sha256:23b74545df6d47019c59702273ef86f32aa1f18bda287ad394d7a1851f483e11
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1ca1d06a337ff3869e684e7feedb21c9df27851e39d976c95b0c5bcd8962d379

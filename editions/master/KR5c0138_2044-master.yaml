@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2044
+seq: 2044
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有無情之情故無為也有常無之信故無形也
+  hash: sha256:171a613e3b4b6ecde589db5994237588d217618ffbd3dfc47a746f7678717d73
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1de96c86b72b51c535290d2c626e45ab6691e4a994155f87a157cde414384cfe

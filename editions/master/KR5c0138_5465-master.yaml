@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5465
+seq: 5465
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不以得失經意其於假釣而已
+  hash: sha256:4ad803c12e464df9f637d93048fe29813aefdfd413f243592ee169aa8c0aece1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5c5a96da8cbfb4a5d62d88397c75723624d3e3d51b3b259e4db22490404433aa

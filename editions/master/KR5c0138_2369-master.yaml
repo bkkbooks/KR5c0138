@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2369
+seq: 2369
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 肩吾見狂接輿狂接輿曰日中始何以語女肩吾曰吿我
+  hash: sha256:cc6d27cc00a3919fd5ae837341aa6020ed7f52f15d52b41188d195f8161bbcd7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:96765e7f8bd28ec3e9dbd28d5fadf435322884d542fb0bb7a6309b46256a4c68

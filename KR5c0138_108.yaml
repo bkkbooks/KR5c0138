@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/108
+seq: 108
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故乘天地之正者即是順萬物之性也御六氣之辨者即是逰變化之塗也如斯以往則何往而有窮哉所遇
+  hash: sha256:95142dc157ccb4f3bea37a2f0c24b6595f7d1f3cc8b9438eb2004a4610cf9673
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e26bd2347a7caefded33c0e6c9c48b848ee67461428cd330e7d73a683adc77cf

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5314
+seq: 5314
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不違其禁令也
+  hash: sha256:998a9dbf413e9c78d6d843ed8dca02c99aae741784d7db468dfade4701ffa75c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:79e1736d81be980be70712daca618ad7e055ed6fd6e61959d8987f3450c807dc

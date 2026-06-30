@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8294
+seq: 8294
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 兩環不相貫則雖連環故可解也
+  hash: sha256:55716c6aaf957297fc0262be6a7579b1677c6a38947118cdc8cacd54bb21de67
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bffdc14526b15d80ede800fd698694f6b1e92f941003f6afedef9c7c39db3121

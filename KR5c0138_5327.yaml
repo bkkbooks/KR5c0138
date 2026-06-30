@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5327
+seq: 5327
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 同而獨任自然
+  hash: sha256:4c167ed38d9ec5294abc206cb8985d46a98b9279b7fbde5177a45ca2971f9e25
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6b87041d0dac92a277669c0da411f898f169a6755e4e7a45a4618064d419a197

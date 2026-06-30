@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/811
+seq: 811
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 惡為牧圉欣然信一家之偏見可為固陋矣竊竊猶察察也
+  hash: sha256:adea633f9e1da6d720e9080a29a03e959abc59aa12d76ddc4946856ef3120633
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ac4bf2dce42b2cf25b4a2b878b3c2b06cccc0b5bd7110ecfd5ba8a1ab358a994

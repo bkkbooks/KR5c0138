@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4022
+seq: 4022
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 樂也者始於懼懼故祟
+  hash: sha256:6d7a0e2918e17c06fa4f5e474db0330000677df52bb086684608f4b2a4599685
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ba31d27f6affdb76936280c83902d9569876858fa54c97d530a9dcea4d0c32c3

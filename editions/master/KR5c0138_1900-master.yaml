@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1900
+seq: 1900
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 煖然似春
+  hash: sha256:ad04834d9afb1f900867a4fc7577eba159936141bec5e401621a2915028c89af
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:be9071f8e3b9ab8f8ba701a22783d9cf303ff3efca583729c459971452a609f6

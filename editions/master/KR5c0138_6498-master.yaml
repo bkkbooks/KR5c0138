@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6498
+seq: 6498
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 郢人投兵
+  hash: sha256:bd809a6d86de3f3e0539070690e57344feb5f2bb7781733f12c95ff349410e78
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4776aca3a5de4ce819f3f124d05ca241cb1d70f9cd468d61f19ec6a1ef8fdfeb

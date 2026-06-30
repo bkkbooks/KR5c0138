@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4467
+seq: 4467
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得與生皆分
+  hash: sha256:08236dc57960e4efe3eae8044777bc92f38a4a54400f593b09fed2b42560bb5a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2b9617e490f2219b030e7a47a00021c405bb79efcf5a577d7ec23cfdbc7e9256

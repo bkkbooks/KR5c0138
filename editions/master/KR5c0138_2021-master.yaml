@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2021
+seq: 2021
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 藏小大有宜猶有所遯
+  hash: sha256:64feb5a807e4c7c033ed126850d73003c01a875ef8df83015865182e66b02d10
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5b8716546b45460ff716e89e78ece6605d147aa31c6d30dfbd88c79fcf218617

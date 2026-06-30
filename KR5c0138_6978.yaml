@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6978
+seq: 6978
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欲以肅賢𥙷其私慢靈有二義亦可謂善故故仲尼問焉
+  hash: sha256:56944ede28f8b0a87256b486dcdb5986a79a5d4746212193de18c746dfa815c2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b85d8dc95afa86a529643a5cc37640bd899b518b9473a0557bd962fa22e7638b

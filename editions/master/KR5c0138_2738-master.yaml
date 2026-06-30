@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2738
+seq: 2738
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫川竭而谷虛丘夷而淵實聖人已死則大盜不起
+  hash: sha256:1167731d779e76e099a5ad14c2a25fac558d068e152a9a9a1f34324a7a730b0b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fc625fd3632545e4da2b14d8b6d48963ca88334ecfd5818556953374ceb0ff44

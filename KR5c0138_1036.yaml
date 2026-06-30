@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1036
+seq: 1036
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若夫不得其人則雖百醫守病適足致疑
+  hash: sha256:e82a8bed19c5a4ba740da4f1dedb3131dcd89ab135c2eccb268255d4caa22b0a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:622fa2512006d32d1138c616c86bd723b19be9c58cad0dba83419cf917cf5f90

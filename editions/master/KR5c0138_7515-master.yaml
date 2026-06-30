@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7515
+seq: 7515
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曽子居衛緼袍無表顔色腫噲手足胼胝
+  hash: sha256:3e54cfce300b96a8c84ae34ac49c69013a0fc477d9b6eb9c2214e0c8211b2854
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:683a307eda4ec5ee87abd62c85c9a39ee516020fb19a7e5f84be39a0c64b16d1

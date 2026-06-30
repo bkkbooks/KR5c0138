@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5113
+seq: 5113
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 市南子曰君無形倨
+  hash: sha256:18607c2893d370fbadb13190c5a7665468f22c7647ea55bb87e00fcc21c36aa3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:96e27ffe998b78e0bf403e699ca2250d2aa91a41e5c721962f84460694eeac66

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6522
+seq: 6522
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 同舉所不能舉故㓙
+  hash: sha256:4ede78f8e689e68fdb2f5adee19e7a8bfdc73ad37d58e6640597e1cb1f6e56ea
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:261affc357810c8a2a24339b95e981cb67c2ae2c0c16607df712cd51eb13552c

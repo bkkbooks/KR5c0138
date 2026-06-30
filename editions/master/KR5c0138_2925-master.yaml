@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2925
+seq: 2925
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 君臣上下莫匪爾極而天下無患矣斯迹也攖天下之心使奔馳而不可正故中知以下莫不外飾其性以眩
+  hash: sha256:d1847df3d95c23c35d303f5ae4d9bf21bd26ba7cb55c7d4d50c23b8cadd195b2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b9f861c8ac9bf3064eb11dd500ddabe196794d6114286eaf3645796305f5e152

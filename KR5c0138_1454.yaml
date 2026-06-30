@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1454
+seq: 1454
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 趣當盡臨時之宜耳
+  hash: sha256:67794188c17376691cf780745b6d5fbeddb89c224c3b610e5cf9d06cbded8f4c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bd9d0d700fd136e01d41eb64c7c4b8e6b5f6a4d2019d9feb58d267cb0f01e710

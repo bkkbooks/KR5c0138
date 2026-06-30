@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5563
+seq: 5563
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 耳然彼之所美我之所惡也我之所美彼或惡之故通共神竒通共臭腐耳死生彼我豈殊哉
+  hash: sha256:19dc58029a4754a3008e0f686771dc49e38362b051c6c09bea65cab6675a43a0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c66b1ccd147dadeb28fd1be6bc93b258d3f385e9a3cde80c871e7a90d6f74d39

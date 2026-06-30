@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1046
+seq: 1046
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 徳之所以流蕩者矜名故也知之所以横出者爭善故也雖復桀跖其所
+  hash: sha256:f7619bd0c0cdcc4fad254abee6816da46ef8125f6a17537a9ef4367c0cfafea8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:792a86736d075c2e05541f9d4fa81bc7526376d60df670ca29f5557d949c3c8e

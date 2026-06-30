@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4933
+seq: 4933
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 醉故失其所知耳非自然無心者也郤去逆反
+  hash: sha256:b99aab78ab8320afcbad1817fd7e524ac9c00e4e4916eb4dbcfe4025610f92ca
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f7ba654051398ee3cc83b8ccabec187c1beb31a501a8ca1acd611714f08dced5

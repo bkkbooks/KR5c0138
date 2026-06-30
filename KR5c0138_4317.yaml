@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4317
+seq: 4317
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知與恬交相養而和理出其性
+  hash: sha256:22d4a52b92596ae22b6bff2aa965b383dba00fdaefd93737977fcdea00cbfb56
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:50ebc32b1988855ba97599ee4bbc1e97bca7be81feaaf983a30b7df1fd34776f

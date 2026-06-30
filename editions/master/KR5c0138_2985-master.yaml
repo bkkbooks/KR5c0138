@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2985
+seq: 2985
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今夫百昌皆生於土而反於土故余将去女
+  hash: sha256:7c7afd8e66f3a7fd1c63df36387964c75f86ecda2c9b376a54a72fdcc77bd7ee
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bf1b9611bfc3580a3a466a77ef79fb42a396f5e1e2e1e82a275dbd66936f8aac

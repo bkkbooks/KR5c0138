@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1326
+seq: 1326
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 直為致命最易而以喜怒施心故難也
+  hash: sha256:5cebab9d2a4cbf5c1530a7ea20968132fb9a52d640e5b872f33fda2749f9d6d7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6da6b966a053d82b5134f586ff228acf8985aa57189f0c55511992a5dec6911b

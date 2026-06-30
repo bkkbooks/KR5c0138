@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/127
+seq: 127
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 亦勞乎夫子立而天下治而我猶尸之吾自視缺然請致天下許由曰子治天下天下既已治也
+  hash: sha256:76c1eabade59204b1ba65793ddca93e1639f76cbc2ec510b2f71fe1112e121fd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e32b2762d6bd80d9f0a0f844a14328145413e23c4b6e04abfdd3bb006519bbfb

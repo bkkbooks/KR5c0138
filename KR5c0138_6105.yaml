@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6105
+seq: 6105
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 殄塞純朴之道而外馳澆薄之境雖復行尸於世與鬼何别故云鬼一也
+  hash: sha256:11d31b230aa5241025bf6a1a81dde140e1e089cf4a15913d30350e14fd466f31
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:edb44da6c0382b2e74abba44ca2525dd9623e8a063894f715e5d34c06fd51d78

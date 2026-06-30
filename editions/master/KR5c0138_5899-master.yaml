@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5899
+seq: 5899
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 云功成事遂而百姓皆謂我自爾今畏壘反此故不釋然
+  hash: sha256:f5773def769db95aadf2cd7e8e39bced1bd15dc824a257ecca5db03e3e697ab6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a807a5e0259d74ef150076e8f8bf6390feb66ebe5d9c0691f5c561b03f5467f9

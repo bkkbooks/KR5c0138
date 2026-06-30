@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7248
+seq: 7248
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 室無空虛則婦姑勃豀
+  hash: sha256:3b516774d0291d7357fd6c8444e0a3d9053a1a020051b40f774e31c781053663
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5954830053ed41a4bfb929e447b54e4742a0e46a1d01d3b1d31a378b22f6e083

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/150
+seq: 150
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 下之至實也各得其實又何所為乎哉自得而已矣故堯許天地雖異其於逍遥一也
+  hash: sha256:9ce266ffeee601b283910b80bebc176f25bfbf430dc449b8f57a480057afaccf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:919d14aaed7118439b79aae7d4a0a6e32fda48daa181fe1d7ad7782ef3aa9b04

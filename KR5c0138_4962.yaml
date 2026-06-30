@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4962
+seq: 4962
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 停審之至故乃無所復失
+  hash: sha256:323532b7e5a32b12b5f16f274128b8d116b5c4295ee1cdec9e62671cd1a5aef5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:64e74df781524a483288ed94208697e82a505a699a527c7ba8654eb355f50c00

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3942
+seq: 3942
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 律吕以滿天地之間但當順而不奪則至樂全
+  hash: sha256:5aa21e0437fd9b4679eced7a7533241a21146d65f432abfec0b4d9bcb30b1c12
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d6a48602487278c7514927e016c72b8d753d6b3e8febb759cead90872cbaf1f2

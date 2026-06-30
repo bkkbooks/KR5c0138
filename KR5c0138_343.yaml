@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/343
+seq: 343
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 毁譽之間俯仰失錯也
+  hash: sha256:541e45b3931d7d42c8831ba8a491b4df41119e705b46079278263b6baaae773d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b3e38a601e16fad52d41eec43c2a32b7a455b86536059bae528878d45949681b

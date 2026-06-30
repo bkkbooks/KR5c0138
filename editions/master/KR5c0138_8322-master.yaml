@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8322
+seq: 8322
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 形之所託名之所寄皆假耳非真也故犬羊無定名胎卵無定形故鳥可以有胎
+  hash: sha256:a12a9470e98ccd6e8848bb0f1cb178febe5336d78e6b5f99c23ce20c6e515fff
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e14db8c52e0eb17667d00dcc103ad36f9dae9b7a0ab472ff745d4d3841d369f0

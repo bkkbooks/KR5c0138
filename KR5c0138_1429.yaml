@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1429
+seq: 1429
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故解之以牛之白顙者與豚之亢鼻者與人有痔病者不可以適河
+  hash: sha256:8a83e7b5b1d1a95dddfaebf1242b1d11925f589cab66c34599480060d65247ab
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:88207406ea9c72afc80958f63738948b542722c148809baa166528c8546ce5fc

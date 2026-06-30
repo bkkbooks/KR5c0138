@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2047
+seq: 2047
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古今傳而宅之莫能受而有之
+  hash: sha256:9c1f2f6c13917eb60bc47f8194c33cd5a2dea770cf43590fc6b42de01aae345d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:56b00d886c98c235c40cf9ce9050b7c93f6866b306e64d2481a2dd190893a551

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/420
+seq: 420
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各𡨕其分吾所不能異也
+  hash: sha256:b5e411235648148cf9f3718a6674c56aea0e1ea9f77178400a0ae3304b384265
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d18828cdcbcdc31c9a5f4e7d66baf2ff7a75a6d6eaf6fdbaae9d310e15f75d4b

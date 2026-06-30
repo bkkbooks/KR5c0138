@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7534
+seq: 7534
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子貢曰吾不知天之髙也地之下也古之得道者窮亦樂通亦樂所
+  hash: sha256:e2bcc6a1d798e9fd57ab2d6510f45e0bad64f8030f9180ac7baa6c0d1b402160
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c12d2e1f48d6fb86e30f0c6a35d91ccd394816bac65d7ccfe7230620eef1c22e

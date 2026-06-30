@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6315
+seq: 6315
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫神者好和而悪姦
+  hash: sha256:c0a5ce0cfce04dcb7c28c655de9c8c832dd401cae5292ae93745176ff48233aa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b8bea7af61f3f45f303da88b914b8cf4c3d34d6369baeacbb5d7850544c6b3d2

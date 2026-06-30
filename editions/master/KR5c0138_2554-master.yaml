@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2554
+seq: 2554
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以長正短乃謂短不足
+  hash: sha256:887bebc126b33118132b8dffd80f89bcc084637994ffa63a7fa8d2cd8e0ad1b3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:98e3e44152950fc80992df850a5acf2f6d9005a3f33774e26d7c33c09f525a9f

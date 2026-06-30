@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6193
+seq: 6193
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人皆謂已是故莫通
+  hash: sha256:97f808b3d522db2529d9593721ea11e93ae29f6e5294fa4bc1936261a4873206
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f53ddf05e82f0cfcf02bb7ae8b8d3f9383cbc024f32b6a041901d5f4325a90f8

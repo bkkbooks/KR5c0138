@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5430
+seq: 5430
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孔子曰願聞其方曰草食之獸不疾易藪水生之蟲不疾易淵行小變而不失其大常也
+  hash: sha256:923826462866a453a8ed0358c503dcff2106c8cfcee84fa6ffe5246791b6ae65
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:884067919c08480c7f11c1610f059a60bf6178a73c484a6776c9ea27aeeb199e

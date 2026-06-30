@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1310
+seq: 1310
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 益則非任實
+  hash: sha256:62e9afd2c0d3ed15e7d881372d52cce9515a1705c65598de8a58303734268f33
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:62f2294ab54080daec2fea2bec69dfecfc86172fd3751b235e7c234e05f24cb4

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4424
+seq: 4424
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 亦無大歡之喜也
+  hash: sha256:67f721ed265c2e1b8192c988c1361d6d75dd175d0b69c838253b9d130c2b6923
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e817affea4cc0afb07a227b5a7061ceb7f1fbaa26aece51202563346a9668dae

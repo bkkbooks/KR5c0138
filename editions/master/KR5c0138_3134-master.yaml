@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3134
+seq: 3134
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 出於道而不謀
+  hash: sha256:f95cf3d7d068b7c5e48bb5e8c192664488a30d60593c6004747a17af4f74db8b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e9e1bbbeed99cfed92d9ac5cf4b78837d7cf266ce9c90e64d1d22b86e5e77b49

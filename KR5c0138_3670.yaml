@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3670
+seq: 3670
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫帝王之德以天地為宗以道德為主以無為為常無為也則用天下而有餘
+  hash: sha256:4ad2611a9da8e45e6a40b2142db5f8dbe87eca7716d9a84dc3a92bc4774b60c8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bbc8e024d0fb50bb87e2571457d1cc52c7847af6264d0602df73a9d05bbf3a66

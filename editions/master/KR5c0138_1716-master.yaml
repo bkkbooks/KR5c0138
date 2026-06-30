@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1716
+seq: 1716
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而況全徳之人乎
+  hash: sha256:740609ad12c6b8974dc0e9253092c80ba1eab1c5af0a859473e2ccbd1cbf827a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5b916fc871e6bd84599250c653f63a8d4746e660feb7a871a5c2fd54714a5035

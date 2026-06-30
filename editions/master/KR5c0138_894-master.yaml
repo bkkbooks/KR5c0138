@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/894
+seq: 894
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人則一生之中今不知後麗姬是也而愚者竊竊然自以為知生之可樂死之可苦未聞物化之謂也
+  hash: sha256:0e4fac970409041a132d129acf073585384e738945e4e0f1115b22e8fe1c3d06
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b413ebfaa63e38553e606e9111afafd2ec53a67b01dd42907809eb63db1e46a9

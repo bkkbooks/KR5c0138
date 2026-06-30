@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/996
+seq: 996
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 時自生也
+  hash: sha256:edfdbdcaaef90897ebc9fa41bffa7eea057220007cea187e22859818cd86fbff
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:618e5e1be87f95ac4006d7ed9d96c4a127b1cc76f45bf8e0386f204bbeed3a8e

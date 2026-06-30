@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4575
+seq: 4575
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 思夫相為之惠惠之愈勤而偽薄滋甚天下失業而情性瀾漫矣故其功分無時可定也
+  hash: sha256:d2ca13f686652a279fff14e03b65b83a4fe1f9c2f6b23234b7b64b77201cdec1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e8b1e943229124c14c4da66a5edacb91a526e2895720db8087427d1585520f71

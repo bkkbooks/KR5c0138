@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5453
+seq: 5453
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 德充於内者不修飾於外
+  hash: sha256:cf1dd5e5ef81c6aafb488300e084e94d9173f73996c9e60b6c44d56ed10dbc1d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3b4602ae36f034e51525312cd76195feb7e0ce0f0de2dd955c622e8c69fdd5cd

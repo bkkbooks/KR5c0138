@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6188
+seq: 6188
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物之名實果各自有
+  hash: sha256:3873f6240bad55ca5cc055b42baf812df3648177749ea258b1bfa396e07ba25e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0991eed0639edf77e8c8bed13e41e8c710c392f8c20f23841968682491833a1a

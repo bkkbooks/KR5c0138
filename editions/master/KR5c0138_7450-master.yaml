@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7450
+seq: 7450
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 予蜩甲也蛇蛻也似之而非也
+  hash: sha256:62171a3ac27d33f3c5c59b32f2976c9935df690894acbdb91ceaf0a4ff4c922a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0dc407332c48bea68b71f3e5ce562ad86ad0e8f0d4f4b282c198f843cf9d4ff5

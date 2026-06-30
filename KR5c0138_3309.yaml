@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3309
+seq: 3309
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫以萬物為本則羣變可一而異形可同
+  hash: sha256:425e6df634b496d7828ab408df0c4cbcf0354a949457080b93d9b5f4cd6f268c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a0cd3ba7e7a707c0613aa540152eb10456c7ca2740c46a366cd72b9a45a3340b

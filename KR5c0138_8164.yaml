@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8164
+seq: 8164
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖然㮣乎皆嘗有聞者也
+  hash: sha256:0572b6d4c55b40040b6020e18ace5842ac880899aa3a99bcff382fde535b11ec
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:64efd27220516a19a9427174ecf3d1a502ba9e8a7fc3a9304d641aa2b45df6e1

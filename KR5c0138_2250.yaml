@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2250
+seq: 2250
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 冬夏四時行耳
+  hash: sha256:e08f88932b635280d0b3c7617df9fe62b5c9ad0737ab1e07b33bbaed463d0b52
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:52e5a03c7b09f6d8ed53e62ff44e6527f0f0a9ce785dcdb2199b0a777e7eb1c3

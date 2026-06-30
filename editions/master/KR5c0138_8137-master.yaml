@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8137
+seq: 8137
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故曰至於若無知之物而已無用賢聖
+  hash: sha256:298bfeef4e1d825cb1c535b7ff3f9ee011cded1cc15a2e0bf5ca5139b0055272
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3cdae5a86a1dbfd0b721cfd2c65ed0ddacf6e6afbae48498625a0992972eb3c5

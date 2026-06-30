@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/185
+seq: 185
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宋人資章甫而適諸越越人斷髮文身無所用之堯治天下之民平海內之政往見四子藐姑射之山汾水之陽窅然喪其天下焉
+  hash: sha256:12b1e1d63b46488ef193810561151e0f046781ecd0d5a1b9bc38dea028f4e9ae
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5d94fc07bb3263ada3a8923dfd8ca0737bf0b4dee14a2262f15cdb1922c37d5c

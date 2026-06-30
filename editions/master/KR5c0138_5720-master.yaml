@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5720
+seq: 5720
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 汝唯莫必無乎逃物
+  hash: sha256:f63fdde71003ae36033ab2fdbf0ec1e6be1a57193668a9ff85b45b55e163f7a8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:98f3d5e7f3aedd15cb833bfe2008d6177534725ba2547f6f0b49fa953c52f120

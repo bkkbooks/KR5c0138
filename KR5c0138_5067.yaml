@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5067
+seq: 5067
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 闇付自然也詫救駕反告也
+  hash: sha256:1af75c10d5c458f7d88407027492bcefe1a1b9b5167c41b5b58d73cb6c31aaf3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c7edefd71702afe5cbb14246eb768ba874d2b7a93060e27c9cb2565084f6640a

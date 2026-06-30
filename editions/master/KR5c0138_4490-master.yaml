@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4490
+seq: 4490
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故生而不
+  hash: sha256:885c25d1048a377d04605a02340d7a0a0f68bc72d761a74427030f3ff6ca5a75
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:526ff3744569e7ebaee161c29dbac03cd9b91a1bd7d508c83556864fabec9365

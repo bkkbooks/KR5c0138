@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5832
+seq: 5832
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 顔淵問乎仲尼曰囘嘗聞諸夫子曰無有所将無有所迎囘敢問其遊仲尼曰古之人外化而内不化
+  hash: sha256:3d8f41e579b1e83ad3de46e935d1fabdd40f98c198f3ce44ad2e9f78812eeb1b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:35e1ec45a070ed72e2fd2fc9ebeddf02c480780e3367e0f0dd4a16a9d7682d4c

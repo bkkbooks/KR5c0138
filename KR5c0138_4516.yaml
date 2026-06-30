@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4516
+seq: 4516
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無形者數之所不能分也不可圍者數之所不能窮也可以言論者物之粗也可以意致者物之精也言之所不能論意之所不能察致者不期精粗焉
+  hash: sha256:5bdc63224d12aef1c5e8847e1b9ff017c277ae0d1b6299dd9c903396c8935e58
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6e687c28320db746ca549b34410ba3e99f906ac0ce75aa5fd3ff356f62e1ad89

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8042
+seq: 8042
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為欲係巨子之
+  hash: sha256:36ebfa05786adc6baeb297a98e50f37faba9725d0c5656983412cb19fcf86128
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d267550f1f75f3efdb8846b716ade5a7db477064b598ed037c0ef987df3a8a28

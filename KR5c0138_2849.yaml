@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2849
+seq: 2849
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 於是乎天下始喬詰卓鷙而後有盜跖曽史之行故舉天下以賞其善者不足
+  hash: sha256:282dd54aabe1049a9240f85954dfe25d67fb12434e0e23982ee39cc73dd1809c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ab535279e1f7931c9f288524b18581648d121d38ca5960fa892c299a3a62b63a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3168
+seq: 3168
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天道之與人道也相去逺矣
+  hash: sha256:eb5aabdf4ff24abef8efeb6f4ce399c91e1a942f893b054031073caf87d7529a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b9c34367f5b5efc535cf40d2c0fa995161d6db8d38b6f0781d09465d3d022967

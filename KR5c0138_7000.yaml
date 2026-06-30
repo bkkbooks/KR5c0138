@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7000
+seq: 7000
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 文者自文武者自武非大人所賜也若由賜而能則有時而闕矣豈唯文武凡性皆
+  hash: sha256:c9a855f729a8980f84a85fda2749d52fab30e418de1589a42c4cdfe3d39ea950
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c3bf56241c68e1af41ec099c6d4563c6f25a1c7fc79e9677d909477aaf833801

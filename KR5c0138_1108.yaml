@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1108
+seq: 1108
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 喜怒無常
+  hash: sha256:7ed31f31c49ef64bd4e89f41758f3f9343cac753261cdb2be109c4f4aabea045
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ba9e7eb09ebd566355bf705a355fbdb8a0b715d1a8b8dfdbff3671e4d9edf1ca

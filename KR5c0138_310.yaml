@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/310
+seq: 310
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 行者信已可得行也
+  hash: sha256:3da4186fe46b51348797634299aefa628490e9b4945fc298d1098623a11321a1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ea4bbecb3ea4386130760140fc5496e85f45ba4f42e1ef6e404b1e09499518f2

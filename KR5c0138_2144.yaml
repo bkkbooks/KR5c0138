@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2144
+seq: 2144
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 俄而子來有病喘喘然將死其妻子環而泣之犂往問之曰叱避無怛化
+  hash: sha256:6e5f30a92c01ec19c865922b06b4e87623ec13c8da328aa8056f1ceb0047bf52
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:aefe7bf00fbc1b161466dfe405115cfbc80dd3c336073c5d673f58f182a401ed

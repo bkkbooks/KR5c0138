@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/540
+seq: 540
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今且有言於此不知其與是類乎其與是不類乎類與不類相與為類則與彼無以異矣
+  hash: sha256:9ab3a1e5cb29fa777929273190ba52e16116dc336634bcc1818d4e5537262c36
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:406abb1c406b2a0622244363798c2dbb7371de8df6cbf19b740ac1f9c35b9447

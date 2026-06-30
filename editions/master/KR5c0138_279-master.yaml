@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/279
+seq: 279
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其溺之所為
+  hash: sha256:cb3af04169e04b3b76df80cdb2a8b06d83f35dc818a3294778fa3a3c154db8dc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c0caba1136fce5c778f1ab919eb69ded6132b46b99245c1edd4ddb30beb527de

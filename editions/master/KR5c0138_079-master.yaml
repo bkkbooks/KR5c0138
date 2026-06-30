@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/79
+seq: 79
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 然笑之猶笑貌案謂猶以為笑
+  hash: sha256:c3c93035edb7ae3728f5475d7aa9b9140c63dbdba0105e798afe72b31eac826b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2bf3e0d5ad1b94405b41275a9cf82c861324d84f40fc29926c61b36978057db0

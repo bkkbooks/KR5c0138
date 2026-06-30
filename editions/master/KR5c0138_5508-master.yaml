@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5508
+seq: 5508
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曠然無係𤣥同彼我則在彼非獨亡在我非獨存也栩
+  hash: sha256:0ccfa149d343e71bc64600160bd43501bedda2c8583507982b853b468ddbadc2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1f23151e9ef0714286db6e1b5e3c10f3595d95d50d6f1a0edc099cd6d17dd160

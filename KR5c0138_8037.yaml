@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8037
+seq: 8037
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 巨子最能辯其所是以成其行墨家號其道理成者為鉅子若儒家之
+  hash: sha256:5a65c362d31973148bcfaaaf12c222932b898ed3d172a4f3cead3d43b2a127b9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c728dcd4821a8299becce57ce9c593399b934b0b655d3b7040bae29c8d261c01

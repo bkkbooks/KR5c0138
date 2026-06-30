@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2039
+seq: 2039
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此自均於百年
+  hash: sha256:5bac7273dd2a0af2c8bd107c82c6a2c2566d734169c016bfd2409831301cba74
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:934b7b3238ec628ac9503bf0bf43d94f2443ea3a41efc4c8f0dbc6053e10694e

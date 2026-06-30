@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3438
+seq: 3438
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蕩之則雖蕩而非動也故其賊心自滅獨志自進教成俗易悶然無迹履性自為而不知所由皆云我自然矣
+  hash: sha256:fda42749ab805bb21cd46b3ac23792ac834d7fff5a72caadfdd4d83122f85ded
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bf1b95c80b13bd5563700e88b29032daf2bdfd4ce6aacdc6245e8989955dbf3b

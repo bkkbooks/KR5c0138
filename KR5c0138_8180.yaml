@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8180
+seq: 8180
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其動若水其静若鏡其應若響
+  hash: sha256:7edda2694b415f6d867e9df805ce637469382e3755ed7bdf87d1f1c9ccc5b152
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bf7102bc22ad418d4cfeb44b53f11ed2fae74a34606a1dccc08019dc2bde5db0

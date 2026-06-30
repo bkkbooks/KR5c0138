@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4713
+seq: 4713
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫水行不避蛟龍者漁父之勇也陸行不避兕虎者獵夫之勇也白刃交於前視死若生者烈士之勇也
+  hash: sha256:61411bcc3ecdef28f21654e86ee2d9925e5153beabc6d05b67dd4564bbea140e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d6d9bb5b6ab6519f601f5d6d2c67cd5f91eddcb4ef405e7bfe29cc00a9b64200

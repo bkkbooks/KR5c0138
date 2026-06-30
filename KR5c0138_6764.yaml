@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6764
+seq: 6764
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人心者若是其逺也故曰待公閲休
+  hash: sha256:342f6e8ff8cfe3f47a7a98bd7498f8bfadd4177ad07e62693e1b8fe1826840ca
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e981b42d773e53f04a05b87c9ce1ee10a5ebf613577bdb82421d08e7cf4b5cf6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5248
+seq: 5248
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物之倘來不可禁禦
+  hash: sha256:60cc3e8e152f69d6700dde294cce7553e3781615c13182175a5b378afb9d72ff
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cea9b8311d18c8e41d65c78194836a0cc0ce328532b0bc91ddf108fe4194fc8b

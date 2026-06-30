@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2798
+seq: 2798
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 足以紀畧而已此十二氏皆古帝王
+  hash: sha256:de6d236282687c93674c99349d9d92bde23c25b334c489c7c2c5d4061ef05353
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9f197034a967b48017306d13a44ba571d312ab427e6ad9720ddb8a18b2d4040f

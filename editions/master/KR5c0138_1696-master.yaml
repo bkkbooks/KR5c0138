@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1696
+seq: 1696
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫生者以才徳為𩔖死而才徳去矣
+  hash: sha256:51b1d32581b1905658f2fd6cb930ca4399a9d99990e39c565ad67d173fbd02b5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:031eb8433c2aa09105071d63ad737e73f06020f046d3da4c69e6469ac23e1fc9

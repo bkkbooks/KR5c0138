@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/716
+seq: 716
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 齧缺曰子不知利害則至人固不知利害乎
+  hash: sha256:5899ba36941d4c9b0ea13cdd00452ede4a2faa4232b906219033676b01968ac7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8c8578141dda31020b8faa03a040879434cf6fc9c93c2c65f3d36a1c1ce2a835

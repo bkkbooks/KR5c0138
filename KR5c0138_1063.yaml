@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1063
+seq: 1063
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若唯無詔王公必將乗人而鬭其捷
+  hash: sha256:029308dbcef7153bb7d969b73c713b0187adbf6be0a3e8fa1b38a65048eec882
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f43d1444fee954f5d9efdfc42cf919f21371b24d444b629259cb6a50a63b35eb

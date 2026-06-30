@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1369
+seq: 1369
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 矢溺至賤而以
+  hash: sha256:b1479479a06c9f220d9aceb6632e2fb98df92b2755345e1ff254d92d58a4ed7f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:af44163718d50e1bb52f059269e49373dff5731732888aa9b02bacea8f1a389d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7922
+seq: 7922
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫執其所見受使多矣安能使物哉
+  hash: sha256:2c8792ca7406ec057aaf9796a2d019674a43b19dc7f81dc0b117b7b0dd79c9aa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6c6316b9483b15937e9bcdc77a41fd7da01683e389eceb04b1cda4fd3bc2ded7

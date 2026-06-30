@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4845
+seq: 4845
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 列子行食於道從見百嵗
+  hash: sha256:4ef4a13f1cbf1b7c8f1111b0c3e94cb93154f148c87146830dc335c997e4fcaa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c7dcfeefae1d6aa917080ccf21db85395bcc9d10ebd6a78de79e5eb4f3624b90

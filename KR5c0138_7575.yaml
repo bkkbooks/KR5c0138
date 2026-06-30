@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7575
+seq: 7575
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孔子謂栁下季曰夫為人父者必能詔其子為人兄者必能教其弟若父不能詔其子兄不能教其弟則無貴父子兄弟之親矣今先生世之才士也弟為盗跖為天下害而弗能教也丘為先生羞之丘請為先生往説之栁下季
+  hash: sha256:bd89adb951e3ee6f433c6e68ac577600c95814e5c68f26f8611348806cc686c2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:39fe1b14b49e3dc095e40f95b05366ad8ce11bcc1b729828e4d2dedab07401d4

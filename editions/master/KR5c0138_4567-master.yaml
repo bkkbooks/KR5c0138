@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4567
+seq: 4567
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丘山也則差數覩矣
+  hash: sha256:3c5b4e09c9b1b33e0c81e23c92aaba14d92ddaa037eae9b4c12273b0478d0342
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:953d0be4d78251d19afa695bfb4c3c1cfdf9812354287772a512b962058a9323

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4429
+seq: 4429
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 秋水第十七
+  hash: sha256:aa58752d34df8cd0ffceab83a4e1c1f4b3c35218ba6d52d3a0825c6dcd32d92b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ed04455a9d82ec48748a47b6682381bd3c9dd7e5a2dd6b79dd8ee8cd5b1c7676

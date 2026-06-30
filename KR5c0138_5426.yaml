@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5426
+seq: 5426
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 非是也且孰為之宗孔子曰請問逰是老曰夫得是至美至樂
+  hash: sha256:0295ad316fbc9c3c57ef9d0710c842e815e2267504bdd7372eddda1f380597e2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3e9dcf1f1ac14cf41a4aa3346a2d3da08d69147d12824ce5630fb69bc0f63b0e

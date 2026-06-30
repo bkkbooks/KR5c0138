@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3414
+seq: 3414
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有形者與無形無状而皆存者盡無
+  hash: sha256:071bb145ef6e0b3b82519f530dedc245755b700f491387772e9687999fb68619
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b7c119e8b6fbec8ebb70c4432cac8afeef18c5d7a63816526f86287fa59da756

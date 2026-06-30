@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4001
+seq: 4001
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 幽昏而無聲
+  hash: sha256:9a706422d5f98b40d69517b582da50db38c5e3deec5f97e04b1683e970ef1f91
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1e5a7bbe2579e9a593151de6b3cbb3d7a0ed16aac34fc803ffd4bf22e5aab2cc

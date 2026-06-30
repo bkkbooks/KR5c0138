@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5432
+seq: 5432
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 喜怒哀樂不入於胷次
+  hash: sha256:31310fdeb8cc93f1d509fd3de7426f6a4e4a5e76bdac2f0b77551a219b9355d7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:07b72ed2cfaec8576ecdfbddd26fc6ef18a181497da087b88431546c90bce8ba

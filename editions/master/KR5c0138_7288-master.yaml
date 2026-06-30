@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7288
+seq: 7288
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 賢人所以駴世聖人未嘗過而問焉
+  hash: sha256:3eab122e38c7a8c566b28e5634e8ef9405dbab9a8dc621e6a06e556f4d5f4e83
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ad29a1f316d26055f252e71f0f9ce4fce0d608e9d3cd1ad2da0d1a924420e545

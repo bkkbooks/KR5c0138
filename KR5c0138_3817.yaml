@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3817
+seq: 3817
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 進趨不安之貌
+  hash: sha256:e90e7742e69f79c621898eb9e4d570a8055c53e28338273b523d21fb83abff91
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e7cf64ad9d576a29ed27ef304444cb627aa7f8c99a8ad51f8fb0e915175852d5

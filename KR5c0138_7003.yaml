@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7003
+seq: 7003
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 名止於實故無為實各自為故旡不為
+  hash: sha256:da3632173f859558d4afa22d398b297848d202acd3d338f82975f8d71aa3e62e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8dc5327a6cd8838f0df1a1bb009df00257fed306d7d36c3ad98bcbd082d40888

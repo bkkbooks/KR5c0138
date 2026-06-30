@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1721
+seq: 1721
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡所不遇弗能遇也其所遇弗能不遇也凡所弗為弗能違也其所為弗能不為也付之而至當矣
+  hash: sha256:abfdc9477dbc983ba8be7ece54f0d2cb19b75926c563aede8ae01a18f47239a5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dce8e971036886fe1120fe5ef4b41fc7da9af33103a51cf3d2bbcf7c5c38dc41

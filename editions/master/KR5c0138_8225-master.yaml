@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8225
+seq: 8225
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各守其分則自容有餘也
+  hash: sha256:96e762c01825d7da981bf70997a5c4ff31eae3404bf724c5016a0e021e2e64c1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bc259f7fe1cf9075d902873f9ace5a8f59f591691914063451abad7938b5662a

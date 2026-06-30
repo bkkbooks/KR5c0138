@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3497
+seq: 3497
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 願聞神人
+  hash: sha256:0ff191bdb6d674d13dd95ca514d6dc1865ecdc5665d4312912b295d460acd540
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f95f4ba6ce827a4ed34a78f64dc2971a8bf51665a438c003cc476b865d0478a1

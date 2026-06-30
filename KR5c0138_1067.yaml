@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1067
+seq: 1067
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而目將熒之
+  hash: sha256:6b66f7143d5c74d7ccd8f42a14cfc4710b410045090e60e33f48674d9122e4a4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:92653afc82468de2b25be133b741204e24c0f37e98feb96acc1788ee44d9a66f

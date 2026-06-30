@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1152
+seq: 1152
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以有為為易未見其宜也曍天自然也
+  hash: sha256:9dcfeb9be9a063afb97e29dfffc5cb9a585c55363e38f9cc879e59f53595d32a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f8767cc2fb9a0610cdbe24f6f0405efa8cdd34195cd44efaec91e4c92edb6f74

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7759
+seq: 7759
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫人以已為有以異於人以賤其親
+  hash: sha256:6b24236d8935c843c1babe6c7f04072b02bef76b525b73d2e9b3ec44dfdec8a5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:81db3ad3c0c1d0dffdb5483558ff843a73d3c6caf283e1d5cff2154024e4d831

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7826
+seq: 7826
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自有所宜相效則失真此即今之見驗
+  hash: sha256:e68d57c62ae733f6c65fcf35ba3dd78ae33044aec828396f168e55c4a355cfb1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:027ecb54b361924b3b6594ee11a675a780513a797f242165df34240c942aeb5d

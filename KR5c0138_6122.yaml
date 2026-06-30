@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6122
+seq: 6122
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宙者有古今之長而古今之長無極有長而無本剽者宙也三蒼云徃古來今曰
+  hash: sha256:b65cbb564d9bea3acd3cb17e8f0dae1df05e86f1687a8261bdb11b518e78bc8d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:165403039ae75f8e47c9768b7b4c469e3f4d08cf9dfd9922726d1711671681cc

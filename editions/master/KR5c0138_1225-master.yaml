@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1225
+seq: 1225
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 對火而不思凉明其所饌儉薄也執衆家本並然簡文作熱粗音
+  hash: sha256:86f9b267b65bba9a0227213b37672d3327902116c530af25d07aba836d5d1599
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:86c2ed18e498f649c6c1147c6e271d4fabd36f0cd9c2aafddd108258f1a07204

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7771
+seq: 7771
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫聖人無安無不安順百姓之心也
+  hash: sha256:e4dd879ec1c9fb98d18d025f22abe3adb9062d51ca2438ba6c47267fcf6cc932
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f6f50c110372e6765cc0f48affb47fa6819feb0c98c169b2ba1c776060bc7ef8

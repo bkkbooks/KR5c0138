@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/865
+seq: 865
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 惡識所以然惡識所以不然
+  hash: sha256:b30033ab522869a1eb7c47f03dbf927f2ddfe984f32fa8553b8ad9d02b047521
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6fcc51a961034482e8f1939e4bb4aecc6a5d0e81d1ba58f8708b03a60fb55b5d

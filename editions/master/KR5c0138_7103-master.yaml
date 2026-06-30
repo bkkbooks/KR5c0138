@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7103
+seq: 7103
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道物之極言黙不足以載
+  hash: sha256:6778c3fb1c9246dc4a5689959374dd934ca090678753bc8a91ac454bb19bf41c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bdeb1e110d3dcf10ebaed2ddecc401ede098e9ee5d271788cc28a1e6596899be

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3935
+seq: 3935
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不自得坐㤀之謂也
+  hash: sha256:3ddd97cafa41298aed6f23d095416e8055cd4e8392f6ad9cfde7a650b5bf7157
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3f51e3a9b5b5d5d87d3dcfcf2f6f51368251648f6f939bafdd52a93a0003f96c

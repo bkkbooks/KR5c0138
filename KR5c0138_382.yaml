@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/382
+seq: 382
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 我以為是而彼以為非彼
+  hash: sha256:94bcaf98c5cc5a287841d48ad60168b22fe53bf2038981638697d399f960ca77
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:54aa05f98576d50b2e5cfdc03f9c3e86be9d40251943c61b44187f86b7340e51

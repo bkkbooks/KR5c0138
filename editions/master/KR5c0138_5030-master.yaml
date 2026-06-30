@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5030
+seq: 5030
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之道而不為私焉
+  hash: sha256:b261043613d1012c045f37e982ea6f3ec7025bdb897a4c612de689113e8fcdb4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2a34a1c8e04f406bb220add217afe15a0e0c329c02da9ee7bd0e447334cb58a2

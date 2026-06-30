@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2588
+seq: 2588
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 焉令萬理皆當者非為義也而義功見焉故當而無傷者非仁義之招也然而天下奔馳棄我殉彼以失其常
+  hash: sha256:755d31b4e9c0843c361ad9c62005dad69ebd17b981ad2a95635b3d0fc5b2613c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2d585a6dfc1169f0ed19783099a9a203cd314d3c9118082b344dab5d1e0fe572

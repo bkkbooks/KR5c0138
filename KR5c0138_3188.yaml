@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3188
+seq: 3188
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各當其分則無為位上有為位
+  hash: sha256:4ba3366114bb4704c42cfc58eae7ab9559aa8890864ecf3c1c2524244bc6b8d7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:443d9986cc0e273512cd74b390bd25b2afdb50c0dcea563aa23f2c6ae0bcf817

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1988
+seq: 1988
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 死生命也其有夜
+  hash: sha256:9c56f901db1ffd7094629b37803ab3f7ce29614d22e1680e39a949a4d250c319
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a255ac2be3bb3a5f25face9a5482b0ad87cba468d19bb8ab3b5e85cb165b3965

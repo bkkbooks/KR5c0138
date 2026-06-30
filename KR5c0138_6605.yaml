@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6605
+seq: 6605
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此其所謂濡需者也
+  hash: sha256:76b88f6e089d1029fa6c685d706cd87e35210b33a1166513326808bc9627536a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:87cef4315040090d8069fb162d14f66fd7229c486e2caef1102d82d1d7514f76

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1639
+seq: 1639
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今吾來也猶有尊足者存
+  hash: sha256:e4edd0dbb79c5966662cfe53141c5e6148ba89e66cae9dcf1480962cc063375c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:526c62cb3d398c02963dc3e043c0d97373b375bfb30d83f2032b4be9998d7b33

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/471
+seq: 471
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫物或此以為散而彼以為成分如字
+  hash: sha256:66490fedcc3307b35b8e92f0ae533bc17e58f2e6d37130e8e64bc14207505f27
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d913bacc4cd4a82ae5cc2b19561c46a1aab78853cb44343f753cd5a98be524ba

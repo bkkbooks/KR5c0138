@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2028
+seq: 2028
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人形乃是萬化之一
+  hash: sha256:83db51590a15403ac9fd771c701f02a04d390f842946943b830e74c4171cdf78
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9233e9d72e2ef1453f7b5ec933dee4acfb37cbf8097c4b82266acb8c4c89480d

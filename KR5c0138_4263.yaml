@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4263
+seq: 4263
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至德常適故情無所槩
+  hash: sha256:f91a715b847729657f3342a0a7e96d9bdf0c0949cb14288df01b7e963fc91d92
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3fb422599bd3bf1c2f3b0d0ecb60aca31d69514a4ff051a24b6561cd1ba901c9

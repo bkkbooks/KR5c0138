@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4028
+seq: 4028
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不聞莊天運篇聽之不聞其聲視之不見其形
+  hash: sha256:c8ba753a80769f4e3e071a39e1cdac8d52398640f92fa89f61948ba9ba63f36f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c72ab5342b1b852f97b7c953990e4905241091f6caf18df729bd6503f840986a

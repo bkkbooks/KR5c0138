@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7312
+seq: 7312
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 外耳肩吾連叔之𩔖皆所借也
+  hash: sha256:f1302b1f18bdd7a3b12b20c9c8f3504ef858ffc01ad5aa2e1071eab745dc45a3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8f5d49fad776cb786e0719f144458717fe5313beeae0e7c99334b8841dbcde2c

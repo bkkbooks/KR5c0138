@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8337
+seq: 8337
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 地平輪圎則輪之所行者跡也
+  hash: sha256:35f560f8006f787601b6ad2f9f8f57889b17cff5252e490343ab852e060ea3a9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a7e5a55235f04eb2c551bb102f6d25f762c83bd85b9dbb45ee1023a6c5b82a3e

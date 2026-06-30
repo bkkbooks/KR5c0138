@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2653
+seq: 2653
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以不治治之乃善治也
+  hash: sha256:4b81d3a609255bdb8d077be48041588a328e345d4bc608f714bcd2bfaac5f899
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3faa485a5fd23b3776a0d2347c5f0d1fc7c043424e65c75b3d0b7db82e62572a

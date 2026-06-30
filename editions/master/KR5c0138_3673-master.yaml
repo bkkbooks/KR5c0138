@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3673
+seq: 3673
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不足者汲汲然欲為物用也欲為物用故可得而臣也及其為臣亦有餘也
+  hash: sha256:0d223bf074c525659ae76f54630287047f1666d1e424a86d94ffb9a5f79b6e7c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e16c185270307d2ba4684f53f9b6fd6558a2347d040051ce1c1eb6767d90564c

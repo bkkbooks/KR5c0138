@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6434
+seq: 6434
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 惠子曰今夫儒墨楊秉且方與我以辯相拂以辭相鎮以聲而未始吾非也則奚若矣
+  hash: sha256:87dd16210b220d14f2d6b8ba81f218c5c5e12e8c7b2ce93dae0a321b5b98603b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3f889bd7dd8152b4fc383202ec7048046bc9dc49a29b33bec0787bf24a658791

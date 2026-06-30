@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6772
+seq: 6772
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不知其然而自然者非性如何
+  hash: sha256:6bf92e311286a348a0544cedc96d9fafe2fec4e9eb20889de0ab32066c862ad0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:eb13fdf706739571589e55d173eb831f8bfe7c3a09c437cbbce7a50bc9f50aaa

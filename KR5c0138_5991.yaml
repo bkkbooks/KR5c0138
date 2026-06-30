@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5991
+seq: 5991
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是衛生之經已南榮趎曰然則是至人之德已乎
+  hash: sha256:6d34083476256e9859b78c217358869cf402e6479f34b22eadbf15d507343158
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:12c24d73b4cbb7385e126493e091ab56226dae8c7b071ba29033cdb9d9944217

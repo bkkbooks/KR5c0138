@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3615
+seq: 3615
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無為則俞俞俞俞者憂患不能處年夀長矣
+  hash: sha256:6fc31c8715474eb3ed396b47db010c20726938a5cddc534b575eb1c880116008
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:00083d43681b0036b8a3c094ca595037c9cca934189688291c387b39bba001de

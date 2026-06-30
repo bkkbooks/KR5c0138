@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3048
+seq: 3048
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫以出乎衆為心者曷常出乎衆哉
+  hash: sha256:cc5aa0679b95dbb47a0f6c8a7634db1e910641fb6f60b5b7fd797638b009a062
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5772b685ca75f2b12d8f7f165b9d1e7c8eda7719d1c620541c0c5a47b311eb07

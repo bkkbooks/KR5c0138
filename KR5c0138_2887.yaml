@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2887
+seq: 2887
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 攖之則傷其自善也
+  hash: sha256:15707d6accb4c489b4b581f16324eb09eeb15d8e00719adbf0f0cd0c2f3243f6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6f2add081d99a83355ee048eb6fc0bd895d9354dfa53bd46f804c7ae21615728

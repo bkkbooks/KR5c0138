@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1532
+seq: 1532
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 都忘宜故無不任也都任之而不得者未之有也無
+  hash: sha256:5ba0229ceec574db63c3b23998a5d2506dee704c2c65b31904549f3c905c7728
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ae9e7c27d204c94db2623bd1c914c36a2d22994d4d0e86117d96626a36f1ca62

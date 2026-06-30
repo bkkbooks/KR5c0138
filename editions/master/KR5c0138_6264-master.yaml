@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6264
+seq: 6264
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無人之情則自
+  hash: sha256:168cb2b026aa866aa93dedeb9f4d7dd56c32a9d38a79a3dd4bc8413883c459e4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:146c14dacf60b5ae3d4bbe7aae80affe636468bdea9f784edaf031667402e5e6

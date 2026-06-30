@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/900
+seq: 900
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾生也有涯
+  hash: sha256:ae35557c316233ac8812b0ea43061ff31e31e811c719e762281960687bc80c12
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:25f5c9fa64141f85890ff91ff033f763ac6d422895016158189a3a478d1b62ea

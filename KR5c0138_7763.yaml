@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7763
+seq: 7763
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫穿井所以通泉吟詠所以通性也無泉亦無所穿無性則無所詠
+  hash: sha256:5ccb782abb2b39312b9107885f4ffe8c5f1aafa0af510edea1b0eb715f454a04
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5b689809144a5b3abb429c99f2f2f1f1acf748eb4ab2e12fa35968c9e61b1022

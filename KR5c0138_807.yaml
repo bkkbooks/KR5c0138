@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/807
+seq: 807
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 覺而後知其夢也且有大覺而後知此其大夢也
+  hash: sha256:dae87c3b42337a111cdb66b4483bdc097cefe61c94333f00ecbba7df30bfbdd1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4855e4fafdc5c78152dafbe98e14a71b71465e03d6317a3c36c7d19001ec0369

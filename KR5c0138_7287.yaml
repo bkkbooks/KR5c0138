@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7287
+seq: 7287
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 視聴也駴一音戒謂上不問下也
+  hash: sha256:2b52fb15125ddbb1db700ccab40b4ad95dbb5bc76761aba4bd18b432e8ac0c33
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:219ca910abaaab332eb0be0fc675535a252a67abad356ef8111c56281b838c5a

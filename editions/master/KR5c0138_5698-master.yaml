@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5698
+seq: 5698
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖知之然不能任其自形而反形之所以多敗
+  hash: sha256:fc3c80488dc4e23423ca47359dc5a87b653237aef605d06f4d7105d5c7e14635
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a1eba7bc060b893e0bd7f68d71d578f0693d4775f1ca00e51e62217a06698a89

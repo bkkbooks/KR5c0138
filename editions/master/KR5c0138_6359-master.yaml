@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6359
+seq: 6359
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 君若勿已矣脩胷中之誠以應天地之情而勿攖
+  hash: sha256:0a2ab38b0a08edf210ca0a55b83bdd8516a3f04bd99747d4ec0d026f28ef762b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2a1ca191ccfe58f6c2572043fd6067873d26eef24df3cb64ddd767f56a81b453

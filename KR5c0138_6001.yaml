@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6001
+seq: 6001
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聞至言道可以為經胡可得至哉故學者不至至者不學也
+  hash: sha256:bf14359a69054ace4893bd391afdffb915c13da93aa8edc227569f8a78fdc273
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:33fc63484da3bb7e0f1ba6c17ad5b66ac55f60ca597bda672839975d9c341334

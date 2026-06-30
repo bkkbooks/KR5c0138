@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2544
+seq: 2544
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼正正者不失其性命之情
+  hash: sha256:2e20bc5c5707f28dd8b45a848a57445dff96b6b15f4f88df5ad1f9eb3b9b084e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:01cab38c6a9abd5bc8b972f7aa37499449cc873fb53a8c26539330d2ccd39717

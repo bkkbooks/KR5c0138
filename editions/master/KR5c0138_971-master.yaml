@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/971
+seq: 971
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曰天也非人也天之生是使獨也
+  hash: sha256:7c00c8db713e74ca2527fcaebb015e9a4241de2da01b9e955f7640a1aae3ae44
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:92c3ac3a2fe411480d17d9c9128aeff5cf60a4af2a572587c8403d72e24785ae

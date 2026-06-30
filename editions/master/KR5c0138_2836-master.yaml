@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2836
+seq: 2836
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 貴其能治也貴其無為而任物之自為也宥音又寛也
+  hash: sha256:8b7c45930be0719a7529c9a77e35de056595c5cdafb6f85ad917f68eabac77f2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0a74438b4c33e371a1b535778fb447dbe4c5bb66e45be65e9234bab1d4967163

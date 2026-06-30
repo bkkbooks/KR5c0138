@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3129
+seq: 3129
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 執意不為雖神非天况不神哉
+  hash: sha256:864b3446e21eabb28e86e2c5be478cc5e1e93fab7c373b74b6fd634c49c4bde2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:08ae6519501c5079d470d2bb1b7df448fa6cb18af5fd86431d905481ff2d3020

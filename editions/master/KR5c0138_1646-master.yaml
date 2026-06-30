@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1646
+seq: 1646
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舟能沉而為人浮則有時而沒矣故物為焉則未足以終其生也
+  hash: sha256:900e28f01e51022544adf625a780a9c38163bf27f53b329a8003937af2fb235c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0d9f319aa66522bab7243f168d3a7cab64868d99e8cb005e58a79ea2e1f6a4e5

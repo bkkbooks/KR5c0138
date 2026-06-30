@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6233
+seq: 6233
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 動而效彼則亂
+  hash: sha256:318e3d85ae887b095353b3f4922ae970d34c1ffee53d16e547f076eecfea04c2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7d05e0712695e5ac64d9cfb446bc74b1bd844979c22605d3266233ca5e98067f

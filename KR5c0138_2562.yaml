@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2562
+seq: 2562
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 恐仁義非人情而憂之者真可謂多憂也
+  hash: sha256:e194977e461a5f4f1bc9b2b13f666a3205e71c2d783a73cc5d4bb2004ceffb08
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:142a6a8dbf0eda40689760a2933c020030fcc7263fc913aca7aa57a570836400

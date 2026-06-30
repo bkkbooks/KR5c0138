@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3281
+seq: 3281
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 皆恣而任之會其所極而已
+  hash: sha256:183ac5d334240c5f75d2e417886d4186343e772a5b54d96719fc3cfe6a2d65a4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7db7b6079d8da576621019af825fdc1ebc3ee7427c4e509d05dbc6713a014065

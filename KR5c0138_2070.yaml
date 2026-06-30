@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2070
+seq: 2070
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 藏曰昔穆王子筮卦於禺強案海外經云北方禺強黒身手足乘兩龍郭璞以為水神人面鳥身簡文云北海
+  hash: sha256:74be8cdc79f087b763768365976ed8bbe3f6799dd081db5947e25bf994a4a6cd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e0e26027a176f34c1952fba3921914167d61f49a5ac7cbfb2071c41378aff7bf

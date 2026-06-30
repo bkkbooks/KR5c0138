@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7848
+seq: 7848
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不由眀坦之塗者謂之宵人宵人非眀正之
+  hash: sha256:4c3afa26739ba31b90a974674e4f9f198ddfa8148c429d81a2b3dc388ea784b7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1f61bac8716fd957cdef45a3a44f2a711b5919fa2315acbba1419987d73bd7f1

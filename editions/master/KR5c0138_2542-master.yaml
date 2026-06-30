@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2542
+seq: 2542
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故此皆多駢旁枝之道非天下之至正也
+  hash: sha256:79344d418d79d4d01ca290fb7ef4bcacfa412b827592f4380f3189fb54d12a19
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:060cd06da6fe70c7963683a3a16661e2a211cf53548a10996b98ade73961ae40

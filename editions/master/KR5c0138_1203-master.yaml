@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1203
+seq: 1203
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 賤未有不由心知耳目以自通者也故出之所謂知者豈欲知而知哉所謂見者豈為見而見哉若夫知見可
+  hash: sha256:59f2fb254508d4b81c16088089069032f3a0073b0e88d25ea924dde46844cdcc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:52b8dbc5b44cfbd142f58ddfa42b3150893846aa0c6ed7284472e63cb369fab3

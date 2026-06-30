@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4410
+seq: 4410
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古之所謂得志者非軒冕之謂也謂其無以益其樂而已矣
+  hash: sha256:8342bfdff0bb01618e3a4fac2b2dcbb6c83f74db2f6e72c5f9929c81e944b23a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bf8c7bcf3b4c62f53e8ee55b6aa6865beb80fb5847199649189c4fb2856d520b

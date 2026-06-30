@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5062
+seq: 5062
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所遇而安故無所變從也
+  hash: sha256:9d13dcf8f22571c0365d2f02dd1ffc4b46ee3d48a4c8eaa0ee201994e8094b8f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b594e0baf4349e5809079c07b5f836c0a8b61454405d0dff887cab923bb91125

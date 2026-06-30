@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6422
+seq: 6422
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若皆尭也則五子何為復相非乎
+  hash: sha256:01b27346f46f4a64634584132510d048b6c9bc1422453d18a2b326bba2db44c9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:59616a8e6e2a97637ca427868d7990c2cde267ca87f762b151090991841c4578

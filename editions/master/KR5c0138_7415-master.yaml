@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7415
+seq: 7415
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 外形骸也
+  hash: sha256:4ce4c92b5191e528afe96215725fc65a40eccb8096e57567f42c9b774de096c1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8430683bc787bf6f913bc353dc09287e82ff4f0362d8e4dd15b132ae68bc37b1

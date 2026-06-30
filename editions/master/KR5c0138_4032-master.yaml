@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4032
+seq: 4032
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 者得以炊也案方言云江淮南楚之間謂之蘓眯音米物入眼為病也厭也
+  hash: sha256:f0d503ae99cc0e5cc3e774a95c7a7d0763f9f10385c1037a96a68a214549bea9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b1a809e2e825242bc6fb8a64460571b4b51fd124438947dd8b8b291e527382d8

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3927
+seq: 3927
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至富國財并焉
+  hash: sha256:a844367ebbe5ae2e5cd88480a2a31c96f1234219e1d359d0bff438f1327f8386
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ac7d72d06a2ae61a7c2598419a00fa32504082b764b411866786235a7230c89f

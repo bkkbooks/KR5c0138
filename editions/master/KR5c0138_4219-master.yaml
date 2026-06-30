@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4219
+seq: 4219
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 泯然與正理俱徃
+  hash: sha256:3fea1ff793fe311b63ac00567e5f5761da43113712ef696439540967746e3dbb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:af1c976f13f1d4aef9d5ff562dc51bca043e9ec077ce3bbf19cb3e80281e0f67

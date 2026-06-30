@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1157
+seq: 1157
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無聽之以耳而聽之以心無聽之以心而聽之以氣聽止於耳心止於符氣也者虛而待物者也
+  hash: sha256:4e7e3927ccde9309c06db5ca4f88ad6153ba1eb5a266b5a19a682a71df09187a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d9295f25020686efcd801bf89485e6989bbeb76b124761a9a7ecb7f6b97236e4

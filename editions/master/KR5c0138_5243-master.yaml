@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5243
+seq: 5243
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孔子窮於陳蔡之間七日不火食左據槁木右撃槁枝而歌焱氏之風有其具而無其數有其聲而無宫角木聲與人聲
+  hash: sha256:3053aa77d56ffd5c22c8c2301202eb0f399ad137ca3c99b572547c57093d11ca
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6b06db2ce329df19a23a35aa6e55c4a8b54aa9600cdf4b9494fec00820b6aac8

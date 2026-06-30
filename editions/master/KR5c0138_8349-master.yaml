@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8349
+seq: 8349
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 矩雖為方而非方規雖為圎
+  hash: sha256:df43f0540463f4a321280f7af248f30e89450c17dad5f5ea6c27fe5183d10aa9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:37e121ab22fe27ac640b133b06137f697fffeba3c3e32dd9a6b4b5ff49f6021c

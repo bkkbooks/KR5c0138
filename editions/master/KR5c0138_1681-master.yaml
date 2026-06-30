@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1681
+seq: 1681
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 且而雌雄合乎前
+  hash: sha256:74f85679001e61c3f78656512417c644c5de3eab096bb284e2b5132d3940996e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:74b16726bed6ba77889587ea3244f96b732c5950f5d850272d44657fbdc08f26

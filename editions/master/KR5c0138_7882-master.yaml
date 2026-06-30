@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7882
+seq: 7882
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凶德有五中德為首何謂中德中德也者有以自好也而吡其所不為者也
+  hash: sha256:df1053829b60f3e2367eb1f604290ed1869f65152d33772b8a206a2aafcf2592
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b396845a9f3d4994d2c91ac91c032c0d1eb7939e4fe001d0941015a8a36d29f2

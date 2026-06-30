@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/775
+seq: 775
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而直往之貌芚治本反厚貌也
+  hash: sha256:f8f436434ca365d98bb830e0a5ef063cb916279ed7d5ce8d54e2e3ea7572e505
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a3e3278a201dc9be5ab89ab9bb697aaac392457f3b3d21efcc7d68cfbbf02b0c

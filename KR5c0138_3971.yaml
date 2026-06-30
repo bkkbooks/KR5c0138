@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3971
+seq: 3971
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日月星辰行其紀
+  hash: sha256:2bdba09b593b0bd9a6445f7212db20493387d49f7089993c4e3bc3b2982f2c00
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:33256fe316ce07808207f45da8b5a246034ba9aab3e0961ef151250247a98090

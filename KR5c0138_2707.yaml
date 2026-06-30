@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2707
+seq: 2707
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 成子一旦殺齊君而盜其國
+  hash: sha256:a3a229fd67a809b73946dc772cb1e04032a003840294ca7ae135c92d2afc0625
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:44642af84a6cc35d0b8c3ecde9db90a0a08ad13ad9241b9f944adabec92b9fb1

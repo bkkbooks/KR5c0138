@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/97
+seq: 97
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 旬有五日而後反
+  hash: sha256:a77c78fa445e59c0add685b0f84eb9f0f2778c16db825fe2686ce2235bc0af33
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cdd3542f81e4cf2f79e1beb75f5ba26d1850fcade595c054dddb4fa7bc9b8059

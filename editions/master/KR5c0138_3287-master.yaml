@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3287
+seq: 3287
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 使離朱索之而不得使喫詬索之而不得也
+  hash: sha256:70769ecc3498c9094c850efa7c9b106360a1acccc18729ce48d2e873a3ed70ff
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:59a8a8642ec9383320069092f24c94f474531bd1a2b39048fb21946b7dbe2f5f

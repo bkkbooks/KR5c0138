@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3557
+seq: 3557
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知其愚者非大愚也知其惑者非大惑也大惑者終身不解大愚者終身不靈
+  hash: sha256:64a90a310e820d4ba2ea5cca84d1dadf02cde2878257568b5639f8cfd485b494
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:50055362e49b0acb3579e51da0850d99ff496c5d3e8329f833a14b3c1354bf2f

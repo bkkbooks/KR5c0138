@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5262
+seq: 5262
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 皆安不以損為損斯待天而不受其損也
+  hash: sha256:6c510f16dd5f0475461057dc1900203b81f912647b796198c57f135d35d618b9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c89dc8ef3ae16d8e6543a8450510296a04706049531bc2e8073d75eba8be8982

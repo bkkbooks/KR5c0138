@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1239
+seq: 1239
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 君無賢不可以無君此天人之道必至之宜
+  hash: sha256:e03e891552996532d06bd8181f4b7a820eb49d65becd98606086315f2802a0f5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ddc51c82cf5974ac1cb0c3fe11f21b93eb5e6ec82d68c63d24b6b52349e743d8

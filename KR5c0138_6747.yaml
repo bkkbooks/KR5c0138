@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6747
+seq: 6747
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其達也使王公忘爵禄而化卑
+  hash: sha256:1b7dbd1794272206042766d868b72b3d7bb961fab215a12bec8c8eda9e9b4f2a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8a25b50ea2a926a14dd5fc816a5eb8d480ac9f9af68aa5e9c0d2b98001da61e7

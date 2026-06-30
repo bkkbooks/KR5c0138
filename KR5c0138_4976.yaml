@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4976
+seq: 4976
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 視淵若陵故視舟之覆於淵猶車之却退於坂也
+  hash: sha256:98ded23c494025e606b521c4445ffa9137486a7ffa4ba2f0c0904718321fdd54
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b19db417c6b22a293d6652099cae0d2a231712342d74670fb3881b84262b6593

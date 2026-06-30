@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4097
+seq: 4097
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為不然者天門弗開矣
+  hash: sha256:dab91d5a95d574e47ed3d5bd2129d0383d81f30ec467a836e0a01dabe1c1ed9d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b3d43df49ce02252af2f00c4d211430eaa4b06457e39e0e573c0346509ceeaca

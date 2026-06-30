@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/450
+seq: 450
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 萬物一馬也故浩然大寧而天地萬物各當其分同於自得而無是無非也天地一指也萬物一馬也指百
+  hash: sha256:8dd2d2a946f632484cdbd6645e3aef6d8edfba31255f14032d84b42d92fb5f5e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fae11768c871f570439d817d718b3f203950d7e90593fff70c0d6ecb8024e7f1

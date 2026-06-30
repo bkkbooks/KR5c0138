@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7910
+seq: 7910
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 也故如有所譽必有所試於斯民不違僉曰舉之以合萬夫之望者此三代所以直道而行之也
+  hash: sha256:b06e1208e8fe6c6586e195463bf73a2f94a47b3b93df630fba05cf971d25de1d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:57a1bf3915b7a619c3f742c86ca7a61f3b8b82732191bfc284d9efa9f62289e0

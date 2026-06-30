@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/334
+seq: 334
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫時之所賢者為君才不應世者為臣若天之自髙地之自卑首自
+  hash: sha256:b74c8ae5b189f81c0d7e694629e4abf1c7020889d06b831e7cde75d6875cd502
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:654bf93bbdadddd25f29a09cc5eead6ade6b3997e5dcf18473180b45b2ba0f1a

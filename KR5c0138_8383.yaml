@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8383
+seq: 8383
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 隩深也謂其道深
+  hash: sha256:3c5411ff95ce83d4ff0510a2533b52ea7afdcea9d233a3458214adf314bd0ecc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cee8bee225649832f7fc68bafa0f6f8cb38a0d8de61c814627169ecda009765a

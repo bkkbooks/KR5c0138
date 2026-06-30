@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5482
+seq: 5482
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 顔淵問於仲尼曰文王其猶未耶又何以夢為乎仲尼曰黙女無言夫文王盡之也
+  hash: sha256:4efc1cd157b32a43e6b99e975690316cc59645a15f7ee8a48522f968e6b0775f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1a4e53680eb121a3c3354bbf33c0b9bb0f1e3e3cf78237bd7043faa3b55eed5e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6609
+seq: 6609
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聖人之形不異凡人故耳目之
+  hash: sha256:81c855a5eacae5ba23a1afea8d5ef0cda6d5589b1dda5df1d8b2af63ee79ed1b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f2ec06e9fc321affc951d9da9c7f020800af26bd86c70bf3e6447f6940051d24

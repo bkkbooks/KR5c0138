@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2894
+seq: 2894
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言能淖約則剛强者柔矣
+  hash: sha256:82cc5c709a344a651bdd35fa49176d0ba38983b96134a3703284b06bced6e6df
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b31f9d23d88a7db1cf0f138b45b42c1369959c954a87a0b2105c002ff555d3c3

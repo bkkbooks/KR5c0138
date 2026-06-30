@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1039
+seq: 1039
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古之至人先存諸己而後存諸人
+  hash: sha256:922ce3a0bfe00122f838efd74e2fb6ae7d980d66352cc32a64b70bc328efb15c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:16db209cfafc5f1148042ba9c8696f6106419765a6fa715b2de0364488d30014

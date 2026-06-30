@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1749
+seq: 1749
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 内保之而外不蕩也
+  hash: sha256:c034486cdba0b327c1bc3950efbbab4ce5cf960b23593b2f1841ecbe76ee387a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ab208adf77ca210bb44cf276557bfc4595e9c5eacdb26265aad55ee749d340ad

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7009
+seq: 7009
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 於此為戾於彼或以為宜
+  hash: sha256:2d0204aa1ee4899f84da3fdef05710abc6d64d48b6a109a3ebb14c7b50ba4b9d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d38f422ea71c087feeefa0da27572f1abcc6baa46b3072eb320b45f85808ef68

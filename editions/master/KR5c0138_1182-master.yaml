@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1182
+seq: 1182
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不行則易欲行而不踐地不可能也無為則易欲為而不傷性不可得也
+  hash: sha256:7ab02b8c88920c554903d65cc20397da69218536aee90c88f3f883acf9be5c7b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5f8dcb079cebe2b2b5646f3aaf926a010075b62b7bb85e2f166d489d07c26551

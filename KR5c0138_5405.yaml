@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5405
+seq: 5405
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 於物初然後明有物之不為而自有也
+  hash: sha256:e739bc08a819e4224ba044126d86e716a26791ebfd0cb33a248e79e65497e444
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:73e668921f60a41851f40647a146d05aa5f7d076d42270656bcbdfddb89909c4

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8094
+seq: 8094
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 揮斥髙大之貌
+  hash: sha256:501fe71336136f93d519a67b58745afa472c32b15e1d8ee21a4d9210297b60ad
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:84d07339493f6a61757dc5e92809f2d6599bfc7e0543b1569297ed3a14617dcc

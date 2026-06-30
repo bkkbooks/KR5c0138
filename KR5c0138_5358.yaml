@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5358
+seq: 5358
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日出東方而入於西極萬物莫不比方
+  hash: sha256:bbf471d0d0f6c1a5d73f4f8a2238a3ce58de553879879e2745277bb7d93f4a4e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3c83e5e127367cdaadab11a3a12eafd9a5432582c7628cf27104b6dcd74c63ff

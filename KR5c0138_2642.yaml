@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2642
+seq: 2642
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 飢之渇之馳之驟之整之齊之前有橛飾之患而後有鞭筴之威
+  hash: sha256:73a8f2e4b8a580a8fcf366816b3505daaf52899ff04830d11ca66dcbbef9cc53
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:272fd9dd72846e4c9bc355e1979844f3f8fa04b316fab2627388daecc800c02a

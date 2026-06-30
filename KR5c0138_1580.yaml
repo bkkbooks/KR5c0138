@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1580
+seq: 1580
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼且何肯以物為事乎
+  hash: sha256:f5047b6a66bb063b3f8247b1ef9d9982028ac41b89f36ebe2970d722ed0aba79
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a293a8e998cf423a8e9405248e1df2cd5e3d94a7e489169c10b328a29abec9bf

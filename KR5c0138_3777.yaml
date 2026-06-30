@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3777
+seq: 3777
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又何偈偈乎掲仁義若撃鼔而求亡子焉
+  hash: sha256:b3076713e9a3d8e9101f3209baf4e7170fd2648775f1bffd668ea3446311e187
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:74d0287342e2fd7b2b2f163ae5c65aa0ccd7f9abb5a5270666bbe194bf3aae94

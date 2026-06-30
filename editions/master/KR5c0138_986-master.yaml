@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/986
+seq: 986
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曰然然則弔焉若此可乎曰然
+  hash: sha256:0f2f04675a22a98aaab52b6829c99d88d9e1dc4a2fd1b28cbc297db0ef271988
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:56fb86dafd5cfb1face3e3093792a6142b74da3e5eb14aa8f34a16bd0a9e90c6

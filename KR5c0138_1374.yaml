@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1374
+seq: 1374
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖救其患而備馬之不意
+  hash: sha256:f5d0b6376b8f869c40c0b978eb8f502a1e19ad693922db4a74508c513b147eed
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e6036bab29f9854b4d0198b22cd50f6cadd9ab5cc89c47be5ba4d79681c46e78

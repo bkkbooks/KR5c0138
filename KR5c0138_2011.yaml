@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2011
+seq: 2011
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無善則己有善則生不獨善也故若以吾生為善乎則吾死亦善也
+  hash: sha256:377a9165cdf22d3c0718d009666f9a5e6150d945f8b364b46d937259ceaad8be
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4c57be1e4cfde6dcb8fb9ec7be1dd74c537a49770ad42a37b446370663f061db

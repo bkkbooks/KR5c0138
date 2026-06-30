@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3904
+seq: 3904
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大宰曰蕩聞之無親則不愛不愛則不孝謂至仁不孝可乎莊子曰不然夫至仁尚矣孝固不足以言之
+  hash: sha256:9304e884c5ef56c85ed1acd533a832fbf63ea532be3481868bbb436f8dc8bf86
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:95e0c5e71831f276b05e87db460d84dae4817d16ba95c01a2247d9c99434d17e

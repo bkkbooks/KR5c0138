@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2099
+seq: 2099
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 任其自迎故無不迎
+  hash: sha256:ec5a70751bda05c9159bccc5d0a36c9fa78bad6572b106a96332b4f0ae0850e5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ae20fb1285c2296a7a5ea95329ec1235a32d30538b14d59c17516139565c2ae7

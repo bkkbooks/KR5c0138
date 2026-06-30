@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4181
+seq: 4181
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人皆順而通之
+  hash: sha256:98fa3dd327c0da5d165a2c588d7211c049e15e942286199024d84069f4afc0d8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4959031dd559f2085ddc140c50b7166d12f6f6f606e69e5157c642f2ee919065

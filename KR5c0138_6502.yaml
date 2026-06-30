@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6502
+seq: 6502
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 堂之上折衝於千里之外敵國不敢犯郢人投兵旡所攻伐也郢楚都也
+  hash: sha256:383315b2077a96350737c953e372533cc26314d27dd799184e5c0890cc86a8eb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7e612d23e83ca1793c7eb60d9cf9e3b7d4636ea4b5c0ee430bf92e56e846e123

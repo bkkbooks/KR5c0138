@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8012
+seq: 8012
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 但非道德敗或作毁墨子是一家
+  hash: sha256:71300015b07e31a8367a184683f42aa7e72a30abc3e179e8fbee2a3874820545
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e878a4da1abc2fd65c6a7245712a602906e0264f8a88df344e60f6b28b5c30a9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7664
+seq: 7664
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所奉一本作所奏
+  hash: sha256:b9e0abedc816dfe1112a34e0d115c8ade9a0e681df261174eebe9241dd853aea
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9c319bca2681cade9fd3a2a1d60513d692479420f1e9d22915a30b847fb21919

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5008
+seq: 5008
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為之為彘謀則去之自為謀則取之所異彘者何也
+  hash: sha256:deed2277094e700f533e4a737cad31c7d6c6ce645ddec5b7c9550b2e918f0f46
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:12675a7e170ba6c05189d81545821ef97e736bf54fc1c5c469de671f6f2659c7

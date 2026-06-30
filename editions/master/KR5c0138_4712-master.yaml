@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4712
+seq: 4712
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無為勞心於窮通之間
+  hash: sha256:5597024e9ca25a56564c4d5791915a4a3e82cf135feda11f8fc262a8865f390e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e32d776d1b4505024fe74beb5e114beeaaa3654b43f28ea9f9bdfb78a236539c

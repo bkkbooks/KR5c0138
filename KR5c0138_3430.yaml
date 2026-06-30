@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3430
+seq: 3430
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此皆自處高顯若䑓觀之可覩也
+  hash: sha256:119ad3c57ba3e2a55413d3ffe4343c078d0e59aeeacc0900d7f9bd4ec08a4f26
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:927452cf5ff7b04ed5ef23092771e3de271b2a35631e26c15594628b9b48c079

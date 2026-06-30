@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6439
+seq: 6439
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 齊人之不慈也然亦自以為是故為之蹢呈亦反投也
+  hash: sha256:4eed10ef037896616996e134a65fac8e098fa082fbf9342bbf3b0bdb73f149db
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5e447751fe99195de7b527018e92abb90a40243b78fd5d53a1a3b01e2df64594

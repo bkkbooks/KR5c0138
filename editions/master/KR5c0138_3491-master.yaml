@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3491
+seq: 3491
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無是非於胷中而任之天下
+  hash: sha256:88614250d23bf03b31ee9f6a061cd767b4c3c343c0a28f16a388d62d8203886e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:111bdfb417c0aed8147e7cd43e5bf2a5dfce7d121dc9fa9f5dc3b451a4aab354

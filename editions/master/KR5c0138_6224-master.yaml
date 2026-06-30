@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6224
+seq: 6224
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 也此四六者不盪胷中則正正則靜靜則明明則虚虚則無為而無不為也
+  hash: sha256:bcf33b6be775c96ab73ba0643617f843ee05860fcb91bbebb7590e01298ec2ea
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b626c3a430c99e80a88d2f088d040675a81aad05b32a8a362dfc6a77465856e9

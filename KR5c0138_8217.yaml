@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8217
+seq: 8217
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 理根為太初之極不可謂之淺也
+  hash: sha256:75b9508b647d1165d5005290ed72000ead74d8bcbb17daf63b07788fcb0fe55a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ca9b05eddbb0541f62db6bad279e7642ffb172d78e4b06df0186b5afbce2ebbc

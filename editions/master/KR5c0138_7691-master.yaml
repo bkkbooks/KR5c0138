@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7691
+seq: 7691
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 挂音卦
+  hash: sha256:1fec2a47486874d0ea449824e76aca0fe3631fcb26d147c30f61c570bc09c934
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0ce381ac1f2d5fd0752b311aae9e118f8160139769cfd3e1c631864f7135a326

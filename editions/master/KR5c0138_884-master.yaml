@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/884
+seq: 884
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不知周之夢為胡蝶與胡蝶之夢為周與
+  hash: sha256:b2b827b1c04e814fd9a7659b8b8009a245741364ff7ed4e8a0dcbf072c1b2ae9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cfcb4381a2e6afba7b7cf81d6e7866c8bc1b251c5fce3333e5c49b689eb33e18

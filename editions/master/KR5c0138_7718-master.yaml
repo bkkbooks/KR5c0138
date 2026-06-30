@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7718
+seq: 7718
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若鎮物由乎内實則使人貴老之情篤也貴老謂
+  hash: sha256:75f285724605ec1be65f7c934de06efe3b69a3908925de2109e67b17a654b0ab
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8c654d5401a0b208233b6f3dda7b8627887751411b8144b944e1e0e8a6873afc

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6751
+seq: 6751
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不以為物自苦
+  hash: sha256:85dcafc9118c7e8243e71ea1067aa91d6737cd1b1c10d2e600d254b55035fab8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e99fe42b6f217583af2476b2f6240a3d6f10612190ef4699ccc4817f58faf5a2

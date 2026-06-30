@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3603
+seq: 3603
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其自為故所照無不洞明
+  hash: sha256:1dc3ec55c1e6473c7f9f3afbaff3bd29b9350ad70cc3a99036095e135a7af7e1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a16ff28b520b49f828bb25cc65233cc048826df48b5995adcf28f202e3b227e5

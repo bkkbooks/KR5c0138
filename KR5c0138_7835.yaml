@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7835
+seq: 7835
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 施於人而不忘非天布也
+  hash: sha256:9e955d571032a164c6fa823f97ddb7ad17eb768a74562c806c95375a47142834
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0de35dbef39bcfa3074f6dbfd4b3701d8371dc33ca7439b7798dd692c2ce6b7e

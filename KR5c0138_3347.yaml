@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3347
+seq: 3347
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而鷇食
+  hash: sha256:a5c8c34b8989e0c3a219328c16091eb1eaa6d34cf2fcb19db947adc37e763284
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:302fd2094b5c744513fa95cf0c3c7555e2966cff6d40bf9ab5cc8301337a9eb7

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5417
+seq: 5417
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而莫見其功
+  hash: sha256:b54a2138e9f0c5db7fc34128503e544d4188dd6e776b00fbaa2ec6c37626e497
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:64c9e57ffb73a0367a8b5a3bc4d6647933d59c84a7c9cbed94f4d8fc50b287a2

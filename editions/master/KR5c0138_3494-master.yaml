@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3494
+seq: 3494
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 怊乎若嬰兒之失其母也儻乎若行
+  hash: sha256:d9a1b726afcdfcb993a9d56bb30968564aefb86ca50d5a5ef6560fa1cbcc52e7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:84450b857f40c7c5162754c578259d550c05fe687f11e87cf6dfc2b27c014a1a

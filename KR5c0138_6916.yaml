@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6916
+seq: 6916
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 殺人大菑謂自此以下事大菑既有
+  hash: sha256:e1c1ed4eececc4d0e9a9ae1c1fce3b8d0db5fae0404ef0f0eb474e1aabfe90c4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:42333b5206d031a705ad77583c5a4c13713df1d25831fbb96107d4231a15e3a4

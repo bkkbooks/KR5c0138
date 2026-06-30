@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7197
+seq: 7197
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 去善則善無所慕善無所慕則善者不矯而自善也
+  hash: sha256:59e8a840a703906e5d967671d6fd9991a4a3257b5d21947bfc410ccc2bf4aacc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:175c15c8c785f0c18aecc1686582ef6cb32968fc4a72c713027045cfba6f09e6

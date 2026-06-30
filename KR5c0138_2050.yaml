@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2050
+seq: 2050
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自本自根未有天地自古以固存
+  hash: sha256:d0013ef0d9b61831deeb248fa94a78d73f12d98bc360437dc8dc3d72f7b23ef6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:affcfb1f1c79b5d19fe5ad3df0650fbf2dd72ab84f9e281265a2ccdef0a458b0

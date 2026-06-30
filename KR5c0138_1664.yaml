@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1664
+seq: 1664
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今仲尼非
+  hash: sha256:b4aab2f631ff832154fd18edebd42eb59f0ff02ee23ac02c31d6ff176c5361df
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8808167739c00899204bbf9afe7a8632a8dbaf659aec78c2caef9c4ed661c08e

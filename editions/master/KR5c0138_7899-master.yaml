@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7899
+seq: 7899
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 達生之情者傀
+  hash: sha256:94f5cf22dc9feaaecdfc23cafd378e79a0a595b0338f617d7923f5d84815f6b5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e83e8e41d6624d60c31917554d05907b9df30f1bba25d826bd1aa83fb99b0c6d

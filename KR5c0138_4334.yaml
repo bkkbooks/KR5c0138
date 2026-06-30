@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4334
+seq: 4334
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼正而蒙已德德則不
+  hash: sha256:2e45e99118ed2c1f17873cb011302e82caf38b5dbc607f0fb3767542f1a3fc0f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7e999290e433cbd6a50910f0b52f55aa284646cb3aa18d55b788f2e5ebc9e880

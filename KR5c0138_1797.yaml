@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1797
+seq: 1797
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謷乎大哉獨成其天
+  hash: sha256:d35807161f4ee3a68180bec41ff2274562c5232c2df15c168157e31a35984221
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:76694ae039e42989f7eef6ca94e23506778f0b93e53a98e1036152a9c063b3a8

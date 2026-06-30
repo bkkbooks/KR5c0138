@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3147
+seq: 3147
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 恃於民而不輕
+  hash: sha256:e042bf593ef08cb993b25c5b924f196b737db9a5ee9c19061a8883b87163772b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dfaaeb809309aaf742df98f8f95ef3ad545097d96f914380391744b9417b9973

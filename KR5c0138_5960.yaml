@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5960
+seq: 5960
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 能無卜筮而知吉凶乎
+  hash: sha256:ef31f5a178d4b96fe8e9909062daee356707ebf1e5332075153a1fe21bc52ae0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:141e7fea8d4f373155592dbfeabb260795ab702b9640d9eb123158f86a2002d8

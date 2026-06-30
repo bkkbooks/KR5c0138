@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/547
+seq: 547
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至理無言言則與𩔖故試寄言之
+  hash: sha256:f6f379ab82578ac2fd7921297eb950aef937e61ab11bae59bba43bb8b7b40547
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:130fd25f3089cb8a9924aa2957d0db72d605cc36c63d39567c8e0a82f6237b4b

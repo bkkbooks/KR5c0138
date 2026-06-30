@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7243
+seq: 7243
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無性在天竇乃開
+  hash: sha256:96101c76828e69ad11df85eee58ad3c16231fc21a1271ef3c8046e3df879b785
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d0d564f677217a7ab413f53cda0c1d14369bed522871e480299788dbdb7f7504

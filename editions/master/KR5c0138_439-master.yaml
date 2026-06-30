@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/439
+seq: 439
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無是無非也無是無非故能應夫是非是非無窮故應亦無窮
+  hash: sha256:92c845b17f499ed3abf5194ec5e2546dfa9b0dded4eb3ba6b487f636e115c659
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5c3039a9ce77ce5a6a2421cd9cff85b3e70fa7220e9d48fbf69a25930df25ee6

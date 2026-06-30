@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7499
+seq: 7499
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 怒責因國人逐猘狗而殺子陽
+  hash: sha256:692032a2a6f82ac34fce797c96c1adcbd783f18d3c5759cb5fa2c35ffe074d47
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c9c0fbaa94c0183672a7fd8e115485dbbef3935e93d377d7e806672b6edd576d

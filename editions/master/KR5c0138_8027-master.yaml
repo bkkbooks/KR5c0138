@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8027
+seq: 8027
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 使後世之墨者多以裘褐為衣以蹻為服日夜不休以自苦為極
+  hash: sha256:aa8bbb3528b80315aae551c0bcf75dde74ec2f8cb976641130876b7d61843141
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d0ebde5d198bee6cae1a7bf7faa32709b2c19df0b3e32cc886b0f11b6d04fc47

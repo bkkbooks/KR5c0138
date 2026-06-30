@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/924
+seq: 924
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三年之後未嘗見全牛也
+  hash: sha256:a0384546a7133dccddf2b0ee1d71f0aa2dd110980b320690f83ab292645504b8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:12ea6d7d696ab32dac486d638d25e29e2e731ebb3d3bd7f71129dbd323ffad97

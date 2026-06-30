@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4252
+seq: 4252
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用天下之自光非吾耀也
+  hash: sha256:12bd22a9da99822531806e36a62b1ee957301b29a8f9f3815328f2eee181a4c4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f1d20bc5fd92b7e5df1aa14c4e914108674232b3d4fd91c806ab047ed4bab06c

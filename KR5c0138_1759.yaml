@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1759
+seq: 1759
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聞徳無形之風者雖復哀公猶欲遺形骸忘貴賤也
+  hash: sha256:c911a4188d84e6cb1dcd86a9a02db1c7696c01662f62eba23032a0905c8de1d1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:de1547f360e86b58f9cfae079465ba60e2e2b8b18433cd83390035837dfb2c61

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1234
+seq: 1234
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為人臣者不足以任之子其有以語我
+  hash: sha256:626eed4d125acc5f2eb3e95633958796b239e82de74ee928d704ce5c6f2e064c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:be84dbd2637d2ea99358789230d977a79c2588c26c63f58762b3d2bcfa659c4a

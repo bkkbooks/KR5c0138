@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7533
+seq: 7533
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 削琴聲
+  hash: sha256:d504b9ea6cea8c89fad439c03a98e176839e2650c755b02935b0275e7db49a38
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:884f31ed4bc0ff3643c3a65a83ed5ebbc26f9e5259e2a9da1e6e1b5c0c36b1bf

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5004
+seq: 5004
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 名極而實當也
+  hash: sha256:150ae969270ef625c4d1c2e4851d150d1ad15bce01ba38551ad75e3dcae14491
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:018fa66602c54c3425b151a683a42a4aa5b2429519321f6d8c3293ef1634bc91

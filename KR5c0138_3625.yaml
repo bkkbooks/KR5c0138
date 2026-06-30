@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3625
+seq: 3625
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之流進則伊望之倫也夫無為之體大矣天下何所不為哉故主上不為冢宰之任則冢宰靜而司尹矣冡宰
+  hash: sha256:8315772fff11c1b363bdf2fedb8ea66c906cb72bad2a7eedffbfc3b37e54b96a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:198d7685c1d75abc203b9edecca13786ee136bfa36738f3d7cc3e5db4251aee5

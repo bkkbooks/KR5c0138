@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/816
+seq: 816
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 即復夢中之占夢也夫自以為夢猶未寤也況竊竊
+  hash: sha256:41bd62203a48bc68c492fa46f336656103f8d4ca47ee7fc1cea8fc77cedab43d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bccb0c1e7a6f2298636ffe3d0859a07f03b8b492947e638cbe1683253ddd0d1f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1655
+seq: 1655
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 怪其方復學於老
+  hash: sha256:657aa92cbe29616394f5b5932b2f455278740b9fdf2cd95c2652e22ba1474a32
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:abaddd22f4247b52ea2f5e5d6d3f020b6b82badcd5ae5494e8444dc83995dc1e

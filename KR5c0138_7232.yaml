@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7232
+seq: 7232
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 跈則衆害生
+  hash: sha256:e36c8fd9de8787c25a32a10b4917a0fd690a36fea2b90f201bf8e704655f8c5b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ad63eb0af32dbdf94fb1748ecb166260d72b739e43566fc65f398a86116888c0

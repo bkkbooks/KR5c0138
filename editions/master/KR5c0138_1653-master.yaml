@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1653
+seq: 1653
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 全徳者生便忘生
+  hash: sha256:5b232a6d49ec9e40a061d46345d4657c1047de42a3f5bef104131bf74adc495c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bbd4b2cce16db8876156a956d35082a5b47a1dec55c9f66a76686f256a68605a

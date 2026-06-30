@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1595
+seq: 1595
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聞之曰鑑明則塵垢不止止則不明也久與賢人處則無過今子之所取大者先生也而猶出言若是不亦過乎
+  hash: sha256:d95ddd8372aa3aa16f7a9f54ce87fec211a0f5cd313288e85d3f9a4e0a4157df
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a424eeb3a83d8e295de92b32fac2ce3ef679fa73760fcc87d9ad076d9d312a36

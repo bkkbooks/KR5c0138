@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8224
+seq: 8224
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 常寛容於物
+  hash: sha256:ae64b8c709412e4267d929ec0bf845ee4d91dc4bf2d7df2cbaebd12b2ebf6f18
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f4d0c433b83e04f7517a929ccef2773f25ff4ffe5069ebc99de4a76241d0930f

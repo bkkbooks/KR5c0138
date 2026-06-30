@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2271
+seq: 2271
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有旦宅而無情死
+  hash: sha256:d869978fad65c985307a75b3feb159d07d4618d2cf22f886dd3046a1d3aee57e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fb45e26b8fb677d14c5cdecc3716d355f6e0c14e61de7777b96b66d22e2ba94e

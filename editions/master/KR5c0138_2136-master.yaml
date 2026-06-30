@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2136
+seq: 2136
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 時不暫停順往而去世謂之失
+  hash: sha256:e4bacba1cb731ade9fc3890749e2dd4ee8a31dbfde5988bdf51d3059da891e1c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9d24c8ea6c9aa6f7e4f232bbd4e3657c047ca5affd5f6f30fa466f261a828d87

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3067
+seq: 3067
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫用物者不為物用也不為物用斯不物矣用物不物故物天下之物使
+  hash: sha256:ff4e041278eddabc9eeac3c0038c14672e6b8ef265339a548f8d66c070c24277
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0ebb1f7a07ba0ec6a1c0756cf5ad1ab94f07e55d1cad16c5940b7c97a3e896a4

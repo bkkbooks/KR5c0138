@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2007
+seq: 2007
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫形生老死皆我也故形為我載生為我勞老為我佚死為我息四者雖變未始非我我奚惜哉塊苦怪反
+  hash: sha256:c7bd6c2a6a0fd6b369d046b4c08cc457af3d4c7b622eb175c14d9db5d70c7039
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:135dc10c9a91a04da2f06f35606a51bd8a497f72ffe386cf56ea22a0b6de118d

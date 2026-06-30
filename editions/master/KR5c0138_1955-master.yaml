@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1955
+seq: 1955
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 禮者世之所以自行耳非我制
+  hash: sha256:672f00f72dd92199d3ba48f53da9c63c2fae008ee969ca2902ebe13c788f4933
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d04e3f897268d8c9a9c661e405276895ce5ccc9dd651147f8ffc058ccd8b580c

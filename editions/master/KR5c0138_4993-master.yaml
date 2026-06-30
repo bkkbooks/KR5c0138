@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4993
+seq: 4993
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 外不趍而猶必走恭之至也吕氏春秋曰張毅好恭是也
+  hash: sha256:21952dc94fed966b0911fbaf10edf6b4b846fcbedc69df81b6a051936c74d067
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:15228b53b2ec8d041788d8999e76721b002b3c0459aa71eb2e71489088915c76

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7644
+seq: 7644
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 單音丹本或作靳音析
+  hash: sha256:5d3b2fd6feaeeeaa48970548ba61de8fba1c74e28dce9d8c9af4bfec5b0905c5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:80a020a6b2de18624f29853043c15faa9e308e6f5717e7a1bcfd70186cfb7a3a

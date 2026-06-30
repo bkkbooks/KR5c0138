@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5264
+seq: 5264
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 感應旁通為四達
+  hash: sha256:860487a7293f118dc6e123214d5c70697ed3e3daadea922ebbf3b542b67e3785
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4f0a63a9ae13c7f4f3a22856d52b8f13661c7183ce3f6d9bb88b1c230516d169

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7351
+seq: 7351
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫唯言隨物制而任其天然之分者能無天落
+  hash: sha256:131b32015546fb056a2d83c666a2474af246714b530fd8789424c07c2cf39041
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fb5924bce9e746fde70c4d3e724105cdbcc79f31b2c80bc11cba375d24c236d4

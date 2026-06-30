@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7099
+seq: 7099
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 求道於言意之
+  hash: sha256:7e2e87804ac547301df8404d9812055abd1e3c1572f8b601efef54345caf0133
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3cde4a6d19d3d6b7a87954917d7bd78b2e93b94bcb599a72c8cc93eebbf76485

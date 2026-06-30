@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5488
+seq: 5488
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 盈貫謂溢鏑也為于為反貫
+  hash: sha256:5191cbf852486158c765cd6b4f493f56cbaf5e0550ac946cbe7cffb795c0dc11
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0348200f3c0e82a3fa3f18d7cb5f7be8b99b7070c0c4ae2cef1eaa2cf93be3a5

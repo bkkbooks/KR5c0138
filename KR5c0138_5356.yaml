@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5356
+seq: 5356
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫心以死為死乃更速其死其死之速由哀以
+  hash: sha256:745b6d47780e7d7c750a21a09c73c2e20ddc1e0b740ed0453e536a8bc43c584c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:34d84eeb30a5e5329ec10b2949717b77feb18eb297271d665b660d7d97b197c4

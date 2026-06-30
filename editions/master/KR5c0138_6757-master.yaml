@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6757
+seq: 6757
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 望其風而靡之
+  hash: sha256:7acc0a2d4d37c5fab586506e9c5b24d96c346d2bb719c5f4dd29f3007bc0cf84
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:243a4ba937ab0cf65a538fd110e58e65b251ebc8528fb805698436998b0fd266

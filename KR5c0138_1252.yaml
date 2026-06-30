@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1252
+seq: 1252
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遇而直前耳若乃信道不篤而恱惡存懷不能與至當俱往而謀生慮死未見能成其事者也
+  hash: sha256:7b33bc70486a8137c02fc76e2fa5ef27e9bd10de35af169eb538db8c0e3f2eef
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d6c569fa05a0743099ea426ed3dbadbd5896987b1491a9c70e9161c3bd78cea4

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5253
+seq: 5253
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫今之歌者其誰乎
+  hash: sha256:4b1e0aa8e2e304b0858f1e7ffdc84005b35d1cd46339f0d7f1ce25f11b809dfa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:885be0491231a6fb3041448972655e0cfece63a04cd8a7ae576b78bb26fd596c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5365
+seq: 5365
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 待隱謂之死待顯謂之生竟無死生也
+  hash: sha256:fd3843b5777ff7e8357323c7656e72a1288089e38d22961e2f5b53d5ccd3bf89
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e945b486b3aad052c6900ef5ab15e1b6e84dc7776d371e6e868a8dcf3a5cb90d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1328
+seq: 1328
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫小人之性引之軌制則憎已縱其無度則亂邦顔闔魯之賢人
+  hash: sha256:9cc11830ff5b76096a960102c6ecc694c9b03c07164c8bf601f2780cd8306d4b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3c3c1378cd0832f98b9798455600c72198bc4b66da5438682d9b7987bb370544

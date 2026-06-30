@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3770
+seq: 3770
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 世所謂無私者釋已而愛人夫愛人者欲人之愛已此乃甚私
+  hash: sha256:cf30fc0c4ab04608032773e7947285a998fa655c89796076a033871d9c83babd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:18a1ee0271f5dd374d861b9073c9ad7ee83d20f5459f85882f043f8dd4304161

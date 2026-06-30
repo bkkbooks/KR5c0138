@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3104
+seq: 3104
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天下之難無者已也已既無矣則羣有不足復有之
+  hash: sha256:d1008748055409a165da8fcab5818c350f2504137c17c83ec4901cef482eb6f0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8b556c38d5c0ad06b63a43c080d5bc5e52ad683d088ba01c1986eefda8038017

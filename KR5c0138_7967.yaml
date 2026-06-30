@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7967
+seq: 7967
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各信其偏見而不能
+  hash: sha256:4f0d703c9decfc547ef648ac793f97925858590fe846f0f16abc680daae2d60a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6f30b8b5943c44ff21fe5cacf89cc9a145ae448a1a1a01970bf2ebfa52b0030a

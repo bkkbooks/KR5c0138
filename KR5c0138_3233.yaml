@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3233
+seq: 3233
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故事無不容也
+  hash: sha256:e4612e8113857723114f67c7aabce60cf5d58e300aad627cbd2fac0bcf717f6a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:75362456992bca31e82d41c0c55351b7533d6b6a0bccfe36971c203c8dcc8b78

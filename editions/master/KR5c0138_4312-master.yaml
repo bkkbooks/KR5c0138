@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4312
+seq: 4312
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古之治道者以恬養知
+  hash: sha256:b20a3900ec5e952b28ead7c7f92c32b785374b662aef224d0ed4160a18ea1ad9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7909fd41ef10ea19cc74c98d6a62c3e1bcda24b745a9f2502876087648fddca6

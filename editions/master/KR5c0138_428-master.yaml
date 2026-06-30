@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/428
+seq: 428
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼亦自以為是
+  hash: sha256:e3eb7173f0016ac923e630c122dcd4b028967cd29e1e0ce2f9234a09fc009791
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4403f31493bc21823b183dd21ea0a839392e78c6ba5146cdd760d18d99bb0743

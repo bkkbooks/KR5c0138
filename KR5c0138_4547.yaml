@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4547
+seq: 4547
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 世之爵禄不足以為勸戮耻不足以為辱
+  hash: sha256:2da00aee615d3a5fb8d4d0052fb2741370fa2c1a76bbe6507b00397d55aa4440
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:306347527140a7c08fba1c33895c0954a2cdb450642484542dfbe7db937a4109

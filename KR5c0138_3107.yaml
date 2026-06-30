@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3107
+seq: 3107
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 能美其名者耳
+  hash: sha256:5b2dcd02a0bc12d9dc6c9bc7876b765a92a6de597b446b4e9351cdae6a273439
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:64e669cc9a989d48eec1f1f53564b65b6fac295d0daabae929df9e6905ac8059

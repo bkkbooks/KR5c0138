@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3518
+seq: 3518
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明治天下者故
+  hash: sha256:f4112f72f9be9306de04d9b739908a6870777023f6fce5bf67cce89397148c38
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e9f3f3bcdee10782f19feb0fbfa19f72971d124e71ccbaef9b91803d71d86b38

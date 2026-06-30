@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/373
+seq: 373
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今日適越昨日何由至哉未成乎心是非何由生哉
+  hash: sha256:9c12788449c2e41d5aaa917bdbd9f0d3f80f4a5a8d64907faee6170b10aab3ab
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:65c7ea48f2e73ea04eb5d3b864d218959db34d2e3cc208a41a9258976fc779fe

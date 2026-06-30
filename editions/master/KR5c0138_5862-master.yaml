@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5862
+seq: 5862
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不能坐忘自得而為哀樂
+  hash: sha256:c8d5d3ad24dfc4f6a33dfcef6fdd7776d9c17897594effd86ddd1d4098db68d0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a43408aff311ad546babedfa0fd7ccf1fee08192c69f18e89ace9a92d2239588

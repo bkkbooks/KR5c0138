@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5721
+seq: 5721
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若必謂無之逃物則
+  hash: sha256:dba273acee81ada25c50984d4d6e67d3ae0c3a3db59a7a4c4fda407e2d545983
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:53f167ed228694e3355932d5f592d1b61d657b43ee18b8048e091c6f624308f1

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5487
+seq: 5487
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 列御冦為伯昬無人射引之盈貫
+  hash: sha256:0f13071dffd17a39b5b4a16c88bc431c30e6dbd0b04fb54a16fc7866b25a0b46
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d83fe9013e029e1daa33bc81b673e97cfdb6acef0e0712f2c6b456486594fd72

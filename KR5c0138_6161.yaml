@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6161
+seq: 6161
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 反云黶有庛也有庛者欲披除之字林云釡底黒也
+  hash: sha256:c0da139c5917e5b124b0f0634494ebbbd9d3e0b205dfdd821ce21cbebd098528
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6abbf6bb323fff3869ce3eb63cca974e0cac46a34a504259b5538dcc1514a3c4

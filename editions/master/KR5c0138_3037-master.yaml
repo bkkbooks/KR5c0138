@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3037
+seq: 3037
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 渾渾沌沌終身不離
+  hash: sha256:ea2fd13577cf4701f78170cfc228c2ca67c57a6abfe60e8efe4d169ca496d544
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4d531eef5112f601f1bf290cd8a3e81fe850c8c90df9249ceca47b76b55afea7

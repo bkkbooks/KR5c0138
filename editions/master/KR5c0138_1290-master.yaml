@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1290
+seq: 1290
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故行之則實喪矣
+  hash: sha256:4a9bd8f362146099661b6ff63245312f9dcc8ba417508d0d801c24a6ac60112a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ed16a53fedc98a0391f91e4eed291d30170eca9855f6dac53b8c7eed993c9d57

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3913
+seq: 3913
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故曰以敬孝易以愛孝難以愛孝易而忘親難㤀親易使親忘我難使親忘我易兼忘天下難兼忘天下易使天下兼忘我難
+  hash: sha256:35825a3c3f47c0bc7bbb37d2fa953cdf27040646c154888b3a9cac99a397bc70
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:54d3a0eb3e1d6262f22404f468c8782aadd8aa2d940896457040e712d9d0114b

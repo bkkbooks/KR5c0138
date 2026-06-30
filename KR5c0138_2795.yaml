@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2795
+seq: 2795
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 衆耳無不聰事不過於所能故衆技無不巧知不過於所知故羣性無不適徳不過於所得故羣徳無不當安
+  hash: sha256:c75610edbe46567bc667d90450b3a96bfb7c06241a2389ef22826b9531799922
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:44d81f0df3211f49e6efbf3f9aeb1949e38acb222340bd334494bc29a9b6fa95

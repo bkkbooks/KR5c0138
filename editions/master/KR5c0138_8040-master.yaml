@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8040
+seq: 8040
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 尸者主也
+  hash: sha256:5602b0ed0fb102097ac589a2e788a54e3da2e3b2dbaecccf735582606ff49a0e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bd9250fabfd389fe1cbda2e6f9241df5d9a88193ae6e6ab1df2dc292cb272b52

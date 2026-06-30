@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1017
+seq: 1017
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 顔回見仲尼請行曰奚之曰將之衛曰奚為焉曰囬聞衛君其年壯其行獨
+  hash: sha256:0f31940117d30990aa844b9d6e5e942bf1e2c9b1417a19491cbd107a7028678b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:61d76f94984a761af5a18d5cbff51df915d819ac261785db4360898b6396a728

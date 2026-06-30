@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2669
+seq: 2669
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是故禽獸可係羈而逰鳥鵲之巢可攀援而闚
+  hash: sha256:334fb49c9656b95bcea9ccebb93b9291b5533c60ef0a65d000ada220c93a2f2b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bc8be5d692bd6b753828540cf72789c247b82a7af92783bb0760463e0492329e

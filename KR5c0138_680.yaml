@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/680
+seq: 680
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之自若皆得其極則彼無不當而我無不怡也
+  hash: sha256:8f77c531a5f609c22db850bafa6eaeff565ee620527da23475a5db3d8aacf73d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:93c79404c419f4e9d20bb0658bdb1446aaa2a3844bc0315731ab0232a8222d6a

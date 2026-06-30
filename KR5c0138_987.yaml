@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/987
+seq: 987
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至人無情與衆號耳故若斯可也
+  hash: sha256:5fb7395c09c34b7cd02d5de8decc305749854c0105a71666051fe6b80dcb7de9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:208a710e8fd11ff218705944a2c80fd8bbab22e519c268fa5269a815ec55dabf

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/672
+seq: 672
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舜曰夫三子者猶存乎蓬艾之間
+  hash: sha256:1228496644e11d34ce8152f7f6618d8006792a5dd2c93ae5eb3bf18784564351
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fd7d067af5e065edc9297905b7ad2f55e790bde67cca799050c5a0498d957f06

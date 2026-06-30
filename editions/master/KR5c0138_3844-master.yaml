@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3844
+seq: 3844
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 老子曰夫道於大不終於小不遺故萬物備廣廣乎其無不容也淵乎其不可測也形德仁義神之末也非至人孰能定之夫至人有世不亦大乎而不足以為之累
+  hash: sha256:31bfa17c6ce7e1eb06a689e07898722e605fa7e803dea938c58b0e4eaa8a3d58
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ab4216519f59452403b767cfbeba6dfc1b04b8bd05e32c022b152f738ce26f23

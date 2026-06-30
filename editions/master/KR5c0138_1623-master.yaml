@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1623
+seq: 1623
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾與夫子遊十九年而未嘗知吾兀者也
+  hash: sha256:a835763a97afe3a2ef3e475921c1a7259c72786fbd9d8ca909397cbc89c1b6a7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8f3a0e7ea1b4511abaff4c6a6c9fca878d0581e22beaf3d166319dc551a26229

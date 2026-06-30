@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5569
+seq: 5569
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此孔子之所以云予欲無言大美謂覆載之美也
+  hash: sha256:16787a7c85629619a04d5e79e797fc26233b96806a3fd2e5ff93e4fffd4ac455
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:50a699923974ad21c721550525897dec13aad413edc7505eff263ae7184fabc9

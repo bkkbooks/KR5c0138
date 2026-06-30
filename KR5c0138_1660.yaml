@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1660
+seq: 1660
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 學禮者非為華薄也而華薄之興必由於禮斯必然之理至人之所無奈何故以為己之桎梏
+  hash: sha256:424409ed3c152c1b6c13dcc4d6cbf6f10ddb245374e8bf17b11a81f62941f86d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3ded62d10f5849c2059be714158a0fe889b7804f73695d85772c8f4ef61e3577

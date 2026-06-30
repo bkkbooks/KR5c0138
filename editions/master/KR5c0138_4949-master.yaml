@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4949
+seq: 4949
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 性動者遇物而當足則忘餘斯德生也
+  hash: sha256:7355574c8c894f43aeedc7bfaa69c952f715f6b5671d2791eb0ed5db677009f2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b79b7af7dc2afd910de2fbe6950db9bd406eee10c5dba65f89a6d837836acbf3

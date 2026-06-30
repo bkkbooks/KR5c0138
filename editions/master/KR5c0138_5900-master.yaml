@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5900
+seq: 5900
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弟子曰不然夫尋常之溝巨魚無所還其體而鯢鰌為之制步仞之丘陵巨獸無所隱其軀而㜸狐為之祥
+  hash: sha256:67b33747e2db30ebbc3becd4f546bd8d645f062c9ab44726211df9a4d79e5bac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e91e5b740a93472c16c97f0339c86f3fec44d2f1bedd15288ea91b1f33837321

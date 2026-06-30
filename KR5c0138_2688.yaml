@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2688
+seq: 2688
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 華棄本崇末於其天素有殘廢矣世雖貴之非其貴也犧樽畫犧牛象以飾樽也王肅云刻為牛頭鄭𤣥云
+  hash: sha256:e85de4602abd81658aa48a909e4f273ae3653aea8cf250164c9e619f88e53396
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c54103747edd0ccfc9d49fe4224d6035b9e7793a016487087a00e640444f2fdf

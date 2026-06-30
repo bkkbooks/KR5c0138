@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8358
+seq: 8358
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鏃矢之疾而有不行不止之時
+  hash: sha256:7b256c6fdde938a9ed91170ab7ef758d0ab4a6604f4231b02e1ff1c434e04d25
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9da87d43c30171034f6cff38009ed0b0b9a72398e33d64e4ba5c1ea4f0006f0a

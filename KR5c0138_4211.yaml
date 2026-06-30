@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4211
+seq: 4211
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不為萬物而萬物自生者天地也不為百行而百行自成者聖人也
+  hash: sha256:dfd55846c4a133b794d286b8a16deee66d54355a1f9324bdaf1a0b92a65153a8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:77cb26af7f624023ed3755e7b8c839adf5e72d502a1da599e89dd19502251f17

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/246
+seq: 246
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫聲之宫商雖千變萬化唱和大小莫不稱其所之而各當其分于喁
+  hash: sha256:c007a3b8128642334dfae927a1cde1098bb0cef67bb59dd97759eacbddacf904
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d268a5d85dbebb3ddea3b4b6c98b364cdb8565211e27d64d4a525fda54039131

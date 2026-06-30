@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/818
+seq: 818
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是其言也其名為弔詭
+  hash: sha256:0128501e92b21f9426c4602ff0fa4c868b1d8c0cb54fbba7b9143a07443abd8f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:641e11ce07e4e1c8dd16ba6c794f10b90479e7b0030d74df022504753ba9c87d

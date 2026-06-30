@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3182
+seq: 3182
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以德為原無物不得得者自得故得而不謝所以成天
+  hash: sha256:db62c3679d151e04030ce8bb348281993d4f21dd6240f09cc2f2253e67532936
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e0e74fe24fc9f57f3d13087bd7542439ed76515ffdaf980e3b27477bfe03ecf6

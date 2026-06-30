@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5407
+seq: 5407
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知口辟焉而不能言
+  hash: sha256:1be90169f639eaf204c151507951fea178b308344a4744120117c7a141063583
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:69e7cfcfd03037ce45e42685da4b85126440a48f21ee6ad5de80bacc31d0eefc

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4894
+seq: 4894
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫形全精復與天為一
+  hash: sha256:83b3e8066d47cdc9c0f400a7e889025f1a73b3eea46002e0156ea78fc5fdcad4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cae816dcb2df619923a3b72c2240446a7ca393c99162fb730ba3ab844f54dced

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3600
+seq: 3600
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 斯乃自得也鐃乃孝反又女交反
+  hash: sha256:bffbdba7fb169780bca51afa952f99752226ec494c8dd5ce8015b9ab04753660
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3a5955ff62b78a04fd73222d8b63efb3999dc64ac1b6e5de52a46e4100472869

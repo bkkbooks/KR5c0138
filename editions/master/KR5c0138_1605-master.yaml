@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1605
+seq: 1605
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黙然為過自以為應死者少也
+  hash: sha256:e83147db6e366f81c192a0953e4d4fcf0ab1f5dc73395ada4e745f82b5f91371
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6c4b0d59518ef197b77e9a376426e964341d7844418f66737211669d2591360a

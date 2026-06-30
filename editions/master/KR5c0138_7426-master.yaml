@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7426
+seq: 7426
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 勸公以其死也有自也
+  hash: sha256:157058184794d34caf3d3edb803b95eb6f94c0807f277fcd90c54936dac8eeb9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9fb0b3edad400c719b6686e53370ac129d6830a33c02d25b5ddd56ebb7f70a6b

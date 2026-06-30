@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5425
+seq: 5425
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所謂迎之不見其首隨之不見其後
+  hash: sha256:1bae92e7c2986a04b012724d190d12c6846113afad3e8435d0869fecaa8b3bf3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:44efc7678d68206d9e94989e6eb8f5bfadc33b8aec02f0775f83def7c79d5e0d

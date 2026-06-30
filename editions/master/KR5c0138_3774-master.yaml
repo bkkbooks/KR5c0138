@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3774
+seq: 3774
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 皆已自足牧養也
+  hash: sha256:2850690d6323ec6bf86a00c3515cbec216c7702744b7ee49efa1be73375d1026
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c85b2f04cb20d208adb1198d01ead08029afda955574ece590129d4a925c6e12

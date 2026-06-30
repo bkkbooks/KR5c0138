@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7360
+seq: 7360
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莊子謂惠子曰孔子行年六十而六十化
+  hash: sha256:4d3ec8e8508d1eade480920db544c4484e61860cb3b52389f80c7af8015a4290
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:20ff7de5bc225f3d3865a430484d4465803ffb01c8cded5a09d44fc1f41fab9c

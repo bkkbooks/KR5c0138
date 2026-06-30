@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7021
+seq: 7021
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言於丘里則天下可知
+  hash: sha256:e4e09a975111397fec98dc55ecb6a944f85973b4959db2f855495e26d50443af
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9ba2a157749a4ac8c36fe6c97cb1f224494a9f23a1a0af38d01b8f621b03cd78

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4663
+seq: 4663
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故曰天在内人在外
+  hash: sha256:5eb9ea8b420be4a005bd812abb3ff3058b5addb0114c627f38c8e543339ea400
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bb9b623362e8b768d74fabece5963203eec9f3b8e6f0cddbd65edd5d6167da66

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2184
+seq: 2184
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無有而外其形骸臨尸而歌顔色不變無以命之彼何人者邪孔子曰彼逰方之外者也而丘逰方之内者也
+  hash: sha256:569dec3c8f4ed96849071b48e921871a456cd67189e69233d0ddc5aa4b100832
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8a993283a2b2ef3d608b5a92872ee1b6d1f556a9c1b6a9d4cd778a7b14a8710a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8104
+seq: 8104
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 公而不黨易而無私决然無主
+  hash: sha256:6334935853e4b681cd5a2cbaa077ac51396fac5e0d7d5b7d252d21735bd6159d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e16d1e7ca04bdf06cc9e04e31d176c90f739fdf08eedd45a89f0737f7d6800fb

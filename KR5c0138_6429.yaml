@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6429
+seq: 6429
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 旡聲則旡以相動有聲則非同不應今改此一弦而二十五弦皆改其以急緩為調也
+  hash: sha256:d9b48e47cdd995c76389f230c12fa37592bf9bcc6688a5868d83e84235b0b01b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2b4ae985f3d9c007fb1a0fe83bf7b26d316fefe53aafcbe5e2bc2bde79b023ae

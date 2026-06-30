@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2278
+seq: 2278
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫死生變化吾皆吾
+  hash: sha256:29c8728a08fb33a177cb54c6108cdadecb80d67d4c6e2dcc95687057f01aa9a5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:61b6f6b997b0db0f37e882c0bbe5e4f414110a9ee1db46ed1b7f9ef1cd92c2d0

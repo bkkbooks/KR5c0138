@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6448
+seq: 6448
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫楚人寄而蹢閽者
+  hash: sha256:8e924ebc7f6d0ff5019453fe2c99c2ff0b664415766041f54f25f6f1bba064cf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:533fefab7410e28a789bcbc194957772707a248a0d395eea04d3baf2fb2cead7

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4138
+seq: 4138
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 誰者别人之意也未孩已擇人言其競教
+  hash: sha256:f61bda380a29b21feb05d0285baa3f3da05df3889ecd5a32ae12c4c377fe3ed8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:15950cdf8f1abbfcf6363c7b4fbe2cb5967382fc0090d1c31b7be2dd68e346c9

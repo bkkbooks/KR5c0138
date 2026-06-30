@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5406
+seq: 5406
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孔子曰何謂邪曰心困焉而不能
+  hash: sha256:00af2bb0e6f613add0dca16d8a9d2ff6aa0c3627503d3a397bb514116800de7d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d602fd83df03ec7c6cb62ef4c3356858353bb658b31959a26b1259a62f172bc0

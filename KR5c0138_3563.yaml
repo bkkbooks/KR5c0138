@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3563
+seq: 3563
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖我有求嚮至道之情而終不可得故堯舜湯武隨時而已
+  hash: sha256:6b3383b5b187d726941afe8118b06d11a57f38151c376daef2f663ef44677a71
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c68877f1f33c544597300bfd1262e6ed4fb951e3429da7f98059f937af17b346

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2509
+seq: 2509
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不虛則不能任羣實
+  hash: sha256:0afdaa3c52af54ad2cdece8d2f5393d6482ed2eb1234c76b0265b4435881efb8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5a75b2e0c2a1a447011aaf1509d8b1548c461059fab83d3aec0bf86e998ba9de

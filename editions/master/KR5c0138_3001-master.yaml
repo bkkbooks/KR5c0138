@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3001
+seq: 3001
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 扶搖神木也生東海
+  hash: sha256:5fb835a7472d94b9d1cffb11f7fc7a478b10836963d82e2c7a9ede04f04e2272
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d60258bc5c4c0cbf7f25a8db70ba87624df3e4ba142382c4113dc4470ef048c5

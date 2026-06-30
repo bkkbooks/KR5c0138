@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3928
+seq: 3928
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至富者自足而
+  hash: sha256:30da2cf69f28c87d7a28f4ed6904e92f0697fc2bc7a5bea97d11075798329fce
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a2c87566b3b9e1c299cfc357ee77039b5b643cb4ae659d7eaf7962e1af47a72f

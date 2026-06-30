@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1844
+seq: 1844
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖知盛未若遺知任天之無患也
+  hash: sha256:97cf29102fb9b966a26fc38e539c042e6001ef431766223e6bbd1cd4c15f615c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cdb6a0893fb3dbfa163ba4a08de878251b535a2dabab8b63f81a837f745d475e

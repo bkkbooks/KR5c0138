@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5127
+seq: 5127
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 超然獨立於萬物之上也
+  hash: sha256:af08f5b54ea6b60be392c1cd3120454a2b9032c7ce2df8983edcafbbaaf1ca2a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9471ca233a565b2d6bbb43713dcbcbb6358349e95da73379d2bfe2f6ef3bdb7e

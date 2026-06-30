@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1219
+seq: 1219
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 事若成則必有陰陽之患
+  hash: sha256:f21aa19e88bbdb5e66cf718e4a7102f13f153220da3d153f45d51791e67edcad
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:77eda8996c5c2fa2de353bc1679916a6608a565a4017ffbc82d4a8b0affc3aed

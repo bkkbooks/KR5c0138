@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7887
+seq: 7887
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 窮於受役也然天下未曽窮於所短而恒以所長自困
+  hash: sha256:dd24493abbeb83e76c5ca70bd1abb7a10b0ec31bd1aabdc3c5ccc30ade0c3e1a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0caf36108e67756b1a75d9d97c2fceecf496c3e3a8474411865a407559550ad8

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7084
+seq: 7084
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而欲憂之
+  hash: sha256:1010baef092a67ac4f7291948ec65cd1cb3f8c29dfa044653d39dcd82969bebe
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2278827e95afc19683bb53aaa490bec1bcd89e5b5476c2dbc012cb8a225d0d3e

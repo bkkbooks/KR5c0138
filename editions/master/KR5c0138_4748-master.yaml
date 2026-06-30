@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4748
+seq: 4748
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 馬云開也濮水陳地水也
+  hash: sha256:fd48939c92403ba9a7cbc3ce476ed7114884f6d05f48caefd1e32d4cd9d6db37
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a5429cc1b8077cb18d7f5bff9a02c9fcccbfab70e0dbae4c58c0e6686686a9b7

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7195
+seq: 7195
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 小知自私大知任物
+  hash: sha256:c705b4176d9b69a68b298001a6bf4a9ebbca4c23dbd0ddf08504c88b44f33b8c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4ba35b06b27107201a3b9842e8bb4111d50df4ca748b9b61c274d8c3e545dd5f

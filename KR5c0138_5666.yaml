@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5666
+seq: 5666
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物無不理但當順之蓏力果反
+  hash: sha256:742cea7716c3193aaeaac2d15b832515e87d639e3f4e83c265ac3ae3845c23ea
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:37c92defbc0c575980fb8891f6695da96251557f2db2fe94934bf88995eb0ff0

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3738
+seq: 3738
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 驟而語形名不知其本也驟而語賞罰不知其始也倒道而言迕道而説者人之所治也安能治人
+  hash: sha256:162b6c2dcd90cfe5104bc62f367bfa262825d4cfe092877a6821d9040f1cb9be
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dfc3cf32fcde30550f4cd93d929d14425d45bcec33e8ca307421c168900ba539

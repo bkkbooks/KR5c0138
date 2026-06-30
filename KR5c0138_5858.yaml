@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5858
+seq: 5858
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 山林皋壌未善於我而我便樂之此為無故而樂也
+  hash: sha256:67fa18cd6c391dc101810137070add2fa88ea52b737c67c5aa40fcffc76fe52d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4f238f39014299baf983f13c506a0bc5dfa643a25307b073bd8ee5b47dd2d134

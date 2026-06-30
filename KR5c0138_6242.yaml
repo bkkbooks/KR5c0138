@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6242
+seq: 6242
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 工於天即俍於人矣謂之全人全人則聖人也俍音良良工也
+  hash: sha256:44a87e460a7c2fc697320a426bf5c4c024d4c42b2ce5e4618486d118f55310b6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ca08f92991057f202f0a2e1bcac89897fbe366fa4627f505984dc310ab557657

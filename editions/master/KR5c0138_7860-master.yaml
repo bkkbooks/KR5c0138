@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7860
+seq: 7860
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故其就義若渴者其去義若熱
+  hash: sha256:f5e72c6217861f28f4386c2c9ce250c3f136ef346700594e3d5f1f7a9a598d81
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:425df7c7e76e52cdf33a314aba37c44a7c14bff4af8a285ef89159e48a9ad0fb

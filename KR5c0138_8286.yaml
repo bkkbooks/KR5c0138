@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8286
+seq: 8286
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今日適越而昔來
+  hash: sha256:dda2c2be00fd8c47e02b484d70b623cffc97876789f91d92143b368703664679
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:01df446e999e30e04baa375f468c3e780a85f24a6371734590f0a74038dec9d1

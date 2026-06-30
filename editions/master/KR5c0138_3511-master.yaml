@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3511
+seq: 3511
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言二聖俱以亂故治之則揖讓之與用師直是時異耳未有勝負於其間也
+  hash: sha256:1720f1d1e302db929731bb8bf024dd532d11d20929c91e899fdbc896eef7eca6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4c4fcbb173b5f83d3c2c820beb5cac0264805795a48a6f88c2511e518d07ca3e

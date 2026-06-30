@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3864
+seq: 3864
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此絶學去尚之意也
+  hash: sha256:fe58455a5e96f82638e8734dcc40d5fdadba919f6ca94c1f4884f4ed254ca588
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:93c268ab2e7ea18514df61679aaea6a7f80c2922dcd03ce4efb436523629a8c4

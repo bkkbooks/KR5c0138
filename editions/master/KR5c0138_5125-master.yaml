@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5125
+seq: 5125
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 君欲絶則民各反守其分
+  hash: sha256:e2c2f38ba8c7e992be3539bfeae94046652ef2bd573b968652a70da5202b8dc4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cfdea6f3c8737e7cbb530ca6b4e9a298fe452512d5fb5873e4e52df2183bf2cc

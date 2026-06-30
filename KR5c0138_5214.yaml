@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5214
+seq: 5214
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孔子問子桑虖曰吾再逐於魯伐樹於宋削迹於衛窮於商周圍於陳蔡之間吾犯此數患親交益疏徒友益散何與子桑虖曰子獨不聞假人之亡與林囘棄千金之璧負赤子而趨或曰為其布與赤子之布寡矣
+  hash: sha256:e78609a9b6bbe75d5e129312d340d314d90a7a5a2efd910474fe74c16915ddf9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cfde38b0c3c497928893fba177f316e716e0d05a5c3798772c8d092a874a09a6

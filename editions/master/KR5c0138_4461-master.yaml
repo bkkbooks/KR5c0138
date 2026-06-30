@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4461
+seq: 4461
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 河伯曰然則吾大天地而小毫末可乎北海若曰否夫物量無窮
+  hash: sha256:0b9c03a46852735a1be4c3df41ada7b9ecd8f5d7e67b9305f89f0588142929fa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d40f5f73fda61f0082a53b6168570a1d89242d3038c27452536dd76645c654a2

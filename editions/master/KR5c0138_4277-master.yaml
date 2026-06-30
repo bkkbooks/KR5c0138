@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4277
+seq: 4277
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故曰純粹而不雜
+  hash: sha256:41bf59d6a351512f7456ab94145ecb2dc26746faf00b4e0be0df4aa41fc3ce32
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:859f91d5ea3da39865af8fe8f03e39a92edb070a1437fcedf7bac8348d0a612c

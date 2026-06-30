@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2592
+seq: 2592
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故嘗試論之自三代以下者天下莫不以物易其性矣
+  hash: sha256:b133676a5017961962b46c0f19e39ceae24ed9650c9d035274d4ac8c83130355
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f9facf8a7a60a8a301304e09fd2f441df76253739f32c65cfc81f654fcbf09a8

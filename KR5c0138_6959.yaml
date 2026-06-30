@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6959
+seq: 6959
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 旡根旡門忽爾自然故莫見也唯旡其生亡其出者為能覩其門而測其根也
+  hash: sha256:dcf10df696a2b3ae46e1d607a8abb20fae4ca3e7baabf550f3c9bb7adac7aabd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f4ac207393d9c1adc9407439ce7a4d6a8d46937704b978d09adfd769680d2336

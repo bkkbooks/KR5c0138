@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3891
+seq: 3891
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 巫咸祒曰來吾語女天有六極五常
+  hash: sha256:6bce0a27b420c3941389ddd54fa876259d705de0fd5f1b1682014f0331aac9af
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0f4b801b3fa33206de2bb45662dbba354b573ca22518f5079657267d8ef1c81c

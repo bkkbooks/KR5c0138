@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3556
+seq: 3556
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 世皆至愚乃更不可不從
+  hash: sha256:291d1cd487585517738d7de0d2536b7cfb9202148e9af5b1ad10696672f73c75
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:20018a025ff1e8d408b47f5e42fdc878507e05c6ead388b899e0bd3e2d45d593

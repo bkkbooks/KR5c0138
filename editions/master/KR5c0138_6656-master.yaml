@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6656
+seq: 6656
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故目之於眀也殆耳之於聦也殆心之於殉也殆
+  hash: sha256:a4fd1b96dab6354bbdd85943e8382bcc95996ff6b5dd4fef4f39f5f642343ed7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ac61745cbe5ca77a3a19d77d49160cc2ad6c8ac4b77a128a69464a73fd29f3a0

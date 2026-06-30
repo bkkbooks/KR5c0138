@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2750
+seq: 2750
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫軒冕斧鉞賞罰之重者也重賞罰以禁盜然大盜者又逐而竊之
+  hash: sha256:a9d4e8cd60f08eda02d92c3d7d85fc901b6937430061a94416216b0634a42ded
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ac264baf4599aecad74de969ebc1805f71c50a0967d58687aa179cdc7b69d5b3

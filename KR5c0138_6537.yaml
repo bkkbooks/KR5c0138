@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6537
+seq: 6537
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 狗不以善吠為良人不以善言為賢
+  hash: sha256:472cc984142d55b61342bd84294bb8ff2eb22e5e28a0684c1e1f4eedba222970
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1ee1394faadfc8f0b7d9395464ca08f11d9f271cb9dfecef60b1a9c275b7ec5c

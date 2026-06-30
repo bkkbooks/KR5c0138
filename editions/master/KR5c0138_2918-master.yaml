@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2918
+seq: 2918
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天下好知而百姓求竭矣
+  hash: sha256:18bf63120e33ac9f20e4865a18534b72287a399ab8b97dfe383f46cd278b366d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5051db7ba15b498ac42331bb8621d4129b73e29130b0d236908330127867b330

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1143
+seq: 1143
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖未𢎞大亦且不見咎責
+  hash: sha256:22c2c8c4f6d15241864a71c8c5e350f478e6cbbd1d8d8cb10bdd52880db643b2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2fc82e5546aacee0381f235f2628176c553a78f072001721d6191128b6477fbb

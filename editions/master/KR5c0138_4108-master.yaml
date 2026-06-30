@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4108
+seq: 4108
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 風自動而依之德自立而秉之斯易持易行之道也
+  hash: sha256:763ed672cd0f394dcbfc85ccfc08d54e7e399ef430ad89e7bc6d3e319909bf99
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f2be35d09e1bbef40b7432fb3e34e8cc4f457936154561859b59ec3bfad62eae

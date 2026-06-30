@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7267
+seq: 7267
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 官事果乎衆宜
+  hash: sha256:a28ccdc1b22dcebb20eeebf9c144bd46c74693e7f9d5ab0368593a0283dac8d7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:612fc5be8c77f72e6ab9bfcbd513196e0562183719329764ffc114bf5023261e

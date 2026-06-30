@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2635
+seq: 2635
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖有義臺路寢無所用之
+  hash: sha256:43deeac29375ba5a01221513b11311aa9453ee01dcd1ee53b8d5ca85240a5855
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4c6fcc27dc22c53cb0b86a507849be6c55f658fe86f8f8c06a92ccb1acf55590

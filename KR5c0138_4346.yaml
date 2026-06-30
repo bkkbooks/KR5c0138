@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4346
+seq: 4346
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 世已失一或不可解故釋而不推順之而已
+  hash: sha256:b5be122e0cea467f3abf89aae76c480374f7a473d53c63b154f6b77faebee860
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5727889820ba79de66d05ee87ef802b567bf247bb911c9ffbdbb200077372727

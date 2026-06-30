@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5529
+seq: 5529
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無矜乃常存也
+  hash: sha256:e68cc11d2c3c5a1370bd3c296595eb9a6b33dc180362fd77ea2bb806f4b47687
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f3b06d6fca7264dccbe6b16d33cd3ecd574e6949e1306a3b82b0e0bce56a6b0a

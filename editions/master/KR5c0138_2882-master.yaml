@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2882
+seq: 2882
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若逰塵之自動
+  hash: sha256:ef2a6b7c9d51088e92f9d98f5a75b5f26d494d624803cc5c2676451ece8831ea
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8232d02d664d1bac9f3ea9ec263119a5d68b92ab4e2518df0ed110731bbc8ac0

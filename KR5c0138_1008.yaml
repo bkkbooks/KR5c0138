@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1008
+seq: 1008
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 理故火傳而不滅心得納養之中故命續而不絶明夫養生乃生之所以生也為猶前也傳者相傳繼續也
+  hash: sha256:214f60d685df0269252811b42bf1e503a4cf0e0ae67c9743f262ec78acc8759a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:32ca88ce7d4314fc21e3703496317ba0615fa856e8e0e77bebc51e43685640b7

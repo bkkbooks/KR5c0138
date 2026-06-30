@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3401
+seq: 3401
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 德𤣥而所順者大矣
+  hash: sha256:67114e9c7690e7637d53ac61a59d2af6ca84f8933241c2d1de1ec9b5f10d965a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:154a0990194b04003271b129da372df8aa8adabe60593941eda604c5dcafbd5c

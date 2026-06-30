@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7334
+seq: 7334
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 付之與物而就用其言則彼此是非居然自齊若不能因彼而立言以齊之則我與萬物復不齊耳
+  hash: sha256:6e6d2f85726065e1c2f74b46ca79d624efe6b82c20746cd9421536a4301f46e9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:54dddd5ee606af87b4756946b16a0211d3fb1a0f21da5962e5b5b9ded7a28a93

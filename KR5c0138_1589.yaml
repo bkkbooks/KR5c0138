@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1589
+seq: 1589
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 申徒嘉曰先生之門固有執政焉
+  hash: sha256:24ad75978fcc30fb3e95551089251217d46a132a25f6aa1e244a20f4c70b213e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e0a139efec4fd06c68077cd6edcc0381052b31bd6809ff0a1e0ce26fbc481e93

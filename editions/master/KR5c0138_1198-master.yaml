@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1198
+seq: 1198
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫狥耳目内通而外於心知鬼神將來舍而況人乎
+  hash: sha256:5bd6aa48b0308c105d3ee4a9437a9784a3b934be4cc09c59283bf0478abb352e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b4fc2aa423aa1de73fd73124c251ad1bd4735232a2cdd45d66b128e9f542efe7

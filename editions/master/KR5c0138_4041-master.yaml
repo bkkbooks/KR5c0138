@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4041
+seq: 4041
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 期於合時宜應治體而已桔
+  hash: sha256:6725a943abc48b6eab1d24cb5c5fee117baad181ea04c62e7aabb2067e33ed20
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2b6fdb1afae2fe71fde030a97ed378649527ac3cf289c44d2ab0b1971cea4705

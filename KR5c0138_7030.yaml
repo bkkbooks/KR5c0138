@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7030
+seq: 7030
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 名已有矣故乃将旡可得而比耶
+  hash: sha256:6f70a6291a13f9b90e799a782407b8bec26eb8d8328f0300c888c1305e9eee03
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:302bd44f21c3b1e430342f0324b8bf444ebb94bafd0bf0174a194d1c244ac2ae

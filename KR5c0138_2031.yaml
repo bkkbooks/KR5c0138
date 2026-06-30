@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2031
+seq: 2031
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其為樂可勝計邪
+  hash: sha256:0fe1e0767c82a7853ca1f297b4674695c13152942ed6b98a27a264845b9afe5f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:330e122f7b5b88714b94dce1f68678c27458a6b4b0e52dd467144e873baf87ec

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4405
+seq: 4405
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遊於坦途
+  hash: sha256:fbf46f72b2b7391292308feacc2b49dc187bb774d1dac5b249503b411ebf3960
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:999c87b608691d53dd1a0c3090fe44cbe2a54dff14a25ac7e55b9f67d97f00f8

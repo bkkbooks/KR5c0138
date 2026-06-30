@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8188
+seq: 8188
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 及天下然後歸之如谿谷
+  hash: sha256:8f7bce92fa7f301371ff7812ee577a63560bf2a8667ecde8a4728fade8138961
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:03cc2ee45943af72e43e9d4b171f2ace9838c4b2846b2530f7768e10ad3e5a8d

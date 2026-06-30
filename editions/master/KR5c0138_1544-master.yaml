@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1544
+seq: 1544
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得其常心物何為最之哉
+  hash: sha256:5941540696a1023fb866934e87dd3ee16c2e80e81631b25ca2cc06392e1da3a7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bbac3daec88b25d54dfd353cff77a8bce1be8819a83d448242d1335d466e0cd5

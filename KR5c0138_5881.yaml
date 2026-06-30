@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5881
+seq: 5881
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 擁腫之與居
+  hash: sha256:ddef9aa0caff6da3b2544db33ff12b067c5af3ed784249cbc83e6ddce1d18b1c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:93a2115e5633db71af57f997b633356912d936ac2cf03c0b62dbab3a8624b0b9

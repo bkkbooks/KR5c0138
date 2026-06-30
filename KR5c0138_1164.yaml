@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1164
+seq: 1164
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未始心齊故有其身未始得使絶
+  hash: sha256:35e7c72d869395db30df368695c1ea2fdb185e051235c11c4f2c276842156600
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0ea65e467ce63ae0920bfd1588855e46d216076b9857c7db4f239e2ba4cacc5c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4934
+seq: 4934
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而况得全於天乎聖人藏於天故莫之能傷也
+  hash: sha256:1e14afec52a790046c5af856da88258b4e3601b54b5c6c803e93fae9ca72376f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e48f7987f3b6a0dc1683b8c0fc14a6e10bc1eaa3fa9bab0877c13ac444346712

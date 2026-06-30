@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2332
+seq: 2332
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知同於大通此謂坐忘
+  hash: sha256:07d7e126cf084fe5f724e99a3d7b344dcdbca1c7898be6c1aae9a3ddf9ad0691
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2198d4343b91947bc2c9bf265a45bece8e6c96832113dc718a0f4648819edef8

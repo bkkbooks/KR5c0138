@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3726
+seq: 3726
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是非已明而賞罰次之
+  hash: sha256:de72a3c4163d3f6a48f1ad61f451e403fbd2180253d3d96433bb1903f3d06703
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:36a2bbb2d55e54f8c5296a4a6a61e75b3c5459bb15dcbb0283b1910ec543afa6

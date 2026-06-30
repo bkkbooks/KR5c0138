@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7645
+seq: 7645
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故觀之名則不見求之利則不得繚意絶體而争此不亦惑乎
+  hash: sha256:1f6ab42748a521399bcb2bb0576e1b316e9ba274110309f0c967b1c21a55561c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d6b01184bbe950c68fe17439eb9179df7968ecd51aee910a5771a2bfa2eb200a

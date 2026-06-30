@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2287
+seq: 2287
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夢之化無往而不可則死生之變無時而足惜也
+  hash: sha256:d0dbb97e999c95cbffc00bf34b7d258f6386e597f823760d2d986a87d055bacc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:aa49ba288b3cf4a9167a3d6bf3549988ba2da17a73a11d767659282ccde9e95b

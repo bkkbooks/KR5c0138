@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4288
+seq: 4288
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 精神四達並流無所不極上際於天下蟠於地
+  hash: sha256:10924d0a68ca9c8e683cf3f8a2deaf37b31cec479b0e233cd4f105abc058875c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6927d45de05d8ff45c2d37cc477d2f2226ce93071460b8b19ff8132eee95ada4

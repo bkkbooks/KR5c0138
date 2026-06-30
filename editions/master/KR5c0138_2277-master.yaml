@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2277
+seq: 2277
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 且也相與吾之耳矣
+  hash: sha256:b8aa311e81deae6c264c59d52bb6b300d859c7f5682d7e171363c92493e15936
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9299ba796c64b3fa9cddd949585983fc5ffb60521a5d71015d4c93dda3fb0116

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/765
+seq: 765
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 旁薄葬反依也尹子云天地四方曰宇往古來今曰宙說文云舟輿所極覆曰宙
+  hash: sha256:4c1dd3ddedbbbd3d744ac8df4db070f9d31f60fd47b1e862fb001fc990d7b2e2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fd92a25dc354a581fd8a328b9407d744ba1dcdf57810824120baa6d3db5055bf

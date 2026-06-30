@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4669
+seq: 4669
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知天人之行本乎天位乎德
+  hash: sha256:f94c309e17c73babc8559d3ffaa454d4231445690a1c865db5a86e84f2553169
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:23e521b382bcf1e8eb2e6df830c3da871616de0e22263e1030a06e2005d86722

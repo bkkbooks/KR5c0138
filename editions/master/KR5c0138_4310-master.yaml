@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4310
+seq: 4310
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謂之蔽蒙之民
+  hash: sha256:f765ec220796cc8811dd6da4906d3b1abcc9cc44a9168b87f518fe13abd79f48
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bfd3a1bfe64e16feb6155d775e7159100258fce389f42dc4a61cf16337dbfc5e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7722
+seq: 7722
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 信以美形動物則所患亂生也子兮反亂也
+  hash: sha256:e86e285b3cb36c28b17b7f439d4eaf52aeee4df0fa7380b0afe1866faa08a13e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c239dd5eb2c83d1163a290a73d163fc4afc918eed5d84f51085f29b2b65a2b01

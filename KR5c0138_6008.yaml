@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6008
+seq: 6008
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天光耳非人耀宇器宇也謂器宇閒泰則靜定也
+  hash: sha256:680099f08660118d4d1096d2a7673d5c065992d9dd29d629bdce92e8c0ac2427
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:99bca123be0c6ff5ba2f8801ad49538b81fde4ea8e6f9e57dd463c67c653aed1

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/134
+seq: 134
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而我猶代子吾將為名乎名者實之賓也吾將為賓乎
+  hash: sha256:004a6934513d249e8ed38e16c220920d6690e216a72521d0693d5a1b0cda5016
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1eb51980da8a35dc8ed52880f8536f4702c1ebcd6414f28e2979938c96f4123a

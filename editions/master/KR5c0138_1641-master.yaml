@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1641
+seq: 1641
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 徳明夫形骸者逆旅也
+  hash: sha256:78a3d6a410511b67a18eace2c25fd019df679a674e65102c05ba425c5567ef1e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:eae512a3ca45b7c1dfa316c4a7a1436fc78e42ffed091556c4d6d23376ce2ca5

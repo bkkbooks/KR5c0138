@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/385
+seq: 385
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以為有言邪然未足以有所定
+  hash: sha256:a9c580ad40879c142c01732e9c35506815826e9e701da678da243fb4f248f2ee
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b77411e82338963e0f2d639ad94969e871cf37afa4ff3ae12f5a2ff2c454e5ca

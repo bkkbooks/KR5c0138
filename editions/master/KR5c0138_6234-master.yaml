@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6234
+seq: 6234
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 名相反而實相順也
+  hash: sha256:fce3e97b4a6e529cc67ad513c0e6c0af684e2e10d4f1837ceccc27f73aa20723
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7a8741fca52f0be724c45c36f3d500a0d2b8b9ec13127845c8ba0d0e86c7470e

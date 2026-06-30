@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2019
+seq: 2019
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日以為故舟日易矣而視之若舊山日更矣而視之若前今交一臂而失之皆在㝠中去矣故向者之我非復
+  hash: sha256:435b3b9533c48b116f0ad41059bae108538824e6901fd28305ecf41cb47ecc67
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:094641f251b9784ef690f64f5718ac850c9b50a63610d5a20709eafd0e59d14c

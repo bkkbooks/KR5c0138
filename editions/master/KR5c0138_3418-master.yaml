@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3418
+seq: 3418
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此言動止死生盛衰廢興未始
+  hash: sha256:feec447921e2e79626236b536433c7bd5283621fdde158f77056df9fc6b10e71
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:61f7bacefd81882b5d50d79eb34ccad3b08f05b725c1bc1f35c868a71c9bef06

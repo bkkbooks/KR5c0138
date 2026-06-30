@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3326
+seq: 3326
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而未始有恒
+  hash: sha256:21df70c57bb4ce9718e595eb2cb8d1611858f69a27a819967b2980f114af5b14
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:eb3adbcefa9cb832e9725c81ef5509cf2c85b575414444ae7b73270e939a6541

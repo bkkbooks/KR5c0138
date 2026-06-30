@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6835
+seq: 6835
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之名嬴法得其兩見
+  hash: sha256:9a3ec8222572777f04bb0d8b87e6c6c10872ee17b8502e2305a9b566198a00e5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c88e20b5853d0dfa833e6d6356727cd5b09ec783425c27c947abbf9447d26ab2

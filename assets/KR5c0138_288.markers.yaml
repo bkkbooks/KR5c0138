@@ -1,0 +1,10 @@
+canonical_identifier: bkk:krp/KR5c0138/bkk/v1/markers/288
+seq: 288
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_001_n381}
+  - {type: substitution, offset: 1, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1129}}
+  - {type: punctuation, offset: 7, content: ○, id: KR5c0138_master_288-bkkpn1}
+  back: []
+hash: sha256:a7537e9e283f8b70e2609543951778cd40cc8fe29a6665dce19a13080307753e

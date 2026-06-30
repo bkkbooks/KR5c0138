@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2489
+seq: 2489
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖動而真不散也
+  hash: sha256:ff853d0d36201ef7dfe9d09554b73fbba925ca5adfa6271c0245ec76d01e92aa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9c94343c4bcf0e4e1239b94ce3eea986b6839e04d429367459e1aa85b644d98b

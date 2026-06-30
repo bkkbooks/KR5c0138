@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/457
+seq: 457
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道行之而成
+  hash: sha256:ee8f7c0dfabf68419f42f88c22b2ee6954930b321262a7c133793d7411fcd0c8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2c5ad4fe6644164d1d3034617f9b21d885dd4051258e41723d2f6fd9cfb2faca

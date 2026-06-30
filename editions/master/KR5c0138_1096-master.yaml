@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1096
+seq: 1096
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 貪欲之君雖復堯為不能勝化也故與衆攻之而汝乃欲空手而往化之以道哉
+  hash: sha256:ebf033f7502bd5bed39fbe98249f879713ad4278838cabecb089e3a4009c6e8d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:41f7dce73ed1967568e921c763307dc63643fab32078c2a085e227979bf856fb

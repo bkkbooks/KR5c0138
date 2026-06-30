@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8053
+seq: 8053
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖然墨子真天下之好也
+  hash: sha256:3e28b87ccca8eed05ce0d368cc73041de460092e86ac52e1206945a36ebda1c8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:968b394f68124e0cfde2fa983ae0c08b5991582cf9a53bd76b588f08750a39e9

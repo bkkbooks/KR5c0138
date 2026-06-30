@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1124
+seq: 1124
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物無貴賤得生
+  hash: sha256:b705f66eed722bb96dff00a90567b0e17efb90bbaad7109610af7600ff4ed14d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e1eb537e69a0ae544f0b52492e954d09558b897d6d5e4a5da522139fe24e9bca

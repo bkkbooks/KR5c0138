@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6335
+seq: 6335
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 變固外戰
+  hash: sha256:b78069178a2ff428e3d4ac36f670b1742c26cb6a711c8f464074ac1c1fa43dec
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3dfadbd89c1969281ae8f0a510d285025509e0c390b9b977ff481ccba2f32875

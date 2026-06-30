@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8016
+seq: 8016
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其生也勤其死也薄其道大觳
+  hash: sha256:c06a5d3fcd5264e87770c6246cb78e43eeaed1297881f5f524019ffd10a08931
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f05f3dd32b98da4fb0819d4cbb6ff9b578d6e5dcff6df12ff31b1780d4894868

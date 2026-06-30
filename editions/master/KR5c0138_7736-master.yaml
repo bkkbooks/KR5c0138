@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7736
+seq: 7736
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與汝逰者又莫汝告也彼所小言盡人毒也
+  hash: sha256:59fd3e3cd7736c4c25f74351a9ea9ce949c0b627a7b9f2ed67533a9871ffdbdf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:57d4513f71fbb1ebb91aa759f33cd63c996a949812128a480f2322a14e9e2e6d

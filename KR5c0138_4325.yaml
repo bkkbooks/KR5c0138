@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4325
+seq: 4325
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無不理者非為義也而義功著焉
+  hash: sha256:0f134628186333e771f115a726f8e6ff2a110f1c9ae8e5ea684ed0a707629a92
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3f9e6885c37c802443170184b059348056968c0c47f8e37096d26e2763b30898

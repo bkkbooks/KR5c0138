@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1996
+seq: 1996
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 生者獨化也人皆以天為父故晝夜之變寒暑之節猶不敢惡隨天安之況乎卓爾獨化至於𤣥𡨕之竟又安
+  hash: sha256:de8dde103a29f7bef4d072a5cd399db5def7ea8cdf87ab6252cb7138acdeff5c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0b2d0fd6ff97448e1719c0ab07522469c9c5803051f9371d96f52b6c48234edb

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1849
+seq: 1849
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有待則無定也
+  hash: sha256:0c281c0e5dff1359745269f60c749a84c1266b15e036907be922b3fdbf917e61
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:710e1541a5c59d5e9d9102b21273fe57a479a47ab518923c457881d2bb1629ac

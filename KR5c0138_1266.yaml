@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1266
+seq: 1266
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莫則傳言者殃
+  hash: sha256:9c6548dcc4d3a287c26fe13e5144796a81985906552f6b994b412459d8b6eae8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3e7ae8a9d176448a5bd95e07b65fa367bcb11b17610d76cf6349e54f230d1b13

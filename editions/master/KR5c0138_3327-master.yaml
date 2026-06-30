@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3327
+seq: 3327
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此皆盡當時之宜也然今日受其得而明日承其弊矣故曰未始有恒
+  hash: sha256:252cfd9102c88f173cf8e4579667305b8973832ac456761846c345eaaa9e76e2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ff7a2543bde81431c25358923256c54e88d86ccf24156543e4357d3101f70941

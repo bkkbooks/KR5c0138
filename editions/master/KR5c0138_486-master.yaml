@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/486
+seq: 486
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫達者之因是豈知因為善而因之哉不
+  hash: sha256:fe327a2202006041cc54fa8b1308cbd0512dc9b893798f04a944c8a18cf8d686
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3b1e966fd6ba3ffecf300dc718864f382931bdddfab19215b6fdd8bedf86f753

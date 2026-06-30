@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4602
+seq: 4602
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無拘而志與道大蹇
+  hash: sha256:c1461f46406cdaafeea912ab0984ac66dc4fa7747cd146b5e4d00e181425e2e6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:05c98eefc6e19f8b2fabf20c0d51e6726fca58f97c639674c01bad7c8dcab321

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/479
+seq: 479
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫達者無滯於一方故忽然自
+  hash: sha256:9d5e3d5eea6c63d77c9276079c674442e2800c05931c6fe177337a2c02ab41e9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3728051c83be28a02f2a5bcec54cb9e408003d1d9f598bb0184986ced67245e4

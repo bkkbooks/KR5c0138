@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1325
+seq: 1325
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莫若為致命此其難者
+  hash: sha256:461be3b1bf997567d3318221021e80b0fc1d25383832b03f9d486f173196e545
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5c84af551c3bef1be7b9cb3abdee9d2bd9ebd4436e531d871372f3e58802dad1

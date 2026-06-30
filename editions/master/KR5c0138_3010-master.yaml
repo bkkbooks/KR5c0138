@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3010
+seq: 3010
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 願聞一言鴻䝉曰亂天下之經逆物之情𤣥天弗成
+  hash: sha256:80c8557162eefd16a35865954f6c4c6da8edeeaa40a21daf9d1fa31f23ba82b3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9df1dcfa31078df30db5d7686f5efbb29df178b9edf1b81e0d2375f5a213cc39

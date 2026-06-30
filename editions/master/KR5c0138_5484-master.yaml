@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5484
+seq: 5484
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而又何論刺焉彼直以循斯須也
+  hash: sha256:e26aff1c567bcd5345c5be9bbfe3482be6d78256cbbd1b50c437bfaa79793743
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6f917c53f3972d195c236d8f319a23b686194fddcb19c9a1898907f941e5264a

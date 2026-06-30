@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/365
+seq: 365
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 於生不由知則未有不同者也故天下莫不芒也
+  hash: sha256:795bfbcdd3577cfa85d80ec9358e09da9d05a3867def2e5d955f17b97155d788
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:14c06279b9551f8fc3175f49a87c6de7569ff63fca39a5917eaabfbb95a7db0a

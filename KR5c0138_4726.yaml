@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4726
+seq: 4726
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 東海之鱉左足未入而右膝已縶矣
+  hash: sha256:bcbd44880f39fdc28cb5444ad69dc2f27da27af82cc96d98a0f76680d2e9e50c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9b9eb28486b34d37a707c4a8493086e524b2deb25a34e1e2525283d32c562a26

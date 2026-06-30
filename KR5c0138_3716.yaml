@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3716
+seq: 3716
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 理適而不失其分也
+  hash: sha256:bbabc336ac36af5a01fc6883807d64a141b43929f402dfa12fce279f67aa0583
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7a44edfd030fc2e4356d21b4854e6e9cffbc78b0f3dbf20dfc3c1038059d5cbe

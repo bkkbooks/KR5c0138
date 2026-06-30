@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6723
+seq: 6723
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 則可不謂有大揚㩁乎
+  hash: sha256:dfc1f4629610ba1d87dd55975233482ff9fe8b63cf884b7da209d8bc6f5dd760
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:26aa19da12c1ed99117e1a58e7572fa5ba0618438e08047d17c4068fd52e6ef2

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1959
+seq: 1959
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 徳者自彼所循非我作
+  hash: sha256:9df17eed57237a540a0bf0dfab0339789d149e9b8085cdfbd029bd1f7edec06b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:adaf5d923a501233b2ef09de48f50261e3ee32b853ce89a81e88d57b4c88bd14

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3330
+seq: 3330
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 可以為衆父而不可以為衆父父
+  hash: sha256:0b3e461b283111cf3099e71ac57f498ce0532bf13a6e7b852e230e0cc3b85f3c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:60014a25512a00193db75a20c7ea2afa000116dd8ef8f8ec8ceccda19b21389f

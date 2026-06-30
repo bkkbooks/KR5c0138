@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4221
+seq: 4221
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫不平不淡者豈唯傷其形哉神德並喪於内也
+  hash: sha256:c8daf9f3caee6524ad224df41f8e86f95d01b177665eca719dcda5be0f53bc2a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:83bd1f17b23916616068503625527d18333b0ada994a64a6c8c6073d23894c6c

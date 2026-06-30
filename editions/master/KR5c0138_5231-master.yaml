@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5231
+seq: 5231
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 形不假故常全情不矯故常逸
+  hash: sha256:1e444176ed79fbdc2357b37d35a0b35546447e2220c446050661595ba3b58aa3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4ba23355f23cc0988ecde58c9932643bcb563fe0d2f2eabb9a910aead9f61cde

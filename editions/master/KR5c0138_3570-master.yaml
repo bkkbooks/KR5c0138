@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3570
+seq: 3570
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是故高言不止於衆人之心
+  hash: sha256:084082fd36113a9044dc8bb0a0ff3aa1ccbcbac31d9edd3675d3d905722fb1c1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8ee81454434a4bc012c635ba3bb1baff8955d18c1b7f132aa7973404d26cbd39

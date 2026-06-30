@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4805
+seq: 4805
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 請嘗試言之天無為
+  hash: sha256:562df3d39b0caa74e283943af57732250621ce7ec19ad15ea03c0d066aad151d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:45a7dfa2c2067b03b7b56cf19042c7679e673ac72362d5af016c12f8d118fa8c

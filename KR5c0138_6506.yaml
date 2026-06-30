@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6506
+seq: 6506
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼之謂不道之道
+  hash: sha256:35e87712bb2df14c82c6858fefc994665b1960283b49377e0230d66c24c3b5c1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:527cafd1f7684e58d08f06e1f3736d6638a59d36620bdc3f2528dd24a46371c0

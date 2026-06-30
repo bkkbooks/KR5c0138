@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2416
+seq: 2416
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有莫舉名使物自喜
+  hash: sha256:e34fb41248a74f96c6a630c0e47df951e07b079b2b97cb900650ca5e9ea3652c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f0e12bb5a92154f2d3a680ab6a812fa8e33038f19df0702ea3d62489ce888c4c

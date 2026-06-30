@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/761
+seq: 761
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若正聽妄言復為大早計也故
+  hash: sha256:2c9f96a3b770a4f38dd0de19de607f3adf0e8e83adee71b2af58cf29db83ca86
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6570068e9997f37d49e12dc6895c200ca96635263deedb8234f7641f754d9bad

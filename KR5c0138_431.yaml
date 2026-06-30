@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/431
+seq: 431
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 果且有彼是乎哉果且無彼是乎哉
+  hash: sha256:3a05c0d0290c7438d9bc5e54fc1d208a1d1495e8868390ef854e921301499949
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e27e3cb162cfddff8050b1ed7d0c63cba119fa4cdec99f7f5a87f43944356ae9

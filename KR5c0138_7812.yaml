@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7812
+seq: 7812
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 方且飾羽而畫
+  hash: sha256:d588cefd259e5bc24485bc8b40b7122b1a4033cf8a97a3bc28e65cebb68d56d8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1a807fcf16280fb11ffc85bdd3499ce175e15d324547df17b08662c41ed904ff

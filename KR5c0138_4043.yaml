@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4043
+seq: 4043
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故譬三皇五帝之禮義法度其猶柤棃橘柚邪
+  hash: sha256:040f0aa039ff669ea721d066bd3a0241772f863f3dabad6f1add025bccf8ff35
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:aefe46d51adba158a522b2bed675639ea78958374a367f566d153f7fdeace450

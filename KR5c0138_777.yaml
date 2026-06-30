@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/777
+seq: 777
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 純者不雜者也夫舉萬歲而參其變
+  hash: sha256:7fb0e3a00c5288e55dbab36d1f26d5d2dd2a4193be1900093b4bb06f0a8877fd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ccca29da5285f5d14a1165851245ab689a145f6d7c9695d28e7ac342b1ca27e8

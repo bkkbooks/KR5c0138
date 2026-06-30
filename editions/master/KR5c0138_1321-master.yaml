@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1321
+seq: 1321
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 託不得己以養中至矣
+  hash: sha256:102e4aedddbfff14e3f14c495be7412a97dbea82b6178a80e23bdf1c8c8a28d3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:508c45903819b52c6c1bb57a6bee27dd5c926ae08179f2391ccadfc022000b18

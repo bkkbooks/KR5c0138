@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2992
+seq: 2992
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 都任之也
+  hash: sha256:a1f1f7a8273e2e1944787d763b7d5caeaca3bc43cbe82399a45a51e8ab02a16f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e3035ccd3007f3c1ed55e9f4904eba5de5fa6f6c4d3dda08d0e6d008707fc1ba

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6902
+seq: 6902
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫遁離㓕
+  hash: sha256:a75229253ab2756bbfc2613f02641a4300bbd4e0a3afe53305b282945fff87c8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:31ea58c0b89c61c5a1ef6b36aebcce046dd292787540ca6b328719117b0cb1e2

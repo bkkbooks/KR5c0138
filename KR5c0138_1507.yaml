@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1507
+seq: 1507
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 斯順之也天地猶不能變已況生死
+  hash: sha256:244874dad8845df1dbb33cd37a4ef5bc2489639a98982262a3ef905fe3ee6b7e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:89285322d361db7c9ed8543f5934e28d1063e530ef260148a5b0edcd709fb295

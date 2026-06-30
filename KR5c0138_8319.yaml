@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8319
+seq: 8319
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 名非犬羊也非羊可以名為羊則犬可以名羊鄭人謂玉未理者曰璞周人謂䑕腊者亦曰璞故形在於物名
+  hash: sha256:df714eb10b3bc397f04c7309e71087e5fcedccb8e8eb4b8f727987e0551b48a9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ab460555d0fc2bd390e9a0dfa90f3657395d0ce84169b48a1e0237769d05492c

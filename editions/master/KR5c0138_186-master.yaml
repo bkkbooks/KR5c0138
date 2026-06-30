@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/186
+seq: 186
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫堯之無用天下為猶越人之無所用章甫耳然遺天下者固天下之所宗天
+  hash: sha256:996aec3fffa0c392f64a9573564ddcf71fff6b71ef3180cc2df7df027b16f3fb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:448f3f8264eeb65c80b190ae959f06d3bfb211ad5f6730807c128e9e40ee43e9

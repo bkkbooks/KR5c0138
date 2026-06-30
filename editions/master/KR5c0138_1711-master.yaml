@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1711
+seq: 1711
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 妻者止於外不得復使
+  hash: sha256:009fbf9f905d5841b5bc99d589f63cac8f75014170b5ddb6ec3cf7d2a428a47f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d5485d39fadd9298a17f6e7872411d2a3c33f321512e1150851690d347922281

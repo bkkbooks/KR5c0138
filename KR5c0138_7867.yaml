@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7867
+seq: 7867
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 正考父一命而傴再命而僂三命而俯循牆而走孰敢不軌
+  hash: sha256:03d7b83f4f6ad55d4fba8f7440c0db6521ad8a148823218679c12701abacbfb2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:79ac10d32fda24608dcc9fde1d6a0723159bc57961f7d4e695be8fbb4e95bed8

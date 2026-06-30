@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5084
+seq: 5084
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 山木第二十莊子行於山中見大木枝葉盛茂伐木者止其旁而不取也問其故曰無所可用荘子曰此木以不材得終其天年夫子出於山舍於故人之家故人喜命豎子殺鴈
+  hash: sha256:22fef59097046be8a42eebfa5d1ecbc44a840a6a555922a9bacd2501432d6599
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:544f8b89cb6c4d7a2a952ba2aca2688dc2bd371a691ad8e3142662f5d4040595

@@ -1,0 +1,25 @@
+canonical_identifier: bkk:krp/KR5c0138/bkk/v1/markers/5878
+seq: 5878
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_007_s1232}
+  - {type: page-break, offset: 0, content: '', id: KR5c0138_WYG_007-40b}
+  - {type: line-break, offset: 0, content: '', id: KR5c0138_master_5878-bkklb1}
+  - {type: indent, offset: 0, content: 　, id: KR5c0138_master_5878-bkkind1}
+  - {type: line-break, offset: 0, content: '', id: KR5c0138_master_5878-bkklb2}
+  - {type: indent, offset: 0, content: 　, id: KR5c0138_master_5878-bkkind2}
+  - {type: line-break, offset: 0, content: '', id: KR5c0138_master_5878-bkklb3}
+  - {type: indent, offset: 0, content: 　, id: KR5c0138_master_5878-bkkind3}
+  - {type: line-break, offset: 0, content: '', id: KR5c0138_master_5878-bkklb4}
+  - {type: indent, offset: 0, content: 　, id: KR5c0138_master_5878-bkkind4}
+  - {type: line-break, offset: 0, content: '', id: KR5c0138_master_5878-bkklb5}
+  - {type: indent, offset: 0, content: 　, id: KR5c0138_master_5878-bkkind5}
+  - {type: line-break, offset: 0, content: '', id: KR5c0138_master_5878-bkklb6}
+  - {type: indent, offset: 0, content: 　, id: KR5c0138_master_5878-bkkind6}
+  - {type: line-break, offset: 0, content: '', id: KR5c0138_master_5878-bkklb7}
+  - {type: indent, offset: 0, content: 　, id: KR5c0138_master_5878-bkkind7}
+  - {type: line-break, offset: 0, content: '', id: KR5c0138_master_5878-bkklb8}
+  - {type: indent, offset: 0, content: 　, id: KR5c0138_master_5878-bkkind8}
+  back: []
+hash: sha256:539d5daacf6e952ed45b4640a2ee1101ce14c0388880ce9f8c551252ce260fd6

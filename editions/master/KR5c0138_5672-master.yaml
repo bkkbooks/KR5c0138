@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5672
+seq: 5672
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 過之而不守
+  hash: sha256:ae8bd23897900d7771f86b61f70fedfb898010d7a0af752bd3b4321d94c42ddf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:af89c63fec98e69d873d7e248679b2f184cb9d1c1d302d4699a3a6425acbfcfb

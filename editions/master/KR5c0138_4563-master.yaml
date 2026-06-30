@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4563
+seq: 4563
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此區區者乃道之所錯綜而齊之也
+  hash: sha256:5a25a9924b6b0f631d774cb69ba72495e4cfb28ae9843a44557e43cc1b843497
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e8c1a68014a366b14241f44dc9da88f92ef25107996c87a150fda05b751f5055

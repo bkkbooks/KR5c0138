@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3514
+seq: 3514
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 則願各足矣復何為計有虞氏之德而推以為君哉許無鬼之言是也
+  hash: sha256:372fc7b359c5a58213b2ccc44766366dc5966671093f7c8d5905bcccf7628fc7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e8866c63c413faec45dd77c464a39914bec85b89e8f640d30724b8755b5ce6f7

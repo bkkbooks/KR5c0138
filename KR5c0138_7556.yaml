@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7556
+seq: 7556
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孤竹國在遼西令
+  hash: sha256:f0f7a9d8d637ca0149dd65ffff1dedd4e8e5f41b59c4f394fa18e24cb39c8583
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cc410eaa013ff34643b3a7dd6d0773d5fa4a4d22546ee4e02e05a464f94fee9e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2481
+seq: 2481
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 忘貴賤也食音嗣
+  hash: sha256:971510352ce0af0a8ef9d2fb913c6009820ff6424f6db24aa17fae3f082e15c5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a54a052c6164802b6f6bc94fb2b47b545058d6620a7778a6304c57e2b3feecf1

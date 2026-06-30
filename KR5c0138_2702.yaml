@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2702
+seq: 2702
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 胠篋第十将為胠篋探嚢發匱之盜而為守備則必攝緘縢固扄
+  hash: sha256:71ab8b3ba1cfa4dd6c24626c902aeaa1e068bb8981c800686057e2da45f9662c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7c1373e79d91e5979d226243a7bc7b53960b470fddfb76e8b9095797fad1c550

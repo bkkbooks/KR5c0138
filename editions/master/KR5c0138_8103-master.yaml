@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8103
+seq: 8103
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未能經虚涉曠
+  hash: sha256:d469570b379d90bdca9f11e19f061499968dcda7461f6115d3ab8c141834843d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6947af49a30fa6df58c4b1a9d6ca42050454b06363b1625ec359f33e2b645f16

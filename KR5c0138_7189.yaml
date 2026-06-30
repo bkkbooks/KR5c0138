@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7189
+seq: 7189
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖有至知萬人謀之
+  hash: sha256:2a471d7db231b996506b29814451b431bc9fd9f9ecfef5d00e01a85906ab9393
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:58673c9fcc90127b35d2eb4c07b065d0d943e34bdbb2291528842fac8616c4fc

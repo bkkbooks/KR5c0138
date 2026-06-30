@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4544
+seq: 4544
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 從衆之所為
+  hash: sha256:a66cd4e363039d8283e0d2719daf36f48e0f7ea8ea9740027b679b00070b215b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9f589aef6a967441759cb47e060be2897b78f6408228d937b1d8d2e9c59dc0ac

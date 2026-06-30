@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3654
+seq: 3654
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 巧者為之妙耳皆自爾故無所
+  hash: sha256:6c0ac49ff7e6185edc1809d976a11a84c9ef571b0de6977a1fe5b2444aabef21
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bc8634b8aeada818eefe3e75cd6a965c24b80ff568afeb15022c2c3291756730

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6198
+seq: 6198
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不能隨所遇而安之知音智
+  hash: sha256:b8e9b9116bfde1ada0c6e10a93840efd27636188e0d7b020a00b50cf05950e16
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:167ad2c8d63473416afdba5c2e0990e4dd8cf461301262594602a78c9a8a6f4d

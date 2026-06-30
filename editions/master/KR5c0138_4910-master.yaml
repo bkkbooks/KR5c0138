@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4910
+seq: 4910
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 唯無心者獨逺耳
+  hash: sha256:b18b08a2bde1453185cafcfc1290ae6b79f4d71fd9dc2c38caacec8882e28a6c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ca9e91207d0db5bf4651ee2b05aa280c0f3520783292ae44c58381d7f9988ff8

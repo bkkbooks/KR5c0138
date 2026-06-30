@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3847
+seq: 3847
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天下奮棅而不與之偕
+  hash: sha256:3c562b0252f72a450c697f8a96a33172714bdde21a35b9576de93eca756c499b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0df16e537d94473a1685973d8ffbe5f6ca5dee9398edad5d610d1e3bf6f58a44

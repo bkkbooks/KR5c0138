@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4150
+seq: 4150
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是以天下大駭儒墨皆起
+  hash: sha256:a176e22076a75ffd941503277b2199cd478d638f6b754e507bfefc35db4b9c8d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f965e355c4498b79fca575c2fcf166b263a7741020ddf120cb4d4526b804d1d2

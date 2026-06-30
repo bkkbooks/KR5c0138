@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2666
+seq: 2666
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 混芒而同得也則與一世而淡漠焉豈國異而家殊也
+  hash: sha256:71b8b3021b9c616f1408eda16de27b5bc0e20fc110a615e94a4b247326115a90
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e6fbac07b3698d43f726ba7693df98ff0ddc956370f7031b99f985c681b29e4a

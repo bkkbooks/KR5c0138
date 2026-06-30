@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7811
+seq: 7811
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 於仁義而雕畫其毛彩百姓既危至人亦無以為安
+  hash: sha256:1b8172e0b63c66ba00fcad2715cf7d9bfea8c68952fad7b8f18193b18dca2bbd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9e1221bc4a46e47589e97ad49a0165fd7ab333efcd0d8238c062ba9e36cac6c6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6972
+seq: 6972
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 史鰌奉御而進所摶幣而扶翼
+  hash: sha256:b6dbe26eb8b510fa9c1232173624efdb2d04290bd0e90e6c0598c9ce025a6a67
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b280b4a8998161e89272a6aa5ae41d5bb450ed65905b8603ec8a6426ab56022f

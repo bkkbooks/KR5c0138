@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3798
+seq: 3798
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 士成綺明日復見曰昔者吾有刺於子今吾心正郤矣何故也
+  hash: sha256:b65b53702974c96dceb69fafdbc7f03070ef0b12cb6fc93f6291c8b303ca76c3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8ad6f7d3e475b8844f17fa2f562b1b0fd2f5bc32f46743d05eff461ff5e3d9c2

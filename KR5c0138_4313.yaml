@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4313
+seq: 4313
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 恬靜而後知不蕩知不蕩而性不失也
+  hash: sha256:c082abfb615f51485ddf291d62c87f538ceebb0245364adfdf5ac9676ed86437
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b4773dadec675e1368570c78a48e005339e757581129e9507c5517851d006390

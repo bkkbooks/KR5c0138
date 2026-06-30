@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1357
+seq: 1357
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 汝不知夫養虎者乎不敢以生物與之為其殺之之怒也
+  hash: sha256:a446c2eca6830ecb17c9650f6e272e9185c7f755fd1a8c4a634307b3e85f99f6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:936602541cc07c0db0e036364deef9ead13d8b3c2cac9f7a0d5ead07bb2713e8

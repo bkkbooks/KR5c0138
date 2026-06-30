@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/124
+seq: 124
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聖人者物得性之名耳未
+  hash: sha256:26fd7a062f1aaaefda2fc280dea74aba7bd2692b3cf0ec395a449c1e820a12bb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:265f7ca43f277d0feb415116e5b1abf4aabb4ec59d6085efb0db68def5f1b628

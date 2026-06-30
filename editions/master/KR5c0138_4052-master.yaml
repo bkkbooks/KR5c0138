@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4052
+seq: 4052
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 老子曰然使道而可獻則人莫不獻之於其君使道而可進則人莫不進之於其親使道而可以告人則人莫不告其兄弟使道而可以與人則人莫不與其子孫然而不可者無他也中無主而不止
+  hash: sha256:183f75edc6534593f4cecc943a508b4cc3f375551e991ae7bdc8d2a8e44cd582
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4af30fd068912c5953ae5257ac79eed0b903db9f87ce3d005d0a85152bafe417

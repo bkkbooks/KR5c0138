@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6601
+seq: 6601
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 意盡形告豈知我之獨化於𤣥寞之
+  hash: sha256:47111aa5c5802468ba6851b54262aecde155998182bea5689478d1a6c06f4838
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6ab3e935a59b8077d5e0b0fac29a90cb2e9334a83e1363f5c24e725c4fc53375

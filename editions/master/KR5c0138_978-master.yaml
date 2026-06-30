@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/978
+seq: 978
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 澤雉十步一啄百步一飲不蘄畜乎樊中
+  hash: sha256:81c4f18ea89c67c2062f12027208509f8c03e987689d3db8c0f629d54d4ac5ad
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:96c2107c58593d1fd516b4eb0b7d91b2ae05270d5ad67b5f232c0761777ccef4

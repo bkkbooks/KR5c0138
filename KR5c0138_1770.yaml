@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1770
+seq: 1770
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 徳者乃誠忘也
+  hash: sha256:4c34271fa05d836a0dc91ac2672191678e3032d471e3622aee77504ad9536326
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7a57f9a9b094dd82d4612f88329de1bf11d36ca9bcce74c5cf311234fa144cc3

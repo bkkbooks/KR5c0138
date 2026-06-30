@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6505
+seq: 6505
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言非己則雖終身言故為未嘗言耳是以有喙三尺未足稱長凡人閉口未是不言喙許反三尺言長也
+  hash: sha256:711a9fda75a21a919b1ac4e9087393c3d4147b1fb650c0a62ba6cbb62337d8a7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0ead7b0a080b13bd3d3a25d87cd1781f8fe613b1a2cf21f8c1a9dc755ecc94a8

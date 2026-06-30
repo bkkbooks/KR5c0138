@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4508
+seq: 4508
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與大皆非無也庸詎知無形而不可圍者哉
+  hash: sha256:a7afa49575fba52fd1b4b686966cfb4d49de4d70477008f408c8f6f5d4a8b717
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8ca8775bb92e327683907b8bbff30a3d9bc2683dce7111799ed3d10373fe9bee

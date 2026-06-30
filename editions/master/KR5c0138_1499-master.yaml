@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1499
+seq: 1499
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 常季曰彼兀者也而王先生其與庸亦逺矣若然者
+  hash: sha256:4e25942dcb268c9646b07e5f287bb799cb64dcbce985ec7d2b23e65bc4431146
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:08d38726853a78a9bb7ba46f0a724d873e953e6420dbb407a6c9bc244a7a2d2e

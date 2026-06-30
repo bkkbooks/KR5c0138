@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/849
+seq: 849
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 和之以天倪因之以曼衍所以窮年也
+  hash: sha256:3d5389b8cc71bf9fd13ad8f26cb4cbf66fe6879d2aeed0e82b7b553ea57c99af
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:88a83a4feecea2d188589c6b107bc904ce339cded3d6b6c2b8afe2586f1b1140

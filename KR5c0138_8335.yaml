@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8335
+seq: 8335
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 應一山之聲入於耳形與聲並行是山猶耳口也
+  hash: sha256:469c0be2a1bdac92c7d77578f413143048f149e047dc290ba486347248c4ef37
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:15ae75cd880ef8cd7dc8449dc86b950093c80e04374f63b5c8d382d4541fbc14

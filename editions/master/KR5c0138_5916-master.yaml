@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5916
+seq: 5916
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 将戾拂其
+  hash: sha256:2bef63752c98a9b023615a39751f000cab48b5d227b8e05e6c54d57779c18d04
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:93a891e9e25a256c7a1e9098016872fdc73c449a744095802cd248f7c8515d7c

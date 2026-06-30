@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4727
+seq: 4727
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明大之不逰於小非樂然
+  hash: sha256:55ab496b6e6b461062be7e1687ef49070c107a3b854a0be46c449c97924af97e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f5f2ca5641b1d003b9931f82f28ad65b340352fd9f60a0121370aafba59aca9c

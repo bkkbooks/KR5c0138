@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4193
+seq: 4193
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乆矣夫丘不與化為人不與化為人安能化人
+  hash: sha256:0de23b203e334c23f224fd67233ecf72a9fa5916d7eaa48f197c783f0f0cc4df
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f8046c2aa8db830cbc0f6a2b3b210e1bcf5d3e5355fd8e36464043a3b2e5e339

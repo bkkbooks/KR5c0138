@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2209
+seq: 2209
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 芒然彷徨乎塵垢之外逍遥乎無為之業
+  hash: sha256:205d2a418eacc314d84e63d8f95c0f17a0a0a82869c6539ea3a431ae48211ec8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:455be57022dca137adb708b190b3643606f59e85112d12405c8f17c7976e8ae8

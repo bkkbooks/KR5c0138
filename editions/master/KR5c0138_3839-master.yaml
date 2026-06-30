@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3839
+seq: 3839
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而蕩夫毁譽皆非脩身之道也
+  hash: sha256:cd9c727c3648dcecb082ef7b6b7755a3810758d3a59b43f987a3a9cd73a48d1d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b4000c4e47071016dcad3e6fbe3dc4355e74e7514640e210693bb19640d735f3

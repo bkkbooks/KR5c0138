@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3254
+seq: 3254
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫子曰夫道淵乎其居也漻乎其清也金石不得無以鳴
+  hash: sha256:444eb31908a7a43ae068e31b95c43baec9a4198af998e63b61dc2633b2eb6a8c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dea311d32ba423fb094f42b523b9624ae92523404cd510bb85166c1654eca37a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1064
+seq: 1064
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 汝唯有寂然不言耳言則王公必乘
+  hash: sha256:d9b39bc285b05f5a78d4b5bc88dd6beb57f805d52e900b793a10e0297454f78e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1032e4c2e10d22f9a3823b0451fb36697bb2063014762f74329a9127de9275e3

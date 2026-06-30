@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4913
+seq: 4913
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 則物之造乎不形而止乎無所化
+  hash: sha256:17e3d1c65586cb292573cd8b15ed1a28c445d164463ac98a558b5c23b02b6d55
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1fccce9cdcb071f997f7c067ab5881e8b15f519163eab2de2df0e2220fad3a24

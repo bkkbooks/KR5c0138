@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4775
+seq: 4775
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡此失之無傷於形而得之有損於性今反以不得為憂故愚
+  hash: sha256:c32572a38440509d77bab5a9b6f90f24041b590ed3fe67796a0df458e6e1439c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5e87cceba63cb564bc5332ef3ca8cc8b028f514a4ccacb2bcd4615f3ff522e66

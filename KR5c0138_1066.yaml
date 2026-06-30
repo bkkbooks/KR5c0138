@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1066
+seq: 1066
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 王公絶句必將乗人而鬬絶句
+  hash: sha256:d935ed4817694ab5c50a29612d7fc9a7fd2eb5b9931f3f7eed7d1f2b3b338822
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bb05e3b64211eac2fc5b8813bf7a99fbfbdea0d5d158d8c8f7a8c1b4d3a4dc3e

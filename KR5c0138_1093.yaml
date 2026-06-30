@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1093
+seq: 1093
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 名但所求者非其道耳
+  hash: sha256:2fbee3d2c64b9736300026b9b621552094b267fb0f9a6f9cc428dd14bd56036d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:93b44ac7eb68f85a3beedc72a627b72ffa4429ce648e648085add40e4e8dc557

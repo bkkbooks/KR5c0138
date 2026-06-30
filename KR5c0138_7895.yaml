@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7895
+seq: 7895
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 怯而靜乃厚其身耳
+  hash: sha256:242d3662052c08fd2a56eb5919e45ffeb02955ca578c7a29fbccb8373eca5fbe
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:89af3385fab4165268b735bf5711d8383ac5bc9a9f8177f6c2f6281c04923d87

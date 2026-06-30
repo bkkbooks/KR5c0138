@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7921
+seq: 7921
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明者唯為之使
+  hash: sha256:0a669cf04f47f404d7c22292bbc60b37d1df201902d067eac6592292f3c0416a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:eacf24c99f5f185283e85e4aabd6fc45cbfb65143ad69e3d909938137f2923e2

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6220
+seq: 6220
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至信辟金
+  hash: sha256:4e072a266b6b8314d7e2956cdee1d129dab3b3ce740b0a78646ea99294526167
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1e20b25003614918a1bf7407b56f2bae6a6796b3b09fa424f2a501d85814e219

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4885
+seq: 4885
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 養之彌厚則死地彌至
+  hash: sha256:c30000e489088e16326aa30d9c1280cf9755bfd43a1ad3d735f3d5d7a503a49c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dfd6d2a85b3357fc80b8b697fc0c50b0c854dc8369e6e484d83c21110fd03bab

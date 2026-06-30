@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/656
+seq: 656
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所不知者皆性分之外也故止於所知之
+  hash: sha256:5c4d06f300c4be3b0f18af33f778d871b81b8d99c924805572cd0fc62cc03882
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1dd95e9fcfc011e061af3f93c662fbd7ae22fb86d48ef291904db2c3bf785375

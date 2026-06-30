@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1923
+seq: 1923
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 餘紀他申徒狄是役人之役適人之適而不自適其適者也
+  hash: sha256:7354d24537016ec69b5c777582a1731a6ada4426d5b330eb109f44aa5d0403bc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b397d5689eaa2ef49fa22626a11efa270637ce108fc5f32cd6c32d49ad4f3994

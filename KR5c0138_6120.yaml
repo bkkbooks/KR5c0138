@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6120
+seq: 6120
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未有窮處有實而無手處者宇也三蒼云四方上下為宇宇雖有實而無定處可求也
+  hash: sha256:6e9882022d9a521a5f6d41b4886b01d4edf0d041c06e06037120067fce4f48c9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:37d5c385f40986ec04c3d704260d65f5922a5be22cdbc4dd8081c20bdc672b25

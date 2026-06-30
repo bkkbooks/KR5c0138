@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4023
+seq: 4023
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 懼然悚聽故是祟耳未太和也祟雖遂反
+  hash: sha256:51d249e54d315c0591495934300298e17f8e98b34a45d81ffe1b58df890940b2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4dce0174daeb5bc89e4dfec1c59862007fa8809daf1ec37e9e029954a61bb217

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2996
+seq: 2996
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以死生為一體
+  hash: sha256:f35bc77a485f416f98ab0cd3027f926f9efa2f5cc4d0e2e734658ac3e98717e4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f4b159191ee5820f047b51f7e91f3a52e62b5dac1897418b7efd7a3f32107a08

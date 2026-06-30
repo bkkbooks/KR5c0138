@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5363
+seq: 5363
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 直以不見為亡耳竞不亡
+  hash: sha256:77fcbb8d54f757fcf0b828b9a3a589fe81e30f5c43b8387e40ee976b5b3f2a1e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:51a9353df23beb5a207c51427c4f97277f1cac7835d925e23ca466c543d98d0d

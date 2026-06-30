@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/573
+seq: 573
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 小則天下無大矣秋毫為大則天下無小也無小無大無夀無天是以蟪蛄不羨大椿而欣然自得斥鷃不貴
+  hash: sha256:e99759bd3f5675c020f48beb71a9778b7298f6c203349205037860fd0797e943
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2fedcf208283063ab7239c0c82d072450fe1da4db46cfef8a1fce39b8dba789f

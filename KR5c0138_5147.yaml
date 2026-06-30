@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5147
+seq: 5147
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 侗乎其無識
+  hash: sha256:322eb5107c386ad2bcf88c6352c4afb99173a136eebd7944b1cc7f62a7ac9e68
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:929c4354bf29b92ce640b08e31f6041a19d2de36730efd0fc7a52546de7cb8d0

@@ -1,0 +1,10 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/markers/8237
+seq: 8237
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_010_s728}
+  - {type: line-break, offset: 2, content: '', id: KR5c0138_master_8237-bkklb1}
+  - {type: line-break, offset: 23, content: '', id: KR5c0138_master_8237-bkklb2}
+  back: []
+hash: sha256:c73b1d3c0abac8303df45af8b886f6270e582b7568e86585b4566adb4a353de4

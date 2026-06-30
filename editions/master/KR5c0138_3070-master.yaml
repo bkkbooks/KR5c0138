@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3070
+seq: 3070
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用天下之自為故馳萬物而不窮
+  hash: sha256:5a85bc1b5ed99674adee9c915387c19841687e1b93dd1d9aa3120d192f244450
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:01f7ad4d93dd3e6b78beab2a7ac0fac35e591b53eeb4220488da7e6e66e38f75

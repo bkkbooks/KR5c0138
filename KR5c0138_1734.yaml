@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1734
+seq: 1734
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 使之和豫通而不失於兊
+  hash: sha256:5759a97b4845a1d9991b5561f48eeaf50c05e6f3042ef66e53771d2660597df4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8f5d06600618fa80262ffcf73d7a7652a11828bbdf97c0262a0c85e7a5bd9134

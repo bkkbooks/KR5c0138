@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1351
+seq: 1351
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 汝不知夫螳螂乎怒其臂以當車轍不知其不勝任也是其才之美者也
+  hash: sha256:e55e35c7d8a3a972cd661be147a6973b513fc32640e74199d43247940d4a05fd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e487535663844b6c86cace65f4303a562495bb11b140d7c8cf8a8a227603f523

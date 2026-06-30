@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3146
+seq: 3146
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 御麤以妙故不亂也
+  hash: sha256:59925d2b831be9f0bf25df3d41b5d1e53d73cf7c146bd2256ed36c798529c0a9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:eb4e008877c49b8ecbed1b8087205477f3228e47f640da9f229c458495334295

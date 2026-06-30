@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2698
+seq: 2698
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫赫胥氏之時民居不知所為行不知所之含哺而熈鼓腹而逰民能以此矣
+  hash: sha256:13ec7ffb303332eed78d8eb9fcb34a5d6c70ad7f309c1404602a92ed53049c91
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:96916fc4592fb69d73a7281fadfcf32a1d257337054940d896df91bcfafb4c46

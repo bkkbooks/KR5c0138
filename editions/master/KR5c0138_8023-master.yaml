@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8023
+seq: 8023
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 墨子稱道曰昔者禹之湮洪水决江河而通四夷九州也名山三百支山三千小
+  hash: sha256:04d366c6d26ea14f01aaa5d1c03a6e8696877bbef1ec75ec736e8c3f5e36ff58
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a86f58df995009bae957986e2b6f701ed9a22b04574c8ff5aa5a0820fbcef7a7

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2215
+seq: 2215
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子貢不聞性與天道故見其所依而不見其所以依也夫所以依者不依
+  hash: sha256:b5fafd4d22c1e91c28faf7220ad138d7e7296b60ab0c55dffee2fdc41eb3e8db
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5b85c7ca262802cf822880ffaa0c966a477c3ac564016daba9391cb1a88a8b90

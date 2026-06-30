@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4793
+seq: 4793
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今俗之所為與其所樂吾又未知樂之果樂耶果不樂耶吾觀夫俗之所樂舉羣趣者誙誙然如將不得已
+  hash: sha256:15cca83fc43eb314a7c8e66935c75d0075fe41fabe0e8b560a41ff4fc13b3193
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f17552e987fca1725886e58b0ef5284553c2158989caacc44235f7892991c175

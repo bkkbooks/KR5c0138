@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5860
+seq: 5860
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫無故而樂亦無故而哀也則凡所樂不足樂凡所哀不足哀也
+  hash: sha256:22eb9e7448eee4c0ff4924294a0959fd0115dba99fc3f8d2cca32afb640e49b2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cd5e06eedde18c6f1955c3164ac2f12e14a0fbc7087f985547dc76e85f264c75

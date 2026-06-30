@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6125
+seq: 6125
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乎死有乎出有乎入入出而無見其形
+  hash: sha256:9bf701052c6a5fe6e82779709f2791954eeb4a7f94d706178136355d8c3c701a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f4b0dec109d0a8388102309d03a96b25822a903782751a0a3190489731c3e556

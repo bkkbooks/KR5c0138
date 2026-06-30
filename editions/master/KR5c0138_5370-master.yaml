@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5370
+seq: 5370
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日夜無隙
+  hash: sha256:c8ad525bd93bc85cf7fa19956a65d7ad3bd0c8c0d8e35816a0be94ab5feb28e7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:755fc0ee79198c0e14f2a4f0a902d7d4665990f985973444c4eca39eff9e2858

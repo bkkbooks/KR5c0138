@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5771
+seq: 5771
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡得之不由於知乃㝠也
+  hash: sha256:ae59367fcfda1ac2baca83abcac95c8b48d37869962124132f64a6af1fd6a0b0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:aa5654f7a61ecc9491bd9e1fc28ad7439a818baa2b1ceee74c6730f9f4131364

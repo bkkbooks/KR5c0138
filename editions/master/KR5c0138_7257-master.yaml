@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7257
+seq: 7257
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫名髙則利深故脩德者過其當
+  hash: sha256:26c4f2d07a760fd8bb770310c960f8700db4fabdb89c371e448177fc23d637c3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2ba899f68d2b4822445035d04c0d1f301cee73966896c0fe48ca979efe8d0001

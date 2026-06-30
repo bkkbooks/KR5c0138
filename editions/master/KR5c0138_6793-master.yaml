@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6793
+seq: 6793
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聖人之愛人也人與之名不告則不知其愛人也
+  hash: sha256:ba9e95556d97a48c35d0b3ac43c5a92dc38f2d99e5a0611144098fccf5828bc2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:711ca26d189f72c3f83e17ac3ca6c3b36d206eb76ea17ade392cc0b4b5868bcb

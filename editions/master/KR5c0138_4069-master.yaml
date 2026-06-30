@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4069
+seq: 4069
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 仁義先王之蘧廬也
+  hash: sha256:83f050bfab03a68d25b1b9ec54ea65a70da8ac1e9612040c3ebab7c41a93f39e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cd18b9fde6be4705f25d57f48b353cfd405e55d3d1904726030c4af260db231c

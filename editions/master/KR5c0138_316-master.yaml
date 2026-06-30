@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/316
+seq: 316
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 百骸九竅六藏賅而存焉
+  hash: sha256:2f4da0301a0adec3d166f15c29a67ee7c704fed01ba9266bc4c9a8601ff38dad
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:135f8bbd7ca53c71b0ea2eadf4c9267dca70287a582fbd46f40c2844d936c74d

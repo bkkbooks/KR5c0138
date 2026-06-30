@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4511
+seq: 4511
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此勢之有也
+  hash: sha256:9f29fcb721bbec988dcf3ad7f2ba5eaa9cc0f439869ba7f44c322618ea4e6e98
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cb1ecc9a2f8ca1a750367e9a92decc0379bd1ea4c19dc14ac1f3ac7bb5c27772

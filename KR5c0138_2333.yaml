@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2333
+seq: 2333
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫坐忘者奚所不忘哉既忘其迹又忘其所以迹者内不覺其
+  hash: sha256:21a001721e4d7ee069757bbeae335ae0bf5a0568eec9948447c6ad128d028647
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d4725acb3af18a01f26442a665b549e03dcfc457ec78a7cb93ca2da65607ac80

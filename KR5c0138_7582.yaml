@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7582
+seq: 7582
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 枝繁帶死牛之脅取牛皮為大革帶
+  hash: sha256:5a3f5903a25fcac51b506de8ca3c240b9567e22cd4a3fe212c5fc1207fffbc58
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e20e02da961a88ebf58e89e2cd3bbded6bd58b1adc9a6a08a8cd8e88750dbc04

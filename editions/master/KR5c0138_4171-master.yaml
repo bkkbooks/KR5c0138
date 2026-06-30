@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4171
+seq: 4171
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鶂以眸子相視蟲以鳴聲相應俱不待合而便生子
+  hash: sha256:e0274d63b1c7caabd5e10fed35d767943148315a8271b602a8a42ccd345f998a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:adc5e7b4f927b2efd3b5d8f917723a39128f945c4b3f4897d4b6968f17df2c33

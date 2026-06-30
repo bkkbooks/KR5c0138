@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6006
+seq: 6006
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宇泰定者發乎天光
+  hash: sha256:95cc5de1b65c884b66f4d5d718f8eae62a61c9bf6ce6fde30be7231979028b5f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1606ad68fea4c4586d720ddd1ecb933953013c4d4bd685fd2f61deae4cc9bae8

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1228
+seq: 1228
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今吾朝受命而夕飲氷我其内熱與
+  hash: sha256:dda0149c955a9d735593e90965a2299945e0d26d5ba6a3136bac6e2173e91654
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dd5f99985ba6d5cf3cb37f49206efed831f5052870a8e3315573bf3def606efc

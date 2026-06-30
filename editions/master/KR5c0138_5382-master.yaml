@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5382
+seq: 5382
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫變化不可執
+  hash: sha256:e192f46f5e97610e288c95a30e6c3736917b3de9726f07a1dce873a0397f20e6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c2313f02834f33d2df2de73ec1f32ba0d0515651601abb123844c623690c763a

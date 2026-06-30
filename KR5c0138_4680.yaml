@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4680
+seq: 4680
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天命之固當也茍當乎天命則雖寄之人事而本在乎天也
+  hash: sha256:c1678a3059a3fed934bd06967fa106e2959cc60fa4249c6aef952ffbe51d11ac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7ec42c0660add8d9eecb0d945394b0bef79a7b3c2b53ae896da3f9fe5320698b

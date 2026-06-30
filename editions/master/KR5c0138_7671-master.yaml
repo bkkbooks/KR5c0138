@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7671
+seq: 7671
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 韓魏為夾
+  hash: sha256:a4eeaf9a942f0d0f0dd9ff26bc2087247c5dcb9ba07c9bb0d640eb11628a03ac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cc07f3f762243f36882883d2e62c32acb86902ea522489bdf6871959ad561164

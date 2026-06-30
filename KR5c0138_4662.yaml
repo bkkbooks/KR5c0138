@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4662
+seq: 4662
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不以害為害故莫之能害
+  hash: sha256:02207351ab270a6c3f9e010dcbcc9ba340577e395bc27b574a050b5d79dcabce
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c4a224959b2723a3dd389ea0c85df4c09aad576617ccc6ee8d79398686de2e8a

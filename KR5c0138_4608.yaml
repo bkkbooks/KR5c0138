@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4608
+seq: 4608
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 嚴乎若國之有君其無私德
+  hash: sha256:7e492572500e260ddcd66a0043942e516836bdd06c5a2b493c8b8451dcaddbb9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d9ac12cd9d739ce1a5aa464d5d8728efcae8b656191737374eaeec8fbaad9eb4

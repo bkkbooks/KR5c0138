@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2171
+seq: 2171
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 忘其生則無不忘矣故能隨變任化無所窮竟
+  hash: sha256:141590914891eaf82a983b4f3003ab2e1093061df31c3f98674abc7373719acf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:657873e9a53b5b46910814222a36cae784fd5a3b35697b8d5763339b64a8265c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1425
+seq: 1425
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 杙者斬之三圍四圍求髙名之麗者斬之七圍八圍貴人富商之家求樿傍者斬之故未終其天年而中道之夭於斧斤此材之患也
+  hash: sha256:92739e488a95ac6a45fd23cf3790d0067b4ff3e25e2af2f802572a3d881694fc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:18528b91997c0fc3b4711873737f56894bf849250f65c46c3d80c50577078789

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1876
+seq: 1876
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 深根寧極然後反一無欲
+  hash: sha256:63094e057dbf27246991dc55b51649b75371cca12171454a66c48615af84f7ce
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fda15f97b64596ff9a38d5c428af31118bca65cc402bb6f4db7c420dab5c4aec

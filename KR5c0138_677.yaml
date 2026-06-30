@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/677
+seq: 677
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而況德之進乎日者乎
+  hash: sha256:a7ee12c948431c5d440ca5aef0c3b379e83a0dd4ed573eda7d3191ae99428c49
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a81dfdb846a02bade5805b7140b8402f32b91912467b37927b2b5ae243ef103a

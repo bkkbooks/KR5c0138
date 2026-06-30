@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2475
+seq: 2475
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 因以為弟靡因以為波流故逃也
+  hash: sha256:d53d0ac786f4568d7fae2e231d5005848e0477cff98ac09a66004250b85f9273
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e0ca4fad8cfc92ea933ad18361c615c75583e13d4166a664f0d11fe31ccf1252

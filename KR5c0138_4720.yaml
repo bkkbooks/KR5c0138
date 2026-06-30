@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4720
+seq: 4720
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無幾何將甲者進辭曰以為陽虎也故圍之今非也請辭而退公孫龍問於魏牟曰龍少學先生之道長
+  hash: sha256:a9eab208cce77ae12ba2ba359b4f1d78dc3ebb108e7bf223cca385224d0a6326
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7d8b80b42de716a2fdd38a022f2d4234aa14f5b27ee36729812dbcdc673a4694

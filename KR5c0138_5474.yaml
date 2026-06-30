@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5474
+seq: 5474
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自成則與衆務異也
+  hash: sha256:acf9aa03ccded4bdafb8a523fb875acaa4ee36ae3b4cde00464056da39edf322
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9c762f72372115191af10f5a362c1d30d6638567bd6bacc3e46be3db68380de0

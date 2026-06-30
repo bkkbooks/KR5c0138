@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5659
+seq: 5659
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自本觀之生者喑醷物也
+  hash: sha256:14f361a5fba3d42eb7d75447e42357822cf0324ce7c4211d88a85b6824ae1f4d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:67ac4b6a69532af84f20d89859b30e952ee02a306e756d50c46caa33ccfc3ed4

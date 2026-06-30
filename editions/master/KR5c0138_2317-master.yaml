@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2317
+seq: 2317
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 長於上古而不為老
+  hash: sha256:5c5352388245967e5d32cfb2112bd535c0249d9593f8af4211ec84bca6d82e19
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:145bd0fec63d0ba3aba019385c653a5108fac34b11f22e9ebb7a888253e00358

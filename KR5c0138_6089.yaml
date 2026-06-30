@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6089
+seq: 6089
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 成毀無常分而道皆通
+  hash: sha256:5abb894f31530ddfb3c9f9733d8c05b01c4a1c44ef3548b0c27117404236864e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:250806c974c49f2c5b175c581beff5f9778c9396093efd6eaa16ff66d2d15e2a

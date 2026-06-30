@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4230
+seq: 4230
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無所唱也
+  hash: sha256:13229658866bcc2a61626cea62dda093c5deb193d4b53b9cf2b91fa3f7666da4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d13ca5c04356d8691fa9313734488064be272c9c035d9cef574cdce089ffb4ea

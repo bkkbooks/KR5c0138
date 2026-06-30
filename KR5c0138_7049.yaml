@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7049
+seq: 7049
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物表無所復有故言
+  hash: sha256:a2acb65a526a25f7d5b6c697ab43156615fef6947415a2e7a4e78e3bfb64b8f1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b54818c76abf29b96267a7b4d64625e286a1f466c81d3eaaae3ccc76e00a448e

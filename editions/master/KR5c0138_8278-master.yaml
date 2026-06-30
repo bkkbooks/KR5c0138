@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8278
+seq: 8278
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 禍福寒暑晝夜動靜變化衆辯莫同畢之至也衆異同於一物同之至也則萬物之同異一矣若堅白無不合
+  hash: sha256:eba396399d448b9e9086e368fd42b2373550b6c4f5d530a863011712b63489d5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fec6b629f4ff4c55472566abb9bf1786833dfaf2de7627d5d04d85e39a80423f

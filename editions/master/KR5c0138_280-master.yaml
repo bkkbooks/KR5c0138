@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/280
+seq: 280
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之不可使復之也
+  hash: sha256:79cbce11ccf0378b406751ab24b43ffb0114efa8f2386cce9fee1cc46f63acf5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b61f91dc990987e146dd808e419fbe0cbe62f4b9dc1d4496cf7e7854f035b9af

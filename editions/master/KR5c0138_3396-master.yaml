@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3396
+seq: 3396
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天地亦無心而自動
+  hash: sha256:63e5f6944a0a3ee8546ed43214c95c7ae38d459cef1f567046e53f93a99fbcc4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:19bff01146aafa7a5edc8bf59326cb0990d71f1b27a4eeaad34edf252b324424

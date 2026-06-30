@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4772
+seq: 4772
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 擇此八者莫足以活身唯
+  hash: sha256:50a1193d659dfa9a184e55535fdd940afd906e810bd61182f7b73633584207ee
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4331265a9c87b5cd0c8bedd8606252e0ddc9c18e3ae0c46ed2227147bbec6144

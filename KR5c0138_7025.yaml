@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7025
+seq: 7025
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物得以通通物
+  hash: sha256:e9d6d51456d54d3e29f6396c4960440c25e6885676d49e844e8413b2561a5b9a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d57b756d6f73e48cc154e49b0abf84a8d492a595e0bacf385e14d3c039711f71

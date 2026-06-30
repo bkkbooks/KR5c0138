@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3361
+seq: 3361
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 理之變其生也天行其死也物化故云厭世而上僊也
+  hash: sha256:c062fbae8c1e8f7d42d4e70b4c5d944611ef3fde51aeb5fa688e08bd076a24fc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a9b6f1b8bbd1fac8a92fd3026820dedcc67b2022240e2e52784ea54a01f648a6

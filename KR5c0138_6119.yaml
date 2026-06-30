@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6119
+seq: 6119
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宇者有四方上下而四方上下
+  hash: sha256:eff161f482f2f180f987ecf1033ba7bf8044f9b624d5c6bbd95f814cf83dd1d6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bbd745bc380f6f3094cc26b30fef17f41f06d903b6d45cb99d1b5c98cc9af391

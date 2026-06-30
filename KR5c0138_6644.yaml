@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6644
+seq: 6644
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 勇反越大夫名也吴越春秋云姓文字少禽
+  hash: sha256:873566be1816d6bfd9648a90c4eba89864e0fbdd8c4b5b237c8493468d25dfd4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1f92ca832cbc5dc9ad006243bc3fb124326268441be59aad532038e60941a137

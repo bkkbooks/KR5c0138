@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7224
+seq: 7224
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼教不學
+  hash: sha256:866989a2b50736766102dc8d8c4624819cb6908fa62a7dd064413f3e602534e7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2af92a69a51f0cbffa722f929499fe5990743d3794eac461b003bae140233f7c

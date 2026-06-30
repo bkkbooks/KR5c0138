@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4091
+seq: 4091
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舍之悲者操之不能不慄
+  hash: sha256:fc626cd1117a449cc75f70033e262d9d253ab1d594355da0fbb1164d7d294d31
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:babd765e6eb49ecb39b976cd9211c0d5322a2197bf7a75718f48f722c886ff81

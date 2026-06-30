@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3735
+seq: 3735
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 名當其實故由名而實不濫也
+  hash: sha256:aa0bcff7986663cf1c77b9b9ed596b15c3253def6e9697fbe6b28bb6a0c3db9e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a4f4eb103af0681a508f19f2783cf1c1f19f4e034d73a8b1e45c7636047c49c9

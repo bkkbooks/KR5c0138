@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7108
+seq: 7108
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書莊子注卷九晉郭象注外物第二十六外物不可必故龍逄誅比干戮箕子狂惡來死桀紂亡
+  hash: sha256:4e454d14b8ab0983a8f9f4ac472fb1d4489cfdcc2e80f1daa9197fdb939db53b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0ef40cdfa15f8c820f705fe14658bbb19727f73c2190d977e7a49d0c85026838

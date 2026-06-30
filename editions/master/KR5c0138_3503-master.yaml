@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3503
+seq: 3503
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無我而任物空
+  hash: sha256:0b6f14cddda4be0d6e5d4deaa49c99be3086bdcc626ad5b55be7052c7fe6b87b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:63997bb396c48fbe9c4d884d4212201a2c044598623c64b651a58ae36795d8ee

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6546
+seq: 6546
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知大備者無求無失無棄不以物易已也
+  hash: sha256:a1a3ecb7ae6e1e7f69c7af602ac4a986a10ae2cdbde42f01cae667b8cb509f52
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7e5c3827b724060d9115b899ebfcb5da992e07fc893c26541210ea139c3e9a12

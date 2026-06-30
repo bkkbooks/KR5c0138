@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1131
+seq: 1131
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 成而上比者與古為徒
+  hash: sha256:3f38c54d70d5626baa8f7433927e45e7298c31e1a30c7dca994e7d99f690377c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5565d900231ed019059debd38ec02004d195030765359e36376b57c3bf45c02a

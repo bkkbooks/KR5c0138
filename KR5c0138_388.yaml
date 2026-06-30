@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/388
+seq: 388
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其以為異於鷇音亦有辨乎其無辨乎
+  hash: sha256:6a03860484101b16acc6c721f0ccf73e1fee455e618aabc6a31629d87d0a58ec
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ed485ebefbe443e107b48e812924ce637ef3b599008847442893c3a8c9143b00

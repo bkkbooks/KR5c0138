@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5340
+seq: 5340
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遭雨則壊
+  hash: sha256:1777167995d75112e95f0ad44e12ff41c3817e1250c76b1401ced068510822cd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7c60003e11aa59fa4c1f2a19e84849f08b4305bb0587abfd5778fd036bb4b29f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/499
+seq: 499
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 然無纍與物俱往而無所不應也
+  hash: sha256:e550e4a382571a7cf04621768630e487f7c2a1467e8b89fbf9b904b6dd437484
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:011a2dae16f060a1c806823cd1e915c0e27f8efcb5fde3d3940b8cbe8a008a09

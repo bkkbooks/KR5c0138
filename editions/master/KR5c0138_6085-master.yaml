@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6085
+seq: 6085
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 冦莫大於隂陽無所逃於天地之間非隂陽賊之心則使之也
+  hash: sha256:12388a04d4246a4b6fe40eb5d6c29ca5573067bc2980fd897578ea16a3cfe279
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4c9041eb702234f39c5b7a9873a0ab163312beb307cd80f9774ef6fc57605739

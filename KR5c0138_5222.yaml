@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5222
+seq: 5222
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼無故以合者則無故以離
+  hash: sha256:5242239826efd5d01f3a058f5bdbbce7af12f6ed7eeec7bc5f8a51addd1a6666
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:26a9ea270bce8e72112d915c2d2ba3a7b5a816dcabb128cb8554c68ccc4bd593

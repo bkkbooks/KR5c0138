@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4635
+seq: 4635
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 變化日新未嘗守故
+  hash: sha256:b61e31aa3df3730f6114013008c010fd8356a7fef47ff8bac22d9997749e9730
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:de762c6ac9e5f4e2a59561d2c21e6cc4fad49dfc41831f910b572834b2db79ab

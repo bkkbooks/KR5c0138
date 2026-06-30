@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5491
+seq: 5491
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 左手如柜右手如附枝右手放發而左手不知故可措之杯水
+  hash: sha256:dff588d7012a80f3eae5553e5b0e03c91797b6da9e54ced38e54ff07fec3ceae
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:efebc2ce2be3e1d5df6ea419aea5c2e0bfc21d064142d75ed8ea7d1ae0637e60

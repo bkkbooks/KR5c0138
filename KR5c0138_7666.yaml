@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7666
+seq: 7666
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 燕音煙燕谿地名在燕國石城在塞外鍔劒
+  hash: sha256:e0e21ef750e9d423d2d4599e625a14673d36e001f5bafe940fbaf3aab727ecc2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7426a950c96418016ddda7cb2b8be134d40c839886cbfbacb3ec54dfaa81fe14

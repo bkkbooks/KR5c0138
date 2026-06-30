@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4785
+seq: 4785
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 列士為天下見善矣未足以活身吾未知善之誠善耶誠不善耶若以為善矣不足活身以為不善矣足以活人
+  hash: sha256:4d3b9d5823117e6b1700091fc6f472111947f714be47f4fb7ddb62609adce0b3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9271be74e8ff93a3b03932783883d16b3a7e8b39074efffb702741103363ea09

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2560
+seq: 2560
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫仁義自是人之情也但當任之耳
+  hash: sha256:8742f555e87d45bd1764ced185e7e8bb7280252b44e25e5b1f1656250a0e8177
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:26f5983b70bc74d688bc58310be9040b3fd457d1b8aec5e34746792457bce200

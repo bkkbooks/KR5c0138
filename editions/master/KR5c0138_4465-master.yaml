@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4465
+seq: 4465
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 生皆時行
+  hash: sha256:9c773d18e3ab8df94d41f88706b179f470d2ebf40ca735a864650e253d48a36f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0743af2c0e0ae231b83654c4876a2811df280837c80bc4628761a050608f60e6

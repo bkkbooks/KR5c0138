@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7397
+seq: 7397
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫無所縣者可以有哀乎
+  hash: sha256:c746f10d888f2b68dc2549f05b9eca3f105a23bd0129dc01d8a5e7554c03cb0e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1cb3642d2d29863969be160d3b021921fc2d729c37d011631015aa85914bdde9

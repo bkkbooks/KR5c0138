@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3061
+seq: 3061
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 餘喪矣
+  hash: sha256:9b9361f00da63474954fe0451797eecac6fd664115340efa603d2fffb754e43f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dc11dd540290c903a47ec1eeaf87b813d6d0e2029fe498ab86e08d683649d9bc

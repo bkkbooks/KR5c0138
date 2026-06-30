@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2323
+seq: 2323
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 顔回曰回益矣
+  hash: sha256:b6d4d73311c9ab4064e4b28809e9206a7aa1ce6473befa55b670d80dc5baa301
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b20f7592a954374627242a2074d5c1ac11635efb850fb2ac362a1a971bfb3ed9

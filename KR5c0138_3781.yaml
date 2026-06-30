@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3781
+seq: 3781
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 常念之則亂真矣
+  hash: sha256:b599c81fc3c28b66c1cfc557f9c21cceb382da4fd79945ccbb2db9b459974a36
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b1bdb4d4191f9524880c3fc8b5ff582c88552757a88facf92437fc74966955c7

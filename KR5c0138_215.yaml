@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/215
+seq: 215
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 顔成子游子綦弟子也
+  hash: sha256:a04e744c4b586f49b01a8eadccc6c64b97260537cd11f2a65b32b1d0a8483aba
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:38216a1201725283bc4789ce72c97e49385750dedf5daeba0e4856f492902e96

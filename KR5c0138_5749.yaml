@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5749
+seq: 5749
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不際者雖有物物之名直明物之自物耳物物者竟無物也際
+  hash: sha256:c5e6df3abb477da80af4d1720c1374497a5a8da16a8b3e634c24ea712bb1809a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:17a709650540eec164ecedff9b0c9cda8ec327a7e51039b86448a5057f33214e

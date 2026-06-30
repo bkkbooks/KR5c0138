@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7941
+seq: 7941
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡此四名一人耳所不言之異
+  hash: sha256:942c474e9759f2d0573a03d72762f39c2b03f68392f2995dd532999a69662664
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e62ce80ec1a4f6535b0c1e260804f2fb681f9e634cc05c1a7867c39be02c517d

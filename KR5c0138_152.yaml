@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/152
+seq: 152
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此皆寄言耳夫神人即今所謂聖人也夫聖人雖在廟堂之上然其心無異於山林之中
+  hash: sha256:ded3926243702b8fd36b57dcb223c0055e9bffb23958de6e4a561ee2cf4f3407
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:84a86286918ca038fed1d942c847d87686f8c0e96930385901c0e86c7109467b

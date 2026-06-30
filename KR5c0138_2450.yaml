@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2450
+seq: 2450
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而機發於踵
+  hash: sha256:25afc27bd25aa218bcd04b86204b33249ecc735ce35e3ea7e566593bb30b2ac0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:56d13f07e5b55ed37a3da8db41395ca0f30c75109134b9b6bdb0010e0954738d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6548
+seq: 6548
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 反已而不窮
+  hash: sha256:86624ef29b4d9ffc80bf12adf6be40c08df72ff308a8487a2b41f99d3cc50c52
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:29756e3056c71f2be26c8ee78c40c3f310c41abe76b3489fd9016bf98c723225

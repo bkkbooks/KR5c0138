@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2341
+seq: 2341
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此二人相為於無相為者也今裹飯而相
+  hash: sha256:f3d95c3a7f1abdde0f14ecfa4fd1e69db08d1459df84350287ce9a9088023a6a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a3d8491ac7a6442ddde21e88c583f6f2e70021079058fa63483c55e322040dd5

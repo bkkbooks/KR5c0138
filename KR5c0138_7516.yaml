@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7516
+seq: 7516
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 緼袍謂麻緼為絮
+  hash: sha256:305711627ce0e15b1cc249da07dcddd802c95e9408056378a482310c1bcf5458
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:28fdea371c6fd6ee578854f4cdc22a3dc40f1299e8504fb692baac1a7c8bc40d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8343
+seq: 8343
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫指之取物不能自至要假物故至也然假
+  hash: sha256:01f10a4b205f016c29e199050237823dbf89f9efbb221a3356ca0949fa334888
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3824ef5d4bbb1057b13038eb9b64f73c0f3919125d166848fe912302717c4e7d

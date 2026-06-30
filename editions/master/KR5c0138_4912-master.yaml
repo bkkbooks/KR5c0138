@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4912
+seq: 4912
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 同是一物耳未足以相先也
+  hash: sha256:a6bb0119d58909d585b67dbb8ec6dc2eab2664503449e680775c4b490ca4e1eb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:83f46c9e7f8a1c1e375868b4221ce7e24cdc107dad4ab7c9be9902f42b5f4fa9

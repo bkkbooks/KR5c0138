@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3353
+seq: 3353
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 猖狂
+  hash: sha256:98038d98aebac91638255693ffd41af74c288ea1185247fa65187ac67546cbdc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0585aedd93e3fc6e271c729147171894e519559febb21d582b608c9a708588bc

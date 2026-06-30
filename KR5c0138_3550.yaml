@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3550
+seq: 3550
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而終身道人也終身䛕人也
+  hash: sha256:5d9fd7c0e350cead397699cd4515df85690575c769cda1e8949b383b24b95ee1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c24d96b14e120cf2dc84a136043d91929140549f041e90d42ea67ffc1f30a89b

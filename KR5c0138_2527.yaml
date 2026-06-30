@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2527
+seq: 2527
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 直自性命不得不然非以有用故然也
+  hash: sha256:695e7078bfbd9105000f4f877af6cfe226afeeed42668ddcfc796a24c59afe02
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:933ab46a63221de3d081464c0a7a6686595cc57fd30ad23bb5d94e56cd3ab776

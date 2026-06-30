@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8141
+seq: 8141
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欲令去知如土塊也
+  hash: sha256:ec5b8ca5d3750d641e36a0d8599b727e083d4f3daf93087f53e41b4f671ca8df
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9f1dc89fcd07355a70d6d9b2e3806edee6a3fc348f27fbcca1407318ba06c267

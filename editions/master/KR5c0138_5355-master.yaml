@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5355
+seq: 5355
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蹈乎前而不知所以然而已矣仲尼曰惡可不察與夫哀莫大於心死而人死亦次之
+  hash: sha256:a030e55abe1099e2c4e717dbde152896124a4bdb93f2ec2eb35f9367237fe351
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6449c1aa3742acef32f5a078dfb7f7c50f43e59545d131065333bf13ec21c50a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6205
+seq: 6205
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 稱已脱誤以謝
+  hash: sha256:96183515e26d7f5887033a7fd54a35746e0ebd1eb42bfb6848e73655a4181dde
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:50add1caa163afba31b8856ff99cd3ae355612edc5c6116d99bd36a3e99b235d

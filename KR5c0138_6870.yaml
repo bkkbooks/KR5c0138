@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6870
+seq: 6870
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孔子之楚舍於蟻丘之漿其鄰有夫妻臣妾登極者子路曰是稯稯何為者耶仲尼曰
+  hash: sha256:3fd024e073e0d23755b07a09a116554d02a62aaeed1400199255ef16ae308581
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:31f76e3d68f24fbe13b3e929fd94109a49d8b9ac943fc9811d68254220c83f83

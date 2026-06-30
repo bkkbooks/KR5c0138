@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3169
+seq: 3169
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 君任無為而委百官百官有所
+  hash: sha256:9de26b9dc1fdfd320e83524662c3ca6fc55eb103c27055e1f35116823817acaa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c550067598c4c7dc5fa4b61ff2ff29a6b9f5595adb62c24e0b4bc0ed57936fab

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4702
+seq: 4702
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 海也然而指我則勝我鰌
+  hash: sha256:0ffca91a7bb7eb6e135a685c8c662d006957e24ca4f2d016e0633557a437a0c5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:637cb45173388eef394994a34fd55f7b85942a6c7e6c952ca802d6afb02e0673

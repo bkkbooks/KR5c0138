@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1410
+seq: 1410
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼以無保為保而衆以有保為保
+  hash: sha256:0d8f9a1c920385c08dba7e56d4a8eaf883a9d8e99b1a8bc074a74e454e3269b7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c58ffb990db0a7b45222e590c677d8e934b6e8f31c9d5d6a98202b6a962389e1

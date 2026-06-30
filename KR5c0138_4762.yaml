@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4762
+seq: 4762
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莊子曰請循其本子曰女安知魚樂云者既已知吾知之而問我我知之濠上也
+  hash: sha256:5ad9c6cad6284535e1848839510abbf06da03bcc7295bfa66d257fab072eb17e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:35cc5aced8c21f28669c712a7a8de44bbae8e98c8f58f148302bd1005a759c4e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6405
+seq: 6405
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遭時有所用不能無為也
+  hash: sha256:f4411225913d656b847666d846e37bc9f313a9280e13cc467a474879d24b47a0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6e3c3ba2c3ecafb0679d5787d6d9279a75ac2e2ca96e7581223cfbf236118e45

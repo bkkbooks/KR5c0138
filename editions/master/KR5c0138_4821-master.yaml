@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4821
+seq: 4821
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莊子妻死惠子弔之莊子則方箕踞鼓盆而歌惠子曰與人居長子老身死不哭亦足矣又鼔盆而歌不亦甚乎莊子曰不然是其始死也我獨何能無槩
+  hash: sha256:f1be211572d4a4dd06c774f885b99d01cacbc53152ab037006dbc3a0dc8e6666
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f63265a8b6ea41a9970b2f41e15e43484a4c3d592b743bba0847d41dc4a1d6d7

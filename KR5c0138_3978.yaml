@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3978
+seq: 3978
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故闇然恣使化去
+  hash: sha256:4760093ed42aa497dbcf23617219eae3f63fe00b9a165aba07f7d58f24cff7b5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:87c3cb108f2f4e1dcfdaa62c17538b5f3e83e7ad0729d352f6447951a854a98f

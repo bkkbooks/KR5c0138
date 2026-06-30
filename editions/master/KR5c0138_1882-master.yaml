@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1882
+seq: 1882
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 然而往翛然而來而已矣
+  hash: sha256:2a85d163b0a68d62cb1210fc7f296c9f5d980c3d1582a07a69b3a0ffc4fbeb61
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1b0c357e931d63f32e46bbcd58d9e932e7b3034dc11a45405e00fa725b754351

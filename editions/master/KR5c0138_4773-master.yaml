@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4773
+seq: 4773
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無擇而任其所遇者乃全耳惡烏路反
+  hash: sha256:aa3e41bae689f89f16559e57b6e18c517a6470938c240d032cb77b8ef53e26ad
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:66c8cd3aaedd610c16b890d5d53282abf7d629b3f14f58b3259dc6efa201f79f

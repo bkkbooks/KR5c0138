@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1687
+seq: 1687
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 委之以國政
+  hash: sha256:fed0da87b48e5e481dac297cc18ad8a9dfa7b642f3645924838d8aa2067302de
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:547e44ad5bdfdee18dc0efa9ba68cdb78b3f368d1bc30accc25faaba0a054183

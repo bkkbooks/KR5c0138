@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5457
+seq: 5457
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 内足者神閒而意定受揖而
+  hash: sha256:3aeffd0518e3589d31bb9220999f756dc4bb838b41c79f57c26c301e205fb9ba
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:15ef1295f04f8500ed197539f9d058b22d351d85084eddb5a3153259aadbdce2

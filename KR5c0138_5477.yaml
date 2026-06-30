@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5477
+seq: 5477
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故能同律度量衡也
+  hash: sha256:6175f3ce7c23d80bfe479cc149bcdf414d99f94c8eaf0f7eb9d2207888944900
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:105e6015d506708a88654ee4f7ed3c6534401603216614555f4f204e9e6cdcc2

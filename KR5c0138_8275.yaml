@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8275
+seq: 8275
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 循環自相與為前後始終無别則存亡死生與之何殊也
+  hash: sha256:f170c1bc905469352ee036f1f2c60c16d06b0960bd6c3ca54b937617e3e852c7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d449bf5b4d8b81c0eef4ff13e1939371ff64c1bdcc3bf7c7b056ef6b2d03a6eb

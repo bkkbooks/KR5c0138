@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4378
+seq: 4378
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 何由而興由無貴也
+  hash: sha256:2166dd54601daf5db08789b8c56e20d56e1a98e641943c869e44e46c6a167de6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:623cc656b221df3f391600834a2f539b2368b8d079dde965e2387858ae39e296

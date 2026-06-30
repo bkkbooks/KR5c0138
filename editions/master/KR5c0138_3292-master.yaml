@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3292
+seq: 3292
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 堯之師曰許由許由之師曰齧缺齧缺之師曰王倪王倪之師曰被衣堯問於許由曰齧缺可以配
+  hash: sha256:3fe321f6a33d1f70fbf822d21387ea6bfcb19e237261a911f3eed17a48e27e5d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9bf0315d826511ac4ba515c43935cb053697b1d5e158e5e150ab4c3a1fdb8bf5

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1772
+seq: 1772
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 逰於自得之塲放之而無不至者才徳全也
+  hash: sha256:20fcf5b2514ff6903e92cf0bbe5cf6917ffbcec125364d035c7276a8d65968ac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ab255c786e48a175fef8d4c55fa79e542ae47d225fe343aed8fc900707dc5bc5

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4843
+seq: 4843
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 名止於實義設於適是之謂條達而福持
+  hash: sha256:a40cb529542e0c101eedf80895a749aa93c711c0d1d989bad4eefc9867bdc148
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:efeb29f59c431847b66da98c2aca7a24d93eaeb9837364849315e76018ecce57

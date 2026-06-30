@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2771
+seq: 2771
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 除矯詐之所賴者則
+  hash: sha256:a1f54bff5a4322fb560b340703b632725a5d5d2a5eaafca63930ef2ce8188fad
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c3dcb9a68b31ba738087b118cbd5d4b0e483ec235acb3c2c60d9e6bd8cb8c639

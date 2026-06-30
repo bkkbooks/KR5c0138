@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7536
+seq: 7536
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 虞安也共音恭得乎丘首共伯名和脩
+  hash: sha256:119f472ea49989d9c500c1d0c2590ed79064b3058fc40f6444e0643f90ac17a3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:575f791320466465d56181d231a6305676de62eddfe08ae173fcd94ce4570139

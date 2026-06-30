@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5562
+seq: 5562
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各以所美為神奇所惡為臭腐
+  hash: sha256:428b08c24ef581f01fc2f6aa661d29f4695eb2758fd45072df098666b8557b5e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8d19233c0a4049aba2f49e3f39319725ec21a268f224df92ed89c2f1e3c44fd6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2022
+seq: 2022
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不知與化為體而思藏之使不化則雖至深至固各得其所宜而無以禁其日變也故夫
+  hash: sha256:c635dd01372f23179b2c4284918fc7b5e0c5f63ac9e7e5f476bf3df526e231bd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ebcbc7491c1832fffb73cfd983afa6b4f6c6bc1f84faf3f19a8580e5619238f2

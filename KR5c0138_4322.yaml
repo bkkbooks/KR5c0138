@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4322
+seq: 4322
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 德無不容仁也
+  hash: sha256:2ee98fc450660ef88985fb3028769dd13d863a45ba0ae06cd605a7a69b0cca21
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4ac54195323b755323f8e30a45b411f621e7a5f4e26f9b7c65a464b11ff953e6

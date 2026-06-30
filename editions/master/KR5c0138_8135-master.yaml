@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8135
+seq: 8135
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若飄風之還若羽之旋若磨石之隧全而無非動静無過未嘗有罪是何故夫無知之物無建已之患無用知之累動靜不離於理是以終身無譽
+  hash: sha256:311719e76c13e014d2867db2bf5ad12b9971d6090984ccc9f70e91f386cbd7aa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5037811b21b001fd10e7d6886bce0e015ec20789cddaa6e4718a5afae9162a99

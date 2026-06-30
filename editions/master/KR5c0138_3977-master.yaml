@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3977
+seq: 3977
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子欲慮之而不能知也望之而不能見也逐之而不能及也
+  hash: sha256:fa351c1334c70d8e5820ba83939bb881a7b45708fb9d39237429e7c9be40f946
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c172ee37c394b54dededa6fb3808ad4362963ba9d4449e1c1668db148477b92f

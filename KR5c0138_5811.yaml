@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5811
+seq: 5811
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未有子孫而有子孫可
+  hash: sha256:b873d85c8350f44ec343cb79d886750787b7abd643b5c5f50d7988091c03bce1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4df87afc76777c5b153b3551934c462e5d2956eca7e036653bf6e5ea08d08119

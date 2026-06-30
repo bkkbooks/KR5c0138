@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2569
+seq: 2569
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不仁之人決性命之情而饕貴富
+  hash: sha256:115bbe6713493fde76e99d8cf0fccde51c3569dd9c1c3d6bd735dd4b92667de2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2cf4c58c306707a409c8bb76b49bfd4329f826dd5a3a4c87c36276af96e11a69

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1850
+seq: 1850
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 庸詎知吾所謂天之非人乎所謂人之非天乎
+  hash: sha256:7a98d360c9ce83b8c2ef4a6a03d4636c0718cd4b5317ce92b00fe9723eb1b493
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:38ecaf80e5acb8c05cc2104edc7bb3b41ab97c8cec4b19e276f872b1037d7af6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/28
+seq: 28
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 皆古文鳳字朋鳥象形鳳飛羣鳥從以萬數故以鵬為朋
+  hash: sha256:21cd8377e220e709f963820e1dd1fd977f606494182f7a668f80292b4c6fdbac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:58cd11a1ffe1b27050f1b852d655d7fa3902f5c2f86c5e12d1f636c7d1d0ef83

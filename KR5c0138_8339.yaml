@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8339
+seq: 8339
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 水中視魚必先見水光中視物必先見光魚之濡鱗非曝鱗異於曝鱗則視濡也光之曜形
+  hash: sha256:c36f8dbebe1d036d585a6ab90ea41985de2b8be4589b20eb069af633d889977e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a45ef8f1eff4741e960a60033b21b6944d6bbf789619d68e964615aec72cb97f

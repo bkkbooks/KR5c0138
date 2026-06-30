@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3286
+seq: 3286
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言用知不足以得真知音智
+  hash: sha256:d611da64b8de5c6750e5c900e1d9d78e971dbdf67f611c7185a4d3002c3baee6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:aa1ba870ff9064eca993c6be96dcad57cad46dddd3b1b3bbe3a0178699f614fa

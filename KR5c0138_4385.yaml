@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4385
+seq: 4385
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此澹漠之時也
+  hash: sha256:5c0a7ebfb29b9c4b3d83c5377ce1910ea7345a9677208e809cd40de7ba89654c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4a0fd82dd2250cce610f8c8ceefe2cf753bca1ea4415b9cfb709e0526f393eda

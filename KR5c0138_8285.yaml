@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8285
+seq: 8285
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 窮物知與物相盡也獨言南方舉一隅也
+  hash: sha256:2a547883eb1a33a59db5ddab3a121a6295335159b6d600b8edba7c7c34116a2b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:233e15764859b66f5f5f772bf9cb0cffb9152e9a69e28eb395291c9ba2d13023

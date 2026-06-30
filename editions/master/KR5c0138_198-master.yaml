@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/198
+seq: 198
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 絮細謂之絖洴澼絖者漂絮於水上
+  hash: sha256:fe231ed04f2f04806b2cdf8a5f1873818c1a80fdbe502f17fc2166c42ef126ba
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:89bc6700d33a16711fb63e082bbbdb453eb22a75c93e42dd6c3a16d01e91dd93

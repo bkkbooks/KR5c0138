@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2678
+seq: 2678
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 及至聖人
+  hash: sha256:ebd5815149f03f1b17ec7e996fec379d327e521512a83525bafae2688b90f66e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1021545a9d4207dbc950fa4cb5c1ad1e4796a93ad2e08d5110c9fe1b385a5d4d

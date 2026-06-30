@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4676
+seq: 4676
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知雖落天地事雖接萬物而常不失其要極故天人之道全也要於妙
+  hash: sha256:5ab35bf191d39c5dc2bb7ad2020b1eb024039ca24e7505a54137494bd4b94d79
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e9173440335530291b45dbebf99dbaf6354b68cb9fc1371012004a636595873e

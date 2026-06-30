@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7363
+seq: 7363
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 時變則俗情亦變乗物以逰心者豈異於
+  hash: sha256:4e326427bb041d9c38963786e9888eef5b734d6635126a335d5c5615f0b990e1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bd469867f547acef7962e7cfbaeeedb95f637387e24bccc8780dbe488131283b

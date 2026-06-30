@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7798
+seq: 7798
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 失致也道音導
+  hash: sha256:d38ff17968cfef487c3c778cebe9cc8512b041761e2107d3b5fe4d048c38a1d4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5b420bbe34b8abed247d0e9ea5d56f127d14cbe45d00f8a2c5185d63f4f2fbd3

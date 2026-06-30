@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7723
+seq: 7723
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫人特為食羮之貨多餘之贏其為利也薄其為權也輕而猶若食
+  hash: sha256:89f836bcd925bc819581432d3a20532c10960462ffb31ec4e4546c8e47587ff8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:03c2bd073d1b33597a1363bfe880745613439af2b92c6f7ed2c32735e3cf2758

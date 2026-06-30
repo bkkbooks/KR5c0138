@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1862
+seq: 1862
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若然者登髙不慄入水不濡入火不熱是知之能登
+  hash: sha256:16f4534313255739b538fd2abf7385001fe57971e8bb9d0e83525afeab9ba5d8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:628ead2bbc9bbe60ae19fe384a19aa516f34644ae6912088a7f576553db463c1

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1529
+seq: 1529
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宜生於不宜者也無美無惡則無不宜無
+  hash: sha256:0b3b402f1b90db34108a06e6b14db2d419f0f78da3c18fffff6df0438ddd4264
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:71e0ff18318255fbfd77cd04664d0392c0a380e00cdb19be55929c22ceb53d58

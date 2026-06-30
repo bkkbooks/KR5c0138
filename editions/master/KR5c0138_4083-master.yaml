@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4083
+seq: 4083
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不貸者不損已以為物也
+  hash: sha256:31061c64142079c71dfcb383c3ed5583ef9e0edda9f15f6952bfd6effc5070a7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f58b1d7777c5e9d230b10ffde028998907dca16c5f71113db77fa94ef86c9d20

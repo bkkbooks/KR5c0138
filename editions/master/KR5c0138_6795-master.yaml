@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6795
+seq: 6795
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物故人與之名若人不相告則莫知其愛人也
+  hash: sha256:2c8b54c1cf4ad1dac358ae27922aba22aac0f42d30161040500b9a3319620c6e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a886f385d3292e454b7185b09da6b478ae31f706382bd52107c78b416a78750f

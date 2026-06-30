@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1987
+seq: 1987
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 致萬致不相非天人不相勝故曠然無不一㝠然無不在而𤣥同彼我也
+  hash: sha256:1f57a4e3f1a934ee9c2f0e70e464accc1e1b2ea4075f501df1f1ae988f9897cf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:598c74a5b552fd8e2073c75d4c24bbb1c2d91de1af5a0de6efca03d47b9dba9d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/669
+seq: 669
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 於安任之道未𢎞故聽朝而不怡也將寄明齊
+  hash: sha256:a724816950ed9a1847d684f28a0e4469ec7526b958c0a339b194c432fe7fd7b5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:aa540b6553ffc48d2b987ef51951cf3ab6df1ef6c886ceddc88f98f16840b059

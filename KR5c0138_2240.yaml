@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2240
+seq: 2240
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以人理言之則侔於天者可謂君子矣
+  hash: sha256:e753b7eb5911d86b506322595e0f72412bb83b36dffeae5eee544bcdba0b288a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4e2e2660b0fe211a7047264cf265e726e6a7fcbdccd8508cf9c2d4026bd07de1

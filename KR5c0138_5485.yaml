@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5485
+seq: 5485
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 斯須者百姓之情當悟未悟之頃故文王循而發之以合
+  hash: sha256:2cc95945c4410e2a004582410338cd789db5fabc6045cb0a584ece30995b822f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:42d02ba2fed50d3268535c005d3e605fc0ee7e004243ad21043870fe3fc07a85

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/432
+seq: 432
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今欲謂彼為彼而彼復自是欲謂是為是而是復為彼所彼故彼是
+  hash: sha256:e2ff3b884f35eef26c1ab508cae2ec2b873e83af517ab09972538b76152225f8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f8ddf0b6233576d99e152aeef51dbca21346a77dc56b290a478c027b4a071408

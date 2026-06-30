@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2740
+seq: 2740
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聖人已死則大盜不起向云事業日新新者為生故者為死故曰聖人已死也乘天地之正御日新之變得
+  hash: sha256:9698f34ca14232cf41c4a75755c604fd58e8097681ba3df8abb680b6b0e090a3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6103bf1c378914a54304dbd7451372a234090cf8d3c27143dd6cab3515e061ca

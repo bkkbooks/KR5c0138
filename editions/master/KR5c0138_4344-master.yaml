@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4344
+seq: 4344
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 則在上者不能無為而羨無為之迹故致斯弊也
+  hash: sha256:4cced59114e2cb858a43f791d9b3bffc0a475fe05a43435c971f257a6a13bd39
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:56c7e6edc6a5e9e18933207d91f6a9492549da434fb38b7197bdb7b454edeab9

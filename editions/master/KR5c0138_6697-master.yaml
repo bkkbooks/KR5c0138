@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6697
+seq: 6697
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 循之則明旡所作也
+  hash: sha256:c66629f409c0c73cbedc99d27e0880712bb46ed1df52851982d476b4870d086c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f47950ce09e06ca3623f9b52d25184c7e1a919a1e7d6f808fa45023bcf1104d4

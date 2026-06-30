@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2665
+seq: 2665
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 萬物羣生連屬其鄉
+  hash: sha256:f613ea73b25564881c0e7da673facec1df97e941f0a0a9740b7575cae8aeb23e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7a731b1ea5edf3591dc949934db6c48251bdaf4f0057406ad9f1db33ad9e7192

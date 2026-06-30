@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5803
+seq: 5803
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言天地常存乃無未有之時
+  hash: sha256:0ba1da1fbae2e43fe00270d73d11e2d9bd53b64fbf3ffcdf51cdab55099a2c94
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ec14ba3d00954c42b285ce0257261c87b719f58342f889edb508feb9dca803e2

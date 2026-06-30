@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6810
+seq: 6810
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以十仞之縣衆間者也
+  hash: sha256:c19a96c8beb4967d9c427ae5e4fd97b77299de6ae03febef96ba69c1b201931b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b49fbe9eb8e249b1e0e0300e8f548e9b56c8e9f9f9352a3d2d56ae0a0c2b23d6

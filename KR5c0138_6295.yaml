@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6295
+seq: 6295
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 去國旬月見所嘗見於國中者喜及期年也見似人者而喜矣不亦去人滋乆思人滋深乎
+  hash: sha256:2f0a257efc2db4a95cebb763ca0a8535df65e76cc574c6ceca067362db99e010
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:67144f1a00b28dd34d7eb44b0beb625c398c14a2530d996335d94ea033f5b0ec

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3083
+seq: 3083
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 問者為主應故為配
+  hash: sha256:d1db81f2644575ff51108c10b77a4a13e5d45b78ab5f07887e4e76a594328bae
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a8d31e81ca6314b6d014521fca4d92b6c0ff827e7a6d65ddac4d13c3215fcb96

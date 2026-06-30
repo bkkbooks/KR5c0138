@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5805
+seq: 5805
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 虚心以待命斯神受也
+  hash: sha256:0ca3e8548dbb7dfbc1a69b614c14abc47ec5b9daa20326647d02995c9fe14a8d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fb1691f30cdccbc806d8f4f559d0a39c4ac8d63ad0592b6d1c37c6c24d15aa18

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8124
+seq: 8124
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欲壊其迹使物不殉
+  hash: sha256:844e4e8ad94bf3dd656a80ddd59f64b7b3f3731a1675d4d64b350ecf3b658521
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:56454546d023942ae1bfd79aebc611a0ca38f44bb7ad41185c8866566b9099cb

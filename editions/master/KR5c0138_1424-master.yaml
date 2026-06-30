@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1424
+seq: 1424
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宋有荆氏者宜楸柏桑其拱把而上者求狙猴之
+  hash: sha256:dbcbdccb27040b275176683a563945ce3b3f708e38c94882f1b391a60e436293
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:137cd5e305fd212b746a68692232f8c1dba70af82d23c67c13edcd3a4fec3ab4

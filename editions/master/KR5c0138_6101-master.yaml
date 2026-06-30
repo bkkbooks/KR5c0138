@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6101
+seq: 6101
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 出而得是謂得死
+  hash: sha256:8148865107814a9c7a804e6bf7e6fa1fcb6a509dab56810f1199534f350f7f2c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c7673230d37a50c5a69c72a975b01678390629e7f5fcac9614b8122bf2df2ad2

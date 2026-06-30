@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5801
+seq: 5801
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 都無懐則物來皆應
+  hash: sha256:2f88fe255bcde32fe71e1724be57a78ed2652d5f86a5bf7b01c40a3b3fefd18b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:392bffc5fab996b8a1698cd3f4dbd68ffec04a1bf895c3e8905ef06099856476

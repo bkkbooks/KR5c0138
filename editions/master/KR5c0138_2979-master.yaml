@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2979
+seq: 2979
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得吾道者上為皇而下為王
+  hash: sha256:e6e078cc81292fa0d259e73d0feaed3823ae98523862cd47d5503e14894e3ff6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d028d766c387715f3f5e14129eb0489683fee82f1e5fed8fc9dd85fd5bbdc18b

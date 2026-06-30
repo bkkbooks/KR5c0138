@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8007
+seq: 8007
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 黄帝有咸池堯有大章舜有大韶禹有大夏湯有大濩文王有辟雍之樂武王周公作武古之䘮禮貴賤有儀上下有等天子棺槨七重諸侯五重大夫三重士再重今墨子獨生不歌死不服桐棺三寸而無槨以為法式以此教人恐不愛人以此自行固不愛已
+  hash: sha256:50b96585a5c8abc8d1b2d70cd308922b87519478f8fcc44acdf44a35babf8b90
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1d56835957d71789685d69bd76991829a49da4e52c816a2bc57fe42c8945f163

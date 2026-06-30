@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1812
+seq: 1812
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以是非為情則無是無非無好無惡者雖有形貌直是人耳情將安寄
+  hash: sha256:a1f0ccd26f55dffbd3ec3c7cc8ec19c8d065d8983b5fe3fae5952a4bf621440f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5bcb962e658a4d0cd571dc87a996d4edcd5bda6b63bcbea65319d51d9fc9401e

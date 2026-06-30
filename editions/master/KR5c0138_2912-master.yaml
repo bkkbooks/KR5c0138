@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2912
+seq: 2912
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 耳逰者豈常改其足哉故聖人一也而有堯舜湯武之異名斯異者時世之名耳未足以名聖人之實也故夫
+  hash: sha256:51810ac42554096e641a23cfc65077d3d7b6963cd82efd472910a3b73975bd8a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5e6addf7f5a47fbeba3f698ea016ddb4c3733e4affc71428cb227b04e9dbd6ad

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/402
+seq: 402
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 儒墨更相是非而天下皆儒墨
+  hash: sha256:307270d2af06d9995db92e2b9dd10aa4f5f4ab53d013fdcb6c7aa82f905671b4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4b4761f0cd8d1897cb7cfe0cf41b4c7a64470ff7add32a1f14a3a621e754625e

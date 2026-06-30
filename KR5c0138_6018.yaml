@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6018
+seq: 6018
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 出則天子處則天民此二
+  hash: sha256:50a34e2222f4383fd0d26a13b33d9970356485392113896306ec6b014c80478b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:aa8565a4db2f616798c348164f5692538cf14c35877800a774f1a548d01def1c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5166
+seq: 5166
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 下之自為斯大通之塗也故曰經之營之不日成之
+  hash: sha256:4a498fe82f677c0fa68f7a2056c4d38fdd4c9865e9ce203cef59f6fa599ec3e2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0a47a6abc40715199b1018361f0cec28cf1cf3c3d91d8b8d16daf7406580b3c5

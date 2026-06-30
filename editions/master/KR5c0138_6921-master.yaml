@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6921
+seq: 6921
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 貨財聚然後覩所爭
+  hash: sha256:2e9da03963ceccf61add341d6524897e4cf9040a12f359d2506d95fa12ab988f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:85439a8df93de2a82fd77a9f16bddfc4deafb5886dd74cbd620229afc4f42950

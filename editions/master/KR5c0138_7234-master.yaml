@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7234
+seq: 7234
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物之有知者恃息
+  hash: sha256:3bfe83c5e38f5754b37eb31d625577b2604794f5a2eb971d09081ba7d8bb5f7c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d17b49aa0b1e263b3deae33ae9ce35bced28f46b50683ea80499f5195d1ab722

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7526
+seq: 7526
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 勝則從絶句
+  hash: sha256:16d3e799a4b3a62833f2f678fc5afc3864e3b3cdf1aa041fa2976d87b3f2d0bd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0e5f2d5a4dd364fac2380a152fcd29435f575f6e2a2abcc26d4fbe26aed0c7f6

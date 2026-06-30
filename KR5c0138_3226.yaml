@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3226
+seq: 3226
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 循於道之謂備
+  hash: sha256:4c8595e46d077bc908d630cced42f3a0f1e234f7194b1e932098a6c6dee84526
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ce0c0ff3ac2b648fa75975183a206c1b359d8abf97f47bfdaee0f2f056737286

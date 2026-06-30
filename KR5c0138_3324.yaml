@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3324
+seq: 3324
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 將遂使後世與物相逐而
+  hash: sha256:7bad2b0da8b48c4e1b23f8501f3cc1773cb3f9cc0c39797a0a23e87e4b78769a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3ba3fca06922286e4b4ea87a4e9fa32ce1e9179a5f9de025bf77251c950f7640

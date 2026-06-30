@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2674
+seq: 2674
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 同乎無欲是謂素樸
+  hash: sha256:c97f198d63e13181eb1dc86b9f3a64bb02b1ce2ba730d76d97c08aeb9dbab6e4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a02474ac7f64a8b82261bcd80f1ab4db3f22fbd2e99830471a8a3a4ffdb46fb6

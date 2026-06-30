@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3124
+seq: 3124
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 事之下者雖中非徳中者順也順其性而髙也
+  hash: sha256:4c0211440e3bd4f9c410b3c448878c3e5e5c6ba79b4ac5229f727a65aae40d32
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:75a445456d75d1e2e2ba0af9e4e2868d1213ceb6896579804b2faafc973153a0

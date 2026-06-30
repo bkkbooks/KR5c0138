@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7157
+seq: 7157
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 仲尼揖而退
+  hash: sha256:b3dc78e16280913f87eca7f85f383ed87fad423b3af367b554dc8abf7aeda3d6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1d5a27bead5eff9b0c8a4332acb9c0f9fdc3af4019b118ad27a18e7a27759f40

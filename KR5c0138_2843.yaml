@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2843
+seq: 2843
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 恬愉自得乃可長久
+  hash: sha256:45f147ab9ef0fa39304334c5f6598a9a1b48654831eb2cd017c8775b22e4e168
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cfb88a53c5b73f60d1cdbc77713a54c9aa8058121555c9b22fada91205696abc

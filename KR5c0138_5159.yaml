@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5159
+seq: 5159
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無所係也謂曲附己者隨之也
+  hash: sha256:9c2cf71a2a69df57028b582172e53e0d0c4457b85d322ab0a7ee3965a520fde8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a5310a5b2d96caf465bbda58c094a4d3aa92fb35c6149e0d8df0d5803635233a

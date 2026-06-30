@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4021
+seq: 4021
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此乃無樂之樂樂之至也焱必遥反
+  hash: sha256:40c3ac5ddf55b1c39e46ae226f7754a99a3cd9eaa79c347b4c5e14c7d9d76560
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:89ba153eeb5444edbf07b725c16e465f96f326a1c620c3247ebdf2bee8da1dd9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2906
+seq: 2906
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 昔者黄帝始以仁義攖人之心
+  hash: sha256:75ffb0a673bd2ed334d4b1e55025546657dee92c4be972100af6b75813d00212
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0308b24571ca2f8d22368bc7f1ff0c3bfe35417cd572d664fd5bb4b4c5ac02fc

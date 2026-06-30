@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1216
+seq: 1216
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大少有不言以成為懽者耳此仲尼之所曽吿諸梁也
+  hash: sha256:476976442c1d7d14e06381f3b5bf33f57ad348c5b8bd79066e605cb417cea0ce
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4787a6b95b90964281db9ec1d56a2d39b9583b3b5ed640b2af5899a27b0285bc

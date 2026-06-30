@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/552
+seq: 552
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有未始有夫未始有始也者
+  hash: sha256:518e7d27146390f329c4cca3f3e01ff21a22ba949b189ee66584477eb6d5a1be
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:44d385cb69b29206576e5558fc9c1066c3702c6cb8713bff5a3acb57bc7ed78b

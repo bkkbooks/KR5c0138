@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1241
+seq: 1241
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若君可逃而親可解則不足戒也
+  hash: sha256:34aebb6d3d5397ebb2bb37ac51604e09b7ba06841e0f9780410083c962bbe64e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0e57efe63416e7ae106aa3afc51a5dbd566365a3ae3f80e5e0511ca98f2a2b4a

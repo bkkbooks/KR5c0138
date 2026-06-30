@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4105
+seq: 4105
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾子使天下無失其朴
+  hash: sha256:3d16afe46a8adde1989e017f5d2cb038e267a914090f3d22b2323a34fb14710f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f3a0974a32623e4935e554095926b6093a9dbb1e45d4e2916a768d213ed9952e

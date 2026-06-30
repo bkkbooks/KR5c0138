@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2974
+seq: 2974
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 取於盡性命之極極長生之致耳身不夭乃能及物也
+  hash: sha256:c535944283cbf884589398f23d2d47e4db0a736626bea3140e3b72881f0a6c84
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0bff504a3fe20a5f80590b416ebc5a4d945ed729f94ca2d0edb39bf7298e83d7

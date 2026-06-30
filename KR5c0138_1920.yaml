@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1920
+seq: 1920
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 亡身不真非役人也
+  hash: sha256:8ef6851c23f62d9644a7ad747cc2057174d2a16c75df9a3e4973ef755063345e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a75e2a7fe8e5e065ff34ae1e3c7ab50d1f50feb7d93086d14454b6ac53c42d89

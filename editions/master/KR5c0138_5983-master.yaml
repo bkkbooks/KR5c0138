@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5983
+seq: 5983
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 居不知所為
+  hash: sha256:5518e7d964f91333733db6ff2081583562e2e2bccacaabdb00ee54a2d6d4e9cf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:44ec8a909edbc2b84a3852a522158514757887a8bf21f3847aa4c8c0e36e084c

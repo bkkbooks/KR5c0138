@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7051
+seq: 7051
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知不過極物也
+  hash: sha256:19018e8cb9f5c905812e510468ad0ddba212668fd49224a7baecd38853a44136
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e261128019734552d03d573cbe428ad1fc83ec559b53792714d99b5a58fe8b1a

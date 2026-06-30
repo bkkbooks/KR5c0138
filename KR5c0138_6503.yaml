@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6503
+seq: 6503
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丘願有喙三尺
+  hash: sha256:13c1b211b09872abbc8e0cba390e8c050e8fe3986891bd172039926f61597de6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:80a68b2a00eba180a13a2f73248895070cf9006d0e4448350cf8347ff27677c7

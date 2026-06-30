@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/274
+seq: 274
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此盖恐悸之異
+  hash: sha256:5c5de75214ddcbe928dc4c1bc1b89ecfe2b45bfc28d64e6e4d1b97b2f03e97ee
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b503c034cbd0094710596cb3c8563e5bc9e2512ff747e9e260cfdc6aa14cd28c

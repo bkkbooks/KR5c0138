@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3573
+seq: 3573
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此天下所以未曽用聖而常自用也
+  hash: sha256:749e5b3b72e1872f8b09657f498d2d57587bf6fd7314f3ee716dbcace548a290
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:27ef4fe2722f77e30a0b100315bc35f88faf2dd3f7970418b2ca41deaeb423a4

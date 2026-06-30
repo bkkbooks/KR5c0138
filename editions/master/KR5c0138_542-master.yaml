@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/542
+seq: 542
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是非則不知其與言有者𩔖乎不𩔖乎欲謂之𩔖則我以無為是而彼以無為非斯不𩔖矣然此雖是非不同
+  hash: sha256:cad61af2b5f5671977361e6fa8e40343605621757b51c4bab5d42642141d9840
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cf9fa0cf8e097f93269fa485fe9ca65fe35b9dcc925874faee4745c374851b2a

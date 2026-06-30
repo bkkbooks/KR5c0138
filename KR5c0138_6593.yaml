@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6593
+seq: 6593
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 㫁正不制乎一人
+  hash: sha256:963625df35f90249fc2fba727704ddbaa3264200d89dc41dbefb489e612287f6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7dd584c2a85fe3811a063c4c4c2e1792efb40a86bebbc7050c4ad85fe20b451b

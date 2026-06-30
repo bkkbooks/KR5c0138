@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7978
+seq: 7978
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 察古人之全寡能備於天地之美稱神眀之容
+  hash: sha256:89674d1edae6e15989dcdb4aebe19d0ab56fa60aab38cb68695676936297e116
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c2b990cce7d7f0fed963895272622388d4ae558593462ab65ba23d8cf8082db8

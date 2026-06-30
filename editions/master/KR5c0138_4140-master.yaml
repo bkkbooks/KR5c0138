@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4140
+seq: 4140
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 則人始有天矣
+  hash: sha256:4ffca738bebc4842e5ef97b601911cedaa6718368ca665b095d54ba6f5dfaac7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:edb4d601cb3d1d0758fddb0b23e4157ea7d4448923cfaf441f5f11552278e43d

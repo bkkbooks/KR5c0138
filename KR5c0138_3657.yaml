@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3657
+seq: 3657
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 㤀樂而榮足
+  hash: sha256:a17d377ef2d3bff441ac4ca9e4a05f27632243a02c31f52ff473e6f9af13c479
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f9cb869bd0372ab10ce22460997531e49f21b237deb1dd29e1ea7b65aea030e4

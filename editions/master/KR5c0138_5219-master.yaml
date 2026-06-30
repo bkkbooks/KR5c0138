@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5219
+seq: 5219
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 小人甘以絶
+  hash: sha256:29253f7b25bd028ad3228f842a85f795d0167e7af0dbf2d05f8e6072d1fcca0d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:99714a6fe7318ed9af9b374ff0e8958ff6ac8e4b05b9653c0aaec7bafedb1ddc

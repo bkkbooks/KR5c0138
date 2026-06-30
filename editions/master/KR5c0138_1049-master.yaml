@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1049
+seq: 1049
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫名知者世之所用也而名起則相軋知用則爭興故遺名知而後行可盡也
+  hash: sha256:ac41c738f9a6a6b13b7a80bd6a71c1470c4769f3dd26d8ef052be46a96ed3e5a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a82ebdabad92600f131848cf5551e1892b3f056b01ac5abe3da560b6f74a875c

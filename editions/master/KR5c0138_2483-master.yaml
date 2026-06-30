@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2483
+seq: 2483
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 唯所遇耳
+  hash: sha256:a00c91cae239317ad00bc580958f40bf4ef0829f12247d9957122f3a873634f9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:873b604ed82b743943c8ad1f8f45b4ba8d5197443136a44bf020dba8225f9721

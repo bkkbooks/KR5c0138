@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4470
+seq: 4470
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是故大知觀於逺近故小而不寡
+  hash: sha256:414d6310b7754b2a5adac3a77bd11a66f8e8097446eda4c532c125929674ed81
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:636853a14d8a54e5e41e346adc11cb3f6848e27b1115821e4ccbd9cd17cbbefb

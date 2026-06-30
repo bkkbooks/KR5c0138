@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2154
+seq: 2154
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫大塊載我以形勞我以生佚我以老息我以死故善吾生者乃所以善吾死也
+  hash: sha256:ad2635337abef0b45b45db0e35ad8aa450a70421de54f7a084258645639343b6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a30f115959df0a1fa2983ee0241f4c98d9692369d702723f3dd3a6a3030f7e67

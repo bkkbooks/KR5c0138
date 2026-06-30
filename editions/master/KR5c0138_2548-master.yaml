@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2548
+seq: 2548
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以枝正合乃謂合為駢
+  hash: sha256:84947885a6767545a7ce740dff293d2ec6f986d62c8cd7fe8f507b04fab51e41
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cca1016d831690ab702d5549dbd5950eef71ae6dde337444080f4572b6942b68

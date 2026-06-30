@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6232
+seq: 6232
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 動無非我之謂治
+  hash: sha256:c256b1b4a0f5792f1713292d16154a292f47b7b64815bd5a4ce8e8f0981d4f17
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9271890e97988edb8d10200d9d5b65e2f5881cd18b58e44068f87e99ef1915bc

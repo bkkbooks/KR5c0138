@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/230
+seq: 230
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是唯無作作則萬竅怒號
+  hash: sha256:977cf63b9fe23dc3c347fa91414a1ecd0dd579fbc19e6ab71df21102d3149418
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bd19811603307560d07d9c9aadb0001781034b69f9a5b492e6803e745da36b7e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/591
+seq: 591
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各止於其所能乃最是也
+  hash: sha256:9702f222648d8275d458e8b9e6d055754d045b2ca1f35d068b7297c11695da0f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:109b217751ed8057432f04235a8d8eb25b9bf37a486f14f294d195badb362ec1

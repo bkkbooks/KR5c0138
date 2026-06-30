@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1958
+seq: 1958
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以徳為循
+  hash: sha256:8e87f97bee9a6f30908a625d64d16a202665623b2962af8b92bafa63969b805f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6ffa8207abb0129dd6a701bbde6f9e033fecd5306838c7fadafdb2b95c616ee7

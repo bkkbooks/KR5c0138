@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6970
+seq: 6970
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 伯常蹇曰夫靈公有妻三人同濫而浴
+  hash: sha256:2a4ce67feeb87d479af529df7c5ace67c841607944d1a3f4536be04b2e8e7b9e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:11599eef1905ac18c30b63d322d6a8d2da5f7291b787ea84ff904bdcc8788c51

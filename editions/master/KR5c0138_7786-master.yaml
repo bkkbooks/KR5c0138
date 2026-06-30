@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7786
+seq: 7786
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 順於兵故行有求
+  hash: sha256:06da09236ed494b4f47e0a0858e25961db1cec624408e2be3945ece7aab0f0be
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3c55ad2802de6e85e00fc16635ad3c73e26ecef38f53610c6f0add3db6cea0e4

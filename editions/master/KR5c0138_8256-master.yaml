@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8256
+seq: 8256
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上與造物者遊而下與外死生無終始者為友其於本也𢎞大而辟
+  hash: sha256:f05b2693d8aad8a153021dc4746e4b5576088c9a4ec1732b12a10cdd1573ef41
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dca10c5e5fd1903f9cb43a9f870c002ea72b8315a2b12cd68ab5509955798095

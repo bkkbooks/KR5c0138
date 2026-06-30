@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1581
+seq: 1581
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其恬漠故全也
+  hash: sha256:452bcf88da36ed62f5aa2587c124d11f774bdcdbd8bcde410bf890706dae33de
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:22c07b2dba841b02e998b7f1ec669dfc0962ec7e1e2ceb6cc6914d606b1b2b58

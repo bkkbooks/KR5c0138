@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6803
+seq: 6803
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得舊猶暢然况得性乎暢然喜悦貌
+  hash: sha256:68566f945925e9efef2bd48b7411a85fc94194fe69a1a9c1e89a320b889441a8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2425b134119d852702edec05582c394eae7d4c1b4641c78d65f8a01c0a9186c4

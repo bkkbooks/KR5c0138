@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1572
+seq: 1572
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一知之所知而心未嘗死者乎
+  hash: sha256:64af7f906ad16faf191c2855faa82cf1aad8b0e40e125deba80a6decda2c7590
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b4c201f54cf583373d058b1ff42baf23afb6e810dd2c35ad54090348e6187bd2

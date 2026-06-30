@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7765
+seq: 7765
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自是有德者以不知也而況有道者乎
+  hash: sha256:f3b13dd96d744ea0c3f0130bfc94a963f9b1dbd0c8f6cd3072ac0879904269a4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e278ec91c27c9659e117d9871eccab2d3d68f6933da182d1dca8cde27c608fc9

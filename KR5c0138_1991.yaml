@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1991
+seq: 1991
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人之有所不得與皆物之情也
+  hash: sha256:5ec80ba47f5da082a3ccc997eb4d0f71fc8f2c281e0d835bb4e8c67ca40b4fc2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5a25197658a077fed0bb5bb186ebee50cb6d2e0f2e6da019da7ff216c03805e9

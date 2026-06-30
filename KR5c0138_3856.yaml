@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3856
+seq: 3856
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至人之心有所定矣
+  hash: sha256:6c7006b43e56b2284083e707af6eb8683276e535bbf483b58c9ff5f8669bc058
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:72ce33692f762547eb626f5c34693db2d8823ec78792dcf02e96496150894cd2

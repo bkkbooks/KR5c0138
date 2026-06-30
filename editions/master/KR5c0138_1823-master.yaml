@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1823
+seq: 1823
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫好惡之情非所以益生祇足以傷身以其生之有
+  hash: sha256:4a07850c97d072c84dc62d0e9167b280cfabbc420a9b9f99c52d298003f78500
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3bc5e183e037011e19e532ca5cc478191e037de41f2eaead72d8f37918d7ace3

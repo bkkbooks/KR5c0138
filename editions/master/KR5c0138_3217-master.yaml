@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3217
+seq: 3217
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 萬物萬形各止其分不引彼以同我乃成大耳
+  hash: sha256:906418229f6c3dfeddc7e4b6ed87503d15e021eaf1b8b0c8c4b48139a4b0cde6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4d1b44cc4f128c941e8d7338820bdca070c55e2044453bdf24d1e584cd62c243

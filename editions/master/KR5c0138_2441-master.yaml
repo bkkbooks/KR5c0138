@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2441
+seq: 2441
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 徳機不發曰杜徳杜徳機塞吾徳之機
+  hash: sha256:718f0459f6501d7ff5299071f28f837eabe72e6c2166785c463e00522c1656a5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:464798f2168c075d57c094fb11b0e1ccdaaa0e8d0083e9f67cb36068fe8795ff

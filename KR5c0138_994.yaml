@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/994
+seq: 994
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 感物太深不止於當遁天者也將馳騖於憂樂之境雖楚戮未加而性情已困庸非刑哉
+  hash: sha256:e27792f7ff8b3b2bd94ac5be8637efe3f632438ad1f060b4b8168164dc1b629e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fc117b411d65842fa0cfbeab31e908aa2ab815ba8d075ca726403b276bbf7838

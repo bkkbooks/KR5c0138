@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/339
+seq: 339
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如求得其情與不得無益損乎其真
+  hash: sha256:669b352300af1f6bc2809fd5a806ee760cb8bfe651f4385e409857831559e6e2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4de974397fa9d79e38048c146c78a04f7de388c6ba5ee48d8984e42b45a7f231

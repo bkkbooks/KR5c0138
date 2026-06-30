@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6016
+seq: 6016
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 常泰故能反居我宅而自然獲助也
+  hash: sha256:bc7cdc9049c41e815c56664f0e95ed923985534cfdd339e2413ec91312a6d1d8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d18086f97256e01d289636689d84816e26dbd2bf8e41b6f0d4778deb315bd10c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1077
+seq: 1077
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是以火救火以水救水名之曰益多
+  hash: sha256:a525acd6dc516a98c61335088cfcfc4d1bb31b9d96e733c23011dbf765f88514
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e3de6f9b18f5425f58ffc0b606791dd9e9432a95afc469bfe4d5ef49000e5ef7

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4741
+seq: 4741
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 非其任者去之可也
+  hash: sha256:4cf3758aa52051f2f2e07a9e28a462aa7c4ebf7c6e28ebe0430a08c9a8b2bf65
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3cb9a7350c4f6ca94f700e3a6271fa520f4c196ee6988a46ddcc0b93a396c11a

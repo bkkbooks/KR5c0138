@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1825
+seq: 1825
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今子外乎子之神勞乎子之精倚樹而吟據槁梧而瞑
+  hash: sha256:e32b77881724282df82f6f2567e27ef74b64857ea143811b0069be1f3eef5d7c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:346e60741dbb405b515ed515ab3c0b8d83d5ccb73d09e47f4f6da9fe26342ca8

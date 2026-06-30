@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5300
+seq: 5300
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荘周然曰噫物固相累
+  hash: sha256:389afb94bbc2a6351d82e083e5b4a2d1b1a0ee09a9b47c7d62c4bea734b99add
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:90147f9ecca911796602e0b6bd0935d8f6f151a9bf1f0d17a3bb95ea7bf9f5d2

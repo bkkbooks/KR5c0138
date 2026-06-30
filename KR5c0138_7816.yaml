@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7816
+seq: 7816
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 将令後世之從事者無實而意趣横出也
+  hash: sha256:c0aed533ac6b3ae4e22dc92c0227bf86a7e377196eb55b2d9027a42b83bd30e8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:61f2246971f6326ff6af5f0db4e4af77c21d007966849cab7487b3230f7e008e

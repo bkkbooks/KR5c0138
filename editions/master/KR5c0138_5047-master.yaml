@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5047
+seq: 5047
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 器之所以疑神者其是與
+  hash: sha256:7101a6173ce2fa8e0dc653103c4b80a39aa4110c64c180c849bf10799623b9c3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:47c67b505d3b395b4368c7168e0e2d65e6e96f0fe4ae97ac64e6c912504b9245

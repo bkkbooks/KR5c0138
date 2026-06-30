@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3043
+seq: 3043
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 闚問則失其自生也
+  hash: sha256:748cb2d40a29ba0bbaf863d8c569bc475fa7f733f967e2c2bf70c84071e7b675
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cdde95d38476108574a8a2cb3cfe055c3fa17426b3a7e430c0176d8a4e833815

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7519
+seq: 7519
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 飦或作饘廣雅云糜也家語云厚粥
+  hash: sha256:c6e36229236de234ecf4e39b1308aa05deded64b4142f04edb228f48e75ead8b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5750394e0c93541c59220b9d83e54ecb8e7d97fe7a6a10d83377ef5fdbcd9762

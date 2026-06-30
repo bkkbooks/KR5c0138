@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1149
+seq: 1149
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 顔回曰吾無以進矣敢問其方仲尼曰齊吾將語若有而為之其易邪
+  hash: sha256:56b7500632213a87ca6ed4c294a540229606310f3abd7a43f4e43d901aa7a2ba
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3dcf729b94b14949f66bf4a2662d11d50d36f6ca74c68eda8771d17745d1acbf

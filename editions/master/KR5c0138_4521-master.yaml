@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4521
+seq: 4521
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大人者無意而任天行也舉足而投諸吉地豈出害人之塗哉
+  hash: sha256:5f29d0b7472f69761479a27ef4cbc4bca80cdba7c3a80500577cd408b01abe08
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bebe5fa9300b108cda8d788ebd86494691b8ee79366f4f73513f5112c0f84524

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6525
+seq: 6525
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聖人并包天地澤及天下而不知其誰氏
+  hash: sha256:af7ac1122877b9a617a53998cfa89e142b6df3f3ebd967dfee25b81eb00aed54
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:27570b73d50787daa9ecd567389641c085d86212bf2d2cdb8669531ba49e5c3c

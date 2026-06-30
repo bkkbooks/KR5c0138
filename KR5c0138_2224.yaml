@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2224
+seq: 2224
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子貢曰敢問其方
+  hash: sha256:577c4e01819312a593c2b0e968413d1b6e5fc3dde96f802921c35f3c8c6ac4e2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3c4e0cde8de2c30d98877a0c9c0ad418af433c262450ee4ee2ff26d2928b5b8f

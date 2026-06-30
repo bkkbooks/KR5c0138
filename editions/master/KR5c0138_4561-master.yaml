@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4561
+seq: 4561
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各自足也惡音烏下同
+  hash: sha256:9c842f80c415080f67a613f3811511caadb7131e4c999d106d9fd3c2a168d5de
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3461883a3c760b6d81bbe0e62da4ae659fe9a42b812e6530da96424c79677526

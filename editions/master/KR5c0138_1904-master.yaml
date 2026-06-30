@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1904
+seq: 1904
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與物有宜而莫知其極
+  hash: sha256:52568921ba6109b4768b1bc138f05dea869d90c0d47fa18b9419ba34a2161859
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:93bca7cdb3bfac2186a0fa5e03a5b99e7de984b80a3eb654ed18a6e6de3ee228

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4289
+seq: 4289
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫體天地之極應萬物之數以為精神者故若
+  hash: sha256:7e60e69271e641c9274a8e79c11aaf9c17b13a8a2e50e4bdad7a3937f76cc1f0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:394fefaea7a8fdd3048f4a739872bb5249d79748625bd8970a71523341091778

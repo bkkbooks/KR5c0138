@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6163
+seq: 6163
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 既披然而有分則各是其所是
+  hash: sha256:c08ecfb85847abd70a9aa00ca0b042a8fd2e06aeac6a46b20ef8ea55077bab97
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0ca0fd9dffc1d45917b663323bda6b0ed69fd98cd0a3d8a9cca08a2c0ca8d65e

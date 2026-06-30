@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1840
+seq: 1840
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知人之所為者以其知
+  hash: sha256:2994282c8a03a7da1970673d0e7a6b371b4356c176af371b4125500269d2127a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8b6fdf278708ec1641f565528ecfa2514cc3c178f73ee49e4622c89a8525f86b

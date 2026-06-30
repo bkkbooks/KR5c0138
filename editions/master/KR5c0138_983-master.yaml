@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/983
+seq: 983
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人弔亦弔人號亦號老老子也
+  hash: sha256:c6c61980c0453ca229a43e5cd890e20e940c50c0814808f23bfca58d9f17494d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c5bfba28c6a74d784f4e605fb53acf18015145a949a80fc430b07a44fab42b8b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3574
+seq: 3574
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以二鍾惑而所適不得矣
+  hash: sha256:97b0bf6b9d8e78aeaf78c857dbbd2dcb88ad545d676d492cefc812dad8af4b46
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8c9fe447a34597f7e1732e705c7cdd5018ebaab226fea3e60c7081e287079045

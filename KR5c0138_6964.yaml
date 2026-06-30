@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6964
+seq: 6964
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不能用彼則寄身旡地
+  hash: sha256:ef62b2cc60c7b950ef6b823b3e4676e186391e073991aab01f18824c03d6e50f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ffa9e46744fbc925b708993b0d603561552785e271ebae9e80947df31b9f545e

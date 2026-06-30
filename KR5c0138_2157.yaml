@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2157
+seq: 2157
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人耳人耳唯願為人也亦猶金之踴躍也皆知金之不祥而不能任其自化夫變化之道
+  hash: sha256:b63b668effb3e97a536952fc379ad87cf8891a22a0a6bc5217f8639b8417f1ec
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:622ab7217979d47deb2eb91ef9d00d81d5c62751a72217066d7bbc0a9a7341b1

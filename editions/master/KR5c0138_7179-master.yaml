@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7179
+seq: 7179
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聖人躊躇以興事以毎成功
+  hash: sha256:58307119fe5260b753ee4af705e2f89a2ed2a17e03b09d7c539ee834a2e4c842
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a5ab54de00d2ce06434c057527a0e963c2b0e4835f85cf35cb321282b4ff19f7

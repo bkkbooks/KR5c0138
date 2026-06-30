@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5304
+seq: 5304
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 捐弹而反走虞人逐而誶之
+  hash: sha256:606578fe7d82de4d9c53302ad09ee8c01c0cee8c89310a4fef5481a6aa1bfbb9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:65e95db482dc0fed4617dfdf7f1b0ec5aa2f1bb3f4a2462ae685493289f5f844

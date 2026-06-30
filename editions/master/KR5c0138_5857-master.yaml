@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5857
+seq: 5857
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 山林與壌與使我欣欣然而樂與
+  hash: sha256:2ca3a5b63f4903c14c3830241a912653bcb1d090412b3d3b0bd1cd98b1dd156c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:12d1def5833e93381c194a7e5b4d0d7f4b107345bb0e02dde955bb606511d59e

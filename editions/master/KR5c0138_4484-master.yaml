@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4484
+seq: 4484
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 證明古今知變化之不止於死生也故不以長而挹悶短故為跂也
+  hash: sha256:eba2fe5231970e5542faac06951a55aa2df8121a39b13c88e7000272f90598f8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:535fbb2f27eb40f00620509a614cb367284f4c19248f71812ad1c00196b148e2

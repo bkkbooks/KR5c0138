@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2535
+seq: 2535
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫有耳目者未嘗以慕聾盲自困也所困常在於希離慕曠則離曠雖性聰明乃是亂耳目之主也
+  hash: sha256:0599033f68b0a949ed819c506bb38529be0e304bf195fc35d9b9a1d911a4e166
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e9bdb5290b164da3fd8ac4132cbecc7eed6b0c9ba76ae2d73d67debdd3a69fcd

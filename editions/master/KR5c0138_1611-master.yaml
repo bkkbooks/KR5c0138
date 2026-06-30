@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1611
+seq: 1611
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫我之生也非我之所生也則一生之内百年之中其坐起行止動靜趣舍性情知能凡所有者凡所無者凡
+  hash: sha256:ecade5db32e0762f852e2280e6c3b85cee78c17de85f9826c73dcef0984e6cb4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:56f8884a1ca6564a5c82ed02cc69a06b94723591a0f5ac26ed6559407080aff8

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7753
+seq: 7753
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫造物者之報人也不報其人而報其人之天
+  hash: sha256:6f083333fe283e6ea3d7e41018f2a0fc22bb830ff8c6f3d4070fd83e9de50e8d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ab33b8853b8c48b716d6a2c49d22ae4642e50be66ea14ec1259a42a79d4d9fde

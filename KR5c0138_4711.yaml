@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4711
+seq: 4711
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天下無窮人非知得也當桀紂而天下無通人非知失也時勢適然
+  hash: sha256:4f46c019c88422f5b16531896f82cfd5ddbacbcb3a1531db4c82d23bfe871408
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:79db677c623d002fb997d73fa3b747d267ffc6062d6bb3d1ff403c2da6bb0904

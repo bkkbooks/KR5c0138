@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1501
+seq: 1501
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人雖曰變然死生之變變
+  hash: sha256:708d6a410b66717d7b8d730772cbf9e632a0b8b8f1815ce05effe7c8baa81dff
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5913ac0c670568283eb0b9988bf38c2eec4141c57860edfb27885a62204d0b86

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2424
+seq: 2424
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鄭有神巫曰季咸知人之死生存亡禍福夀天期以歳月旬日若神鄭人見之皆棄而走
+  hash: sha256:77392ea9b9b39fe02ff8e44d91cfc71f5cbf60966d2d22b5ad7f0db995eeaa55
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b94b375596a8a652fbb8330916462db4767ebe7dfbd75da44b885c4bd9dc75c1

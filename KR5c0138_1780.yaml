@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1780
+seq: 1780
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言自然而禀之鬻音育養也食音嗣
+  hash: sha256:f2b65707db04e9f9ae1c1e50ebf858e90f20b4751fd4de8d858a9803275b44d3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:307206682d6fb214ed73402c67beaa85cf808b94d8c3e8625c8f60a53196b5e9

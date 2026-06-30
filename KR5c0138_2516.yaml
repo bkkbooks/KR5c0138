@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2516
+seq: 2516
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 南海之帝為儵北海
+  hash: sha256:406ed8f53dad464041110064242e59eefba3e2cfbb540c2677c5f1e39bd520f4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e605add85898f6d9334319a157c70282be0100171d849acd161366f2ba8448f9

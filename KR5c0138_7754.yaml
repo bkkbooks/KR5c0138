@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7754
+seq: 7754
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自此以下荘子辭也夫積習之功為報報其性不報其為
+  hash: sha256:f8be784f4f3f7096e01747ec33e7157e0a7abf67ddb6f829a63bbee8e3ef9137
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:141a8dee763e569f6dbb42171981847d4df2f1dfbf72ab2179313182e2ff4ce2

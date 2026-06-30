@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4909
+seq: 4909
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 請問何以至於此闗尹曰是純氣之守也非知巧果敢之列居予語女凡有貌象聲色者皆物也物何以相逺
+  hash: sha256:1eb225f1d7ea781cd19178847e570483c33bb091b3c4d295f3ffd2ec4c009a88
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5fde189631cf22d4a231966bd77c1ada22aed570029be1f004a946a0fe70c483

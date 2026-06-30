@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/575
+seq: 575
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天地之生又何不並萬物之得又何不一哉
+  hash: sha256:f1e3d7dcbbb397e0cd9dc61a57e3211970e703f62c7862f27cf259df64c685bd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:526ca15c25e370db2d6e6cb5b9f3988bac43d736fcb21a718af4e5c9475c5c26

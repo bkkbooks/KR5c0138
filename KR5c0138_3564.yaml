@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3564
+seq: 3564
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大聲不入於里耳
+  hash: sha256:84fdab50c2d5d5f72ae8d41f7f8b1286c4312cf173ba20dc8de0c921bad21302
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c78317fefb84a9e838a43423c12f05646afb66b6be543509a64228fe4685c0ac

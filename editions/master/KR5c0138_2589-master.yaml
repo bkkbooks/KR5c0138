@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2589
+seq: 2589
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 然故亂心不由於醜而恒在美色撓世不出於惡而恒由仁義則仁義者撓天下之具也
+  hash: sha256:7898aeff53e8c772be129938dbc6444c01396a705030c8b51452f38f9072935d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:46fa9e2b9462b4e3b7db1e0a3bfd660df1dc6ae147dc1d30747010770db506ae

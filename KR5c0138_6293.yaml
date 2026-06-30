@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6293
+seq: 6293
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各思其本性之所好流人有
+  hash: sha256:65e6bb4e58187668c3b167a43cbce4fdfed43b772230489bbf58f84390c7f21e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:53d859d360547006b2220501d0b2469560891c9a8bc9ef910ed5d265422b5374

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3297
+seq: 3297
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 許由曰殆哉圾乎天下
+  hash: sha256:7b29ab36a5fb5a7a9d768bd5f34be9d3eaa07b56efad83d0f5b39ddfa5ad5936
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7f536b7646be457189b98313c65258344783621a9e94f87aa0670b6ba234b980

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/725
+seq: 725
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 騎日月
+  hash: sha256:86a26c7bb4a1702db5e1e078811e0f959d7d72bd07883c0112e57067134035ac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8ac8a9ed37bcf3f5a825089b8bd0ba561b54f6191b0ced799fe09fa0e0d8941a

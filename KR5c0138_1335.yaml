@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1335
+seq: 1335
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 反覆與㑹俱所以為正身
+  hash: sha256:abf0493a954f1c0aa13de0edebd7e3da3991252ced84243d93553d9e61a8a452
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f24feddcdbb9d66b5d1fdc65aeb4b28d7ecf2a5a7ee480d64f12c257ab57b9e3

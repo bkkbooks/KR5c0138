@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5914
+seq: 5914
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 混然一之無所治為乃濟
+  hash: sha256:1d171385a58da94a455b5ea603c40a610708ca49c789e3bcaa9af49dfd3525d2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0e31e9293a90a776581b885d719680ee200e50007c9001fce45cb6bef88051c4

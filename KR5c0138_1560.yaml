@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1560
+seq: 1560
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 幸能正生以正衆生
+  hash: sha256:6ce336970bb3a0d6aed99660ce36c1b746f5427301e210528b6bf8413ba7cfaf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f93063ec2e1cce4ab04569ea2488ce6a14edb0da34c2c6d3484784a050d871f6

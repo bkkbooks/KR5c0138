@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1451
+seq: 1451
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孔子適楚楚狂接輿遊其門曰鳳兮鳳兮何如徳之衰也
+  hash: sha256:90a463bc647d8156fdbb8230793c5a850dbf6677125091af959591cc96943a64
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c4a2877718f6a443058e0adea9dc597f5490b29891759af0ff4ad58c22cb6e24

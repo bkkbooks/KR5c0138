@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4679
+seq: 4679
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人之生也可不服牛乘馬乎服牛乘馬不可穿絡之乎牛馬不辭穿絡者
+  hash: sha256:19035471a53236cd61264b5e2fe27765024c9ddc58fea52677aad4b20e7f440a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dc7be6e004d49a8b8319b182a310354929bb30f7e3ae4b5edb3328c8756fd067

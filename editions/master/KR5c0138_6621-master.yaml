@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6621
+seq: 6621
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是羊棄意也
+  hash: sha256:d521f9682941c696e9c57c32bddf1d7028bf2040373a70e1395c00f1f1c1e84c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3c5d8bc888b666e479ec8ffc64bef95472c4136cea36114ab35afdc82503bc53

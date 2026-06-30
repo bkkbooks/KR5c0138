@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8076
+seq: 8076
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以為物主也
+  hash: sha256:098fae344b3e3e26fae3b01c19d369c10f054a21a9230bfaba8e4079d0bbc20a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e4fae595dc6ab1a85b9229f44c71714adf80f3df55346df8d5d334a595d1356a

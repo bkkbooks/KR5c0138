@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6454
+seq: 6454
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今五子自是豈異斯哉夜上人舩人必擠已於水也
+  hash: sha256:ddc3b8f4e0ed5ec461239205fc8ede0bcc776a071f2f754548e5cce16c0af3c7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1f8513699fedc6447022c759b9d63319b788f1f6db0921f13eeadb2128a683c9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6792
+seq: 6792
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若性所不好豈能久照好乎報反
+  hash: sha256:a3064fad358ad66483abf828c4d7f08a7eaa163e969df4f5f9aa3b78725ebc26
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6d53156e6dec5dba9d715992deeb7f3de5421ee72111caad487ac28fe3f4251b

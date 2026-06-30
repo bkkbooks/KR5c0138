@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8140
+seq: 8140
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫塊不失道
+  hash: sha256:5abff09c5bff9edb78dfb44ef80ff14b2f619869640fad43f0863cb6858ce35b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0c5e1e10afd7906812832575f3d0352ab94414bb87ca998a12699d18a08006b5

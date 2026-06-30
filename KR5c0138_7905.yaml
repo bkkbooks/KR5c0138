@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7905
+seq: 7905
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 達小命者遭
+  hash: sha256:ce9acbae91442dc945686cd8b7adfd8929ef634ac0a70d7d0f6444910871b1e0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3ca25fdab44e1f00cc9d2c587797045f7e0205a8c39c51b29ae7561a38e00a22

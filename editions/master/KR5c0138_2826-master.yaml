@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2826
+seq: 2826
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物莫不失其性甚矣夫好知之亂天下也
+  hash: sha256:a66b32e1b62396e59b591ef8d0b4a360fd5ef5a49548d1fe82871b1ca32a4bcf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:94383f9094e5c5720e194c1cea4a522db94663907ee4ef356d338b9eb2f0e797

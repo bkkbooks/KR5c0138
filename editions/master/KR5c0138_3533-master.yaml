@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3533
+seq: 3533
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蠢動而相使不以為賜
+  hash: sha256:30582365a3ea3ae3312b2fd5cda5f778ac1f7718465bf93db0b212ed4e12bd88
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:68a573c88dffb9efbcf8d2cb976f9b1a429f6740d66abc4bcc97884c9ecb6530

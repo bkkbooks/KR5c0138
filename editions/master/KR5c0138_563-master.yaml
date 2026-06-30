@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/563
+seq: 563
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此都忘其知也爾乃俄然始了無耳了無則天地萬物彼我是非豁然斯也
+  hash: sha256:b93c8f10ca0b2916c13c908ff8f2d5d5a350ee6bd9f05d68e168ec2d4ce8826a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1f3c4c85a59c21255848ef2daa45e857dc19ef88901d31fd1ec493b4cf72b1e7

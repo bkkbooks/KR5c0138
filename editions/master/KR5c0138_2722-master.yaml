@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2722
+seq: 2722
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 由是觀之善人不得聖人之道不立跖不得聖人之道不行
+  hash: sha256:e57c994f6ab8085fb8b9e3a677f227a36f4c2a98bf909e0c38a348e8430b1ac5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3dbe252fd947c2ab2c523eb6a88c6a0baf9673ef049382221ed4a690e92d84f3

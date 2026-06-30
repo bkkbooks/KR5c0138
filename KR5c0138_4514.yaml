@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4514
+seq: 4514
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫精粗者期於有形者也
+  hash: sha256:4bee1d74529c2f32fd51bbd55ca69465996611c46bb875a6100782bd9669c15f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:510142ec17781d1a677c5bdc69130ab9b66266fad75dac2c031f22f73bc4b45a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3642
+seq: 3642
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與人和者謂之人樂與天和者謂之天樂
+  hash: sha256:751769fa5d61f3bfe7def4a9cc5c7c5382f2cc00e7c1d35c275698b159c1a690
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d2bae02b36fb317f3f798e09c1a5c1c5b6d8130e3b76b36619e18ca5440f7b32

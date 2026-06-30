@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5367
+seq: 5367
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫有不得變而為無故一受成形則化盡無期也
+  hash: sha256:f1b48938db5534c5bf98696b51a772e77061f8e9de3e4b557df26c8671b699ad
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b056ac0e09ee78278dd7ac388c5a5edf0d14216cde018e667096153d97a87872

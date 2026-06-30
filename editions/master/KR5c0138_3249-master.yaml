@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3249
+seq: 3249
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 忽然不覺榮之在身
+  hash: sha256:7e0ed9f450fe672b9b7c135fb6a24a46b38a5055ef4916827a91cd0cc5763a6e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f3b1570117a2ac7926b5dd2964c485e9795fa0537b146a91a6abc8e7a80cf97c

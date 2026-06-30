@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8084
+seq: 8084
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所謂不辱
+  hash: sha256:6ab13bd728f34836b534d7a68e34b43a6fb3481989c822b72d9c3a6c7214a628
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:162f4350cc760bd88a888e0a374016cf3ec5dc36c46c2e46a052509a4e977b5e

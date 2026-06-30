@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3248
+seq: 3248
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不以王天下為己處顯
+  hash: sha256:15ec28b52ab1bba27ee7bb514197f58067b5f381747982e39c7b6a3e27342b68
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0fc1b4cdf6eb1328fc3f25ee33f600eb7a6930f6ffa03402deb84b63cb785136

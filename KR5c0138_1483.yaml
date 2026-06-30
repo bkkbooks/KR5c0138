@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1483
+seq: 1483
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有用則與彼為功無用則自全其生夫割肌膚以為天下者天下之所知也使百姓
+  hash: sha256:aabd03a00754f632c2870fc2d8fc3192f45bc8c66edb089a59b84c1bd895e616
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:de859adce781ec80e3c58b8e29f73b5c98b05278d89b685d82842ef24816a056

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1571
+seq: 1571
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人用耳目亦用耳目非須耳目
+  hash: sha256:48bfd7f1bd04cf0f90165f6b534893fdeb01a936bfd63159f64c13fa9e000ff6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e0f51797e75e6546e57f8fe0502113f1fb4a230ee8fb615c104beac4256571b3

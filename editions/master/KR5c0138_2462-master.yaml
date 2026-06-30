@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2462
+seq: 2462
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 淵者静黙之謂耳夫水常無心委順外物故雖
+  hash: sha256:56daa02353e5b53f30f4d2845283affcb173d170990209233cb949aed7f30575
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bff38f5b6680f963169424d0c8d08ee09abc3e91704af59dba1aa74b2a93097a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3478
+seq: 3478
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 在彼為彼在此為此渾沌
+  hash: sha256:46adf7d0ba179f0e9e220f26281a6b8302d38c248c950907b4ce315de54ce258
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:158c77df79a861490ae93afc6bce6124cd6478e724af21aaa6274af5c808f4d4

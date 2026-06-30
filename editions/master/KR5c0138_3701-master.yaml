@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3701
+seq: 3701
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言此先後雖是人事然皆在至理中來非
+  hash: sha256:2517671e3388404cb27816562a004c2b7e73690a24f235662a9780de070276d7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f71e69e0c4ed441a9f2b07a2941caa5816bc44593c7dbcab0e5350bec45fd540

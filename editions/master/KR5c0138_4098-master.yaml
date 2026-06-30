@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4098
+seq: 4098
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 守故不變則失正矣湮音因天門一云謂心也一云大道也
+  hash: sha256:446881e9b6fc397eed97260ccab16d79a05870553a21ad79d69822c7087153f5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:93f9993a1c18dc9e3a65e1920175965b1756eea4796c0a630fe2064259b63a38

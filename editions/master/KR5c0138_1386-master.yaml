@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1386
+seq: 1386
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 將比予於文木邪
+  hash: sha256:7ec859a8042c22e4b5681899e75d990ce41e4ab43da5865eac50a9cc5b413f76
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:93f7f7b611f1a8d1b7650c26433cea3104b86717794034b36a6d6fb92cab1cdb

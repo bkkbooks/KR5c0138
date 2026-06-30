@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/830
+seq: 830
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乎我矣惡能正之
+  hash: sha256:8b3f4211f9a15cb9182c3c88e929990b575b059d7c1f1e91ad9f4bba4b5d7346
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4b440c746b63675747124bb9f762c067a89921aac760f4459be95eb82d0340ca

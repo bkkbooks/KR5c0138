@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8112
+seq: 8112
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道則無遺者矣是故
+  hash: sha256:f57be969931e0896800504c82c67165ab5d830a909c6c3240cef4cbd3d4db025
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:55f18256d7c86a597cc5502748ee3aa89574febabe1bc608ad594dc34e7da268

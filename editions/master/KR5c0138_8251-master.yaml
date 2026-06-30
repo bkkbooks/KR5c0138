@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8251
+seq: 8251
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 還與物合故無傷也犿芳𡊮反皆宛轉貌
+  hash: sha256:943819b733ad7e23feeb1d8165dbfabac079eec238cba158b89dcaf6c1ca655a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9cd13a47e4ec26734c1627d708761916cb0b1599667b7c6f4cd78af13cd3baae

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7659
+seq: 7659
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 千里不留行十步一人相擊輙殺之故千里不留於行也
+  hash: sha256:3d49f5e288992084ca7e4d9a2a2652776dc40fd72b8a68de59af88d5ae05772e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d3388dfd9ec1001e8f89cbe424ec0b8df69e6031f87215bdada3e0bc53ac2297

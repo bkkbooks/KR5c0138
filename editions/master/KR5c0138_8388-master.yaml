@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8388
+seq: 8388
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以荘生為辯者之流案此篇較評諸子至于此章則曰其道舛駁其言不中乃知道聴塗説之傷實也吾意亦
+  hash: sha256:00c4405cc9d99f3fde15b76125ae3f2f510807ec150128586e9020c01d096cd8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8279ff0db9010055c82f1202f0c8c3f40dfc9f8767a72179359bafde664a3404

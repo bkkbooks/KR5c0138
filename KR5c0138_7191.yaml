@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7191
+seq: 7191
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 魚不畏網而畏鵜鶘
+  hash: sha256:f359a7022ac3b53e76c1d44ddde4d0fce0ea297b741f8bd7ecb2a0879b379fa2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ad3bb0617beb0a00a346f6ded4bf34c3f6c943eda9ee841131d4d1bb995f3452

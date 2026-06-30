@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7817
+seq: 7817
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 忍性
+  hash: sha256:e5ef54a589e4ca04e66ba57a2280e48fc20e309755f024d546464d24655b1a05
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6cf30d34e891e4b5e1e615d6cbab8c00b8f15e95be31ddec20b1e65b9ca3b9a0

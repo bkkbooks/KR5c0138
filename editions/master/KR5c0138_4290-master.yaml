@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4290
+seq: 4290
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是矣若是而有落天地之功者任天行耳非輕用也
+  hash: sha256:8d8e62e927caa8c1834265f1df6e893a212ffd55c2a5a84db6b96d6149eb3969
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a919b000db76f27b0df0b1d5241237c84a7dc65aa1f40af67917c902fe11e2df

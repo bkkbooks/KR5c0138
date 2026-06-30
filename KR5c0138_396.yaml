@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/396
+seq: 396
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言惡乎存而不可
+  hash: sha256:05d20460d1192ac068c7403d0554070629d3a74283d3b9c8510fdec13c274b25
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fd5c5ae2c152e575208fb70e9caf80d95973bb6cbfcf5d62a1718181ab13f478

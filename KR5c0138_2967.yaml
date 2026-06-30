@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2967
+seq: 2967
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 我為女遂於大明之上矣至彼至陽之原也為女入於窈冥之門矣至彼至陰之原也
+  hash: sha256:f300f7cf3497f33e696a38c18d8c270eb9d80df05cd5e6397549e38ee9a3b015
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7878ae3f792c20226e957af616450ab7d319eb2640f416cdd9734b83815e0968

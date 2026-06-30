@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3230
+seq: 3230
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 君子明於此十者則韜乎其事心之大也
+  hash: sha256:7337727e9e328b541e9e3e55cddbf147076b2fd49419e898cca3f08cbab5e4c7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8aedef89a116c28854f605a5cbe1e72295cddc1fd27db9e239ee8ea7c2dd60db

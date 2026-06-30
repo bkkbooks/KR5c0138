@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6169
+seq: 6169
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 臘者之有膍胲可散而不可散也
+  hash: sha256:4279db887c4b0eefdbb4bfb90b5ce48da546b949e8b445963ec706744e6f1f78
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d40919d4b3fe971b4f75ad402a38cdd86c6ffa99e600f94c35be64066d2944af

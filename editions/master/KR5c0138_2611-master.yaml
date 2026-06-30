@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2611
+seq: 2611
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 屬其性於五味雖通如
+  hash: sha256:7dcf1c9eee705e8b14e7e0a28e5aefa68d6e7d28e8018b6dd1bf7fea39500a30
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e1c9be7a5bf5707133a139a61a618df76885cb658e6d9dbc03c47e7b04b3ea24

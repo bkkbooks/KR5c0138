@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6600
+seq: 6600
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有暖姝者有濡需者有卷婁者所謂暖姝者學一先生之言則暖暖姝姝而自説也自以為足矣而未知未始有物也
+  hash: sha256:cbbd3a041fea5a5606720ded694e76c0bbbaf889a434a6445740c17e1169ba88
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:72518aa07faa9046a85e2b5e717b9b371b9be9b5700a6b7ef010d6338fcaf575

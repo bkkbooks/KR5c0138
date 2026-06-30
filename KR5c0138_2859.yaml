@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2859
+seq: 2859
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 當理無悦悦之則致淫悖之患矣相助也
+  hash: sha256:c73d7b28f7e4b948a0bd9a826f2b1feb726c5a397d05a25b36bf43a0ccd89590
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2f43e1d63b026b9181c0065fc578f21733f8a600c41a0cfaed6f571652cc66b3

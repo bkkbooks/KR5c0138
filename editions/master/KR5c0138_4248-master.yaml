@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4248
+seq: 4248
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 付之天理
+  hash: sha256:b082381e045a7bfb00e9c79b25f96c0f54d9824810ef439899bc76ade052b0ad
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ae05dd13cd677455ded9baaf4105dac20eaf18dcbf548f99d39889157e6bf656

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2310
+seq: 2310
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 庸詎知夫造物者之不息我黥而補我劓使我乗成以隨先生邪
+  hash: sha256:90cb3c79378cc950549de9d333ae7e978d673820bd9039d57d72986aedf65ce8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:df05febfcc1006d093895e2565557b81d3c5221e229243935854feaf5c59a521

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1535
+seq: 1535
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 體夫極數之妙心故能無物而不同無物
+  hash: sha256:9315bcc145a6dc05b989e328f0986eccfddc9de3b78445cb36e47de1c52fded2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ddda5f77380f483dcb2b11b06d36016a3c09b618425962ccfdf1d1d5b3f29dd5

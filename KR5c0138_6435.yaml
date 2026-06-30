@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6435
+seq: 6435
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未始吾非者各自是也惠子欲以此為至
+  hash: sha256:83457af49709fc42c3f9c8ac421593a92dcb7904754d469ef85b130891317cf3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:22d508875da6900206c5bef82ea0b5387f48f0566962dbc34118f9e0f2ec9024

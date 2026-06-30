@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6144
+seq: 6144
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其次以為有物矣将以生為喪也
+  hash: sha256:aeed7fe9ac46b360eb545fb8783d5e7283c126d5c5338f9f4e8f7b8373679ce2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fced1a7179b88434a8a190582a1790b48053097d5785ef6c7b0aba2a401deb0c

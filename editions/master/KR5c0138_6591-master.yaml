@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6591
+seq: 6591
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是以一人之㫁制利天下
+  hash: sha256:f6f724324167355dd911b399b26a25b7b4cc42f63bdfefa6c7081ba2684e183e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7493ed16882e8e40857139ea23a021c2b4de2b68325ebf74bdb307ffbc2d18d5

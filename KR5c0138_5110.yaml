@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5110
+seq: 5110
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所謂去國捐俗謂蕩除其胷中也
+  hash: sha256:f6c43648b314809105be750312d6aacfcd30ddee2bc47ca47d8799cf79fec15d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9f4db9db17a9f6221aa5289ca94bc9f7d43b6c143b46d93052da48abd4a9d298

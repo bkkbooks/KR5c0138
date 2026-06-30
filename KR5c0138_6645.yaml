@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6645
+seq: 6645
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故曰風之過河也有損焉日之
+  hash: sha256:c767bd577045f186a1acca223af1d72613e61881f3dd680fca23966097a3c4dc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:952f35f5e62ec4bc5dd928e05fedda8cf1ad97e46cbe73ab1accc1775a8108a4

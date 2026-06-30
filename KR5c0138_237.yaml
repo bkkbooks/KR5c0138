@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/237
+seq: 237
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大風之所扇動也畏佳音偉翠
+  hash: sha256:df100281da17495abbce83665fc0c66f971e07072337a0870bcf355b416a392d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:85f33263a63ec5053a7dcb4c2facaad5b0b15d743dcbf80e98cd4cd4d63901f1

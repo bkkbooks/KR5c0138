@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3979
+seq: 3979
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 儻然立於四虚之道
+  hash: sha256:9adad05444c5aa750d131d21da5a95f4cec3de67b8f2d1ada305a4006b796171
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:36a9df8762e2f8b6daab93213ded1635335bc3336aa0623143da364f87fe6936

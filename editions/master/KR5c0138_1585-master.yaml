@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1585
+seq: 1585
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 質而問之欲使必不並已
+  hash: sha256:b0a1c860beba75a87a76cc0e2ee8a0cb571cb143e9b92aadeaeaee4bd8c57124
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:db62d6b26f4c98fa43effb3a8be4d5f7754ce1bbab9df346486f56989e76335e

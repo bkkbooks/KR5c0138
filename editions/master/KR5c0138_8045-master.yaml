@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8045
+seq: 8045
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 意在不侈靡而備世之急斯所以為是
+  hash: sha256:d655a3b24407e840a502c909bc9fbcb1f786c20d48ed8a33f6e84495705c848d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:97e7c27ab89c45aad17612238bf1f6ed93d8f393c7609fc4afadf3caf415fe5b

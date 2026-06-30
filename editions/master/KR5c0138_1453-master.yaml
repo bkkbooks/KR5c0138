@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1453
+seq: 1453
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 來世不可待往世不可追也
+  hash: sha256:30ed074603c7323a4e44ab95473aa75960e03535585003ae506fc430b852aa9d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fd4f41f032b8d2cd36dbfc4f84a8183b7c146f65503d3da9342b7127878f7c19

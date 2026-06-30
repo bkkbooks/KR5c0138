@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4798
+seq: 4798
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫無為之樂無憂而已
+  hash: sha256:306c6ebd59fa93c36b7c983f3ff80aa597a56efd899944d20407c2bffce1c54e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ce71abecc6f5e15729011de97dc4a45fbe0c3c87327c3616ab71cebe916d1906

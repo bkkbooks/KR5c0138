@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6140
+seq: 6140
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無則有自歘生眀矣
+  hash: sha256:806a6baaf101febd9f41a6ab18ad7ea95b6f9475dcaf0ff49f279f3ce46c79d8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3bda50068389dfa8d5efe0bd898a7cbc6c6c2a272092a484b69c0b15c4a1b698

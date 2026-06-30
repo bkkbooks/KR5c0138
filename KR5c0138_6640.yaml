@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6640
+seq: 6640
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 時為帝者也藥草有時迭相為帝謂其土根榮採藥各得所用也
+  hash: sha256:1e6760a2ee0126215c75fe416945a9fc63420db14b698245213932ef1db34b5c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:989ffa8f2cf48175de6b8d30822821857892310e929175c2abb438279520afd0

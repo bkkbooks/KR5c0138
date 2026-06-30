@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6003
+seq: 6003
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知所之身若槁木之枝而心若死灰若是者禍亦不至福亦不來禍福無有惡有人災也
+  hash: sha256:700ac967ba4cb5d065cb71104d51211f5cee82f473443ea125f23e658fb72214
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:664b748cc37ba9bdf28b7d17ccdee9d338414e48c6b37428e4a2e9366fe04bce

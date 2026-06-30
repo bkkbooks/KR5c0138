@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5546
+seq: 5546
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 華去而朴全則雖為而非為也
+  hash: sha256:83e77b18b1e1d724a48c09807f6dc88b98bc8284f01acfd8db69046bf58149f8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d0abf3fbd94fe3c3d0572c578bf6aedf9d74914bf9eb24d73d2324e59ce00ebe

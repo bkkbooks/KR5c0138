@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/967
+seq: 967
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 公文軒見右師而驚曰是何人也惡乎介也
+  hash: sha256:b8b0eb91d7163cfcfb8d1d144019d93d8973af6cc4f7e980c107d5178e706cb8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:61d365a17edd2e7c2c560fc450d81845cfa8c611546daadc3e5a847a25807291

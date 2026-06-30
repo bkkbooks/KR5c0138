@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6489
+seq: 6489
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 公十六年仲尼卒後白公為亂宜僚未嘗仕楚又宣十二年𫝊楚有熊相宜僚則與叔敖同時去孔子甚逺蓋
+  hash: sha256:65a7bc98dd3d184435b3880e174788f81ee34eab1de46b35d0604593bd8fa986
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e40068be0e324eaf3487decb16028f0e33731232bf5fe67071b34216e2ddf750

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2809
+seq: 2809
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 則是上好知之過也
+  hash: sha256:95919f71bb7a09aa4be7915de89f8d4e91e4b08a44e8aefa7e9128c20cbd61a4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9f14c2a358cdd4bac8a00fbb83681d808523758aaaaf15c78525b3629a8843c2

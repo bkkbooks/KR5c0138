@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8159
+seq: 8159
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其所謂道非道而所言之韙不免於非
+  hash: sha256:a21cdd86f30ac96c2c9e284d27c54c6b44512d7bb831edd18e8aeb2cabb95e43
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3182211a04229faa8178203ee4578988f5a2087e3fd688f0c4f186cdd8e2d4ac

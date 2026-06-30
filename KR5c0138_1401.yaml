@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1401
+seq: 1401
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 猶嫌其以為社自榮不趣取於無用而已診直信反占夢也
+  hash: sha256:916ae0a1d1e531c4347dfe70bbb56b4ecaf3cbe18494a0a46094702abbf82182
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5682cc0e357c4c731b22a47d61296c42fe8dd14a1b54d2899acc019ef8e1e71c

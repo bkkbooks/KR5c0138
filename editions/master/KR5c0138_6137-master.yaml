@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6137
+seq: 6137
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而自有耳非謂無能為有也若無能為有何謂無乎
+  hash: sha256:6aa02b221b2d7fd3a41e62bc508e48e3ce528c120066024badf848d8033daf48
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0a2db0b972c1769d5b8d11ccbfc71e3aa83095469045ba85ab0ecc220519b84c

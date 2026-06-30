@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7184
+seq: 7184
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宋元君夜半而夣人被髪闚阿門曰予自宰路之淵予
+  hash: sha256:55ba0fc1f8dd082ea67ba87a849f92d3884627a1a30d6acbbd57c61364651e32
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3e0c661d68c2a2b08239a72cd71bc8a3b2cb9a886549b9817fc87c2f213a223b

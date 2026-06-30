@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3894
+seq: 3894
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 極四方上下也
+  hash: sha256:9f4e2370bbe2645d1a02240e62962e0c648952cbb6ebce59afdbf0b692ec5220
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:17fd0284dec0f241ede8e10ed2483d0eaae9f23baa971855458bb09f5412cd0d

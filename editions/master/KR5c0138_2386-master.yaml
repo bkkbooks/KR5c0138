@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2386
+seq: 2386
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言汝曾不如此二蟲之各存而不待教乎
+  hash: sha256:aeee25b65d1585fb673acf6aae22eb8e70ca34d1750dc13f181fff95a6475839
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a84924ffbf90229eaab4f1def4e99bcaa500114674ea18068801345d07dd0b17

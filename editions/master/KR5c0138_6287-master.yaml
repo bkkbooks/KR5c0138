@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6287
+seq: 6287
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其一言喪其耦也軼音逸
+  hash: sha256:ccb83cc6da16603b327e0694b8294f53de2e1856a47ea42cde3ae1224c4515f4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4728656e9489be8c92c8bcedb6e0018153f10d838e7caf2c3e28299efb31434c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4160
+seq: 4160
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 三皇之知上悖日月之明下睽山川之精中墮四時之施其知憯於蠆之尾鮮規之獸莫得安其性命之情者而猶自以為聖人不可耻乎其無恥也子貢蹵蹵然立不安
+  hash: sha256:dffc7b12b12b93b5651520122ec74396a31a6b3110b26983b2b39de07072e3a5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:553f7655f67528384eea025c5cde03d4a848b16f96c6cf9e58c2d9076c3b046c

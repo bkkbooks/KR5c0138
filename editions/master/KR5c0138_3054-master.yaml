@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3054
+seq: 3054
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾一人之所聞不如衆技多故因衆則寧
+  hash: sha256:10c4569aade4acbebf5e9ef01b20c4b29d91d0296a7ca19375187046fec8dce5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4ed8a3f086b2738c3bfe37d265945c87007f44a1f7a0492e830c1362e82fc7af

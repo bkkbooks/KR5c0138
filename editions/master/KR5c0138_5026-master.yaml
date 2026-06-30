@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5026
+seq: 5026
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孔子觀於吕梁縣水三十仞流沫四十里黿鼉魚鱉之所不能游也見一丈夫游之以為有苦而欲死也使弟子並流而拯之數百步而出被髮行歌而游於塘下孔子從而問焉曰吾以子為鬼察子則人也請問蹈水有道乎曰亡吾無道吾始乎故長乎性成乎命與齊俱入與汨偕出
+  hash: sha256:c04ee1a285d76048cc5c17cf45e317930c2b0ec50413b32d58313e5a36388451
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4cf1e5c4966188a3667b7f060198298152077713960f227c82830cee6e74eacf

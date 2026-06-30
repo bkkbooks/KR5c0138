@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/493
+seq: 493
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莫之偏任故付之自鈞而止也
+  hash: sha256:35c21716fff6eb4f9f51e362d5a55daca6e9b724e39bf2483a62fae0a97adbea
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ad82ebff413c6dd9a2f35b346cdff4f95b1e79ad511249f72f77b7d7d2079b2e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5545
+seq: 5545
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 損之又損之以至於無為無為而無不為也
+  hash: sha256:2172790d360c52f415bc0562a5b82c223c5c675ab0478ca59484effdda36c97a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c37eaf6b0da27cfb93e16e3bb9463705b2db0b9780406eb4d32344ea6ff201e8

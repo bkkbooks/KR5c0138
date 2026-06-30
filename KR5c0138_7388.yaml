@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7388
+seq: 7388
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 因而乗之故無
+  hash: sha256:7ac7464572dfb1c347c0372187b050e50b681f028fab2e0b86f6a0613141c1dc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b900a06758110b6e69c73bdf83c2d0c955fdc8e638617b8c8eb374bce749221c

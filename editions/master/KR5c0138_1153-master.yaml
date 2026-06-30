@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1153
+seq: 1153
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 顔回曰回之家貧唯不飲酒不茹葷者數月矣若此則可以為齊乎曰是
+  hash: sha256:ce9b634740d553832e2623242cd3711cf28fe222506a08da9cd9d7acb2f8cf1b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1686f016c211fc113a91a76a6e31566470ab284aa562612e74574c44b67e00ef

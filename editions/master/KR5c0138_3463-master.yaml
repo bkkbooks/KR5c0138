@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3463
+seq: 3463
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此宋榮子之徒未足以為全德子貢之迷沒於此人即若列子之心醉於季咸也
+  hash: sha256:8bbb2166e87af36a5f2143a0b4229a0183bb0859efb1f992c111ec39ed59c9d1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:77fb908d33694a567aec72c4abf1efe30c1e0b767f78979e235b2ef73378d226

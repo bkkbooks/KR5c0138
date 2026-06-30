@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1685
+seq: 1685
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未經久已覺其有逺處
+  hash: sha256:cfba405eabeb216903d348905324b9059d42c589e0dc5476cb4f27146d3049b4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ed4d81bfb0af4c338d0c7c17db5e238726530ba9ad4c5836834080416f83f55c

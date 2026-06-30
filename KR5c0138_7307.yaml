@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7307
+seq: 7307
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日新則盡其自然之分自然之分盡則和也巵圎酒器也巵器滿即傾空則仰隨物而變非執一守故者也
+  hash: sha256:7aa5dc3741ba0786189444a43216b77a006f7fcb95731474080e48a2e9bffb5d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fcd3c223d80ebd64fc9e2ef11b087da7c86d8d0f5cd5cf7b2600806813355bfb

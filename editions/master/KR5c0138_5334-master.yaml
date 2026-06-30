@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5334
+seq: 5334
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曠然清虚正己而已
+  hash: sha256:eea962b0d4ec29352f185f35b39d3c57d53e311741c0a419c282e3b45812a792
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:964546eb519663b2b094a4da09b3b2762c4eac2984a8c41b4a0dbadb1b6ba7a1

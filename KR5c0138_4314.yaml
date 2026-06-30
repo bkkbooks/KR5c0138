@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4314
+seq: 4314
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 生而無以知為也謂之以
+  hash: sha256:9c1aeb60c21b015dc90c85b078f66f6681342cb24c47c8c6e5b0e9ef3312a16b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b88fbee31652ce648fed1e79640a4a264eb882321ea32a0fe3f4443654eb57cc

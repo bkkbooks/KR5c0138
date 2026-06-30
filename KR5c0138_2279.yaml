@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2279
+seq: 2279
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之既皆是吾吾何失哉未始失吾吾何憂哉無逆故人哭亦哭無憂故哭而不哀
+  hash: sha256:c8135a16b6fa552114088b88a91edf6237dea2d7298d3efe351e5c62726700d3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:951dd4f2066962c15200ea1f12fc374d4271bd40fd2e53ea41a606be71f3aa33

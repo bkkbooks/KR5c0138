@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6604
+seq: 6604
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此以域進此以域退
+  hash: sha256:08e51c2de60c438eccb5bb4ab1bad2f9ea4a68cdecc80599a3c37d31252367e7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:363d37ff42f11dc4f482847b9b1f6fdffda065b594d44c1b2f99c2bf1781508b

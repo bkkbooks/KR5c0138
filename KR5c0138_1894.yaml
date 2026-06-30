@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1894
+seq: 1894
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其容寂
+  hash: sha256:55e7afc7c9db238fa64b0cf94fa6b131a00eae9ba56508c6b3646592bd3df9dd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:05d4136dbda2fe35f7b18f98cf2ec322634e52f9d30d8747fbbc942b56f9162b

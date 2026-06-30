@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5142
+seq: 5142
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 北宫奢為衛公賦斂以為鐘為壇乎郭門之外三月而成上下之縣王子慶忌見而問焉曰子何術之設奢曰一之間無敢設也
+  hash: sha256:e885148c8f624e67af4ad4f2e1044d59e0cb882cd2462dadccf3fbe699d5cdec
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1f16e880fbe7ae52d59717399580bd2d2e454fb568b4050a16a7930cb5215cd8

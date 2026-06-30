@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5609
+seq: 5609
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 非汝所有而况道哉舜師也一云古有四輔前疑后丞葢官名
+  hash: sha256:bb15f97cd3dca8ca137ed7c913df8edffad9b1b926fb59c1e4810750a66fd529
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9b830bed1e4af0da6e8c658f88f9985a3658b7f450890446052e6f77dcd37138

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/158
+seq: 158
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 俱食五穀而獨為神人明神人者非五穀所為而特稟自然之妙氣
+  hash: sha256:331f606a6562755e6af53361cc1acc60a71659ef8ed2814e33991750bf3fef0e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:58e6a683ab14085d2c762da4bbb221ddee398acee7b51355dedb4c3de49ca64e

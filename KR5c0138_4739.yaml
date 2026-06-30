@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4739
+seq: 4739
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無窮者非察辨所得索所白反
+  hash: sha256:49d1a0cff78dcefac847329bd4a77031654d72df8c1d0023a8fb0968894b8813
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:08a2dbbdceade6b96d3b83e9be3ce92f75cea54875d6db60ef3ab8cdb30cea1a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2415
+seq: 2415
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫明王皆就足物性故人人皆云我自爾而莫知恃賴於明王賴吐代反
+  hash: sha256:8cec2eccc67ee45eb7b628f71023d029337d29cc275dee5fd9776ec56dfbc4f4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2d7022486d23c0baca0b14c3b1b1ad9a89a999f89e9fa319a0e2a92811f652b6

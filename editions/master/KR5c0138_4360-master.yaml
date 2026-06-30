@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4360
+seq: 4360
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以心自役則性去也
+  hash: sha256:8f49273a9a7cc5e536e28f4c77de9a17d15d53bcdc6586c61febe2a3c027438a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1a5f1c3e668ff5b84c8ae92c0455e1828c41f7a845faae8d505e76c1a3254a3c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7296
+seq: 7296
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 荃者所以在魚得魚而忘荃蹄者所以在兎得兔而忘蹄言者所以在意得意而忘言吾安得夫忘言之人而與
+  hash: sha256:0d8639afc8097781e92dbbea0baa307939614927cc5b2e65b656e6bc8b7d73e1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9dc1aa6688ff11a3dd31ea40ff408ca534185bfda493837467a7106f540bb168

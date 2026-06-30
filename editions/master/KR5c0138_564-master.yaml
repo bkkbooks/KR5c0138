@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/564
+seq: 564
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今我則已有謂矣
+  hash: sha256:2699673a8b1ffd043ce11af3b819993d1bd0bafc8cb9d07ad2dbfe5c22b7ec79
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:45338dceb41c29dde0e46784ecfd67ad54676be4620648b904476c9356093af8

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6061
+seq: 6061
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 劵内者行乎無名
+  hash: sha256:9fd045ff4094a2b3a49574f1c6d4a4f30701190927b9b4d4ba91ce875529f1f7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c2e0ff22594ffea797259206589a6afa5862adb44a92ef0713a39ca238d4f6b6

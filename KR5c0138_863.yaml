@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/863
+seq: 863
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若待蛇蚹蜩翼則無特操之所由未為難識也今所以不識正由不待斯類而獨化
+  hash: sha256:104125a268f5ee39e5d63a97749b1d790b50fa4167eb75691e70829823a6ac9e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bdb42a048bd98eb4460b6315a096349a3cf5d7db307904090d27b73df167a9be

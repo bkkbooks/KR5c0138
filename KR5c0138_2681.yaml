@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2681
+seq: 2681
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蹩躠為仁踶為義而天下始疑矣澶漫為樂摘僻為禮而天下始分矣
+  hash: sha256:96b62dbb5cdd63f766ea07f5c6da10618ae4339331dd1d3be53c8668e04f4852
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2b8a8041bb5baf2b6943d7bbfb81653637205a554c489eab44369886c1fb8f5c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5714
+seq: 5714
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舉其標質言無所不任而方復怪此斯不
+  hash: sha256:769763283de73346c512e2678f7949d220a6614dcad11514fdd174dfad75efe3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0426779ba0c0f0a4b7af9a6b74182d918c9c8cb692c6a0a88ed32419d15bcfe2

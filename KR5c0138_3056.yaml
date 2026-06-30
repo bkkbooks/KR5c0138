@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3056
+seq: 3056
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若役我之知達衆人衆人之技多於我矣安得而不自困哉
+  hash: sha256:25557aff09fe0adc248abb011784707df6f929b79185d3b8bdbb34c23db77a3e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9c4a5a23cb627b24abacd8238390e489e908b7f561f8a70ac4b4e6b824e1816b

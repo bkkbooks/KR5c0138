@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6323
+seq: 6323
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為義則名彰名彰則競興競興則喪其真矣父子君臣懐情相欺雖欲偃兵其可得乎
+  hash: sha256:3be4ae42dc78a23cadf7e9e1d9e96342b94eba40132197c9100d1e57750b28c2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c9a91523a22b349fff6190e3b6e28c33fee534627cbdb58cbf2e43e26609e4ef

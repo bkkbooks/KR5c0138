@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2930
+seq: 2930
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾未知聖知之不為桁楊椄槢也仁義之不為桎梏鑿枘也
+  hash: sha256:bd0bb21cc9dff19b4e4e5fa3d921731ccd6a874a98b823b231bf236d9e465aa2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0beada65acf2e4dca681b8ff575c4c4f1ea05849699274e19f35c8af7e294cee

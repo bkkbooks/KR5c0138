@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5775
+seq: 5775
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知形形之不形乎
+  hash: sha256:1acc905a3bb7256e5b9ba8e2057cc902926bc82cb49e95c9d5b1d11febe8fd00
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b2cb9091c6c35937ae65aac766c0d09c740569611bbb0bcc0179b694f8a33a75

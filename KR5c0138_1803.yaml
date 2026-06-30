@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1803
+seq: 1803
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知哉故有情於為離曠而弗能也然離矌以無情而聰明矣有情於為賢聖而弗能也然賢聖以無情而賢聖
+  hash: sha256:6be5ee01971e2c7a4d378d5427ffbf59743a108a25637b256c64c045f2ee609b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:862ad89272e63b11c4a642b5f33d3ea3ed08fe28bbfe744e5467f85d3f607ff8

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3305
+seq: 3305
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 甚矣故曰無過在去知不在於強禁
+  hash: sha256:f0566a52b6857aa598a8cc8195bfcf5ed8fe5d5ed12ffe7bc8266827522de185
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8000fe75655f132d8f2f7c6fbc9dfa467fcde58dfd04d0f72d73c3676669a134

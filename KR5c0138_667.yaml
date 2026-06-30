@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/667
+seq: 667
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 光不弊也葆音保若有若無謂之葆光
+  hash: sha256:f0ddb1db650590befd4cd6812a9e14fe95e21c0a38f6ea104426ddab348cba6b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bf3133255c42f418fc84d5422e00fd18da3784186e6e6f25b5287aba8f2487d5

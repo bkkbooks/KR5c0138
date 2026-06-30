@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3504
+seq: 3504
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 虚無所懐者非闇塞也
+  hash: sha256:a834add7fd695aa4bd4271d53f903c1fe5d60df1af95c93c444c72dc298fb9f4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:edb12805a729b19bf626555cffa5867ed1268993189422f7d5278fc9ec9ce723

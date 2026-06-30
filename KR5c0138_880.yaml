@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/880
+seq: 880
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 當死而戀死矣由此觀之知夫在生而哀死者誤也
+  hash: sha256:6199a711c4f2c18edbe73b2ef3d466b40a2db0b5cab4399a587c25bec3a1eed4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4dd09746d2146efb8c6f011850f6e8c770eede9b4836bf9712a1d2712735a6d4

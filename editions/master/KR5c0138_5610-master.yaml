@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5610
+seq: 5610
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舜曰吾身非吾有也孰有之哉曰是天地之委形也生非汝有是天地之委和也性命非汝有是天地之委順也
+  hash: sha256:0cdf1e99762bc06a26085b9cbddab1ac9fb5e542f1cddb38fa64574276d336bf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2077b3664e308ece0f10f5e09f4939a6d306fbfe1a50092cb0e999d82a88c5e3

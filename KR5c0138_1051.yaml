@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1051
+seq: 1051
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 且徳厚信矼未達人氣名聞不爭未達人
+  hash: sha256:6833bc0eb9c150bd950de3065a0b66233ed02451e1b0ee9543362671cd3b556a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b4b4fdaa0ed3d650b450836f064b18c199deac5b36125cfc00bf86ea28b0db7b

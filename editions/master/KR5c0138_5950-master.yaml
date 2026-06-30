@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5950
+seq: 5950
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得無失而後為通也睷音接目毛也韄音霍捉則角反
+  hash: sha256:113be91305420704f0510eed042c6d244beb40f05df57ca0bee365a0b56282b1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a99d28945813715be0d7cef9a5bead8e4dde32671451e608043b7f8a6821b881

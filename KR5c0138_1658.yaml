@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1658
+seq: 1658
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 亦學然古之學者為己今之學者為人其弊也遂至乎為人之所為矣夫師人以自得者率其常然者也舍己
+  hash: sha256:a87a497dda27311ce3c26acda9b0a57f1b9583d1221bb0762a11d7b57b85db97
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3f5af0fdbee6ef7b4c3726ac234b1d50e788fb3a26af2811ae9cedc84bb922b0

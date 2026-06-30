@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6676
+seq: 6676
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫忘天地遺萬物然後蜩翼可得而知也况欲知天之所
+  hash: sha256:6fd26b3c43b83c3424b11714670e71bf411a21d5312a3d072ef12cd2bb9d61bb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:58686b67062e66ac1057468c66af590cebcd8d4d830a011ec68e778a19374093

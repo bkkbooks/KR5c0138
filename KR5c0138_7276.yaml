@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7276
+seq: 7276
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 靜然可以補病
+  hash: sha256:256d26bd8a1ff408aebedf161f7f3405270f9eaa5d553d6e44df00f240eddac6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:79d5c042d0c8f75141500592acb2d11ce6ab8f8007bea984b2e93344f0726cce

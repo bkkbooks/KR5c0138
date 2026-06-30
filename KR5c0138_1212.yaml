@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1212
+seq: 1212
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 恐直空報
+  hash: sha256:1a0889a4d05e488c279a144a264f11d666eb353deecc261a9d4a00f5aa06f078
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:80fe73805059d351621b64c507ed6c1b030628c66f15aaca3687d6a6a2701dac

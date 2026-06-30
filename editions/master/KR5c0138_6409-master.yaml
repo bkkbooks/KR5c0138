@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6409
+seq: 6409
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 士能各有其極若四時之
+  hash: sha256:50b8b550cdd044b3f1d3c13f7c2e1490c5f79d3d98af062827998908a85cb882
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:250f7ff397afc993a5184fad288b13b37f271ad61abd9a888a90a54a0c9368b0

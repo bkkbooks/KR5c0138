@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4187
+seq: 4187
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言物之自然各有性也鳥鵲如喻反孚乳而生也傅音附又音付
+  hash: sha256:1b2bbff4995d6a0e00eae13d8db539ebad462c46d861b6d47992535d9d0e14f1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:34fb660197215c05930a3ac1cd2f41c1bd48a74f41f6ba2279a3943ca581c99c

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/694
+seq: 694
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 魚觀之則向所謂知者復為不知矣夫蛣之知非於轉丸而笑蛣者乃以蘇合為貴故所同之知未可正
+  hash: sha256:843a326af723677b65df50d6089593ce795335e7f3eaf948b241032c78dc87ac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:439483a1fae8893af5c7441f8878dbcd1ca51f148d81f35448640f7000e789ab

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/379
+seq: 379
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫言非吹也言者有言
+  hash: sha256:4ea4ec77aa18182851d29e5bd00e9e39cdf738e4d789ab7de5bb90279399c0e8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:227bc85159b97c69f1a0e658f5b005d49b6f15b4709b6c21570f7327e1928fa8

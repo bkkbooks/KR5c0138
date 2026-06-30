@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3658
+seq: 3658
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故曰知天樂者其生也天行其死也物化靜而與隂同德動而與陽同波故知天樂者無天怨無人非無物累無鬼責故曰其動也天其靜也地
+  hash: sha256:d47580850a154e1ab5879a7d64039f46270eb7c418d06d7224efb382665fa7ec
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c9f2bd7ec3bd5b2cf3c8b8c4652d17b30509937a83debfe4edf9250e62d83a29

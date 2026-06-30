@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/640
+seq: 640
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以此明彼彼此俱失矣昭音照
+  hash: sha256:86c2d2ad9ab1053b4cc846960a00e7365679a8b8bdefb3cf688d017cbac45bdd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9880abcd774b7ea2822bec8ef975d4f4f1be81a8ecbdf4693af87c2960498ef5

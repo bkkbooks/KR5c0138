@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1875
+seq: 1875
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其耆欲深者其天機淺
+  hash: sha256:5c81e3e1746248ddafd522dd7e1e4c6d58e3eb75233687bfac5aacbe1f73acb3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:148ef00f4570cdbbebacf539d6dab50b5fa7314fff46d40855c9a0f1189c11d5

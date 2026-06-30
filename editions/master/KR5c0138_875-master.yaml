@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/875
+seq: 875
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 昔者莊周夢為胡蝶栩栩然胡蝶也自喻適志與
+  hash: sha256:1a64c7bb7227e0cfc2e52547e2b0c490f3cfcfcd2cb59af86076d47fae9ebd1a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c611df0f23958d8c6c148c78ef858a38e63fd5e76f4ea15ab263b9aa96e9f244

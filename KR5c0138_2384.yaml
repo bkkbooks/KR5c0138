@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2384
+seq: 2384
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 禽獸猶各有以自存故帝王任之而不為則自成也
+  hash: sha256:05d287c576ccfce146cdab707e96a9c5a8a70ba052b27491a57294cdc29632a1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7c636a98caaa6263723c5793f2076e547475da5e2bc0d1c0de3a07604a8caff6

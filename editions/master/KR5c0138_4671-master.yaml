@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4671
+seq: 4671
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 者也故雖行於外而常本乎天而位乎德矣
+  hash: sha256:3a0af24a41bb117258eb884f91deb75fba7df3c29e9a312473c10cbff9e01ffd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2f22c37a41e39fd44107d0a0be0276b7d3d1d69c8d62b5964c327aede5f2dd37

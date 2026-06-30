@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1183
+seq: 1183
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為人使易以偽為天使難以偽
+  hash: sha256:476e3d80762dbbd8b3387321348cf1227bf2eec865e746df6e7d83975a7cac05
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6104a897072dd54381851d9fbe12933e2c6bbe69a8db81c6bcc11608d9658e8b

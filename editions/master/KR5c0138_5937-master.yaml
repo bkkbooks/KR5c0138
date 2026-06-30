@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5937
+seq: 5937
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 兩形雖開而不能相得將有間也間問厠之間
+  hash: sha256:0a79f4f3ea8a7a841e011c0f9f86d6008334772d85ab8881d642dc0cf065ac22
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b7c10cfd6de592d847b4a7028fa09d91ae4539cd85d2d0494c410ba4b59bee08

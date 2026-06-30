@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4396
+seq: 4396
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古之存身者不以辯飾知
+  hash: sha256:be96c2753aa71c84f35bd620ef055f90ec5dbfc1dffb66234fd7a154147117ca
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:03ed48841cde4489901f2417fc1befece148d1a1069994a6ab2aed737245f434

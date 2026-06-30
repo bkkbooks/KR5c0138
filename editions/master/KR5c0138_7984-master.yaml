@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7984
+seq: 7984
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大體各歸根抱一則天地之純也
+  hash: sha256:ca3eb709808508e69885934dd59e744a4cbc29b23da6c8b31225a35b1697ac89
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:26e55f232bb3edcd97127902f5bf510340ba136045cf1740be087db620e68c95

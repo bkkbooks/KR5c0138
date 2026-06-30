@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1207
+seq: 1207
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 神奔馳於内耳目竭喪於外身處不適則與物不𡨕矣不𡨕矣而能合乎人間之變應乎世世之節者未之有
+  hash: sha256:3a466a6ca3b6b19b1510e93658a5c64ee2b315069ba3cd1aa67c4293a254d955
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3ddc6a57426e4f80bafbf569dc424d065edd3c43214039c2b5d8ff2059d5d0d6

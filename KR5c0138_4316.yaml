@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4316
+seq: 4316
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫無以知為而任其自知則雖知周萬物而恬然自得也
+  hash: sha256:c4220d00ece0fd88c90ef644765e18cce9c9ca15ddd4a1dab4ea2c39e928796b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:56c467bb368e427bfde7bc8acc14add6708d3c6512dbfcdda2b17687bbdb4e5a

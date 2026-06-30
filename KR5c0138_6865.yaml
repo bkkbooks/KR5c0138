@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6865
+seq: 6865
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 客出而君倘然若有亡也
+  hash: sha256:bb6a6889fcf83f435e267e49263d07375df52adaea81046a7095b7eedfc5ca8b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e8bb7aa386103bb2b51de2de39b0a12279088b6bd7ad9ba0e952df0a174dd14a

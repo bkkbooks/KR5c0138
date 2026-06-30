@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3176
+seq: 3176
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 均於不為而自化也
+  hash: sha256:19d0d4066f059867b2d3fd6ef5fffcbfde899bc3b8fbfc32a15ef215753f9f2d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:310439b5564e72efb1b73e2b51aaacd517601532053734522f971ff92dde0ea2

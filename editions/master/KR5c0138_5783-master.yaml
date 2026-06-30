@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5783
+seq: 5783
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道無問問無應
+  hash: sha256:52526e997fbe06d2465ae88464df35d825943f51600ab5a7cd12a127f9795167
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bd9c3ec4bc1f70862c10c0c264b9f0de54df5f268a6ab755876ae85d509c35f6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5206
+seq: 5206
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孔子曰善哉辭其交逰去其弟子逃於大澤衣裘褐食杼栗
+  hash: sha256:3ad4e3edfd1e9d2b42e427161b4a32339fb21de8687832a045df8102700a58c1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b85c7b140a27a3cf4c6f411afd84ccb106c4b1d2781722c5660d05a08be31a27

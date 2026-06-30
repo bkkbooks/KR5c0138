@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/78
+seq: 78
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未能齊故有笑宋榮子宋國人也賢者也猶
+  hash: sha256:a75f7b2f5ffc0a1432bde4ad062bda86d57cad8c3631047a5a93f9bdd3121fd5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:035571c08538c49085691284aa807cfaa08d3179e9ab494db33621ded7d4bdae

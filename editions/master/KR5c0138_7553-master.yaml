@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7553
+seq: 7553
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遼東西界
+  hash: sha256:6078cccc602f86489960da8ecaa58508cc6c57f49cb160319f2c56dc7dee082c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bf77513523b006c1d4b3ef1a0ced9edec88c06b5845a840137048bee4d38baa3

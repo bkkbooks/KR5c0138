@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7355
+seq: 7355
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 於今為始者於昨已復為卒也
+  hash: sha256:8b090bf1bb62ffc47e85fcf09f12149a50f44d81efb3c3565398238730e0e451
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3e1d8242ef0f5a154161be07beae215a96fff13814dbd3e75e374afbd2b432f7

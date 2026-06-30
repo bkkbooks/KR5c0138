@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1021
+seq: 1021
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 尸流血一喜則軒冕塞路故君人者之用國不可輕也
+  hash: sha256:3f578011afc6c7999d4f9bb5b2c5ff6455629ee02cb37e72b2f7ddae48f9a0c9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cc2e3a4c954f6b5bb6c552e83df8901adbd65713d968bcd7cc941d85173145e5

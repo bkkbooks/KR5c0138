@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2362
+seq: 2362
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是又奚是人非人之有哉斯可謂出於非人之域
+  hash: sha256:347972a9ac90abae5f37d620b5cadd069ed08e5c5ea07fad1ea05d7095a4f1c3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ad93bd19cab4ae6d3d8c80dc96a52279dfdfec3a3a73d15e69ee2559dfb27c81

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3954
+seq: 3954
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其聲能短能長能柔能剛變化齊一不主故常
+  hash: sha256:bffcedb5f9dc9f0b4dbb1f0bd76c6044158a3120fe9a1b04f2429f2e4651935e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9595b4e840bf5f11b1a2fa604efbbf24187e4ce0dc38f9f6c23430b35d32cf94

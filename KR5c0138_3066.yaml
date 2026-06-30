@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3066
+seq: 3066
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而不物故能物物
+  hash: sha256:7773d8af135d8b31e6aba553ab1510292fe7262e19e44f80d01f2829af9e8c12
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:863907ceaaee9a0868c356fee8a2075e4e065f178a7f44b8c4a0b17ff3ce2cce

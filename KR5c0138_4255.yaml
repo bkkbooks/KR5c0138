@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4255
+seq: 4255
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其寢不夢其覺無憂其神純粹
+  hash: sha256:1c6e7c37aecad6df9a1e37dd5e586470f9c8ae16be6d35c875fa513e1e0e8134
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b5368891d6711e666c4d35975b680575b0bbb30523e75c6a450284425a622aa6

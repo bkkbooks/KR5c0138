@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1187
+seq: 1187
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言必有其具乃能其事今無至虛之宅無由有化物之實也
+  hash: sha256:277ebd6720bf595aa161d63b42c79f2209847a2c58d8655079baf97c06794de9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:debe7dbd1ce357cf36d1ffa195ee9e7d25badc7d4d90159468f4b1097262c3bd

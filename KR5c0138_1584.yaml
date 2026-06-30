@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1584
+seq: 1584
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其明日又與合堂同席而坐子產謂申徒嘉曰我先出則子止子先出則我止今我將出子可以止乎其未邪
+  hash: sha256:eb54d7643df5224450792c1368610007bd93540090458999902ee52791806888
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:20f910eb1c2ce4169ca98824598e37d14c18ff1a459ae714034a338b4cef11c1

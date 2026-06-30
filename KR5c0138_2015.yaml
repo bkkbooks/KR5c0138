@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2015
+seq: 2015
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 然而夜半有力者負之而走昧者不知也
+  hash: sha256:00a5bd171bb24174b9f3fff1e786e30b1a1fbb43a9a55f80b9afa5d7b2240b15
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2a538c8d983c1eec8c3cda37e39622259ceaeb643973f2ed1f02d33408a97911

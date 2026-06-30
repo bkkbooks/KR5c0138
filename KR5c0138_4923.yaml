@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4923
+seq: 4923
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 終始者物之極
+  hash: sha256:9535c2a6e584d02a4f61de9037d20c760cd045ef8ed881dac46929eafb5ed350
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d3d8f16ef2335be9f648382b10c6ddede937aa1ac5b247f11a3f6e06a9ba1074

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3865
+seq: 3865
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 桓公讀書於堂上輪扁斵輪於堂下釋椎鑿而上問桓公曰敢問公之所讀為何言邪
+  hash: sha256:4e792de98aedaa9f20c9749a7800e2ed7a885dc62a9344b27817c32285dc9adf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3be1b3450b7f1f4853ce6ff9390e1268bb5c38c7e43c0e180b6d59918041d60e

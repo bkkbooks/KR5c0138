@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2520
+seq: 2520
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書莊子注巻四晉郭象注外篇駢拇第八駢拇枝指出乎性哉而侈於徳附贅縣疣出乎形哉而侈於性
+  hash: sha256:c8b64fcf1c20a48cc2c86483835dcc4798f9a181cac1ef873ecd1512c652b147
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2f53d51f4407199c0f57292fa986fa633928db436c7f73f865ac3490df7233c2

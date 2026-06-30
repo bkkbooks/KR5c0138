@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1919
+seq: 1919
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 善為士者遺名而自得故名當其實而福應其身
+  hash: sha256:444ba58e4d78a646b06b95b020881a5da566771e0b0dab63dcf7a804c643b1f8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b230e1f86c751ace611d6972d01ab8b4e7af599f59e23d636043e67ec2be5beb

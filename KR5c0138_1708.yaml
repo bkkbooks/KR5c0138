@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1708
+seq: 1708
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為天子之諸御不爪翦不穿耳
+  hash: sha256:04aca9e9ac48040f20ec4564f3b70584f3bc150ef9eb60722a8d67733eba5502
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5b7a9f624e2c2812bd51391709d99d955f1c28b88deb158896dddb679deacb98

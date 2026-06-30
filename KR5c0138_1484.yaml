@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1484
+seq: 1484
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不失其自全而彼我俱適者俛然不覺妙之在身也
+  hash: sha256:9d53b77c161ec873c6f0475d6446066080d1364100e6d75ba885e91357dfdc38
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:536c8fc267ec740d6dc762a07c46e063f276c296c01b30ebff354676510368b8

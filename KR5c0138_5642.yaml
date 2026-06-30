@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5642
+seq: 5642
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 魏魏乎其終則復始也
+  hash: sha256:fa0072d5c769e1995894befdca32809a9197554c3b27d3ea5f9ac656f23dca8c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8aa7266e9a9b890409d01363e09fa41f0c7ef248f1d1ff20b1332b2aee844fc4

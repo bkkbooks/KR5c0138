@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4816
+seq: 4816
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故曰天地無為也而無不為也
+  hash: sha256:e4c8be8350bc6fc6f6456eeda87bc2456eb98378f9a91cd46184eefb0a0ec1d1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c2e6f181e9dce78ed04c30a3660647263502e59699f8ab3a2a6114d38f075d98

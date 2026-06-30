@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1443
+seq: 1443
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 上有大役則支離以有常疾不受功
+  hash: sha256:ea02ec0a822cea9368d2195e2205b37041f5191b9f213933a357e5f883dbf6fd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:eabd1f4354977989ba6e02cb81309a52a65a7188a92eb5585bc115824950feda

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7781
+seq: 7781
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 理雖必然猶不必之斯至
+  hash: sha256:c9f4992dabf23cb644e2f0d4df95c01c49d3d75bd84dd0eac81456cf83a9f02c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:84e819833b843239322f0ed59645e4482a8f11f3784bda8f24b700a9791701e1

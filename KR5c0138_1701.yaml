@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1701
+seq: 1701
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 戰而死者其人之葬也不以翣資
+  hash: sha256:fecf78f5c6742847231c4857dc01cfffdf0c3d7cf35502b74c18e0d5da16bf30
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:30496666e990a3119c104c3334f283739816c2f58f99996f32ea69fd0dbd65b2

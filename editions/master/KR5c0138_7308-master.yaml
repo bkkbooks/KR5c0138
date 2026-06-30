@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7308
+seq: 7308
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 施之於言而隨人從變已無常主者也
+  hash: sha256:dccebea2815aa1d2043983bf2dc5391e2a2756481efa53a8f93e08afb68793ff
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6bee954dd5dcd5c845dfb2cef84c48f9a04f1bbd06ebdf735cbcf049c47ee861

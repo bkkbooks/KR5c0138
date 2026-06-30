@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5384
+seq: 5384
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 女殆著乎吾所以著也彼已盡矣而女求之以為有是求馬於唐肆也
+  hash: sha256:a7dddbf094211aeef4b79eab58ed2427edffbcefac07941af0e9945122d630e2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:64891817bab2acb68cdfdaf0689ec4ffa94a5ba9bce69378b7ae3b3124e95692

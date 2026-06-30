@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7756
+seq: 7756
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 也然則學習之功成性而已豈為之成
+  hash: sha256:27096ff698411633fdcd5cbd471529b74931f22ff1c21b5c993d8a3eba036b4a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4f30ddd4261e42a77b2014ca3cafd80aa0ef0d4aee03f2db74487a90632e5c18

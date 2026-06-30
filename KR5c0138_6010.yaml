@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6010
+seq: 6010
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天光自發
+  hash: sha256:5c7c1099b8ee53f29a656ce2543f2d1a65d8f1d00d93295c47c2486acb19fd8c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b0c6237c14652d6b944076429bc3bac39be275f9242e2f85ae2ebdef2dcaeff3

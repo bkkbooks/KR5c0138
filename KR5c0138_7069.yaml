@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7069
+seq: 7069
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莫為則虛
+  hash: sha256:14e18c10d7ff947c58029603083456f3ca3c58896f02244ad81b60bc3d8c8d17
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:963080e7009ad409484b8c759ea8cfb6851bc1b9280782c4f03cc574f0ee3c37

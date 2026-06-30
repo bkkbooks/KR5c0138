@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7981
+seq: 7981
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 全人難遇故也
+  hash: sha256:a96449f7d4062a59b5126adacbf8b2ca585acf319b10e270741f589c6288b402
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:16063fc67346089274c75796027e32a9daef4e31cfc3733fe0fc83bcd2999791

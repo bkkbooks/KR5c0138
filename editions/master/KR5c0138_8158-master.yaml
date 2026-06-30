@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8158
+seq: 8158
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖立法而魭㫁無圭角也魭五管反
+  hash: sha256:7c8586d1d2ffb938140d1300ff5322e04f46b7c9cec6f5e05892529a82119f39
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:529adf2e314f330f574e758686dd53e57e5f222867c98975cf1b287e740ab66f

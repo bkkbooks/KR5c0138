@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4515
+seq: 4515
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有精粗矣故不得無形
+  hash: sha256:cd6b7fe4231d74cf0d7698d512d91cad1fe727705bf83265c5b582a9158c27a2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ffddbd8791c37db9a66be9c33d524a7714ac1370c51325c9de173b2ed305be26

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1288
+seq: 1288
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫言者風波也
+  hash: sha256:94b9e1004dca8d245bca158ffe37d7dfb4c0748c4f52e2a9a787f75dab755aac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a130d2616815049212a5e03a512c524dcffcd501faca46be64310df0f4a575c8

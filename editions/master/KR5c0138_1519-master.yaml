@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1519
+seq: 1519
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 甜苦之性殊則美惡之情背
+  hash: sha256:4f413f316226be19ab2dc5a539203615d3f79ef8a2d80286fe96bd45bf22c2f0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b9992a454c7e293c8136c43a738026a8a3e63800e8ff93ce629c7d8ef9676508

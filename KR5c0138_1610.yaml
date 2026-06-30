@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1610
+seq: 1610
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之自爾故免乎弓矢之害者自以為巧欣然多已及至不免則自恨其繆而志傷神辱斯未能達命之情者也
+  hash: sha256:0c5fa054223bc26fb91441281ce4962734ab3d4c37bd106a453463cc41cd9f49
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:053df83d6860f12dd7a336a452312bfc6fe737b5d73525e55cc9249943e4c1d9

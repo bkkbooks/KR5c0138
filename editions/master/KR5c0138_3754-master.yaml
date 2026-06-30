@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3754
+seq: 3754
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與天合德則雖出而靜
+  hash: sha256:f13f05360e5d734e5be06c5ed4ebcfb34b13264ea10298264ec6926e6341db8a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5c9729ded1648d09cc0322e283d11a70a863ac427a0f4a0de9f8d06c60033437

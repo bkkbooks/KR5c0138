@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5203
+seq: 5203
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至人不聞子何喜哉
+  hash: sha256:505ac63fbc06bb159b1b0fc98fc96c658a905ca776ae16ce1a4dc7512a580007
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:04f980a92ffb7f00b0b3f105daf8d3c3e6ea7c945968a16c8c5c45404490c1e2

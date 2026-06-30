@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/556
+seq: 556
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有有則美惡是非具也
+  hash: sha256:306b111e4fc9742ee86f82931d9442048c7ade2e7c82822de88e4bf99b79b9d5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a962d38c8f45152092be48b6d20fd19270069d99b96e87eeffba617a8d2fd13e

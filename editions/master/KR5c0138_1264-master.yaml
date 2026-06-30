@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1264
+seq: 1264
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 妄則其信之也莫
+  hash: sha256:a91adbc1a23b2835779ad1b73e6a283ae39f684437f84f012689e37f914b9055
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:32106e30b6585f813ff9a1ac2860c49f2e64cd06cb218367cc9f7bc1131b6287

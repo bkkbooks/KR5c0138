@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6093
+seq: 6093
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不守其分而求備焉所以惡分也惡烏路反
+  hash: sha256:7081dc9db5a1e45c657912be84d903c50a850d0529bfdc53d0b56a56b7db6e62
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b7e183ddfce0fa6112e48ad24db6e784be636217477d7b2327193ed934668850

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4922
+seq: 4922
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遊乎萬物之所終始
+  hash: sha256:98e8379482b5747c7cf153f687bac838e135ab4eca393ee06c43a2871207ef51
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cecb6556fa7a622f41da985185a4d87218eede6c4672119a1520df5521efe03e

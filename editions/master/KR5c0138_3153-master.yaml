@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3153
+seq: 3153
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為故為哉自體此為故不得而止也物者莫足為也分外也而不可不為分内也
+  hash: sha256:0bb9379e6d97898071c3ecadecd79962526c6951a7db48872c3dc6b97380a2e8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0c5155ec2ede121c5d400d0759ec9fb106f7aafd5bb6d181b15977cad35f8c6a

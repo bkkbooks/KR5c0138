@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2497
+seq: 2497
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 付物使各自任
+  hash: sha256:ca644105d1df646f2b808719d9413a2125c45c57668d4dd6fe3fabc30968225a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c46733683cb4bdc66c7e4069ddacd556dfd320a60529acb075bec7d269f10f00

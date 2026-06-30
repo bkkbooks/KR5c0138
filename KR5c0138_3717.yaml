@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3717
+seq: 3717
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 分守已明而形名次之
+  hash: sha256:5b3b26ed1c27115412e09f6b7a66c010f22fccd32466b34b96eabed083b0a13a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:962317c02e07fb60d57ed26c24b519e0ac247e6ec623503903a3bf7f51c7dae6

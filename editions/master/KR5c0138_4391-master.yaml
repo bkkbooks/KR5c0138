@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4391
+seq: 4391
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 則深根寧極而待
+  hash: sha256:342438f0c34848a0f64d898a2f76737c0a3226a039c720628b1e771050bdc3a1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e9fd11bb49791fc0798b11ae57ffbe7b2fe6302d1eb120fb1dbde1dac1f70667

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4871
+seq: 4871
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 生之所無以為者分外物也
+  hash: sha256:b24dfda493885ee17d4f6502536c9a3ac925f56398e4f5bcdfa0809a4354a1b2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:610a0079732115ee6157c89b4b5b90168613ef07af2cd248c94b6b6f152e0c88

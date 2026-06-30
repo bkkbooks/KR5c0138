@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7362
+seq: 7362
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 始時所是卒而非之
+  hash: sha256:77af92abc4664df6ff82b85b912d359539a109eb7e7dbee2c3a0d98a9896d29e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:acf072a2cbef6c453a106d7299aef404f503e3020775f7f1ba1c5a5e824df5e2

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1439
+seq: 1439
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 恃其無用故不自竄匿支離疏形體支離不全貌疏其名也言脊
+  hash: sha256:00a29c53ed74c5187f93e27518e0b7cb5626c2121b5f53a8679a733be0c681a4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e24a7f7078ef59ad1238081433a0c75d0f9720ba425871d7f81f43023d0f7359

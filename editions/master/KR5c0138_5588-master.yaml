@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5588
+seq: 5588
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天下莫不沈浮終身不故
+  hash: sha256:ff2aaef185df0ed6838f8b77e2b2d64d35d28fbc141340f885f822e12eeb1989
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4d85bab9dc45e20f843c0f7c664ddad7971207ba06a81c7b320ebc311e9e425d

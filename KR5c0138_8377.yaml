@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8377
+seq: 8377
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天地其壮乎惠施唯以天地為壮于己也施
+  hash: sha256:a5b922b68384edb3e875b07f57568949dd5d463629a0bc95a03fd58373f3d06a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a43d763b2a1094f222a3d8b960bb643a1e89154402011f1bb294ada8921969ae

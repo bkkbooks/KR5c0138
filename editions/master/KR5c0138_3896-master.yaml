@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3896
+seq: 3896
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫假學可變而天性不可逆也
+  hash: sha256:0fe4aa40c3a0e2182fdd11d25a3d29f06f0a422981f0330ef077fa57dd4d17c8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9d8b897c701a7a8db5d99efb89bb571a299c181776b1a5ebcbeb2cceec84d787

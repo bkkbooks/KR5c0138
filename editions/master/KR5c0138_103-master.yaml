@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/103
+seq: 103
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖免乎行猶有所待者也
+  hash: sha256:a192e88765de5ccf966a67bb7e349631a59de79bbb40dc23e95fcc9d5da04d53
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9ec553c32ee91a50e2929f1d043bb52da2193b71dfc327240b64becd03ccfcb6

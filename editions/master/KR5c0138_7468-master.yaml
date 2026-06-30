@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7468
+seq: 7468
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 卷眷勉反又音眷姓善名卷
+  hash: sha256:f941270550a6620c33911e19d6608ee637399ec8246395416538780bb039b5d4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1958d3de0a6de49edfc290d3d6e940b1275dabc5e044ac9d9e1e50689386d0d7

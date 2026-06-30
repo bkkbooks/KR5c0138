@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1000
+seq: 1000
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫哀樂生於失得也今𤣥通合變之士無時而不安無順而不處𡨕然與造化為一
+  hash: sha256:ea5ea073a27df13e9742d4b1507df5f0b7c349b84741752753a1e2c2b753f541
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:48936dbd15131ea8dc8cfc5e260b051d05926ab9acff98732641a3e21cff152a

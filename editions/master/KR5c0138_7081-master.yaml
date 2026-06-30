@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7081
+seq: 7081
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 忽然自死吾不能違徂一本作阻
+  hash: sha256:7ebce80d32cd202cea87de80ad88bdd617eb904e29991221826179c8a46a2ba7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e2688eca119a5cf83c29e619d339990ed341d664e8a80a045a916bdac4baab21

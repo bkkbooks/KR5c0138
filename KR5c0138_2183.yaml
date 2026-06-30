@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2183
+seq: 2183
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子貢反以告孔子曰彼何人者邪修行
+  hash: sha256:31a02205414d03cb0445ddb8b46228758a95c4d968a5322355f27775f6d0cffe
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2a74e165e180490ad4d365eee88e79d8c4a6802d29e6036f428a53cc709ae523

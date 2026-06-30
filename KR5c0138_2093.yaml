@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2093
+seq: 2093
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫係生故有死惡死故有生是以無係無惡然
+  hash: sha256:2384cfd6a4a12f93e9e66030d18ce726982857b8b45aa4420aef9394ea0a5cda
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3b992844c7f8ade3f5d5c6fd3cf21a68118959c39385602b6008234be9ff18ff

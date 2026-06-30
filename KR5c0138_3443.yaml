@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3443
+seq: 3443
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欲同乎德而心居矣
+  hash: sha256:87e7fce723d19bdad197f3417bdca5e0b9b04bbb26f1f4c7dc98f68f51a589e8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ab9a30c8f65ede38d50fbc9ee7c0f66e5615c76b286569d6c314252a976916b2

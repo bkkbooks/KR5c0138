@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2444
+seq: 2444
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 杜權故謂之將死
+  hash: sha256:92bb5ee3dcf08e8c71ae98d42355567aca15ceea65c6c93bf5f165f19c166916
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:13ddc509fdebece48f089f15b59fb60815c0a10629a7b80855ac3835bc13b370

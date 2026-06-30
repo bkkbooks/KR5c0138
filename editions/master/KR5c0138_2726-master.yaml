@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2726
+seq: 2726
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未若都亡之無害也甚矣天下莫不求利而不能一亡其知何其迷而失致哉
+  hash: sha256:33a1d2c0be0d83681d2ba53e2cf3d6915e18afce90f883465d4e08edc204f503
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ca9d37f6a488722aa0fadec5d38ba71da62a809c7745dae2e62876696eb32d73

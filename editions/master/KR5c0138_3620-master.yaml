@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3620
+seq: 3620
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明此以南鄉堯之為君也明此以北面舜之為臣也以此處上帝王天子之德也以此處下𤣥聖素王之道也
+  hash: sha256:5becf88650763af1b9571d1e6584b86ec0be0fdff8b95c1d3ae3066173c39053
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6d4bcc46b6eeb87274f6b4f9e6b01ba5a82e77562a133aecd402516d17bbd466

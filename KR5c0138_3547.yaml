@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3547
+seq: 3547
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謂已道人則勃然作色謂已䛕人則怫然作色
+  hash: sha256:f1582b113b617eafee41dc40b6d936f7090bf5e5489067683db45bcb431fbf05
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:12660ba32f935c125dd68a855fbab113b48207e0eea8f9023db9104136d72976

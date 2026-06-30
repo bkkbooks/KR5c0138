@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3749
+seq: 3749
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無告者所謂頑民也敖五報
+  hash: sha256:ac98e19deb7c216afa2a97f48006c6ad26a6353d118851ff3155f3a824965c51
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7611f7dc8b91177ec0850ca2406bb2187572a311d0177b92ceccb0f509e3cc1f

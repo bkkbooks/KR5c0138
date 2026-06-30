@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4963
+seq: 4963
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾處身也若厥株拘吾執臂也若槁木之枝
+  hash: sha256:69cb5c256e676318639673c6062557f79ce72b85aaaba0d937aff1547cee3263
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1d9321abf201b14f0663a594f73df73de57b20410a44ef41999c2fd638c004e9

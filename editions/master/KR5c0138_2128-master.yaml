@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2128
+seq: 2128
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 跰而鑑于井曰嗟乎夫造物者又將以予為此拘拘也
+  hash: sha256:b036d9154e2e3672f3d52f0c71870382dad84b53b6291957c387eb6ca9260265
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:87b9dcc10b02769ac96e4f17211c837af46c5f46f2c9ec53ac77287ccbefb58b

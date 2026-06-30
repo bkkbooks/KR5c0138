@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2616
+seq: 2616
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 目之用而不係於離曠乃聰明也
+  hash: sha256:6e437b9269753bf36dcf3ca36850180f25f5bb99b634edefdb3193f4fba09c67
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b8f137265cfc04c1bcd2cde93f9d8da13601bd3a350b30a0a3307497272325f3

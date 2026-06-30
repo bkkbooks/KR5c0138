@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3367
+seq: 3367
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫禹時三
+  hash: sha256:b81d424d755a450765061fd7f76b1cb2aa53d01eab06d69f28154bd25d985d84
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5416516ae6c13d72e60b2081a90a2a01b1d001ed5e99c2a6419f6fab5e0a5f2a

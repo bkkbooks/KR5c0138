@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7850
+seq: 7850
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 離内刑者隂陽食之
+  hash: sha256:2da346b583118dfe3c1fd5b7319cfc8e41521ae2b391a59896a4b6ec24809bbd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ea11940eadb1d3d31308b769448c71a9ecc901b5171ea5b34b4c12f5163990c6

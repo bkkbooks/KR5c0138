@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4777
+seq: 4777
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 多積財而不得盡用其為形也亦外矣
+  hash: sha256:f885e2a041c5d232927c91ee3bad32acd03411bfdbb0861cee035ca0b25cf5e9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:873fcf93a528d07ce290429f8514b18dea7c516f19aa63c695d8735669f89cc1

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6613
+seq: 6613
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 衆自至耳非好而致之悪烏路反
+  hash: sha256:6826c4491f122d8f254793bb0d6eac72779f6a4e1a0fd6eeadd5c4225c235f94
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9cbec80a40675e4c216fa3981d04e18d12644e31e7a6d4d07cd19f029393af1e

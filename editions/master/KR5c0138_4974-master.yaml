@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4974
+seq: 4974
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 習以成性遂若自然
+  hash: sha256:2d84b5e9ceb42506f13d12bffbeeaffbcfd7e4198901abfe31eda73aff1ebe34
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9ee1f183e2e391801666e1367597b5e31ac29c2efda3a13ccc621f5d5b41acea

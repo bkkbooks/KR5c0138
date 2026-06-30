@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3228
+seq: 3228
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不以物挫志之謂完
+  hash: sha256:3d69a58be98eb9d1dff894fc2701b87ba7ed409cda2314d710d1d403ad5c3ab6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6217a701b6cc10e0c78f6a7d1dbd9d7a557dd05595864b110a3fac08d36f7e21

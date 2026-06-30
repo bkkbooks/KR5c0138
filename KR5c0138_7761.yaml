@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7761
+seq: 7761
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 功以賤物者不避其親也無其身以平性者貴賤不失其倫也
+  hash: sha256:247e9386a7dd8d1d74d779086f7b8ff6656f505a00b5d19f9aab23144bc34576
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e2211ccf039a09297ea6674c65a355e58d6f1ccc3c8772075ea24530c51e2e39

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6401
+seq: 6401
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物得所嗜
+  hash: sha256:3514716245fa25557e87967bd49d7c857d70a285509af6011b073e15b4d6752d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:472a571b1f3cdb678f727d86c43ea0221c6cf06af259e5573cc667c5c197d434

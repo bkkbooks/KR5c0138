@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5288
+seq: 5288
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 何謂人與天一耶仲尼曰有人天也有天亦天也
+  hash: sha256:571fdd32f9aebc7b690e7eca50f125fb4756cc05e65c820bf2159d82af3da6ed
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b7f376717adec68a44843119a4459d9af8cf94f7f5394162d9292899da6c6023

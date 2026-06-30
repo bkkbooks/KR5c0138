@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3733
+seq: 3733
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無相易業
+  hash: sha256:57ac5ed126dc6e031674036ad12202b4cb285522e5856521dca718eeefae7e2b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:38337ddb4f3a053b32bd4282791c13c6946309dfa0c43f6c2d2ce6bcba9b22e8

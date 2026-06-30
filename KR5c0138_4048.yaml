@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4048
+seq: 4048
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 惜乎而夫子其窮哉孔子行年五十有一而不聞道乃南之沛
+  hash: sha256:41da43c379bfeafab6859168f7c0ce45b302f07bdae89125730beba015735457
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c525db60694c87d7967cb037eb9f0e96d04bf337d95ff88775c878d92939dcfa

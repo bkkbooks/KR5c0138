@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/25
+seq: 25
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 北冥有魚其名為鯤鯤之大不知其幾千里也化而為鳥其名為鵬
+  hash: sha256:f41a7fd15b22681fb9d4cb363e1d0a61d29b55aaba5c51b215879d145edf0f08
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0ef9b380198c8cd956ad3bb5d2422bc770325676013d7b56649e6ee3fbdb4f98

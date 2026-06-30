@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5920
+seq: 5920
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 真不足而以知繼之則偽矣偽以求生非盗如何知音智
+  hash: sha256:071d3b360feda862b0e36a6ab9c0df59f0d469d325e794813a1afe7170f1feff
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fdedec60d1b3cfa4d5bf26889b2e63ea5988b715cfdafd8e765191f74a9751b6

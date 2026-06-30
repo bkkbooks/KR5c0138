@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7160
+seq: 7160
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 設問之令老萊眀其不可進
+  hash: sha256:00f4d037d63b03ab114652256a0a3f9f9619ed625f6328ad539469065aa7c28c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6ba04db3c8a0a5aa2be86f38182ac764a4933369eebbb0b12eb495c9221a4d71

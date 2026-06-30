@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7277
+seq: 7277
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 非不病也
+  hash: sha256:965345bc49a73a77b38be46d1e5ffa79a6ec1946b070a47c20f51946a724781b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2398040d6d9dd550f13c1205232d6099ffede90947982939c97daea774381c40

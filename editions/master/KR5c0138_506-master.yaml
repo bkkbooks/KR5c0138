@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/506
+seq: 506
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 猶能忘彼此之是非也
+  hash: sha256:8c81bbc852695af64b087bd2c71ab3e5110e4168ef699296eca8704cf7ff5cd8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:35850d5148a95cf5a5785fc0051912bdefeb12a1ed9a91befe3e2bc47dfed9cb

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2950
+seq: 2950
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 來吾語女
+  hash: sha256:797d49da54d5d597aa934ecd01568a6022cc01ff44c73b2d84510024c5c9b857
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5602c333207d8c2fde161743e545c6cc822736ee56dfc55ee18c75c2a2c2eda0

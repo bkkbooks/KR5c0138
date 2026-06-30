@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7958
+seq: 7958
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 皆道古人之陳迹耳尚復不能常稱
+  hash: sha256:59a12801711f48256e1c96a5644ef26b3235208b624e8dc6f3023a1e26e8f864
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d63977dfe5b6b8eeddd9e2f2eb5264414cb21bd3302fdee0db738f8b93e05197

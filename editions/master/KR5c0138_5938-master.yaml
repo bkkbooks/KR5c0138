@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5938
+seq: 5938
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今謂趎曰全汝形抱汝生勿使汝思慮营营趎勉聞道達耳矣
+  hash: sha256:f71ef5d581f9c0c23c9481c987f7d17ddb030ce918ee106397accd402045f13f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c52533077189f9762e6b6f1973ab5be1003354278397acb7a446d1ab05470d09

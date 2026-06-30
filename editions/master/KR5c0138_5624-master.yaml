@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5624
+seq: 5624
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而萬物以形
+  hash: sha256:d6b7373cb608a7dfe1db65629d3dc101ab695a310e1cd756ad7e20dff0199ce6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e776f427e25babcdb73732cbd658b6a14a7ab7b1b72e3c6bdd961ac35f672ee6

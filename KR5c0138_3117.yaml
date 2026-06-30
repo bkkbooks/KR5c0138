@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3117
+seq: 3117
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 逺而不可不居者義也
+  hash: sha256:fb47fa7e2c2f3550ef9c30d20348de0275dbb3a7e1b0b3217428037363a9965a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1731b7030648de8fa8a720167c3f6b4b560f5fafcdd6cc2b681dd536120e350a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2937
+seq: 2937
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 嚆矢矢之猛者言曽史為桀跖之利用也嚆矢矢之鳴者也
+  hash: sha256:e90dc29729756ced5c38aae4fa5f5abd46c74025cb9d4c525baea7d70a3fa9cc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5dbec7c9c241fd025d4575d95279f18a8aa359e99b450efd15baf60473834955

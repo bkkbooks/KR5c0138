@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5503
+seq: 5503
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今汝然有恂目之志爾於中也殆矣夫
+  hash: sha256:56077dbf0568a442070c74957728b7f704e4171b3f837e956957b5dcc5b4bae1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e93fa31f5f30ac779db8b3f49851116eb935e344049003991af9e0e8ffee1588

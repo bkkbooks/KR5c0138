@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4882
+seq: 4882
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 悲夫世之人以為養形足以存生
+  hash: sha256:afa90d997211ef30eac4ad8fd73b891f24c442d6adac520f6cf9ea201d33597f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1ddba75dcd9d498fd1772bec8e156204fe8f128016c1b2a3f72f91b2b0cac9dc

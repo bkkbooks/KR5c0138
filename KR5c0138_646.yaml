@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/646
+seq: 646
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 皎然廉清貪名
+  hash: sha256:c580dc7108c38aa9376b28bc1d9635b2da343b0c936407c8ac5b710336c7bdaa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a66d2157f7ea7e55974478a2c34bb7107cb33fd8b912d72964a707b27f89b336

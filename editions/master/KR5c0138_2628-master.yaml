@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2628
+seq: 2628
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 茍以失性為淫僻則雖所失之塗異其為失之一也
+  hash: sha256:15b0098937d864c58b4832485e18617a3d32901f57bdcfbea34f494c360ca517
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d347666e864878271988f9e3e78bdc51bae1456fb4ef6d5b8e9521d136477ccf

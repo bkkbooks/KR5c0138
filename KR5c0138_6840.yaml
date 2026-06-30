@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6840
+seq: 6840
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 仲尼之盡慮為之傅之
+  hash: sha256:9a11ae6d8ded782e86578fc9f48bc23b08a6ad7da4c71da0e7ecc15d4e184055
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c0a7d71580d227772eaf9ca3033ea1601c23e52e8652b835a223bc2bbb8f3fc4

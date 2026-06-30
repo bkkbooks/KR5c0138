@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4870
+seq: 4870
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書莊子注巻七晉郭象注達生第十九達生之情者不務生之所無以為
+  hash: sha256:5e7743143dd336b40406f55d10fa16d7841b2286d20c8990e116263e8362ee41
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:597bb27ad6b29762e82931c80f5007d2a2806dbb43cd793b4e8f70375ea32fbc

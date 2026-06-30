@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4900
+seq: 4900
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所在皆成無常處
+  hash: sha256:8773299d77fd47ed9cbb47f0cd9ff7e2bb094cda4a3f942dcf741a1516776190
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2fba82019cbd4f46cc45ea56df10a369b4cdc081e4c627b471f2b36d2d6c445a

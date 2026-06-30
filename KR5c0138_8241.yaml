@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8241
+seq: 8241
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以天下為沈濁不可與荘語
+  hash: sha256:e80ed2664907a31f58ba25f5fe570b91291c0079ba65eb8fa3bd0ed7d9546ad3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2fae697bf0138e700e71d6462a164e66238bf998057f703053827c5f49307423

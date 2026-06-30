@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5861
+seq: 5861
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 哀樂之來吾不能禦其去弗能止悲夫世人直謂物逆旅耳
+  hash: sha256:55062932fb20f01a527f624f8595335a4fcd2c69c65120b0f20897691ab033e5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8737c3afbad828dafb7e410ede7dd85424946a85f6ffbd3e47dace6df8808f62

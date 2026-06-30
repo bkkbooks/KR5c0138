@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1148
+seq: 1148
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 心而付之天下也
+  hash: sha256:19bc32b699304bf5bdbdfd3efbf6a53cb75e2d6e1e2e205cfc3b97bc93e6e916
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:aa20d627f190e15a4e48f486cc9ea1917e162f857efc81cfe19d0c4bfed6db1c

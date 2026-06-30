@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7074
+seq: 7074
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物之所在其實至虛
+  hash: sha256:af2b3cbd4487f37e65f18123a0ca984803db026da3fde3d1a04e8a7d00ce6d49
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4a9f88776c3029767f32817ee85cbe39f5a23bfb979b506280c51c9be1d01420

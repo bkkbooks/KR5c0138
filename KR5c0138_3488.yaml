@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3488
+seq: 3488
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 願聞德人曰德人者居無思行無慮
+  hash: sha256:02c11cbd87603b585dd14c672032d8e9a64f2a0ca9470d9189c3bebc6b469dc6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2419a691702baa73daaf0a3a9cd4838dcb2f5107f61964749c365a16ad02a8d3

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7701
+seq: 7701
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 懐而窮理致命固所以為至人之道也
+  hash: sha256:54fbd04539b6de41a951df349944fe4af7ee45877d8868406930e58b5c93d705
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:24c5a9b69324544398a93e59169cbe8dd9d023ddac3f90d589f550e036e6cd0f

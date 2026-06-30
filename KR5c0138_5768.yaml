@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5768
+seq: 5768
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 㝠㝠而猶復非道明道之無名
+  hash: sha256:9c6353e8e13b1951e23bd1250a76212bb09c826fdffae0c70f3533578b419751
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4fc12595cee858b2b0b296e6bd7884f32cdf9a960d75b8c591f66c0c27be781b

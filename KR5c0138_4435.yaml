@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4435
+seq: 4435
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其間河伯姓馮名夷一名水夷一名己見太宗師運命篇一云姓吕名公子馮夷是公子之妻盡注忍反北
+  hash: sha256:7cad3f5a2e843d6bcc34b1750f71dd388469dce744bbbd3e913c6ebb8cd2a6bc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e786a2a449074b1f6ff83403f4db109de05e50681e5936f089d110f2a631fcbb

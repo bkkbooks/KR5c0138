@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4796
+seq: 4796
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無懐而恣物耳
+  hash: sha256:a30b3e466c598f0bd5baf8a742f525f9bab54e9809efbb1e035fe2f661bee2fd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d9f407788f245beb3958921f57ffaa1b65dd87ca5c48835cd6c3acb15640e2c2

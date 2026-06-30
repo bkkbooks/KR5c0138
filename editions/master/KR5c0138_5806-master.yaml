@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5806
+seq: 5806
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今之昧然也且又為不神者求耶
+  hash: sha256:ae5d5bf9e209825c76ff121f7d6d20f65d24efbab26661505a858449225d89de
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fb41441c8d773223a35dddf76977f34823e9a08d9284828ccf245bc76fbd2951

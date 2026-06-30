@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6504
+seq: 6504
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 茍所
+  hash: sha256:11fdc0ee41b7927db6604e7ed89007e365a023149cfa3a22632bf42ad2a70416
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:15ab3a560af7d4c8ba7eebb6212b28cc34d36206b4f8588d7fdf336b55817c89

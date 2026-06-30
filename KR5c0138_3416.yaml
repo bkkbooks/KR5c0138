@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3416
+seq: 3416
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 形者善變不能與無形無状者並存也故善治道者不以故自持也將順日新之化而已
+  hash: sha256:cc0e74855dac306c5eb51863dfb1c15ae9d45089882aae7b76aa16bb0fdd8f1f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ebf8f81c801ea0087a3d544651399e57e72981f763529def647944c01399ee8d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2427
+seq: 2427
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謂季咸之至又過於夫子
+  hash: sha256:cc080b3f76fa0d987fc62c76d339ee97cf311b6cab2157f23dde24b3b6d8ca56
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:75b4849b9c7ccc5ddddbd186dbefeba796a68a963cf79887548b204674f4022e

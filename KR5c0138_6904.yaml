@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6904
+seq: 6904
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故鹵莽其性者欲悪之孽為性萑葦
+  hash: sha256:8d3008bfa213282c549ff8dcf02ce3b7b5d68736576088997ebde682e9348615
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7cee7bd701c3c493cf412700882dd9000c00e08a8bfb26c8abd1e5e135089e8a

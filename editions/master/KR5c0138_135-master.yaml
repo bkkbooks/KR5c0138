@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/135
+seq: 135
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫自任者對物而順物者與物無對故堯無對於天下而許由與稷
+  hash: sha256:e245c1e69b674f349639d56c32f504b573f35c9389d698029f318de344347f25
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f3286bc6f79728b4eb3f53cf77757f7ac66ecd22f1a4c40e14ec0c6bfb818236

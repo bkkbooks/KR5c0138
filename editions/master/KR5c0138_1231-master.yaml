@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1231
+seq: 1231
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾未至乎事之情而既有陰陽之患矣事若不成必有人道之患是兩也
+  hash: sha256:7e679f0a62a5053a74ed5ca55441bc9aff873c06111f9df4b5ba7ff37225e0ef
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d85446238bd84e5b793b489d65c0138f374ca37dd82cbac0ef7c4e17d9f72d6a

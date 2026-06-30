@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6512
+seq: 6512
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道之所容者雖旡方然緫其大歸莫過於自得故一也
+  hash: sha256:51aace725679fb74fce4e687ec0f7cdcd4d42d2e4135698c52d3baa664d0f632
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:71263eb86281c0b5c2f5be4f1466d4674b303c8cd7ea61ea02940825ebc8dfb0

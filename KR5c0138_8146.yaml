@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8146
+seq: 8146
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道人若土塊非死而何豪傑所以也
+  hash: sha256:30b40a255a5d95251c3237dbb6c7f7ff2d970332a44554b32a625b542e5f6db4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8e626f33de1b2ddff40d1f5cf77bfa37acf97036ab4cbb7e9ebe34323f47144b

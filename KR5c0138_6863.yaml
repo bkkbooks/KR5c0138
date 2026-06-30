@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6863
+seq: 6863
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 王與蠻氏俱有限之物耳有限則不問大小俱不得
+  hash: sha256:c43040cdfb048c3251deae744fefae320adde31cbf25cdacdf2303fc92d8a081
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e4960c89ec70523d43ba64568a881da46b74a986ab64f7c8761f55aef231b496

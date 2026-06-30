@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6145
+seq: 6145
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 喪其散而之乎聚也惡音烏喪息浪反
+  hash: sha256:c6d6999895557a124e66a369512b1d26ea9a2f37e07909abbe6dd46703b13d78
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:65a8daa94b1a71556278502cb5f97e920ab6912325ed304406c5e94f942f7653

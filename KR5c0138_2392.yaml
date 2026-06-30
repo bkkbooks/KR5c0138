@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2392
+seq: 2392
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 厭則又乘夫莽眇之鳥以出六極之外而逰無何有之鄉以處壙埌之野
+  hash: sha256:521d5542086aefd2be8c365fb3e4bafe2831f6d4b9f9c106cfdc2044102a0c5d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5f5bd202b3012f38f6fa931aa468da3ed3fc2f1a5db1ebbea02bfb4aafb96b29

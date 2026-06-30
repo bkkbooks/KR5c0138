@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4099
+seq: 4099
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孔子見老而語仁義老曰夫播穅眯目則天地四方易位矣蚊虻膚則通昔不寝矣
+  hash: sha256:fde41ac7f3c291ad48fe3c8cb16efba58dbbfdd41330e62f776e5037a016ed75
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9778b0878e4727af3b8193cf570ba8650d3a9dac775ec426136cfc8d883a0fa5

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2042
+seq: 2042
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此𤣥同萬物而與化為體故其為天下之所宗也不亦宜乎
+  hash: sha256:f411944df96345d9a70cb9055e2badb16d68f5c291a9526205082adda9d5e6e2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:15d5653233614359e5b02618106ba7f337ef22ccd8acd0c4167b18b2645cf897

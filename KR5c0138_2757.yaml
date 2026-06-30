@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2757
+seq: 2757
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故曰魚不可脫於淵國之利器不可以示人
+  hash: sha256:31d1a5188742635a677e437c994a725e77bc5745efa6a6936234678b11511e38
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3a840982df5dc11631942f5e60d071ad116cf0ff7e2dea680b54c28f8a568cf7

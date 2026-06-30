@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5646
+seq: 5646
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 用物而不役已故不匱也
+  hash: sha256:402e5050ea31b7bda05b8dbb67b630f4292da148ad93f823bd6e470ebf39c5d2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6d5ce6903c17c84f23d880966f7f4d5274c78e4374772a781aa78ec6bbc5d35e

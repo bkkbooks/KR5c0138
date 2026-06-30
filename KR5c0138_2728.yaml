@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2728
+seq: 2728
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫竭脣非以寒齒而齒寒魯酒
+  hash: sha256:1b5147d02082d95d8d2993bc845df7e7b20c078fc99bef798e1d88d825c7069b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bbf840018588d13e97f91824f11353381e1d77cf399e93ac96a56f4494b50b90

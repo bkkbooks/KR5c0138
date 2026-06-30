@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3442
+seq: 3442
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 也不肯多譲堯舜而推之為兄也
+  hash: sha256:c956eadb8204e1726bae7c8605d06dd5d17e8be6d6268421a36b2d17bb7b91a8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6d02b808298ed8a856a1bfcf22a4e38ce4149bc3d7778b4c8cff62c8f6c36f47

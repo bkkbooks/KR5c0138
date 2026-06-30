@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3138
+seq: 3138
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 薄於義而不積
+  hash: sha256:965e083e57f9f101fdbd93fa1a98193b5985f4d428c29887f2654df7515c2ab3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a5c23dfd610fd80c3a9c86b889e58129ee7fbbdef69d7f58d5e5dba3eff78b8e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1272
+seq: 1272
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 本共好戲好呼報反
+  hash: sha256:c01e1e7924fdc5260a9ad0a0d7856fc1d73a45da2d83e5a57fa5f8bdcad83074
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:da650f4d4d18b476287c902bade1a68bdcfdfd4957dc223dd414549e864f7f83

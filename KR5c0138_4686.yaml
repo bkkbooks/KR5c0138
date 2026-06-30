@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4686
+seq: 4686
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不因其自為而故為之者命其安在乎
+  hash: sha256:e192a034fcefe943ce11773081f16020fc1b3755cb2cb135768fb84f177bc866
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e5cff83a825e857c4346f934ec1df02d1f378ae858e0e710ce23218c42eab337

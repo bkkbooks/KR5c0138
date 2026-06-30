@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5550
+seq: 5550
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其歸根之易者唯大人耳大人體合變化故化物不難
+  hash: sha256:dbb3445fcab8ca6a6fc75b019f916494c1cdf39dd0932970544d244e94779b76
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2b408499cc6b047d50392fd56fbdd12737cf0ad0ba5563516728905ed048a131

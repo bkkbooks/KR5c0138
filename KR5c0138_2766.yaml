@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2766
+seq: 2766
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 擿玉毁珠小盜不起
+  hash: sha256:ae82a59d9741e930ccc74d849e0568769c554848803294d0305188c8e098d743
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e0f9c868f878d74526e0685db8247f83784d3aac76a356644354fcdc9fa74cd3

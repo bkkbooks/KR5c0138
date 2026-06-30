@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/829
+seq: 829
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 使同乎若者正之既與若同矣惡能正之使同乎我者正之既同
+  hash: sha256:3ec31f0565c560087612ff22aa0d68a3516313f31fe6d1487bcc00d40595fb06
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:001e818e460aeeb2b00665af58c720aded7e6b665dfbec45dcf5be91629e95b3

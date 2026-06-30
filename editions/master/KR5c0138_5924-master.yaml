@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5924
+seq: 5924
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 堯舜遺其迹飾
+  hash: sha256:5ce0e379cbd50dcbc96bd24947aeb0fc846e67bc0efeac997b8279b6d71baad5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7f6923f63355308308238fe605c9433d1e2d48d12f80424366d79501f864670c

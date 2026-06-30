@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6352
+seq: 6352
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無以謀勝人
+  hash: sha256:03071d3bafcc13059639ca9983fbe653e783bf2d2b82b09ad76418c7d881e6cf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:856d934142d6d5c6ca6ad7f0c5fa3f60e8915d8f0494d0f71505f8780e582b2a

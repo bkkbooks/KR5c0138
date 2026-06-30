@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/304
+seq: 304
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 非相為使也故任之而理自至矣
+  hash: sha256:fa5d65949d49b4114887de5a3498492bd223d7fb6dcdd98b113f2dbbeee71675
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9d9ba0ebee60d5db16b0ee38a66e1805adf85cee37024780a0e7604723bfdfee

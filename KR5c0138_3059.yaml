@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3059
+seq: 3059
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此為徒求三王主物之利而不見已為之患也然則三王之所以利豈為之哉因天下之自為而任耳攬音覽
+  hash: sha256:4b72475f040b9222d9520598bebd92d174258b646aa24d1963ef337bd0b784f8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:92c5eb14f1c7b42d3593ecd857ff000243163b121d1188cba6cb03798646e29e

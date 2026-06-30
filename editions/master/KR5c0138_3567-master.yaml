@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3567
+seq: 3567
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 折楊皇荂則嗑然而笑
+  hash: sha256:3e8a972479f05475c81acf2aff6dbde7605919ae89ae31b70971938a169a9316
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7deb2d86228055f044f90e73fdcfaeaf30b6090b4830a7d95cdddbb56b52a4c3

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4640
+seq: 4640
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 何為乎何不為乎夫固將自化
+  hash: sha256:c7edea26a8cf043a8185713f18589ce317e9b9e19bb7777660654738332da1f6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5e1030361b460d6001f2d82db3dc054645dfa8b4932b57a75940be6d419e184c

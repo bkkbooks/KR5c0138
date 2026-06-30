@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5061
+seq: 5061
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不内變不外從事㑹之適也
+  hash: sha256:71ba878c451a71db3352db70916e5a6f0dbd9deed11d07bbc657cfcc0c7abf42
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4431076745ec9cf767bf19be99c7df7dd6e11627eae5d54579e960f53f45743f

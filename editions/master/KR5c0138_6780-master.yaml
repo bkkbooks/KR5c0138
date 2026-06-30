@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6780
+seq: 6780
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知音智幾居豈反時其有止也若之何憂乎智謂有為者以形智不至為憂也不知用智必喪喪而更以不智
+  hash: sha256:46b550b329af219c79f7275590ae6a4e0e1485af1322ae6712559d144bcd1446
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0d0ca75e4f2f46fc75b629ff5ee17662b8859918212c420ee1bc41a745981a87

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3191
+seq: 3191
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以道觀能而天下之官治
+  hash: sha256:ee55ba1d09addc6f527d69dca57b6cd91f62b21dbcd077ea053b0cf18f57f1e8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:63d9cd523d7cd919f00751cb67eb44e225d6e2a82bc4a584d9de18205c2a822c

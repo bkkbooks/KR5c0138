@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7760
+seq: 7760
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言緩自美其儒謂已能有積學之功不知其性之自然也夾有
+  hash: sha256:78f2b1f31ccb21ab18ae6c2079d3c95fa5c9bb6bec0046c21bcc38743fd25531
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8083beee3848be9c8bb341d0cffa9e555f13bd9f2362d95c98d04b484f013cc1

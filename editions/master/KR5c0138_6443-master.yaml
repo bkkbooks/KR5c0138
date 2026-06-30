@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6443
+seq: 6443
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 貴鈃自以為是也
+  hash: sha256:20ba5a2bcd0d5ef05db0ed3148446c17bbd3cb9de422577f79820c65ab208b17
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:59d989dc9d9aa30f2432861778390300eb62b2c1d29ae9b012061026beb993c9

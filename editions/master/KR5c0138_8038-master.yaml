@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8038
+seq: 8038
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 碩儒
+  hash: sha256:3e63660a2fb79bca45c75733f2e624812db721e2c81018de6f2ad75d5d1622f2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cedd5f3ac74c51bf9903a5d1c54ad6113d86c79f2b39170b07381d88e8d340ba

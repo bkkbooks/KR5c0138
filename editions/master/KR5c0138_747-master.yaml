@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/747
+seq: 747
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 也彼各自謂耳故無彼有謂而有此無謂也
+  hash: sha256:edee4cd47cef3ab9c36b04e9ceefef199de7c9417f9f23b57ce0e06582e96ad8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:075507458caf06a5a4f6c99a4d8dc581b65e08d783d7f38ffe3d6069730ffc84

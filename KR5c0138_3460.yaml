@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3460
+seq: 3460
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此乃聖王之道非夫人也子貢閒其假脩之説而服之未知純
+  hash: sha256:220a6699a60268de7d5cab53dbbc5d91263841a075541da925d2f3a74d0d8c3d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a6209dc9462c8fb946244e81adf26fbb4b71ca9e3fa18fcc07e088a5266e3c12

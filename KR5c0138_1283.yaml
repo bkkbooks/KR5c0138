@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1283
+seq: 1283
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 泰至則多竒樂
+  hash: sha256:de0ea0c99c87a4cddb34137b802daf4811d0dca5d014f99f8a983e99430278a1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e33ebe13a87549ef4e72f8b7ba5cbe914b8d3ef4f938306a9948b2485ba8d7cf

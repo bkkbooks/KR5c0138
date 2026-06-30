@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3240
+seq: 3240
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不近富貴
+  hash: sha256:3939f02a19a452bfab70f3935ac4410e3eceea2792ee2c9f5dc079aabc86f0a1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5aacb58b0575f35ca9a2155281c0d021f65e68b6cb7abdecbf09622cc5bbe2cc

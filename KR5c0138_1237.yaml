@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1237
+seq: 1237
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 臣之事君義也無適而非君也無所逃於天地之間
+  hash: sha256:2674967496c96d066c92cb931f36377456c9c38b0bb0d6040e2b9a2eff8cc301
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d3cc1bb7ad97a9089c90912f0419f53721d8445f7530bb51cb583a86eb0f596b

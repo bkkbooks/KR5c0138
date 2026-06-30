@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6259
+seq: 6259
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫復謵不餽而忘人
+  hash: sha256:92f9edeac35eefd18901c8b9da85eb95765437907dcd1a8f6d4fec034620f318
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7b0a4e6fe1ee2a318f10ea7442056ec5348c7f2e8a7fc32292d745c6b3403c0e

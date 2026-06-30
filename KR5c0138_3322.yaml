@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3322
+seq: 3322
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 將遂使後世不能㤀善而利仁以應宜也
+  hash: sha256:7c2a5d6291f2ca06b962076827cec3595f4c28de2fd3b7373e6fe4cbd7d33fb2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:888eb57999a2f33e74f419a27719c9115651572ca9edaec13fad6676963eff75

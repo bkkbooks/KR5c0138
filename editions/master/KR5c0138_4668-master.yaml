@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4668
+seq: 4668
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 任知則流蕩失素也
+  hash: sha256:7105e30a0f8e6c6269c6014ec337724b3a47a4ac7a3a9b8aaf1707ce5a8bc9ae
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:367ea26d98b6558a9837d814933d24e627c8b592a59028ce9f153ede8cc627a7

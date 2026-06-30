@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/531
+seq: 531
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子而可謂成則雖我之不成亦可謂成也
+  hash: sha256:25457090c509d52f7e7b08bc9aff16912a92abee2c7320f3c56c33e797eacf5e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:54f5af4c85737eb07f1c62b4334769eb1c120a9bd0ffd009602398960dde771a

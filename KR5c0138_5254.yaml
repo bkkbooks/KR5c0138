@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5254
+seq: 5254
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 任其自爾則歌者非我也
+  hash: sha256:0cf8ebd26a8b8f7ab1baea40f14742fadd61710b972749192922cf2e43f93b2e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:423b730a30c78d6a2cbc3f911e14d321fcdb0908fba3bb2238d4f6e41ca44c74

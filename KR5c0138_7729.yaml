@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7729
+seq: 7729
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 已矣吾固告汝曰人将保汝果保汝矣非汝能使人保汝而汝不能使人無保汝也
+  hash: sha256:e535781bd0123225e851e3cb1e44818e24e4f8b5b2ad87953ae9a83b6686be7d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0ef28832cb0fc953a56a13a60e7db3b00a41d4d2976893fab58c4ff937edecf9

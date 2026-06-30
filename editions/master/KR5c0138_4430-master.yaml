@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4430
+seq: 4430
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 秋水時至百川灌河涇流之大兩涘渚崖之間不辨牛馬
+  hash: sha256:04d152a45e063c3d13a1ad9ca0b7a2ec8acd79c0cbc869d95eeef67b381a6750
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fe2dd170fef53ed0d551ecbf472c2accede65502d8271f356c462f69ca51d972

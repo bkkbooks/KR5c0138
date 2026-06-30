@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8020
+seq: 8020
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫聖人之道恱以使民民得性之所樂則恱恱則天下無難矣
+  hash: sha256:350e8caf79d396c5ab320745e493e5c64ef69edd2e8f68eeafbe012fc033ee47
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bfdea0f150157355ce70a9ce535455755040b8b7f0886d4e2862645f7f3a59f7

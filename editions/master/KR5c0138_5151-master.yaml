@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5151
+seq: 5151
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 萃乎芒乎其送徃而迎來
+  hash: sha256:ce3d165c0ae6a1345e3cb48224b48b391c385d17ffd1f0da8fa6f547db48a9ed
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b7517d2d916b1c7fd7975e47cbdcaecaf39d277365fb5586a020bbfdf2351575

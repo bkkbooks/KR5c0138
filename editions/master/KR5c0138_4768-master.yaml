@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4768
+seq: 4768
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天下有至樂無有哉有可以活身者無有哉
+  hash: sha256:d13c994587f252bc1d6fe271bddf44857d6047762c8d5cc5390cafb1e4836080
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:13a251d587dbe4e65385a886a5a5d309ecd9ad0299f9b26c002f72358217c07a

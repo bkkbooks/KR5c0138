@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8277
+seq: 8277
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 同體異分故曰小同異死生
+  hash: sha256:b30a24cbcda48190e355c9b5aed3584e1c3a5f22a03de146aaba49d3dcbe85be
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f244a03de9df777bf7287a37284b3a919682d8663992e0d831666e32a8226542

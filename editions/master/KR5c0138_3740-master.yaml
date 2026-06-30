@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3740
+seq: 3740
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 驟而語形名賞罰此有知治之具非知治之道
+  hash: sha256:8beeeb33533d0341f6dee4b852f0219ccc5c571e5b43c688504f899db4919963
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:64a80f92e8ca74500399693d57e1d16555709fdbabeeac12e1b13aab1854854b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4833
+seq: 4833
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 顔淵東之齊孔子有憂色子貢下席而問曰小子敢問囘東之齊夫子有憂色何
+  hash: sha256:03bda660eb2e0106d2ca836544f181e0bb64e3854837329271416968853dfe6d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:69b9a53f53561f8fcf51dcd9b9b0f3f467919787457d384e8aff430cb865611c

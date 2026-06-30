@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3411
+seq: 3411
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丘予告若而所不能聞與而所不能言凡有首有趾無心無耳者衆
+  hash: sha256:e4d88f543969b65f6903ec2553b09a920f5ea3eb21b18a0c19b3679d1e59cb60
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cb371cca1e17cfac8a2e742546ee8a29e2b953f694bba0bdd4550a9899786a1b

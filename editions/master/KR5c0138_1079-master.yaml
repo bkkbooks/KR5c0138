@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1079
+seq: 1079
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 能救乃更足以成彼之盛
+  hash: sha256:41edafcff084b89f640f617de5b1281ccff9df74abfe30521ae286cfad570951
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b9a2869c94225c0150485e6c59834feec0586f25e0d0e1b6c8a684b8272a4b10

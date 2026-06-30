@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4786
+seq: 4786
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 善則過當故不周濟
+  hash: sha256:12ad6a6b6ef92f7f868b0cd0e19c4f468adcb383bb0e2c88883f3e8e0466a8c4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8aa0e9d54adcc055be1d49d0e6f94aeb48c41c8a5ace181f8ec61fb014e20006

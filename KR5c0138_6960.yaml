@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6960
+seq: 6960
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人皆尊其知之所知而莫知恃其知之所不知而後知可不謂大疑乎
+  hash: sha256:5a2010ae1afe84fed3616d5ad89540c1b08b15e5c0f8a3b70683be6342d39b54
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:80e6ada5dbfbf52c758c1fb1773f24a5a6edc280c1084cf9be8e077e76de4da1

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2862
+seq: 2862
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天下将不安其性命之情之八者乃始臠卷愴囊而亂天下也
+  hash: sha256:25a1ce6df1e55d0811e842eccc6a61df9cb04a3d64f20ea505b1697b6095ea27
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:74ab15988eb325a22c548c0b4412e41930a20430345a02e084d0fa7450fe087e

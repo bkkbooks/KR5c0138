@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7611
+seq: 7611
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四者無異於磔犬流豕操瓢而乞者皆離名輕死不念本養夀命者也
+  hash: sha256:b7c47356b73a8b59b561002e558dffe98a8bb6adc3a6936ae15cde8c7bdeb21a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c8d96c56fc5c2fceea508c8f56a882ce8ff5aaa933aafe56fbe981849c7d925d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/472
+seq: 472
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其成也毁也
+  hash: sha256:41a8fc6be58d6aceff85427c9da2bf0db0d628db5d68a48dd7dacef5cf08ce3d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8007f661c2f4335f7ca45a9760c72cc72c83638422e9c6755456852183ff3f0f

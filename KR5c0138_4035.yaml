@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4035
+seq: 4035
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 禮所以適時用也時過而不棄即為民妖所以興矯效之端也
+  hash: sha256:563c1b220be36458b9437c4482dfbdbf78bd6d2721f0711e2cc8676803cdcd6a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cade7bcd5aefe6f5b33e98a93b2bc14a62862f47562c6cbf0365b1305f1c551c

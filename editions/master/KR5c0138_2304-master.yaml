@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2304
+seq: 2304
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 許由曰不然夫盲者無以與乎睂目顔色之好瞽者無以與乎青黄黼黻之觀意而子曰夫無莊之失其美據梁
+  hash: sha256:81f2523e63a7de70e3d3742b555f4bf3175bb6c9f22e15c4d5b8b03a942b561f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4a7cf75d81cd0ef93db7554332793410f0d11cc8b97d05777a42749a3057864b

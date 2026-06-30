@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7196
+seq: 7196
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 去善而自善矣
+  hash: sha256:ad52968226ffeab00c223758c65e019915467109c834f8a03880b28332e73247
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c7347efd93d0aba2baa0599f484dd1e1a0375788c7a22782dd3685e988cde521

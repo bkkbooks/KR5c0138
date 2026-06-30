@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2624
+seq: 2624
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫絶離棄曠自任聞見則萬方之聰明莫不皆全也
+  hash: sha256:8a5e01fd4f8e6dbb62a0006dc9f3a8ada3b55776a3967c3016903b7b3dcbbc65
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:47989de2e07342be1960a18792fa350804093a2db8f4c405e98f0049028a8520

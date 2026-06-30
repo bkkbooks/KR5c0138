@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5287
+seq: 5287
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日夜相代未始有極故正而待之無所為懐也焉於䖍反下同
+  hash: sha256:afef8cfe0dfb50d54ef435a4fae691efcf3169b160ddf5a64d762c2bb5f9de3f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ad1232a2f5d5e1be62906b2985a353245b5a01a83c3683ec9fd2b0f7eb94f4de

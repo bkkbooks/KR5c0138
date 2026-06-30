@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6073
+seq: 6073
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫期費者人已見其矣而猶自以
+  hash: sha256:bc505f67a4cb84498aece3fa5c3530b890dfdc425b4981385654a7aa0b295f59
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5232455b927b5288124384d6cae04f387cadf6522363747c3b4b535ecaf2c473

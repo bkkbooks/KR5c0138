@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4908
+seq: 4908
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至適故無不可耳非物往可之
+  hash: sha256:60bedb52a89507d459267c1daee2439a730af373bf48e186087e069c85f1f240
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bdc52720d6087aeaeb98cd3190cace88af7eb72900471a228d518eb6e3d004d7

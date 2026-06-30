@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3814
+seq: 3814
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾非以服有服
+  hash: sha256:3dc8738a4084c39a9aec3ee3f78d907411e837eb8e7bfcb3dbf7af9a8cdbfd24
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ae88d2318486e60133d5a1ac2ed6e657b2fbb9ac280af2bce19a0736c0dac9af

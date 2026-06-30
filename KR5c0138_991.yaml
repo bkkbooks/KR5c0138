@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/991
+seq: 991
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是遁天倍情忘其所受
+  hash: sha256:6c013ca293fbc081c10a73321c3c2f7f009cc092bcb47364e6257327a94ddcd3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:419e9b8d4efdd622e3ed78fe7ffa69fb5757f28de65c02a7674a158f34edcf72

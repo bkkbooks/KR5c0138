@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5102
+seq: 5102
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寄之南越取其去魯之逺也
+  hash: sha256:7afbd935432e515467a736a90e6afaa9e990227fdb6aac319a0fbd2ee1ae875c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:440b7e4d57580e047c3412f393814a921bbbb2f0c97620812a73dc1ef4e7760b

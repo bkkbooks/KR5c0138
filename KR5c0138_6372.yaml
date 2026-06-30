@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6372
+seq: 6372
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 予少而自遊於六合之内予適有瞀病有長者教子曰若乗日之車而遊於襄城之野
+  hash: sha256:d4fe310f8b75c0cc4de93fddb91eab5dd60876bd97d240ee1e36e1845d42972f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1ecf329d8bb99f0973a73ab1d8ab28cf5a9e84cec8080df3e20c0e7f81278bd7

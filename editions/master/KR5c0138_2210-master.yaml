@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2210
+seq: 2210
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所謂無為之業非拱黙而
+  hash: sha256:93578e80dce42d5d3936fe3cf4d5e55ef200c073c44ae5c734fd01bebc0d7b58
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9331e713147bac483ad76400fbdc64f882243ec27f7081b703cfd390b51ac65e

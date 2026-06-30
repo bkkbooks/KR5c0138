@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1168
+seq: 1168
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 可謂虛乎夫子曰盡矣吾語若若能入逰其樊而無感其名
+  hash: sha256:934308fd6dde1dc0ca84fe2ea572256e280198a6d9c702f23621c5d7c5277a46
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f6c115123c03bfb5057854dfc94018d55b9cb37e11439c7c9a120c2c2c804ab6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4555
+seq: 4555
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得者生於失也物各無失則得名去也
+  hash: sha256:f833205dca8ff22dc344787e9d797f139153e651c5bd41b46da4bc3becd01a38
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:30c79768638a2c779d02b2d253743eeefab619e72562c14fcee36c387687be6a

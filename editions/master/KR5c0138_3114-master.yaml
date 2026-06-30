@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3114
+seq: 3114
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫事藏於彼故匿也彼各自為故不可不為但當因任耳
+  hash: sha256:05aa38397e0827584d63dbedfe96847768f2db51fb13c4a483c9c97bd0a3e764
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:505b7db0599fe4a6a6785a801b1592fb6960ef52883849c833e66ac23253a762

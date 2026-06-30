@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3159
+seq: 3159
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 虛已以待物則事事失會
+  hash: sha256:db0c364002d5233e61db1099c74647bffdfa4f0da8709b495fe72e012dcf3d44
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fbb904c95790794ba74b6eb78abb16a26573377fbbacad816bfd17bdbb682f2c

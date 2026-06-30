@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/735
+seq: 735
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 瞿鵲子問乎長梧子曰吾聞諸夫子聖人不從事於務
+  hash: sha256:b4f8891aca3aa7b8ac0bcdca094ec15075147948c388ea0a472d813dd44958fc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d10270b312e05ff57bb75a42a1539db35d24219e3cfffe4a46004abc2d0f5b2b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/982
+seq: 982
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 老死秦失弔之三號而出
+  hash: sha256:f697791a4d81d19026348431952ab1dc3e5c45a0de5c071ac936591b4c835a8e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bb1cf708f498842f2488e84d84b18e8f7608d2ca45b3371108ed3371ae75c8a2

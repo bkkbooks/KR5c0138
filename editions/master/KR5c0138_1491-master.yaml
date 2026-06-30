@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1491
+seq: 1491
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 常季問於仲尼曰王駘兀者也從之逰者與夫子中分魯立不教坐不議虛而往實而歸
+  hash: sha256:34740c27ee8504d471b20ba2fb893b3ad3fc8174d846800d165fd2517185476a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:70b92f863b2b0a9fe1f569e83b281caa7a5154486c10c245aed7099b5aee39ba

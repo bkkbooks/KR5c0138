@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4504
+seq: 4504
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之定細大之定大也
+  hash: sha256:d2d282304b01658c9cdbfa30e5cfb7c71c1a056dda8e146e21ec6b77bdbc9d3f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:29c479c1f0bf5dd6d2ba206db8db48ed97c5423ed9fa5279eaaf2275efe7363b

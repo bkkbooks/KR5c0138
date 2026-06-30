@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/744
+seq: 744
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 獨至者也
+  hash: sha256:490c8d69a2aeec7e81ea935e3c22b3794eef7efd8a5146b0c0a4e8059b87c192
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:79650f336b31bff2f4fd912d7da6e85c901919aa14618523755a0036353f0ded

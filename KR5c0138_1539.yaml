@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1539
+seq: 1539
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寐以形骸為逆旅去生如脫屣斷足如遺土吾未見足以纓茀其心也
+  hash: sha256:2a3514034c0cb185138ed4d3b5707be9a6edefe6f4387d819dac83d43bcf8151
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c7f7bcbdf1e2f4ca14fe1f0f2ebf0a1ea96998d13a3cd623289a69589ccd8bfc

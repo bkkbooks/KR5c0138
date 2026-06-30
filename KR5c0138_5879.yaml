@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5879
+seq: 5879
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欽定四庫全書莊子注巻八晉郭象注雜篇庚桑楚第二十三老之役有庚桑楚者偏得老之道以北居畏壘之山其臣之畫然知者去之其妾之挈然仁者逺之
+  hash: sha256:8f8ff614495c6917987aee97b286e9c874cee62c593978aa2d7511042217adf0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2e7f67859e2347ede30d766ff95f83d3e8c4810937b43d9de6c0e2c3888ac5d9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/121
+seq: 121
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫物未嘗有謝生於自然者而必不
+  hash: sha256:b66f3718c650cc96635d4aaf6e0eba14ae7968e02b2d4b3ca86c901419dfd438
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:90ffb2ef6b12834bbb7ca474272441d2fba7fbfa57e3c1438a5b203d59aa5b92

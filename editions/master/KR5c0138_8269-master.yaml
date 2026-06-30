@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8269
+seq: 8269
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天與地卑山與澤平
+  hash: sha256:8ce09e0168b63622cfe1f6a6c41932bd23b96e02f4339af9970f6c6a573103a1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:557acccd9e5530c603562b095c6eea1de715f0d4a27499a84b2c0bef45f765cb

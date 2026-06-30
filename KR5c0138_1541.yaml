@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1541
+seq: 1541
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 嫌王駘未能忘知而自存
+  hash: sha256:b3f0f1d646c350709d782debc27a36b02d256a3bbf9cafe9a2f83e4994403937
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ce9f34842cb1a43a3d468ce1b21d89bf1aa628e163c9626429c2a0decb4c4bbc

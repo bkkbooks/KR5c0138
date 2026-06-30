@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5535
+seq: 5535
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 任其自行斯不言之教也弅音紛唉哀在反
+  hash: sha256:336d40c4e5960716c9ef971b881bdd5b149b7fd4c977a91f9e602a4935e64720
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b87f8aee10afe0135cacd0cd058e7fae46155adeeae6ed6aa820b56d691ba5ea

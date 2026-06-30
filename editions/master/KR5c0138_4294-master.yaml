@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4294
+seq: 4294
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 同天帝之不為
+  hash: sha256:97084c31f212bb8a6b3891fe9ed336281dcb39b0cb4b31bd9488db2ab0575c8a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:62441e6d5e44e7c250ec4bf430ea8cc9412952ad676970205b3e0d09fa7fa8b2

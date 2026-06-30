@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/699
+seq: 699
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 且吾嘗試問乎女
+  hash: sha256:c7e97291a1c3c5effc25df1f5b3cb24dde133ae88a60b09b39cd618291e54e3b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b87e91c6390788c0c3e3d7310fd034b296d407d3dca7834e52e7e65378df8698

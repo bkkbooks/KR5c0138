@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1385
+seq: 1385
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 匠石歸櫟社見夢曰女將惡乎比予哉若
+  hash: sha256:fa1e6f7567775595640804595244672fa8373a3ad64e7685d22168b3c464b925
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1e9f77112131caa7ccade7f31a0eecc4b0045f19e338afbdcbbe692ca4e3f77c

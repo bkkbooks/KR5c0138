@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4075
+seq: 4075
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 随時而變無常迹也
+  hash: sha256:f84752f1100d05ceb9517c848f7c0f55a48f5fc947e050be11f300f1fbbe7b8f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6c087684e86ee711e1c9d21c1adee889d135970bb35bddcb650cd149a6cd762c

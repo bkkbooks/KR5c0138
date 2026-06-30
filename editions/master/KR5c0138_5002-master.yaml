@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5002
+seq: 5002
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 木之無心而中適是立也
+  hash: sha256:d51a7a5721c5594712493305e60e2793538d7adb4b295f5f82cad76149877cd0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:88c02d44cce32e23c0a1c43b484b0e35e131ad7eb19356f420913655a2e6c30d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/947
+seq: 947
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今臣之刀十九年矣所解數千牛矣而刀刃若新發於硎
+  hash: sha256:a10b6b949104f72f3467d050e0cebacd11a6ffa897b0cc0cc1658c9f66523a41
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:98affa4d6260ead429bbe9ef3182517a663e1d6c5c24950030855f6d245384f0

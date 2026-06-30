@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4451
+seq: 4451
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 豈達乎荘生之旨哉尾閭泄海水出外者也
+  hash: sha256:a56793df07a23941ac46f71aed930b10ae2110b0c6a4827a424cddbb0171e516
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6bb01201fc025c47b20c60e53a5a7fbc1214e0bcd44067513fa742825cbf3870

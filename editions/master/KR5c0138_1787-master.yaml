@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1787
+seq: 1787
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無人之情
+  hash: sha256:876bd0c29b30f7806ee7aa68693cd61b8c4bf0bbb9218e08ae1ef3a6696ec219
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a2795f63b2c785c772ad790409c145fa58e7f5cf213c288d7fb79a154cf34e26

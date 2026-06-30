@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6532
+seq: 6532
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 令萬物各知足
+  hash: sha256:a5e7cafa796f734d0b1e7c9d6d4d60a88e1b6b0844b36ac9ec84bc89239460d8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:32521290fb1b871e2e5bf5971d5a6c0a340af6465aabac7ea1547f91e68dd515

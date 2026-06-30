@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6458
+seq: 6458
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 作漫猶塗之也
+  hash: sha256:bf2f11275a9632004f1b3946eaaad3ba6609855b22efa61e8df347148253e442
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6794fbda6fb87547b32f0db469aaabd2fe06dbf03412c97a2fb471491ab0604e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4066
+seq: 4066
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫名者天下之所共用
+  hash: sha256:6b2ac29a4cccd9f9335b42001d7620923253b9311f2e9be9303060ce7657706d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6ae46d66568d0b2593eab7e270543d1aacf82eca2b483746d48f1d00714657b7

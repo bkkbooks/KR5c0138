@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2931
+seq: 2931
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 桁楊以椄槢為管而桎梏以鑿枘為
+  hash: sha256:b587fc28e71a3d311545c4b8f12d31dc406d2b71240969a0588f839fb1a7fea1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a0b187268034ecc057ebd1bc39a68b8eac524020de947e2abab13a3cac9276f9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/791
+seq: 791
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不知歸於故鄉也焉知生之非夫弱喪焉知死之非夫還歸而惡之哉
+  hash: sha256:7e1293f1343e466b45ccfda6e2277385eceae5671fb7ac64ddfae7d42519c9a7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a0a66fabe7e4fa998bd156d2f1b404cd90536125129456eca09c973e4ce0e2c1

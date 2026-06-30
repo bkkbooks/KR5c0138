@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1877
+seq: 1877
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古之真人不知說生不知惡死
+  hash: sha256:ea8f27d3ae59bb6a4bb9ba2d2d77ef324b002ce51417414dfe24fda650a976d2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f140b6d738ca290d3f7477dd40a721f55caf18f9ee8cfa523544f7f1229b9e6b

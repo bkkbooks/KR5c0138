@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8306
+seq: 8306
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 胎卵之生必有毛羽雞伏鵠卵卵不為雞則生𩔖於鵠也毛
+  hash: sha256:76215b4db8c694e5e20d7c368f33b27d754a5af2f0b85f842547beece4cfc0ad
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:43328c8a951780856b232c5aed5410e80a0a942091bb70a3b49bf317f630da26

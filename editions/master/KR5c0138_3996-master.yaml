@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3996
+seq: 3996
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 林樂而無形
+  hash: sha256:4564c051cef218ed827c402d666f9bafa2ffe544d8e1f9943d8b57ab59932faf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e67dff06116a89bd945336d0949e76d7479bcb08e1ae5ff54da8c82079634508

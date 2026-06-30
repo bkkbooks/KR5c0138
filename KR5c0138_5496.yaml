@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5496
+seq: 5496
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 箭方去未至的已復寄杯於肘上言其捷敏之妙也
+  hash: sha256:4fbda5cd83251b61d4b67425e40c8708c2823c2901bcfb098ca9bb5394bb3762
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1a7bc270ac1687871748cdcb363351b9025c9e4964e063274eab655421b2dd92

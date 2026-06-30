@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4630
+seq: 4630
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 年不可舉
+  hash: sha256:d77c2b36a4caa3fe34291f712e1928c4ce291e3330e3bf3dda809b4b8a8d610d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c507eaf754479638a3b6bb4c8c82f70bb2bb26c9db5bbfb1ea02887c7a78bc2c

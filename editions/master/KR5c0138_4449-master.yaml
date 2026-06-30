@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4449
+seq: 4449
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 小大相負則相傾者無窮矣若夫視大而不安其小視少而自以為多将奔馳於勝負之境而助天民之矜夸
+  hash: sha256:81853d5ba41990bfca7fd4696dfd3edef2b909e64480ba9d405bb7550584756d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8aa847824699ac6fcd4628b3987e197d023ea27eda87dab0b3f1b1e8d0d12b16

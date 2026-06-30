@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2335
+seq: 2335
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 仲尼曰同則無好也
+  hash: sha256:fc02558cc25fc452e49e4c6a46cf5c3a454e4c3fd2cf2e12ad034ccf5d9af46d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9789eeff07ef0b503dac053017ddd12e77a49727844ff3ca4eee67b890614f80

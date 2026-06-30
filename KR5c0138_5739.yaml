@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5739
+seq: 5739
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 來不由於知耳不為不徃來也徃來者自然之常理也其有終乎
+  hash: sha256:a52d0179efeb838b48b6288274832ecb2346e1bd3dbda52772affeb3dd8b13ef
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6ef2d2462df2374f1303535d8927be5376a14558bfbd635ff7aa342194ae598e

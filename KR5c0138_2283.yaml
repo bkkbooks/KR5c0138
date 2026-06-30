@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2283
+seq: 2283
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 且汝夢為鳥而厲乎天夢為魚而投於淵
+  hash: sha256:ebbf2e8429145f957246dc7438dd8cee263a57a39820d279f8b9ef6e3511925a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d336654c06b60360adfbf8b0a49248b16f7830e4f79b37903af8b06c266fa301

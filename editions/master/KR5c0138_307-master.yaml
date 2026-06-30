@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/307
+seq: 307
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若自真宰使之然也起索真宰之朕迹而亦終不得則明物皆自然無使物然也
+  hash: sha256:c5ac1e427099d0ce3c04f2b0df0bbbe1ecd656b50a1eea16214c3c8b803a1224
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:79f3b1e916f7cde47d397442af63c8dececc4bed26a0c068a493acf1b6ee861c

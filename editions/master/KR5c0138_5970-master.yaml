@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5970
+seq: 5970
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無停迹也翛音霄人音育順也
+  hash: sha256:2ecc60da05f22f0c5ce85ef641cc29504a67ee8fad2b29adfcdd0d059481ab6b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:67e702a887067147a16fd3117339a177b00e665dc20544e1640678f8eb1a513e

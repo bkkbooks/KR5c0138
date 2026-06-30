@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5172
+seq: 5172
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 進不敢為前退不敢為後
+  hash: sha256:38ffe9a60f811a7350e019df4614bb442afc1877aeedd2a2af0971880ca8c0da
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ac95d33555f8fdff0a92a67e87a8350437a6e61cfea88fd84188ed0b80fc2d80

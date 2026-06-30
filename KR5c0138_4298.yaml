@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4298
+seq: 4298
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 精者物之真也
+  hash: sha256:961487f251ee52dd8059c3b6d6f4e57e409dc90eedd171c903c34eca448c2d92
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:19d8e98887cc236176918e2736fc6ea21daa06f1bcd311cd1b35929dcfdfb365

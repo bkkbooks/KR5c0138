@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2799
+seq: 2799
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 甘其食美其服
+  hash: sha256:c0822e6e0171377caa4879dbc860cb161a7c582c1ba4ee7377e7581eb0b4b049
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:83b7ee3931a38f52bb721b0b8367524b13cf412decc8bd2a5325a79abac45dc6

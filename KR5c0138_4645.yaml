@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4645
+seq: 4645
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 北海若曰知道者必達於理達於理者必明於權明於權者不以物害已
+  hash: sha256:7aa5cdea700c2aacc61afbd4f9bf097c05fe8ff292b812369c57833bf548826c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d17d32b1a5ebe38b163d4ed4f22e4cba9c3d54049f5ba34d88e8c28c0ef116b5

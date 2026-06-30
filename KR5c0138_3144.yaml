@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3144
+seq: 3144
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 事以理接能否自任應動而動無所辭讓
+  hash: sha256:ba7da1ba204b4c2e63c189e2474c2399fd1e2dbb82932b7607a3d185b9a18859
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:847e159b242f4688fa1513e07801e5445e4c2ed9e192c294fda1c903a9fa4abd

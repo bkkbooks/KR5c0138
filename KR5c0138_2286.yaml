@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2286
+seq: 2286
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夢之時自以為覺則焉知今者之非夢邪亦焉知其非覺邪覺
+  hash: sha256:285cc1c5ed486e135d3edc68d72eaa2702a825530ab775be130fd63e970fb688
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6b9947b011858f57c7532bf38c11916598d048044dae01df4cf933901c41b295

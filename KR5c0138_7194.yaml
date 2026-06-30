@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7194
+seq: 7194
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 去小知而大知眀
+  hash: sha256:a64e0403e3216eb7d051d0c8e19a36e096177b2485c88f89b1ea986d4a61692b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:464e1ac323a5388ccd6b0f0ae7d47c569ea9fd6f6ddbeffd341b42e33a731516

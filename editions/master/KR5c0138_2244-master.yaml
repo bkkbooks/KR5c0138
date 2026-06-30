@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2244
+seq: 2244
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孟孫才三桓後才其名也
+  hash: sha256:0efce0b845d6b17b74632c5e24153deec303e85f31bc018fb2d06df3e070a81e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5e69fbc1fedfc321ca139f30e3076d668bfff58a02a730b9855843a93307252d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1891
+seq: 1891
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人生而靜天之性也感物而動性之欲也物之感人無窮人之逐欲無節則天理滅矣真人知用心則背道助天則傷生故不為也
+  hash: sha256:bc9411f559a0050cd64278596165e2134bdc8dd274553276a3e9099b52f8b345
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:224bc53f6539a6648ce311253b64c97443a4ab40a88e480d802eb0d562da9071

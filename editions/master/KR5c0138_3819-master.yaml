@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3819
+seq: 3819
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 衝出之貌
+  hash: sha256:7882c670280cdf7d385f68f1376c492ad1509d9c7380ddce60bc1e9d2cc99d70
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fed7d69d68bed4a2cab3d85a649752df2722a2cdf908f8b44fc42745e0276922

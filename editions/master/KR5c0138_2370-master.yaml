@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2370
+seq: 2370
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 君人者以已出經式義度人孰敢不聽而化諸接輿曰是欺徳也
+  hash: sha256:c13b2a3694f3fdd0933fea4bed109a69c9edb2a7c7019d6c48c7929de4239040
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ddb029e61c3f194a02e662b70376394802cb0e9ff5fe97daeac36188f4be4e5d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2159
+seq: 2159
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今一以天地為大鑪以造化為大冶惡乎往而不可哉
+  hash: sha256:9687f506555b0c3cb26d67247779e88b94fc31dd25f7271b1cee992f9fd62f45
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:568d6e9856bb671dcff5cf819d4848cbafb16b50a48d1875c45918ce25eaaab2

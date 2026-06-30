@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/347
+seq: 347
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與物相刃相靡其行盡如馳而莫之能止不亦悲乎
+  hash: sha256:11ca78458f21878f90648b4cd2f9ec7c25c6afbc1ed2bcbb069d9c1b7a8c7122
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1b7f8ed87849299a7b9ed842a42a1bf7f72ea8b31906aa44a2c34df59fac4c9c

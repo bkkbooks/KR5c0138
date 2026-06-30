@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4520
+seq: 4520
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是故大人之行不出乎害人
+  hash: sha256:291322b5e19507a02047ff88c334c55e03c4a2fad031e4c2442f1a434b361a10
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b6d676b06a1477e6a1a0fe983f83675ff540f58d6c6e63cc8a9f63fd841b910a

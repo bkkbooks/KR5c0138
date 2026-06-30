@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6229
+seq: 6229
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫目之能視非知視而視也不知視而視不知知而知耳所以為自然若知而後為則知偽也
+  hash: sha256:5c3c5f3a9197b6c41216882dc20ec9439bd154eeb4da5b6b200edbc9f6f864a9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:caac95710373b2e0505a3552aa4a912c8d9a18e621bb7f00eb0341afbaed0dde

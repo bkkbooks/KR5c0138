@@ -1,0 +1,11 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/markers/834
+seq: 834
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_001_s1102}
+  - {type: line-break, offset: 6, content: '', id: KR5c0138_master_834-bkklb1}
+  - {type: 'tls:seg-end', offset: 20, content: '', id: KR5c0138_tls_001_s1102_end, seg_type: root}
+  - {type: 'tls:seg-start', offset: 20, content: '', id: KR5c0138_tls_001_n1103, seg_type: comm, member_ids: [KR5c0138_tls_001_n1103, KR5c0138_tls_001_n1105, KR5c0138_tls_001_n1107]}
+  back: []
+hash: sha256:f690bc875c32477e68307221832de302082e85af84b34fcd2e5404a822d5f4db

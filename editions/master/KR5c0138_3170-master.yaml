@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3170
+seq: 3170
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 司而君不與焉二者俱以不為而自得則君道逸臣道勞勞逸之際不可同日而論之也
+  hash: sha256:792d7c4a59cca3a2ab25c8f042a7c6b4e67e2c02ddaaf57fc866162fe44b8594
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:16c1599599c07e7bfe2f04e9ea436cd5de9020ea192394b14a68aaf67c7ba3dc

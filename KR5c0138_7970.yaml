@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7970
+seq: 7970
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫聖人統百姓之大情而因為之制故百姓寄情於所統而自忘其好惡
+  hash: sha256:b34a32a313909376dc6a0664996f5983bdf81682c3e5610d45126a0f1c643b13
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c70e98ff15bfe1c155e56567eab299acdd6da51f576e26907170805ce368f3b5

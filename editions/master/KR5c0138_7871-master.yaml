@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7871
+seq: 7871
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 如而夫者一命而吕鉅再命而於車上儛三命而名諸父孰協唐許
+  hash: sha256:d34c93d62dc3ae8ddc461cf67f459773efd771af51ae8ab035f4cb1924f37553
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3dcf3d4781fa3d15c08157523b339df475ab06b261af596ee6c22f83a4bab013

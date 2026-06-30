@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7110
+seq: 7110
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人主莫不欲其臣之忠而忠未必信故伍貟流于江萇𢎞死于蜀藏其血三年而化為碧
+  hash: sha256:f40134dd8d9a5767806a465451ad0db568b6eb85a3fbc61508345d996f1162e1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a5761e881a466cad4db005451e3c043330c6bad7d2a0881baf14f85fe781f938

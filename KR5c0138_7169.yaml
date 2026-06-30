@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7169
+seq: 7169
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 者無惠則醜矣然惠不可長故一惠終身醜也
+  hash: sha256:7188a5f2e219c2b11c6ec827c3439f8e684312bea8f7e4f56d89406a7d18cb39
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1a8c8b4764b5d4ff7569cf84ca8d88d21c8d1b61321be8b28c48ad9ed3f8af51

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4580
+seq: 4580
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二君各受天素不能相為故因堯桀以觀天下之趣操其不能相為也可見矣
+  hash: sha256:4a6fc734d144ce8fc5bb9580a6afc3f88ffcb638f03eb16bec73c28f464c5de2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:413b36c7e67bd0f39d79476fceeae5322d8d295093e1ff127c0f632994132e9b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2484
+seq: 2484
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雕琢復朴
+  hash: sha256:54cb5dcdcbdb98d273a0030693f47bdb64cd30ec6117668588fbc38cec83ee24
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:71b19ca88bd51067a80e2ceff741e73c7942bbd96ec95d2e1e5b23fdbb34d042

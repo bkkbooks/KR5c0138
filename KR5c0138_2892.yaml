@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2892
+seq: 2892
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無所排進乃安全耳
+  hash: sha256:bc0c715c5088f3d7ac3e0905fb561739341d7cc989393754c34deb11d0277740
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bcad643b2fa4c556c3ed4e1b52eed66d0beaba97e22a8c427e7f2841aa2abcd5

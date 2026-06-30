@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2004
+seq: 2004
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫非譽皆生於不足故至足者忘善惡遺死生與變化為一曠然無不適矣又安知堯桀
+  hash: sha256:95c0c3a102e2953e777a34a7b56691aefbe2c3b80196c0e562b3d5deed21655c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9aa7051e1fa7cec2aa59c8332a5dc740aeb3eb7913cae4b65a82dc5b850b19d2

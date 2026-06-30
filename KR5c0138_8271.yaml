@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8271
+seq: 8271
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若宇宙之髙則天地皆平天地皆卑則山與澤平矣
+  hash: sha256:a613bd7a1a2617ac7f68d5cda4d344ed7e21335527325658b371b4a4ddbeae5e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:524da61b40b1decf162310492f21903793d53551db6057bce89bd2d473de5e9f

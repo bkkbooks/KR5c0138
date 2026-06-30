@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4443
+seq: 4443
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 可為量數而吾未嘗以此自多者自以比形於天地而受氣於隂陽吾在於天地之間猶小石小木之在大山也方存乎見少又奚以自多
+  hash: sha256:2f303dbce3d7adbb31ed3a4f55cab5e88f59f7b200d583b3f3e7383836afb12d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f62a483faa8c3155bfc4a392efd43d4db1794fd5cef98d3d810970c8c71b1b09

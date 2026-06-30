@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2817
+seq: 2817
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今飜車也
+  hash: sha256:368cd7311e58d6fbfe94bdf35287894ed9a0cea30d537df0a4a181346b90deac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:927026b75842bdbb10659c9fada7019f159669237454cbe7de713d6b0171c506

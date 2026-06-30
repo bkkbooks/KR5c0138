@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4620
+seq: 4620
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 萬物一齊孰短孰長
+  hash: sha256:dea5968e40f0d8149e5a0fb5f46442712598f7c3e89a660d456ee7f7d635d09c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2fe9fd544a32c60a5ac11aad40e0329c5be0de28bb686600c165689244fea5bb

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1946
+seq: 1946
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謷乎其未可制也
+  hash: sha256:63b109b7f3e390e2278d29bf6c5f176687baf894e6825718b1cc35f02e37808a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7c906cc27abd51b403252e94d000104a7fb9d1cf7eec15cf72e1f2350b94b711

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8065
+seq: 8065
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不敢望有餘也
+  hash: sha256:963a8179621536bb5c8e55ac82e7954c0140dd487d0dccbed79f7a7a37fa974d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:08a6339a78decf9babeec71f94d4c1dd18c6e38a9b80c0882ee34d5562c9aa6c

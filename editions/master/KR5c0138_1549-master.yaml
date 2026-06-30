@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1549
+seq: 1549
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鑑也故王駘之聚衆衆自歸之豈引物使從已
+  hash: sha256:fe5d928cbcfdbc74efdc0a72803fc35f29e1cffef28bbe485fbce68fdcc753f8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:28ebcdd1906caa1645974f75691d871c82a59862d6c8ec55ec8cfb81db4890f0

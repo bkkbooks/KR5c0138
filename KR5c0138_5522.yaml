@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5522
+seq: 5522
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 國名在汲郡共縣案左傳凡周公之後也隐七年天王使凡伯來聘俗本此後有孔子窮於陳蔡及孔子謂顔
+  hash: sha256:322c07d8d01d48325db826a927f05bc4fd5297aacfb1fc5844da9d212cc738a6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3558e0ff4400fdee2dca94db225aa3b039b4f882f567de83a6b947b08a019b63

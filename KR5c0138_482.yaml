@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/482
+seq: 482
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 幾盡也至理盡於自得也
+  hash: sha256:d40becf8b0533ba94d9c721d27991ef821e047700fabe89f667db92867e9eb6e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ac0f7970e7d9dbe6f21fe419d28487b3adbbadb1e3ad453571ff1f9eab7f8d47

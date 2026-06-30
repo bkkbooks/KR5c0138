@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2581
+seq: 2581
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 仁義連連秖足以惑物使喪其真
+  hash: sha256:3546b06ea726bcf3b11dd73cf4b7653c472bb0853240203d56d15c7ac3704b30
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6c318e8cab8bf8e6af7a1c17f6e339aeb2925f241eec5b5d56aa1eaeb1316770

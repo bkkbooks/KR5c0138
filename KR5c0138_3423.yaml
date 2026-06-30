@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3423
+seq: 3423
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天物皆㤀非獨㤀已復何所有哉
+  hash: sha256:9930613a4bb3798adf6bdd63b64e2a2c5cb3b958fc1bf206258f0f0b64862d18
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:220d778788de62defefe7c372e701000bfa7d12255e247658a3be8517aa253bd

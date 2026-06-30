@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1215
+seq: 1215
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫事無小
+  hash: sha256:089702fe2a31d6ab7b7b03e1baa35f295a0cbb28dc107c16b18307e3e01efe8a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:928e7cc19277bb065ce22ed00ee09e498bb2588b5aa167ccad5b912f09c82389

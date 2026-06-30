@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1615
+seq: 1615
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 皆不知命而有斯笑
+  hash: sha256:8f8c0ef6fe6303fb27d7050d0d6511c6b632be3122781b231841d69e140e7835
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f1d44de585b765d1013120d826062e15b301d0b3d2dd2bc22bba35058dec7fd4

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5875
+seq: 5875
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 齊知之所知則淺矣
+  hash: sha256:140bba635e3170c53c2a8a2b6b5508b3dac931611411bd3984cb343a9972eb19
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8452f979e02608f2d0b2b186dcb385fc861e29fe6034fa1409d660b6eff107ad

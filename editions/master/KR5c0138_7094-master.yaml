@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7094
+seq: 7094
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之為名所假而行
+  hash: sha256:b08666ab212cbcf3606d367d1ac0409f81a65f9bd0bccabe5f0dde2810bc08e5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:31a0cf659e786e671354271063e26f0540f0d92c134949a9a0b43a84c1c58e43

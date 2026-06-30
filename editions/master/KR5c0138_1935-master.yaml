@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1935
+seq: 1935
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至人無喜暢然和適故似喜也
+  hash: sha256:8b6a7bfe13ee5b4b8497192b7b6f10348445788794804517354e907c883f76f6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:18cc2b84830f4313ae6f439c3443c967e67337159bc6cfde7d07fdd45b4a081d

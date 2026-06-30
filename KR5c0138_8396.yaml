@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8396
+seq: 8396
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 惠子之云辨也
+  hash: sha256:0c9f9bd48a493476b004fdfb6aa3ef7ae5b03c6aee418553ab014e3d117def73
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:06c813fac11193d3f00b72f2e15a8df659075b9b9c7f07cbc58d11862c60a654

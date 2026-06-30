@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6240
+seq: 6240
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 任其自然天也有心為之人也
+  hash: sha256:3970b377532d07a78fd79cd60b301c0e3ff968273f33744e4fff895155d7308d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f6547b1ddfcc9d9f4a44e54aae6660bb691dd16a60771b20b6edf11cd0e14d62

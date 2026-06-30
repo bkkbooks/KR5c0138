@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4149
+seq: 4149
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而天下必有斯亂種章勇反
+  hash: sha256:da7d8b23e4d3e11294d5bc7ff1a9273395efd323c30be0b41b94c70b1247dd95
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0018dc464c9cb1aa1c437b262d11d2157474d08724fb1b1f73d35721a4e1574d

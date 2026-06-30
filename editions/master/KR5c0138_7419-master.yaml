@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7419
+seq: 7419
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所遇皆適
+  hash: sha256:a2ac6be6424ce15e89a8c26fc99bd2480d3666767684d8adcbe6402d936ba83a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:36ffa3b7111a6c35b716faf937ab861b1cb2f53b2415dbf74b1b87955a979a0b

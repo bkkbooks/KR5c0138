@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6420
+seq: 6420
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而自是者非堯也
+  hash: sha256:c3c20b7139d988eaae442da075b816973616e56e1cae82deb26a181e8f804353
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:df19d9eb2a97f12b2fa8932e5b3eb3c53e2e1ec0930e0b98c4f2dd40d5d10274

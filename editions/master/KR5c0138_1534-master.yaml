@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1534
+seq: 1534
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物視其所一而不見其所喪視喪其足猶遺土也
+  hash: sha256:0598ff2b5fd26fd3b497653925e62c0db214f5fd207019c1f43795e6ea8a43ba
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6ad1c9babb9fc9de7cafebdd134e444b5017209e7b6624de2ed79a466e42178f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5543
+seq: 5543
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故曰為道者日損
+  hash: sha256:a169c8c1e411ac07a0fbd968f5d95c6f9bd1cda0c49bbf9b7f51515aa738d1f6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5f4ee298c682e536a2e55aca125930f0a6d0c1e93ba1fa04f5a610835eb5ba80

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6262
+seq: 6262
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至愚不獲人之所習者也無復相為之情故曰忘人
+  hash: sha256:5e63f05f7a9816c784523e17d380c96e843d33726cf1ab23235ae9d978a49cc6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4ca7cf2699e2440169c12b7254c3eaff094f7bf0c988d8573fa68f5c1a27d957

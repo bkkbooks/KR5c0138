@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4731
+seq: 4731
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 且夫知不知是非之竟而猶欲觀於莊子之言是
+  hash: sha256:aaf793516fe69beab88345d7ec998d680d07ac6b348b3bd62870750e0e829f8d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:edf768bef5430561639b61bf6138e6a08d0ece1ebd92e25ea4ff761500b3168e

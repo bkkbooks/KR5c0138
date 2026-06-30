@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1435
+seq: 1435
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫全生者天下之所謂祥也巫祝以不材為不祥而
+  hash: sha256:25792b0d9944e017cd43da939449b7bde5bd7802c6f41c2c59d64d87309a17b6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:78c91dcc6c9b29dc3c26dd242b8134815073f2a12897f5ff487fbb26cd67548d

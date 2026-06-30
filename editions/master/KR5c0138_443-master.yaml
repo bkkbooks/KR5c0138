@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/443
+seq: 443
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故曰莫若以明以指喻指之非指不若以非指喻指之非指也以馬喻馬之非馬不若以非馬喻馬之非馬也天地一指也萬物一馬也
+  hash: sha256:290e725734e3bbb6265a678c1a3871fa76f784e19f36cc3ea89c9d3649ab9547
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cb3363038db756f5eeff9f590f861cc8e580e503cc98233f0754194c977dd1bd

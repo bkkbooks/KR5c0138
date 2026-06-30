@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2888
+seq: 2888
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人心排下而進上
+  hash: sha256:9064fe725bec6f695268d8dcfa57fec15f7f62879d57bf660c60b24c80ffb1cb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:03ae7f396154946a0920fd6723af3916ac9f2ad718ab39bf6d48b83b8172bd45

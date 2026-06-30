@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/970
+seq: 970
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知之所無奈何天也犯其所知人也
+  hash: sha256:df64cc64f0067bb1499fa09f04f9fcf71910f0373e9902f8c84525cebcdf1a19
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:87e8cd95822c83ff4f18ccd2422bcabe376513d96d74e04c7c364bad7bc5fdd4

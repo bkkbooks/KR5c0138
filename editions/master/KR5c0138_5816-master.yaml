@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5816
+seq: 5816
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫死者獨
+  hash: sha256:59cea28f271cecfddf6251f04df0e4136734028c1566ca94dec61bca24c7f5fa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a14256639328b9c85d71338158713c0557034589ee4400fe835a2f2a6a21327b

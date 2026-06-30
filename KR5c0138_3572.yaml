@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3572
+seq: 3572
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至言不出俗言勝也
+  hash: sha256:259d4ccd49e91cddebdfc27861aba9545054a995f397532bcf73c98f6f2a8a6b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:03b3cde2e9f738b1f016eff5a8a6161bb720db52bbcdeb2b1e78b29500f39ba3

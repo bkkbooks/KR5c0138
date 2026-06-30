@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2276
+seq: 2276
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無往而有逆也故人哭亦哭正自是其所宜也
+  hash: sha256:724da176cd480ade86d9cf36a28b4d7a052e02eceb9ece62df92407e432d6ed3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:38572da1976b3d40937cf79df75ac6128b0bf2f45af08e17160698e6269d449b

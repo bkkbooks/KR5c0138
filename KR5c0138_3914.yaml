@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3914
+seq: 3914
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫至仁者百節皆適則終日不自識也聖人在上非有為也之使
+  hash: sha256:01dbabc1193daf0d09d437223876dbf46100518e826c90cf08596703464a6f78
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:880d3ba8fe10f33b43f36ec30cc31db80440f64caf80008f9817af75ca167418

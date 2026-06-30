@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1010
+seq: 1010
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫時不再來今不一停故人之生也一息一得耳向息非今息故納養而命續前火
+  hash: sha256:449dce62766bc9a532b9f485611adeae31d23c793427f6d3e9309f99a55e6745
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f942c4e793a4fe15d8525d1307aac9d62dc13cf8fedb2b371c253dceb295dfb6

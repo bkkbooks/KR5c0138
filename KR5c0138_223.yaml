@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/223
+seq: 223
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 籟簫也簫管參差宫商異
+  hash: sha256:875d0d8f5c6576d9275b193d8e9521e8e4af4d7a63c964d70f27a5010c15bcc9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4a3b63dcec973d7ceab43cbb27169d21075b9b2fae19d14885dba4d5887aa19b

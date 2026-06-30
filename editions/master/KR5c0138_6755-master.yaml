@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6755
+seq: 6755
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人各自得斯飲和矣豈待言哉飲於鴆反
+  hash: sha256:2161189c1225882bec2e250c7387d8c51ff63bce6ae6cfbf1e0cde4b9b5f94f7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:984e1cbc9cb4a139fbd66aae2897c5522016d5363e6683542a1a2f7d40c486fc

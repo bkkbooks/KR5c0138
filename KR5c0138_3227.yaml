@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3227
+seq: 3227
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫道非偏物也
+  hash: sha256:0e14afaeb8bb98adaa1f78a103fd7d5d89f3ec738ead773ab9d587b7ed15a8a6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:506063fb82933fbc30c6c372a1af483952eb8754577039df14abf96f3fb4abb5

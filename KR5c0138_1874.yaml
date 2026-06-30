@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1874
+seq: 1874
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 氣不平暢嗌音益
+  hash: sha256:7c94a09ba46c14535c1dd6573309ab2d49c733167265b344eb962b5e16660d91
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:080b6b5e27dc30a8f53f42b6fdc28675a729e1c3b8ba7aa40fb71807b0595834

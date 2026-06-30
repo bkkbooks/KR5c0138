@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8068
+seq: 8068
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宣王時人著書二篇華山之冠華山上下均平作冠象之表已心均平也
+  hash: sha256:ec56673da674a579ec40c72a0ad66dca097d4e8fd483223529baf6f968ed9162
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8a4a32b42fb02d7d96d767d3256b79827ca16de492bf26a22e7d661e90cdbb74

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5114
+seq: 5114
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 形倨躓礙之謂
+  hash: sha256:6d1569e393770002df815190d54204d8a7ef17d5ca3bf3765bcd6f67445dbb0f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:218c88d8931ad30093713871b4f8b795d33abb3d72b0cba8da83a04f4ec7c929

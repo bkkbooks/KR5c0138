@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4135
+seq: 4135
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舜之治天下使民心競民孕婦十月生子子生五月而能言
+  hash: sha256:b12285fc89f3a0d7cea156227ff3171b80d8ea714a42ffafc54ce00fde2ff0ef
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c7597c13144b1968999cf7c7bcb312a89ea9edb1ecf62dd3d3df1eac5792e829

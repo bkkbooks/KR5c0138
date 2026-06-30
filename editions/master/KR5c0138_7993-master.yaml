@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7993
+seq: 7993
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古之道術有在於是者墨翟禽滑聞其風而説之為之大過已之大順
+  hash: sha256:8e00bc23157da1ad4b3510f44948d1114eb531b04c7bd130bf1bbc413008e816
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2cb4bf957c4068cd002b00a8fe3ce0803604d1bb21893e2662bbe58eb1670267

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1941
+seq: 1941
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與乎止我徳也
+  hash: sha256:9655c777d315cf9609359625666ddfbbe311ed896462d9d7d2220ce62f397d64
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b24be8894325513b5073cf224cd9bc0a0029baaa745e7f16fa76e61214fd20b2

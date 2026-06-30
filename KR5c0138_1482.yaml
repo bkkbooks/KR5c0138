@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1482
+seq: 1482
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 山木自寇也膏火自煎也桂可食故伐之漆可用故割之人皆知有用之用而莫知無用之用也
+  hash: sha256:a9577377f3626b1411d00764c727116ea2530b2feb4b2c4ee70375a1a0b0765a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:35f17107f5890557764a3b15ba63690df81b30003e2a8b23001913d1fac25dc5

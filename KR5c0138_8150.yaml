@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8150
+seq: 8150
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得自任之道也
+  hash: sha256:e59f6e073f6b4d7158e8a94613c28431c1caf4f60593615a1115038314cee4c0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cf0581cd2a2ac1f7a7cae4e881de0374b7f8dbd956a58ab1c83d18e76d1c8dbc

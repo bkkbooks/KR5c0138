@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7314
+seq: 7314
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 父之譽子誠多不信然時有信者輙以常嫌見疑故借外論也
+  hash: sha256:7a8dee41773f185e414b2ee3118258250fcdc7ade8f89a617db2b10024691302
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:185d9491a73befc6320f343e766aa3382c4f830330568315e3f84ac3689cf092

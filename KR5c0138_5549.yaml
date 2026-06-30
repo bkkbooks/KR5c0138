@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5549
+seq: 5549
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 欲復歸根不亦難乎其易也其唯大人乎
+  hash: sha256:3c24fafbee88cd0f09142f61a9b2e20747130e28165c3c2a5aef061e7529da3f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7e1972116c723d3fd45569b8f93598c1270e43d6cfd6d28fb485c4415c2be4c5

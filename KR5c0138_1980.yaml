@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1980
+seq: 1980
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼我不以其一異乎不一
+  hash: sha256:aaf0b2287a263f24952bac77541dca210fa965577c80b184f6b22a176f686718
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4a529e56b32f2e2fc53647091cba5882f0d1812afc715197b9d0059856b73857

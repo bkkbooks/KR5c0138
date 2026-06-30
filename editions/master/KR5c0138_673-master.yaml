@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/673
+seq: 673
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫物之所安無陋也則蓬艾乃三子之妙處也
+  hash: sha256:5bf85707f9cd7dd79d050e2d9f7fb132a9ea1d02919fa7d39b00bc52f174b6e1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4f3be511f89c8179359e4b43c2e2e43dc07e97597480a7f80fa8b493eda3edd2

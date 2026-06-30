@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/910
+seq: 910
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 緣督以為經
+  hash: sha256:7cfdc8decf0e7b66f9fdb9bbd88e8867c4d72aec60360e4269a9158e6711eac8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f3140a8c5ed24d2c010daaed51063edbbf72333861583391b4aea65add7624a7

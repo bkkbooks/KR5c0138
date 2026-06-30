@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7412
+seq: 7412
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五年而來
+  hash: sha256:10e9fe1e62182d27752925a47d40b9cb6267920d9910a7242084f56e0acb7536
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:527bbd6276a12cb2b835e39235fe71a04c1e05a830907fea9d6d7aa458aecb83

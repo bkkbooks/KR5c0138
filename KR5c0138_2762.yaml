@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2762
+seq: 2762
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 非所以明天下也
+  hash: sha256:8deb6db1821f9f353d0333059b5e65eeea3a05aa0da3a3ae841dbb94b0ce32e9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9865b3a5fe8dbab6081a2b296ba05c989252eb5a2d960c5c02cd620e478af9ff

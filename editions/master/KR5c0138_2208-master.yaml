@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2208
+seq: 2208
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 五藏猶忘何物足識哉未始有識故能放身於變化之塗𤣥同於反覆之波而不知終始之所極也
+  hash: sha256:31e7996e0295bdcd59125288f5b54321afc49e757a7cc70da240143799d21107
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5de83fb0c20b087d911a76b4160f647993cea2e68594137bf4cd2c64c98fa9f5

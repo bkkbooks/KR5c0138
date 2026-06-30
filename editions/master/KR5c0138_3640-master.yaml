@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3640
+seq: 3640
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫順天所以應人也故天
+  hash: sha256:edf6ab5fd5a90cac1b62c953649c0e82bd66cd248d732e4a7c388692f2c23e61
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9522a573ed20028ef7c805bba27a2e55c8c88880aa6e1ed3095794a08ae96231

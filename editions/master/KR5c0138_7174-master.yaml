@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7174
+seq: 7174
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與其譽堯而非桀不如兩忘而閉其所譽
+  hash: sha256:1ab547247157209e0daf1208e03e77b364825981e8dff683f214c9f1afb673ab
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:829eb47ec43273b10a60159e02dedd2ff69e6e21d77ddd0112c6dffa0dfc2e8b

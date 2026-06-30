@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2693
+seq: 2693
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 御其真知乘其自陸則萬里之路可致而羣馬之性不失
+  hash: sha256:71ead51218cb5e87575cebdfe93244f35d3a6db018248b707e4164991e3dfd71
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a1540c7a3f291dc3c5e8f8f022dfc9a561a4221b3bf961bfc6781fbc7915726f

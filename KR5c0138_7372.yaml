@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7372
+seq: 7372
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謝變化之自爾非知力之
+  hash: sha256:75423ec5ec7608a3736a02080c3b85fc2e797c4d6183f0e7bebe6664c51361f7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5401b4ee1ac7c40be60d3ad724fc81bde7c246ad5415d724613c9a2774116e4b

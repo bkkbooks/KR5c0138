@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3110
+seq: 3110
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 賤而不可不任者物也卑而不可不因者民也
+  hash: sha256:ce84c51714845bdc02db2bfe26c52b558dc7bf5b4501cf6d55349471f45baa4d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:324a6e25233b0f3253de33f24c1b285491950570e3ea567dcc02580d91fa3359

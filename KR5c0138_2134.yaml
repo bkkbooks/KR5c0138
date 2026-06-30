@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2134
+seq: 2134
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 當所遇之時世謂之得
+  hash: sha256:9da7ecc7395ab297599af6196240fea94ae6cdc48383fed2a3c12af14e4a0be2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8d636a53999ecbbdc3113d6faf44682a6736a83e098fce2a61e34d27f7a96675

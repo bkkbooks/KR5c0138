@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1253
+seq: 1253
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 丘請復以所聞凡交近則必相靡以信
+  hash: sha256:0b5e680b75a2ca9c8b267b9e0dfe0c2db58226b4e752b9137640c305971c5a71
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7b13d16771f6330b9a07f3377ba57ab5c9964e219fc5ad1aca9c3dfae6cba99e

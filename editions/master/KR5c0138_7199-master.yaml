@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7199
+seq: 7199
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 汎然無習而自能者非跂而學彼也補石之為言碩也碩大之師
+  hash: sha256:c5eee9a8bda71b79252fd1714fee62b2b0bc2c5cd175e8ecd8d3e94b41d825fd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:aed3df4f7ca443662f75ad188b3d6da61f89887a07bb10ca0ecff518ecdddfac

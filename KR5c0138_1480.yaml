@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1480
+seq: 1480
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾行郤曲無傷吾足
+  hash: sha256:0f995e362e004fe1140c480cad55a1a0ea4e8ccea3f79bd9d016119fb51f53a9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:341bba3f794d7d4ca2e30155822d8b0d14cfa2b3aa4f4b435996b2448550244c

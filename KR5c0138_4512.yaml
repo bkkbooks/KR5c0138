@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4512
+seq: 4512
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若無形而不可圍則
+  hash: sha256:ba4bf72e0eb39b33eec0cf8c0e05da0ba7dd8db351dc2dd81e069e2988d4384a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:61e9e5e9824531002193e606c2f98e9a8cc0da3214a2c5154ee24821d04c6faa

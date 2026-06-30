@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1073
+seq: 1073
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自救解不暇
+  hash: sha256:1b2f6c834ed63975f43a1080ce80b33f68647154895066fb49d842b3ce7d29b8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:720167dbe9eeeed06c569c8a924af41c15c4a1c36a1fc4e3da146a836f8f939f

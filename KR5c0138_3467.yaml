@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3467
+seq: 3467
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以其背今向古羞為世事故知其非真渾沌也
+  hash: sha256:a8051f38ed7e7f877b2e34f4698803a4fc492a70ad46f9223df03adf2cd458ca
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ea9930574dc988baf3e8aaac79e0735ce64aad34e6fa46908dcc764f00aaffb6

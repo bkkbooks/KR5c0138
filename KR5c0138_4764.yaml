@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4764
+seq: 4764
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 我也而云女安知魚樂者是知我之非魚也苟知我之非魚則凡相知者果可以此知彼不待是魚然後知魚
+  hash: sha256:6644eff3a4df903f0476006dc1b526f09f0e3d3e5821952bd51cf8d1f78015b7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c57ad6a86dfff46e5ddac53afa7f654f59ce0e03498aa07d68547a7a88c70eaf

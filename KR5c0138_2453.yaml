@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2453
+seq: 2453
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 機發而善於彼彼乃見之
+  hash: sha256:0ce5e09b3f35221e2d4f578e81ed6ec2958972999a77a20179a66ced6e560fda
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:603a82734bd32e8a31a342245f10897a95aa639db61b8e079e767963084fadc7

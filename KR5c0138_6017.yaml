@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6017
+seq: 6017
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人之所舍謂之天民天之所謂之天子
+  hash: sha256:950b0c28723c430c458625a3f413ed7487b16b1a9b959ff8e6bb045271676ac1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:51659ed6f89ae6326fb99a0e17094de19ce449cfd9d3e5b0650ad982d9b87dd2

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1832
+seq: 1832
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 形云為趣舍皆在無情中來又何用情於其間哉
+  hash: sha256:5700de26b9aa5788e794c9271c656fcb71e7fceb745097947e6525752fe116db
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7a83dd14f59d0b95933dd45b25a73c9ebf064cad3cad1f28e90e8ff0686bb7c0

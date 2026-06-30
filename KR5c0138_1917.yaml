@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1917
+seq: 1917
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不能一是非之塗而就利違害則傷徳而累當矣
+  hash: sha256:fa8c3e148e9b075ee648a1b57e3f67948467df4faae07b3fb04c4fce5839c78b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:114e70fae5a4e6f048972f34453b9510bf3e3505c677db96bca1aca415e635aa

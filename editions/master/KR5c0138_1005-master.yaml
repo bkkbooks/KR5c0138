@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1005
+seq: 1005
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 生為縣以死為解
+  hash: sha256:b07e67bd20e4a00d7b8c8c4ed0d4295ad4052a9494d1dcec6bd56f4dd88a52d4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fe13d76e145abd2899758f07d43632f00d69d4353952fe1bac2d51efec8a11b7

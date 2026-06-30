@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2030
+seq: 2030
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 遇耳未可喜也無極之中所遇者皆若人耳豈特人形可喜而餘物無樂邪樂音洛下同
+  hash: sha256:ddef3a060c79b8e79234cc822b2ac3f2745184d22b0327e968792d23b994b90f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4d714c4f93af6b4a2af4cf561494ade257de75a579da7703afb2b0304444e4dd

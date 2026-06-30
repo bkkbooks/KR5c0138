@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/212
+seq: 212
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 顔成子遊立侍乎前曰何居乎形固可使如槁木而心固可使如死灰乎
+  hash: sha256:b02f456958285eef23ab6679d847bb72985ee2fc97cccc3cca3154ca5788790d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f3c6916eebab8bd1038d77bb7759acc364b014c8b2053341b9b30dadea67e268

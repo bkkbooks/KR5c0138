@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2396
+seq: 2396
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言皆放之自得之場則不治而自治也帠音藝法也
+  hash: sha256:f9668525ad5ff6059f15784c8b3700b89d1bcc900b7a8faa1e36fc59aed58d6e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:765f7ff471dcde6c88b695486e90bf3d54a749e99e58a272e046e0e8f2a4956a

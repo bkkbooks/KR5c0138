@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3929
+seq: 3929
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 已故除天下之財也
+  hash: sha256:5563e3a082e8dc05a6fca739270cd349e59f1b668754cc0264579d2dd4451d6b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d2f839728aa869d5111f601cde2d87f4b308bf39dd2265f11a98678115eff629

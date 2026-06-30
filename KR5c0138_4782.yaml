@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4782
+seq: 4782
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人之生也與憂俱生夀者惽惽乆憂不死何之苦也其為形也亦逺矣
+  hash: sha256:4a5a764e08f39031833c9e34109d32bba2b9633feaab54a7080e74f0f4feea38
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:50f30a43f970c55f9449797c2c54663c7d4ca046fc158b34e4e51b94deab69c5

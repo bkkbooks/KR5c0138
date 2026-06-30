@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1181
+seq: 1181
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 絶迹易無行地難
+  hash: sha256:7d3cd0fb6883793b6fb685d826eb8b68c9fcc62c2872f7774dd3ed3394082d97
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:85eb522d24f7f434eb21ca022172ece27466356273946de838ac3422c4d42dfd

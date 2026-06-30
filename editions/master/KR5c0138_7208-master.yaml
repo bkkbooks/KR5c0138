@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7208
+seq: 7208
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 非至厚則莫能任其志行而信其殊能也行下孟反
+  hash: sha256:ffed7bf156374504a47eb47a96f78be092b13f29d6d919b3955a14c5da5f01fe
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ca99f20956b0cebbb6aa265f94cf6fa508895719558ade861c9be486623d8ee9

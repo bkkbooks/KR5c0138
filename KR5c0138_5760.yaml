@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5760
+seq: 5760
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 弇堈弔聞之曰夫體道者天下之君子所繫焉
+  hash: sha256:c44b86f863f98fb4a8aaa3b779c6417d6a7748d531a43bc3cde9c2f46c1459f1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c27fea85effdd4c96fe4066d494957e6cceac39889a07dd4994c377777e0c882

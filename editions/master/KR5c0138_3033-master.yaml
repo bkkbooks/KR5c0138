@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3033
+seq: 3033
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 釋神莫然無魂
+  hash: sha256:c71dc7768ee81f84f53d4d164776fe606b3cc7770693dd8746bdaf50d4a61b7d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:93c0331645506dece33e967a35abdffec9e0a1712e653a740164ab99c8979911

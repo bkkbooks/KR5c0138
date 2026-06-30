@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/545
+seq: 545
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 既遣是非又遣其遣遣之又遣之以至於無遣然後無遣無不遣而是非自去矣
+  hash: sha256:6a4523af1229fc3d12d9ab0beac0d4ab8773d25c76ee61c0a7b8b74a105dbc33
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e49100d463bb4d2593d1cea19db965eb7f8a9afd3f4b40c9583ac99e955184ae

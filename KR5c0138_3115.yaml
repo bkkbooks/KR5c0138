@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3115
+seq: 3115
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 麤而不可不陳者法也
+  hash: sha256:77ca357134335bf59d24b248d19b94a1bfcb6e822c25961ce29c93125df5e6f4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:832db1b420e2949864977fc63d50908db355ba2e2a7d89b41cdfb39e2aa8701e

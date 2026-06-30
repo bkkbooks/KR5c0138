@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7914
+seq: 7914
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 犧而辭聘髑髅聞生而臏此死生之情異而各自當也
+  hash: sha256:59cc8168fb80e6ef503f41914baf01367ce53d0a1d25ef6ecd671f3f116140d9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:16d39aba037c4775aa7ef75a6784abc32bcac928d5a1524b3b867902ac0c93d2

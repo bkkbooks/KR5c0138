@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2651
+seq: 2651
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾意善治
+  hash: sha256:8d53896288255b1726ac7f6da3a1bc88981feb1a48274203fae885ed987895c1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:139943d19bb7757e9336c585665e96e6e5feba92ce5a2b17955871e0bbc55927

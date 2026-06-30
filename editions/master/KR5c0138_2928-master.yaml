@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2928
+seq: 2928
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 由腐儒守迹故致斯禍不思捐迹反一而方復攘臂用迹以治迹此可謂無愧
+  hash: sha256:bf0471cdd504f5496f5589d1cc362a3ba26d6d0701e1e441edf456640a3f055f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:97df0c8952c6cf69ecf557f7b131d254a4facdff5df453d8a61d49ea29cb0baa

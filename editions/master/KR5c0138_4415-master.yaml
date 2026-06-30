@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4415
+seq: 4415
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 在外物耳
+  hash: sha256:730a4b1944a16e1c57d5abd6058938b707a3fb356e34a575656978c7985439ba
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cd6b9ab3a05bbf4a1eec0fe6398dc4f40c1998fd2371d09b5aa48217d72de38e

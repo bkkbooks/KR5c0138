@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6209
+seq: 6209
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 大親則已矣
+  hash: sha256:164c8f8aa045b1c213b455a200e1e507c629cb55ac812ab97ab0c9327ad05e28
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0af731b0ffa0344b5489fc39637fb61b8da6507d4d8059f38d202bc76f18b4ef

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7585
+seq: 7585
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謁者復通盗跖曰使來前孔子趨而進避席反走再拜盗跖盗
+  hash: sha256:ebd4092114f46f6276a7565e74750e8211134773a394376e800674d4e83cd3b0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f18f93e64a40c909458f788a4e1ed6a6b1f68b024802c320a317d1ad60296c25

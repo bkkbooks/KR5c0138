@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7837
+seq: 7837
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 商賈不齒
+  hash: sha256:b373e3f9aebeb48b07db0f9bf7af413ba72ffb2a53194b120e83e0b00a1863e9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:515630b5e898a8a3f95ed92d5a638c6870d3ad5592479f7aa1f732e402210dd9

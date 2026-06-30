@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/503
+seq: 503
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其次以為有封焉而未始有是非也
+  hash: sha256:b05f5a24cdd2a46c9848805de140ad7ba7022f4711c7f30ed891778b53624794
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:046116db6452aba65d1f131836f8570f7384b230dab76c936808290db1ddf2af

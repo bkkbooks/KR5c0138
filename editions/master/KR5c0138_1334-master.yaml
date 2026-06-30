@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1334
+seq: 1334
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若然者吾奈之何蘧伯玉曰善哉問乎戒之慎之正女身哉
+  hash: sha256:30b60b4a6a11d9ccf566d52bba132f0974991f3a483fb9aafee97d012b420e43
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9fc91053573763e7c2c1639dab22e401d383a9ea39c4f89189fda7954a27d151

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2920
+seq: 2920
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 於是乎釿鋸制焉繩墨殺焉椎鑿決焉
+  hash: sha256:fca7eb0f5676d968eff2d112185e2a9ef6af23c829add870a3dd1379c5ac74bd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:15677035bc98b03dcfc032cccd245f261f0c4b0b23c2fff170fb66c1b01975ec

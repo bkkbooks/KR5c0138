@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1837
+seq: 1837
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知天人之所為者皆自然也則内放其身而外㝠於物與衆𤣥同任之而無不至也
+  hash: sha256:3f9714b81d4bfcde6ccf67bc784fb1d7e456c1ec5f2acacc8db6f4882d9ba0db
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:da336d44b0d77a6ce85245552749ad15f78194285b113a7188842edd0563add0

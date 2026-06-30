@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5995
+seq: 5995
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫至人者相與交食乎地而交樂乎天
+  hash: sha256:12959e2c9c0887191517ea2dc37d4246bde94b899efdfa3629d9b49e6d652a1f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fe347b07ef59d559805592bd9dec577ea60f783811a02edb1a7bf2b6948e08bd

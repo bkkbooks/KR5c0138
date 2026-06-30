@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7961
+seq: 7961
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 賢聖
+  hash: sha256:6214095313c210633d4d437acaa2d37fe9e31dfb788a109ff7215abea1ab1015
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:55361c3e54d6e85b726015a84466d8779d817235cf3807c99570070eedac3774

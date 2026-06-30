@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3335
+seq: 3335
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 北面之禍也
+  hash: sha256:737fe840d408e127aba06cad2ee9db7917e11fa392b36ec9ea852b87604b8fdb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:841cd97c245fcbaad3a36cdf56e55eac67e481c61b067caf74fa6067de65fc42

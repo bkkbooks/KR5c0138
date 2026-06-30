@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1893
+seq: 1893
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所居而安為志
+  hash: sha256:95a9f31024c1a10ca4eb22868f41815017449c03abf18805085717ad568e1b2a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5e1995280fe5e933b3f6f7fc203d9659d11080260af0af19ca155a851a995b0b

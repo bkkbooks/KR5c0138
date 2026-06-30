@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/965
+seq: 965
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 文惠君曰善哉吾聞庖丁之言得養生焉
+  hash: sha256:14ee3a46114a9f589c6c4111b0937a855f259eff72a0f9af85020cd53f786dcd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bf35842987c65ba5e774f3cf8148bc9138013d1c3b7ab7578d83e1e8e1665a8f

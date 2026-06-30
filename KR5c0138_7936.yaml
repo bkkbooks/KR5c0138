@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7936
+seq: 7936
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 神明由事感而後降出惡音烏
+  hash: sha256:4eed6ca4d46d67a389722a5a5b72781ff0b7258adb64b32f26068b78e92ff9d9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1146312d3dd4053cf83aaaf40ed918624844684302a610bdad4a6c4fda2c4d4c

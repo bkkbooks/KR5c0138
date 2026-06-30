@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5209
+seq: 5209
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若草木之
+  hash: sha256:71d8eead2820fa84f6d43c4557c47fbac45069d240a55579bfa03ea4712c5eb3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6ec77dec55628505fe72501c3efc3d3cc97ae70cabd4bc7ed862b34f442162a9

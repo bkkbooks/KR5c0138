@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1668
+seq: 1668
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼可絶則性命可全矣
+  hash: sha256:c484bec61a333093f400bdc444581ac2d0e515a8ef88978d08d265b4080d3e97
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e79e2641d358bd933f2b3c97c18bdf1bb53d325ac134a42c3c87c6dc472d70c9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6839
+seq: 6839
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得其隨成之道以司其名名實法立故得兩見猶人鑑之相得也
+  hash: sha256:eee2363f167a51ab3edb3cf319ec236550dd023c4e1f0fbfe19e61c7bcbe5ad4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3cad660b27cc30ddc73937c1f4828a4a64d0aed9b06e626a96a4af338ca3904d

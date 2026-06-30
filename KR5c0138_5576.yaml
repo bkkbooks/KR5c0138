@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5576
+seq: 5576
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 觀其形容象其物宜與天地不異
+  hash: sha256:870f69d2a57d8cb813c819c7b3b508ae4dfa50be60455ed0c009cd6d1d65d7b8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:62a4835ab8541324a0a4db4e9fc586a93c1991b3c0617e535c1052d6fb0ec232

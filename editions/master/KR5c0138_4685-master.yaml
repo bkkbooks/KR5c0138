@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4685
+seq: 4685
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無以故滅命
+  hash: sha256:125318c9de5ce4f8e0bbf900b0fd4a8a1e0305baed0975bc4daadece20b34747
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:79b4655666d4da2b4145cfdf2c99e3dfca4f8f50248e66436f3734f4d503a677

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5621
+seq: 5621
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 皆所以明其獨生而無所資借
+  hash: sha256:b0c64682ef30e33fd362c71bee877583e6c8f0321efdced0d1da29b9ac9eb80e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bd79645bbfb10a3276123122f99e1deb27acf548cdfb039f28f17991a13a6b3c

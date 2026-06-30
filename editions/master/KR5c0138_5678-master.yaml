@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5678
+seq: 5678
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人生天地之間若白駒之過郤忽然而已
+  hash: sha256:bddaba9c4efed07b036337842da5f25aef6acf5b49153c0983809c96075e714f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1e71f9882a15017ead35a59a88ad687d30fe06bde0c2ed3d20807f1b961b25d9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6627
+seq: 6627
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未能絶迹而𤣥㑹
+  hash: sha256:a5d72b081fc3a1caf310f2b954c50c2f1e37bb306128f855598adb12cf4ee371
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:acc8eb5a184f2d0a191124352664832c498c1e80ca8746f3aa7be784ca1bb8c3

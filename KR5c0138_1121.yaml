@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1121
+seq: 1121
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 顔回更說此三條也上時掌反下同
+  hash: sha256:6137ae70729ae1201fd3ffe2e831ec98ca9b6db89a5e119c68485f38881c2b57
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c9281bc02399ac964c3cac5912503093f592d1efe7ff9a2ff63b53687f409358

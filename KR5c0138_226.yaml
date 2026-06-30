@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/226
+seq: 226
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子游曰敢問其方子綦曰夫大塊噫氣其名為風
+  hash: sha256:93ae1b4d9e43badb6c3d43e338eaa223fa01df41a8d6e2ba3028f89bc83217b8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:eb08d714dc5e0abbad265673dcc323f81d195d5e816ce2361b48626e54ae47df

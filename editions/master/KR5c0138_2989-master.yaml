@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2989
+seq: 2989
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 入無窮之門以逰無極之野
+  hash: sha256:ca8ed01bf4437fcc8c225eed14cba4c2c0916977f0c7b18726abd2c99273e29d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fc1f0d3b618eb1fcb611788e9bf6daaa698dbd19b934cf23888e41a807738b1f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7482
+seq: 7482
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 於君之前書之言曰左手攫之則右手廢右手攫之則左手廢然而攫之者必有天下君能攫之
+  hash: sha256:c04f1c6a93c707fe121ab00def068ff8c6e22d7084f01ec8f63935c1b5e61934
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7cc77c7edc6b0f87512801e6525c607ad8f0f6b0fd1b9cc58a46a0931a4e5020

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6853
+seq: 6853
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 俗謂之蝸牛三蒼云小牛螺也云俗名黄犢
+  hash: sha256:ddd7a88cbab7a36e3279b67a12a63e92831effe7e1a68c6c977629df7e426abc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:391591209c5f24f35eb7c1c2a2cb5b0aafef641909f71e53d6ca885b6b467f27

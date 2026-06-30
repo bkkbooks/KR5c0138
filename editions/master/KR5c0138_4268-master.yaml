@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4268
+seq: 4268
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不與物交淡之至也
+  hash: sha256:c6416bf3a47284929bf5c8af4939cd246f51ee29955d9c604200a384e773c175
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8e149a7040f4b4325e0cbfa3c631d78a70b08026b763b484eb5611eea5128695

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/287
+seq: 287
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 喜怒哀樂慮嘆變熱姚佚啓熊
+  hash: sha256:0f403f4554ea95f22cc2e617bff4e4f14be2ca16c20e8ec942b97bdc35fd80af
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5e9552d222a96700e3c0874d4e910a6ce7a836e75d13a1217e9a8054e8a381bc

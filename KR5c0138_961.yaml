@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/961
+seq: 961
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 提刀而立為之四顧為之躊躇滿志
+  hash: sha256:1ea845612aa076d440ea3e4e1479da956cc509f77b42793874b04da4ade92949
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6f41a3d31b1be564274052f581dadb2540e2dfeef0e55fd17aafb7cf321346e6

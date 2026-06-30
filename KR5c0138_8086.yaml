@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8086
+seq: 8086
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不因其自化而强以慰之則其功太重也
+  hash: sha256:bfb1e1a8d3e26207c0a4ebeac69857488c0b234a6fa4d0cdf6900e9257428d95
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9150e0512f137e0f4567238290a0756adf4dc0de8ceb46bee207dc7d8260f88f

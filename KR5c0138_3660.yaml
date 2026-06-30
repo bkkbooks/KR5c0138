@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3660
+seq: 3660
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 一心定而王天下其鬼不祟其魂不疲
+  hash: sha256:912d4d64a87192d0f85f79d27e5a664b43e49be6290b0a5fb09775652601b231
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d507ac70c5a9a781473f78b27eff96fe5de2b9ebbe29dd0528384a767504ffb0

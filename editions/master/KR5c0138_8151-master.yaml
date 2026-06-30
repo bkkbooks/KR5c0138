@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8151
+seq: 8151
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彭蒙之師曰古之道人至於莫之是莫之非而已矣
+  hash: sha256:fc0ed51b3b64913651f081e8b30ad330b32eaecf86047d1dd94241438395024a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:359a392dcea48f9b3fdd27508d288233bf1d64e35629544d02737ca64b7a9144

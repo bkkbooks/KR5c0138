@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1060
+seq: 1060
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若殆為人葘夫且茍為恱賢而惡不肖惡用而求有以異
+  hash: sha256:61df4c23ae882725d5999f5a93c34de0a016aa02e2afecbde3c2ceaa41f8678e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7a9b74e389efb54540e82782ce883c2d17bbddae0072f91253e3059a36b7e8cf

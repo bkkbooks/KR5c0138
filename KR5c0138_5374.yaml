@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5374
+seq: 5374
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 薫然其成形
+  hash: sha256:20d54ab405bfc809fdde30d7ccd83a7ce4620c644bedda5eeedeb42efffecc43
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fe081d5828033579368090da58444cc8b05e7bbfa6537b12c5616c4d54b515ad

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2036
+seq: 2036
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 化之途放於日新之流萬物萬化亦與之萬化化者無極亦與之無極誰得遯之哉夫於生為亡而於死為存
+  hash: sha256:70ea79352b884e12fd55f0535108365540ee4a326db7a3957b4edc58a5a48769
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:601c656eb747c9edf0ddc7afdb7db7c7c520e4fb0611a79d0a7e7e0e69c3077b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/145
+seq: 145
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 均之無用而堯獨有之明夫懷豁者無方故天
+  hash: sha256:dc1e9fbfcab4fc1f3594a3ebc9c5dd0ae3af21f597daa4cd070fae18ea56efd9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:78bcd2cbaa9957bb15bfac3e7731b05da213898b81c9c4083ed0c4a40a1f2548

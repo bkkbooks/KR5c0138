@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5025
+seq: 5025
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 景於領反應響鳴顧景行
+  hash: sha256:f6ab4c9a9c609cc26f51bd00dfcde6493128ba16f3d66f3b4ee96b4bde00a20f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b166db3d0393d3c4e8a662348390a5c4640c1b96db91131d211970f8a87c160a

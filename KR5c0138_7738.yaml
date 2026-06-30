@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7738
+seq: 7738
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 多患故曰人毒
+  hash: sha256:be7ea2b859fa65e0ccfd8650fc9c32e6e688e495b87fc9a02d37313053d61ddf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a3147774358dc4d7e42c3217a9186962fb56b21375a13c9e8a213fff82cdabab

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1746
+seq: 1746
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 停水
+  hash: sha256:4c7991878d6bb5946ea3649bf13093741ee37d37e0f3344ce891d48905edf801
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b0d2c7310002c2a57d05769717fb43743862ef681c7d24d982ac7469a03434a8

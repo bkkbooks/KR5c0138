@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/250
+seq: 250
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 濟止也烈風作則衆竅實實及其止則衆竅虛虛
+  hash: sha256:ea04569e6c979c098c4aa86df6e383c69189b3f5d140f825e631e0f03f4eebff
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ea821f82fd8f758fbf4bceaeaa16e3a5f9612086e77ae8a439574a2b783cbfd2

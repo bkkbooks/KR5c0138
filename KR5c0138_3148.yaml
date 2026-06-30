@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3148
+seq: 3148
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 恃其自為耳不輕用也
+  hash: sha256:b65b782aaf0716ecec00511091bf8dd63a1bfbe77967b7202e1d42b2a1d37cfe
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8db5e4d32877f43967b72d921de0373425c38fb952498ba472810c2372029c7e

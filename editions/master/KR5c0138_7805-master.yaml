@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7805
+seq: 7805
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 宋人有曹商者為宋王使秦其徃也得車数乗王説之益車百乗反於宋見荘子曰夫處窮閭阨巷困窘織屨槁項黄馘者
+  hash: sha256:cf20ab1ea88975ed1c6c03a93cf8d44426d999d11f1c49b83cd0524e7b57a637
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b8f0aeac489e0740730b46296ce07e7d41dafae031dc62ceff363c6717145e11

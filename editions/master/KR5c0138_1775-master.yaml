@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1775
+seq: 1775
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所以為膠固散徳以接物工巧而商賈起
+  hash: sha256:760b634cd752b081aebf70d6294f5e3d6ee33a2e2cb3b0908d3ef48f6ce1607e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:788ca5e49bf5c3ca5ee88947245ca4441de0a3ba4ac9b632cd764a409bb5b238

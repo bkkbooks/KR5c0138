@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4715
+seq: 4715
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知窮之有命知通之有時臨大難而不懼者聖人之勇也
+  hash: sha256:b494c0b64a5427f1f2a8fcb6ad46ef4383b9715a3fc8e82fb628d8503db629ac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:54972a2291fe13b6fb2f8ae117d44799a0a5d332be7f0908fb43b31021c87907

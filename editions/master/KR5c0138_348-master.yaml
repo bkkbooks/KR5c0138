@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/348
+seq: 348
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 羣品云云逆順相交各信其偏見而恣其所行莫能自反此比衆人
+  hash: sha256:60c164404cdd3c3283b1168d014483ca520ccb5c8e12b8fef40a9bdc8e27c08b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:061e9921fd2c031515133c998e69512f428d5c5b7fee1e1c6f076cd956c7f11b

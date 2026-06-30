@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6983
+seq: 6983
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得此處為塜也奪而里而汝也里居處也一本作奪而埋之
+  hash: sha256:00e0604226a9f32f41827cdf39dacd249ff7bc9677206c2776f1b5dbcf62694a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a6919a4f4f6538511863b33c329f7aaec11e14dc20224786b06b54dd191a07d4

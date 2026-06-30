@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7570
+seq: 7570
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 俗無厚身以全生所以時有重生之辭者亦歸棄榮之意耳深於塵務之為弊也其次者雖復被褐投粥保身
+  hash: sha256:4471c5ba085de4b39a8c10fb386ec072fc279227b3945d4c8de3995c03f1855e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:84a2eb98de7d4ef8c0d82373d13fcb8b1ce174183b0565ebcf88a02034bbc325

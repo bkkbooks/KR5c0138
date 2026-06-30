@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1432
+seq: 1432
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此皆巫祝以知之矣
+  hash: sha256:544282c0539fd478668236827a9bcf2c817f183189b71e76a7ca38baae0c94d6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:85080bee33afa729449a8a2050a1728fe47a4acc02efcdf24d9f3beaf2619b74

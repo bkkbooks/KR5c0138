@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2105
+seq: 2105
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫與物㝠者物縈亦縈而未始不寧也
+  hash: sha256:ed36f962601e9c640281e121af4867740741dc8b05b007d7918607b0bfcb4f90
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1c694a9399a250775be0278565669eaa5c5c144b2938d6a94328b846121e83a8

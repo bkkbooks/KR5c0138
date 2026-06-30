@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3
+seq: 3
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 等謹案莊子注十卷晉郭象注象字子元河南人辟司徒掾稍遷至黄門侍郎束海王越引為太傅主簿事迹具晉書本傳劉義慶世說新語曰注荘子者數十家莫能究其㫖統向秀於舊注外别為解義妙演奇致大暢
+  hash: sha256:7a80f667d67688c83400407d3131130465b78d377ac509ed0ac25a598a7d9b1f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:efa14bfe727639d5e7556519373b663e616bf4c3d8f502290bd920f315b2d9b9

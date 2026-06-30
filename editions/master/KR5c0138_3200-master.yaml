@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3200
+seq: 3200
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 使人人自得其事
+  hash: sha256:4228e0365593524618e4cdbd98917aa25c199c808346ec82a3d7b987d0424742
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ab6d5dc9ef2444a718d0c7ae1f9aa811b247c7166d43dfe61c39d2a55c835a8a

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1973
+seq: 1973
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 在已則雖處萬機之極而常閒暇自適忽然不覺事之經身悗然不識言之在口而人之大迷真可為勤行者
+  hash: sha256:6e6f3271ffd832a0861e9ad950cff5c42a3f1b09fdba8aec2f7ec2c86ca24820
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cd3c47c2da0679b59b8844ac8d9f9f1af8e81cc6c726368d2d186a44ddc47b52

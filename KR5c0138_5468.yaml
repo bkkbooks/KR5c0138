@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5468
+seq: 5468
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所謂和其光同其塵夫夫大夫也
+  hash: sha256:31e753eb97c1b6a2f2bd1047c517e66525101de64a5eed313f679e16d929187f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cd114350582e5614590622de82781b6eeb90a80e48cf4e73bde2d10afc6886f4

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6911
+seq: 6911
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此鹵莽之報也
+  hash: sha256:294e54508836c3490b700f70d35691eb783de0c68a916716fd20ff94560cdc08
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6e37db509c15456c27ceae12bfe36ca4fb4734d775cc9d95d2ef57e680814593

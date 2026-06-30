@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2298
+seq: 2298
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 資者給濟之謂意而子賢士也
+  hash: sha256:cb7cf66d9218ccd90d18fdf75ca2f1bb2f8461902fea85b4a3333d34a5c099a4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f4eb3c18736b39eb84b27486e654c33fd18aaaa009a735fa3145c8eca1fc672b

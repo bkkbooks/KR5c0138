@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4366
+seq: 4366
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 然後附之以文益之以博文滅質博溺心
+  hash: sha256:a1c142114fe8f48f87e4a6ff37aa05838c36dab382e6479239101bcb92deeaf5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7d391096807ca500932425ae41de662c82b6fd5cc93d32a2432ad50ae8a65db6

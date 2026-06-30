@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2217
+seq: 2217
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曰丘天之戮民也
+  hash: sha256:9b42d7ca5f6966a7e2644826b8b55c02391334aa38e8773a124af15aab42e376
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c5ac1d7cdf395a6eec1f8061943772a9a17af9d16dedbb4793c0f7d20b617947

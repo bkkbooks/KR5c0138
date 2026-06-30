@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2211
+seq: 2211
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 已所謂塵垢之外非伏於山林也
+  hash: sha256:4ec5b6d9e01f6e071a670fee967d30fc615ff9800f93777e9c3280ba730041c2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:da815d1f774c9881307f3fd3d7c1defded8965c24bb03ea5549c129ed6e014a5

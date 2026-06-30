@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2825
+seq: 2825
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是以大亂故上悖日月之明下爍山川之精中墮四時之施惴耎之蟲肖翹之
+  hash: sha256:a104333956192563253340483ca5e2499f7bac60721bb6b9ae3cc5f579fbfec2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6d3ee7dd67ab227a7ecf6bf493d92c8c701a25269df4591ee86b7671b50770a5

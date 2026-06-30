@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/208
+seq: 208
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫自是而非彼美已而惡人物莫不皆然然故是非雖異而彼我均也
+  hash: sha256:8e04d810f9a66bec0f9789e79cbf7a9763728b58207a04e0a052e457d2638aa2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:457c8c0fca7d964365db517b4bfbde57003449e651f5b565a4224ab5f176aa1a

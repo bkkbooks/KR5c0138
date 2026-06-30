@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5872
+seq: 5872
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫務免乎人之所不免者豈不亦悲哉至言去言至為去為
+  hash: sha256:63a9bdbb8c43f2c995df0424cd744e1c9d7b1d08c2dc8a04ec3b2f70c6582449
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4c4bb3ca16823d93fd7a1d286faf6b5e78e73d9b894380bf74245cfce2834ebd

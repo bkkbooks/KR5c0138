@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2662
+seq: 2662
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 當是時也山無蹊隧澤無舟梁
+  hash: sha256:25c64d087f82ca15df8f4419dbf3d60bf4128b685b1dd791f476ec6377cfb187
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7741b4fd1cb1c07a74287f8de5654873430d01c93d4aea6b15b6b615267a7881

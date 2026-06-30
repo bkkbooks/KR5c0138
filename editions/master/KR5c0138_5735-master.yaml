@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5735
+seq: 5735
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 去而來不知其所止
+  hash: sha256:d23a2244ff6f449a39ee58e2f5cfc8e3c541f534774b30055368fedc37466332
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2a4c8cc08ff663d31f9d25a6bb89980ee6f6ee92341845a236ad0d317f39656e

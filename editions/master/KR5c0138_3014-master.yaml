@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3014
+seq: 3014
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 離其所以静也
+  hash: sha256:4459c741c88b7b1703f7210247577f3ad6e39edbb52e285216eb3cd943a5708a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:297bd73a1ebf57107a4315dbee3da9d3c8ed22fb7110772ee5515a68a258d3c3

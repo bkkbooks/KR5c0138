@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4220
+seq: 4220
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故其德全而神不虧
+  hash: sha256:ae0a315b1accfd0cc67d83c77acd10b048191e684997c0e6cb7f5e82b3688158
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:85f4429972420a0f5ac518b7c0cb7000fd3c3e5339b0d5d024641fbbe8428b9b

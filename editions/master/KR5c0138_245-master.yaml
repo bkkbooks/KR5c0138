@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/245
+seq: 245
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 前者唱于而隨者唱喁泠風則小和飄風則大和
+  hash: sha256:fdd4ad251f4484e2f9365802409ad253d1bc8d4157af38b59910809e86f2141e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e636dd60957543a8d1eb47118343d150dc5b41b5a3017077dfb4db5244801121

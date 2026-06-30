@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4051
+seq: 4051
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 陳國相人相今屬苦縣與沛相近
+  hash: sha256:82f52b6e08b95f999d0bb89f3c4c0e73d67a5a64480a7428183a88026ed9160c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:acd5f227088ae58319e8fbd0782b3a66ab005b2ff1d9ce251cc5b0d79cf37b45

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4590
+seq: 4590
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物之情以得我為是失我為非適性為治失性為亂然物無定極我無常適殊性異便是非無主若以我之所
+  hash: sha256:1392a03093ed7e5d833226c3ea2e47de18df3ea816bc8cc439da17ddacb7d0ae
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:be0856ad77afea05e4f79e3477c0e7392d3437b360a030cc304dd5513816cad1

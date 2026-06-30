@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5046
+seq: 5046
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不離其自然也
+  hash: sha256:5670b7e5d9b84e662cc91ca7b471103293ceb2d7bbe4b8d087f448774e49edd9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:afaf3ef3192e41cedb58dd2933cd2e41f7b578f56b62a0671d53db7f2d9a50f9

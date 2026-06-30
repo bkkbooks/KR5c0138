@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1069
+seq: 1069
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而色將平之
+  hash: sha256:f33644365e7d87dd9bce5a4e12a7fb54ac65d476d4ed9e9c9936ed59834a1ab5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e88822bd301ca32151e49a329fff06bc4ef63834cc34791fbc4eba738463b9d7

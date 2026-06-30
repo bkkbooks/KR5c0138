@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3500
+seq: 3500
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曰上神乘光與形滅亡
+  hash: sha256:32fa552942adef15575aa46bb98e93bf82acb506db61ca7a0a0b8d5197c759b6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:16f102e6a2693cd05e50d384e776e0f9ee74b45bc2781ef9eba5b1dbf6cdc682

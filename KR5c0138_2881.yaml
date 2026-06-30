@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2881
+seq: 2881
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 從容無為而萬物炊累焉
+  hash: sha256:c8c647a4896e3fe7243bff69978a42a1d10048b79daa2615beca936393173da1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2078292559f1bac594c68b690790958fc80a98a1a23de5a102fe9384936ab34e

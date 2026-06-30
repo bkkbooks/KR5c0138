@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1528
+seq: 1528
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫若然者且不知耳目之所宜
+  hash: sha256:0f675a5df0c607b5e1a8b0ec65460954d4426feb632e7b173e74416ad6aeca5b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:099868634b53474497933928a0e42588379f51727e248c079a846365f38f45e7

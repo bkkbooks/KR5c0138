@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5039
+seq: 5039
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 譽巧拙齊七日輒然忘吾有四枝形體也當是時也無公朝
+  hash: sha256:aa6ec43855922823164f2a02359f64de724dd3e4bd3d799f096129a8cc6190f1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fc4e4588dbbfd20e30132633d37289fd435880b60fa4c3b514dcddfe34e5f8e5

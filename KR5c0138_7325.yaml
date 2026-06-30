@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7325
+seq: 7325
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 年在物先耳其餘本末無以待人則非所
+  hash: sha256:866f41629c31d98da4a48c48ddd69df1851bbfe2b91a59cd1957a93bd69b48a0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5b1ffa73013c1d7837da0f542e8de4b5a05f95d6833ce4c7c9d8601e797c1be7

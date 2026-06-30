@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1222
+seq: 1222
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若成若不成而後無患者唯有徳者能之
+  hash: sha256:b2012a10403aa5361b4bce2af3e290c5b4b9f9a319c4854fefe4798a40c5fcdd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b79a70136e6889f8b89f8b8d3f3310f1d8de8c6f680d2e2ae4fdf7c54a92eb3e

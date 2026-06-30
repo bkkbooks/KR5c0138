@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3917
+seq: 3917
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫德遺堯舜而不為也
+  hash: sha256:61f98677653e097557c52fb2e98f65ee514d5ff413bdbc71e00dee1af50cb990
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:15310fc341bacb04d5453f70be544b512707bbd373d4d018ada4485e7f6bc343

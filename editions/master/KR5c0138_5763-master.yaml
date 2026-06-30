@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5763
+seq: 5763
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 秋毫之端細矣又未得其萬分之一
+  hash: sha256:193a143ffc2c4ac67827f09dce34a612c5ac1428c7887d4e6162bf6f5c6be566
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d0910dd6f07f67fcafd5ec5c594f22f8e3e8d66a24e6f5eba0032b2444ef458a

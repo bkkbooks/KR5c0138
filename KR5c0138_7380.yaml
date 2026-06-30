@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7380
+seq: 7380
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 利義陳乎前而好惡是非直服人之口而已矣
+  hash: sha256:69f983a485edb9613a1ea2163cf554d74adce4c6d9783e5b4acb60c07625fc34
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6718fe3053ad32bd45a89b4d9fdf974dd7f47490c4e6fc37c4a2a3d52ae64686

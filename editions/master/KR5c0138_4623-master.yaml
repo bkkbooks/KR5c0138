@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4623
+seq: 4623
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 死生者無窮之
+  hash: sha256:9bf20d56ec81ddd7a06ed9d29a1912a6beca6dd3ac55ca0f52e5f3e5c7d3b229
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:808c78e90bbee67847fa9aa7ad0d6856ca5add1249d556f17048f45e64c3e1a9

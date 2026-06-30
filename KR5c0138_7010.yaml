@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7010
+seq: 7010
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自殉殊面
+  hash: sha256:86b03d92f66db6adeb55c9d3741362fe2c2b50444e75271beba0f46a1c974d8c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:636b546c9d69ede96acfc4b9f5bd273867c2df5f30205cc0c2385a850ea781ce

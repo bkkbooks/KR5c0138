@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6822
+seq: 6822
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 唯無所師乃得師天
+  hash: sha256:d6a518ada05a2de812e1e97b9032ff475b005080941f02eff3124a47664defb5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:be536b7918a1f5f92aa50b2382e3334c33ddd8635ad4c1b8c825c21e42407fab

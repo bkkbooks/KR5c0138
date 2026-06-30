@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3342
+seq: 3342
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 富而使人分之則何事之有
+  hash: sha256:79d94478b52a7f49c76092a6c463f2a0584509d898da3bf699d8a2071d94b29a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3534eb2c242e275f7723960d54ebf92bd0616cd50e924fcbe5636d74bddbe90d

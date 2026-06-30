@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1703
+seq: 1703
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 早反扇也武士所造資送也
+  hash: sha256:42f679560034feae222a8e176f2f9a567bc68cad9d596107168155617e51f03f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:314c18a3f1c511dc3187b8b5c08a5fe58fc982fc56afed096f6baab931229316

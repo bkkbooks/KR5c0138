@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6213
+seq: 6213
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 辭謝斯乃禮之至也
+  hash: sha256:ef953f27dbe85c1e23a6110a3936c4cc73cbd9cb7b26f5dedf0baa95033a4143
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:39cd75c5054f76d98dc7923107e982ed4f455624146b5b18792618073642c3f1

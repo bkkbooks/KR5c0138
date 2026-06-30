@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1693
+seq: 1693
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子食於其死母者
+  hash: sha256:181e2ceaab34cba4835c44b33fa7ea40bafde784e92af250f7e99686d03b6ef4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7cb5cbe7d2a680b882303751894dcf27636aecb9631bee8e7fec9c43efb47a40

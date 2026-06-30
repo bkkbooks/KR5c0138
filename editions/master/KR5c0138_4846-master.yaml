@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4846
+seq: 4846
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 髑髏攓蓬而指之曰唯予與女知而未嘗死未嘗生也
+  hash: sha256:530aa8e475c2ef88db0440c6f5aa1b2d66a399a88bb7781deff434a7c8db7739
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8e783f427c2d97c36bf7c2df261cce3081c75997a2f2715971a58d77008c69ec

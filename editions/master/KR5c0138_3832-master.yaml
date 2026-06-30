@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3832
+seq: 3832
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 趣舍速也
+  hash: sha256:498aba2bdd5f69b01faeec494862242ef3a3e363072e0e4885deab7e5f7bb606
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cc7eac4396735cada325ce09c6ecae28924c9f724f2cdfaeceae2bc3c2b4d449

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/722
+seq: 722
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫神全形具而體與物𡨕者雖涉至變而未始非我故蕩然無蠆介於胸中也
+  hash: sha256:1d678650b8642402333b306878751ac07f75ea85733a10c6219854493b074e61
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:af1120d42c34e686234ed33ebf7ca23e540b7cd8434ddb467421035029b93728

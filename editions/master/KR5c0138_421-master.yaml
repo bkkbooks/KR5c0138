@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/421
+seq: 421
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是以聖人不由而照之于天亦因是
+  hash: sha256:1c5cf1ea21a56ddf706011c813f9322d419357e7aa59f9e9eb3a01b72d851100
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4889210220736514a6b7d5fcc89fa3286d952540d7fa1a23770004fb5ec0c8d6

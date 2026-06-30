@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5831
+seq: 5831
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 取於自爾故恩流百代而不廢也
+  hash: sha256:6748cc8301c6832b272cdad8e10f55b80e57b6f86911db6d75e8284e06dd27ad
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:eb6be2111984328bff882dbde7cd964568087465a05475c478c64b9aac40019d

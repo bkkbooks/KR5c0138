@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3492
+seq: 3492
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四海之内共利之之謂恱共給之之為安
+  hash: sha256:aac4b6f594c0d2a08fb5ae9ab232e9d7c48c0b76dd2ffe82151a0db0edd04ba3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:900fa0ff9bb7ea0b33ad0711a9ff870aca2dd485490e7a7fb6d82542a948960a

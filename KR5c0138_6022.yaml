@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6022
+seq: 6022
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡所能者雖行非為雖習非學雖言
+  hash: sha256:c1bf57f5adb98a276696b309abeffaf5d811b3f5daad09c232b4d55df128e969
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:61487c9406c25b0f0c0dbd51abfc998ceda0195b395cc9468741164863ca2120

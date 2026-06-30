@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7283
+seq: 7283
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖然若是勞者之務也非佚者之所未嘗過而問焉
+  hash: sha256:75f9ca4159ec94b650fdd97ca5efb966370fc3c5e93b2a9c3960a908bc6fce51
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:be52a4ee6909a87acdf6862c3184d4f245693ec5b30bb517161420cb6985e81e

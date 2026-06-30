@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1618
+seq: 1618
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而適先生之所則廢然
+  hash: sha256:771447d42e77d2366525b1bc17c5d63df121b564433f7978d0049871dcd07afb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:24ada01c37c06b1e095ebdc9797cf906954f8fae76aa9c015266a155baaaf8de

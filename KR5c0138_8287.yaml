@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8287
+seq: 8287
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 智之適物物之適智形有所
+  hash: sha256:0c40eafc3d5589f13683557b97848f80f56ef4c960bd84575f963ef708916813
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fe6f0969a1fa18b2cedc9647dc026b3f14d563b1286427db838e39462516ca1d

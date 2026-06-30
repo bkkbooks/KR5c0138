@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4704
+seq: 4704
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 我亦勝我雖然夫折大木蜚大屋者唯我能也故以衆小不勝為大勝也為大勝者唯聖人能之
+  hash: sha256:8c01f44e64ee71cd2b7d07a6fef4a48f66f9ca5fe994892e72e0e5e49cbc05d3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:11d50d29c20473b25d763b920d2ef884248859509e8126d400212f62cdce22b4

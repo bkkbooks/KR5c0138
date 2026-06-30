@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6651
+seq: 6651
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 恃源而往者也
+  hash: sha256:faf1002b61bde055e0b557be8d2363a1a0d49e6c453419cba08afe13dde37336
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:61087c092a6475e73b45a9736d98de8cb0572d05346040eac0d6bcc7a6235ad6

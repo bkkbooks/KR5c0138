@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/305
+seq: 305
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若有真宰而特不得其朕
+  hash: sha256:b67a242b80eb2b06a96ad4815c1689d028216bc711c157142859fb20f54a11d0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8a1907ff52887e416e6b0d1e1ec8b7f07d40a525651b04a2752886934e4fac42

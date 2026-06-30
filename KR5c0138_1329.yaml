@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1329
+seq: 1329
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 𨼆者衛靈公左傳云名元太子音泰司馬云蒯瞶也蘧其居反伯玉名瑗衛賢大夫天殺如字謂如天殺物也
+  hash: sha256:97c56dec53eadb7130b4a72f8d49768a3ff484d2828b9aa39fbd4686c0da58cd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d6e9ee7c94e4568182802f5994fa7bbe6188c94b44fea99957d0dbdb101556ea

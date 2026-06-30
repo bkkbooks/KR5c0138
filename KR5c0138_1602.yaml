@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1602
+seq: 1602
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 申徒嘉曰自狀其過以不當亡者衆
+  hash: sha256:07db09e3a5549a72a8ff80f31e2d822f2fd52879fc8ef42a2f17c4f8d3bfd84f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f5e50fa9018178d685362093a15044e089a456e541b0bddbc56dae78e5192059

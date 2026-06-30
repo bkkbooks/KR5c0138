@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8370
+seq: 8370
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孤駒未嘗有母駒生有母言
+  hash: sha256:abd03b36b31258ad57504d0a6695f77e0afeb645f5feca9ced0f34cdba43ce57
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c1af72ceaeb477574c37b4a7511cb7ad6d20e7391a95b39709048ee4d781343b

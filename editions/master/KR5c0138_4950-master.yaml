@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4950
+seq: 4950
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 開人者賊生
+  hash: sha256:c848eafe397d97c16609cf91eaf6514854eff3aa900a1fc17a00252b6d1b8865
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:eba20fff50651c57e58e4749f5e7c8fe3f3bf1663ad36e1ba27116640e42b7c1

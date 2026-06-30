@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7565
+seq: 7565
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 許之弊安在曰許由之弊使人飾讓以求進遂至乎之噲也伯夷之風使暴虐之君得肆其毒而莫之敢抗也
+  hash: sha256:d81d540fe3e1fa1c291705385fce8f7d1ebd4064b484e79fae43f015abeb2264
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:80dcbb68321010868917933ebcf04194d7af13562d83cb6f8a088ea34c2f5a2c

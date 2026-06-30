@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1626
+seq: 1626
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 形骸外矣其徳内也今子與我徳逰耳非與我形交
+  hash: sha256:50f09168431f41e423968a2a662be15822df2ec5eb59bc184c573991634f2c33
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d0932f4a60fdd44cd6a36d66422991f7da46ebd2aa565f72420d96bff5b21435

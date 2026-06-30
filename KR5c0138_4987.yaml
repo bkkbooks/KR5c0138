@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4987
+seq: 4987
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 田開之見周威公威公曰吾聞祝腎學生
+  hash: sha256:e004a6509ee5863481c4246d57a89814e792dcad6fa99e1565d64035272b5957
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9429c748e32a476546886a67b0dc2375a6d8288d34ff11a6792da86e214ba617

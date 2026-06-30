@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6318
+seq: 6318
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 愛民之迹
+  hash: sha256:6c72b8f7d5927eee2f6ed1f040d992325092ac59e7a70657dd224959127fedfd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f91dbe13386a8bdfafbf4c1e3c92cb7efc6f041a1e807c34bd10b75cc6c9cf99

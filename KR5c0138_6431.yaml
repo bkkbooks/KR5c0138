@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6431
+seq: 6431
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 魯遽以此夸諸弟子然亦以同應同耳未獨能為其事也
+  hash: sha256:5abd5a3f912561a555e78229ffbab50bd99dee48b8f68741f90bde3f7f376969
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:57cb9c8bce04ac512aaf86bf1dc362be44021112ab7f9d11fe4b2ac01e6e21bb

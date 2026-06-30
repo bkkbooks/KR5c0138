@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6305
+seq: 6305
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所以未嘗啟齒也夫真人
+  hash: sha256:0eafac35ea132d465519caa23390cea0c618bf8325071fde8d8dd0f9b8a10d78
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:06160fd23fecb9690b2c6302a49e826997e94b1510edc297c04819f0b6845ed8

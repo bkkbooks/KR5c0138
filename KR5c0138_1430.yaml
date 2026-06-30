@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1430
+seq: 1430
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 巫祝解除棄此三者必妙選騂具然
+  hash: sha256:17e56996c0c0b82f2e3d21fc750809f5d06842655c4f7c4694d6b6d7d8a8bd5c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:17b20c56ac0918918cc70846278b66a38bf9620dce2d62f36b71b55d1a23554d

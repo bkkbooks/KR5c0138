@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5631
+seq: 5631
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 邀於此者四肢彊思慮恂達耳目聦明其用心不勞其應物無方
+  hash: sha256:64600a17a41e2c39acec33b9378edbf6d6a55b4b0861c5cf123bd48fb5db0691
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:515f19de88aba29540888093e6d158c9860185ebea5114506420f9d603958091

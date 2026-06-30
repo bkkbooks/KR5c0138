@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5301
+seq: 5301
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 相為利者恒相為累
+  hash: sha256:cec9493fcac447fec35ae32aa3eacc746fb4c5a16da9588e0668092a7ff4b7b9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e94b75d38082b3c4af798099368bf9a0d94389a0fb6155de3627304af39ad391

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/349
+seq: 349
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之所悲者亦可悲矣然而衆人未嘗以此為悲者性然故也物各性然又何物足悲哉
+  hash: sha256:1264ae22c1476cee24d49d1f16a7eb201da800f267a721e67212435c58177713
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d0403e9b41247dbd10b6644864042ec17608798ef66681bcaea2608119237589

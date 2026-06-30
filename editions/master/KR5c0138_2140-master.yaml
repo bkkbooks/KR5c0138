@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2140
+seq: 2140
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 𤣥解音蟹下同縣解無所係也
+  hash: sha256:c262cd71114409eaf4f6dbb523a8a586fccda5fba7806ec61793abf4b866d312
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e0f47c8f013f148faf53e402e73c52430b5500cf2f8a4dd7fdabe18809b1f14c

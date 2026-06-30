@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2575
+seq: 2575
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 生物有常然任而不助則泯然自得而不自覺也呴况於反
+  hash: sha256:ae719ac8e03eacb635eee194d88f21b11b67aa59c0e40543e3cdeed45b0603fc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:253efe99ceb0276694a955edf4890905c2030e2e00ab54b78f9ebbedf69a55e4

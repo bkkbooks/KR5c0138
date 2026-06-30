@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2329
+seq: 2329
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 禮者形體之用樂者樂生之具忘其具未
+  hash: sha256:e24d0211c6e6762cf1664d03a97d9fd51b27d3f77dafb254f64f2e2f81b35ae9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f9379a949bfa68fd5b5b72bb2c438eefd6946022d4e6a10e33e83b3b10dc1268

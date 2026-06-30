@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2853
+seq: 2853
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故天下之大不足以賞罰自三代以下者匈匈焉終以賞罰為事彼何暇安其性命之情哉
+  hash: sha256:48526a88a885ad0dd3af49c7960abb4bf5d1413c099ab243a5f85184cdffacd1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ff3c797d19ccf8fa5f19d0e7b62f120971a8e441face4919a5a8bb99b53610cd

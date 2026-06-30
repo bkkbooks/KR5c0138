@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/892
+seq: 892
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫時不暫掉而今不
+  hash: sha256:e64ab16a33506c74d72c1de8b58083939bf05825ea14da3a324c69b0149dd9db
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6b8c40690af02e456a642eff790d6175b877d3ceb5dad3a25057ac4c194887c5

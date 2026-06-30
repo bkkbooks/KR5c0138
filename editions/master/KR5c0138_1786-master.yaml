@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1786
+seq: 1786
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 視其形貌若人
+  hash: sha256:c0855e8cd904be6bb8ff9099fabb64e0ea8b70604636e5ea54b537d942a0f22f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b786c62ce6a62d83fdb4ecccb00bcbc51e6345e08455852ada53a774ce1bf00b

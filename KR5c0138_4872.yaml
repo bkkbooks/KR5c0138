@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4872
+seq: 4872
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 達命之情者不務知之所無奈何
+  hash: sha256:6cce22ffd27cff2efbb5141bae1ff8ce5f6440af19cfeb3012e6d459f07197ad
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cab96fa938068105c1406803a392b6b6870602d4a85920077e72d738f2a45320

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/920
+seq: 920
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 文惠君曰譆善哉技盖至此乎庖丁釋刀對曰臣之所好者道也進乎技矣
+  hash: sha256:d1669d1c713a68c575836be8b99b66459870196389a9d2111adb1cd7bc7d11c2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fa5e09432e91c00813e73aeaec94caa92c03418ee58c62790a9be2a7b022c233

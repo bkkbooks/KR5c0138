@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5478
+seq: 5478
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 文王於是焉以為太師北面而問曰政可以及天下乎臧丈人昧然而不應泛然而辭朝令而夜遁終身無聞
+  hash: sha256:898f59f150d8e25b38f6512de601d2bc50bd7e8d56cecc19e2407c5f8855552d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1bdea2d0f3b2d79ed9873b0a644ac90aaeee23e0e28d2d3062d8ae58b95c7a26

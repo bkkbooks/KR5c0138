@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/895
+seq: 895
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莊子注巻一
+  hash: sha256:118d9ed372aa97988abe43f9618371c75921ee1132d50743f4f5c3cfd99f3e19
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5a9a34e3317df09f07cc467f5dab2e769d4d1dd22c279a8832dc9a1801e47456

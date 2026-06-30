@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4143
+seq: 4143
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此言兵有順則天下已有不順故也
+  hash: sha256:89c753d7da92b27b8082e558238c8380f13187dca1f0d894d5f2acdfbeb915c8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b5bcc6859bc2f28fed5620a4248e00aa840afaa626b36ee39914881580423e4e

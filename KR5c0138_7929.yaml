@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7929
+seq: 7929
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而愚者恃其所見入於人其功外也不亦悲乎
+  hash: sha256:31183bf1d5400e02bd1ca5fe9b7a156d347b7f92dd25545b9c4fbaab23a21028
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b8d372d4a80a222cd5c1cc61c45ec4217086801db4e8902c2cf1eb9ad585853f

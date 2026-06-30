@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7913
+seq: 7913
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 樂生者畏
+  hash: sha256:63a391613e6c72bedf14b820d3589ab577910d9f0ce2a73427dd932283883fc5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dfa58d9400fb91e49b590b64f4b0cc933d4b1dd939be151934504c9052d5f4dd

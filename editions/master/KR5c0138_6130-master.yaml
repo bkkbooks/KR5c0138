@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6130
+seq: 6130
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天門者無有也萬物出乎無有
+  hash: sha256:23d3b2d3ef69bd3bd7e31d6c36f42805a06c6d18a9613d355a6a3d7fc745b427
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6ec3842ad8af9ae58ab6148dea9af97605d43ef1bb973c13851643705f2079fe

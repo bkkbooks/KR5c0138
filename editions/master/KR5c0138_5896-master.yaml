@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5896
+seq: 5896
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今以畏壘之細民而焉欲爼豆予于賢人之間我其杓之人耶
+  hash: sha256:9f8cafb152285d53ac325d29148ee5b2b95ebfa2a06468d84fa42de64f605f42
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f02e57af00ba12678fd0d4118a6a07b1ad96a485a98b31bbc328864e5a031192

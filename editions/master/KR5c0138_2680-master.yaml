@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2680
+seq: 2680
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之迹耳非所以迹也此云及至聖人猶云及至其迹也
+  hash: sha256:e7d28cb74cd13ab030277546b9d9a3795f2b887ea2b6528c0952d5731241be2f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7bf6a178b37d1f7998ab136b4d55cb587ddf302c811df4b194636678da40774b

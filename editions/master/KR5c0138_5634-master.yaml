@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5634
+seq: 5634
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言此皆不得不然而自然耳非道能使然也
+  hash: sha256:1e1b9a80e6f7ee068ea741a629cd9d69b1aeda7b3dc1a0b574baf9fd1bc6e2ad
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7152732b0e6950a9f4e4b8113c474ac40d38abc8ffe7aa8d9ab766394aeddfbb

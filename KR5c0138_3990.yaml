@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3990
+seq: 3990
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 意既怠矣乃復無怠此其至也
+  hash: sha256:92b27ea57124b3940adf9a99fc57b8a6c781eff044122d14e20ebe64202f440b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a7ed5db35374ba860cd0aec422b146f908df5d4450eacd7fefe14ced4226f16d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7789
+seq: 7789
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不得已而用之以恬淡為上者未之亡也
+  hash: sha256:5fe932679f2a6c02b82130bf4f44e68ae6d3c417947e51ea69f1404021e32d72
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:19b17260d862147b52782f712cbb8bc59f1b3acec4dce282a9a2d4182e7cadb3

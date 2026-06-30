@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7273
+seq: 7273
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 草木之到植者過半而不知其然
+  hash: sha256:9d3129c4d9e9433468b98dd891f42120e2baf65a4b2db72a1bcc706f8793f311
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0b6334d833d59711e4136876e85cfbc1430c4049986e690334e26cfba5c8b2ce

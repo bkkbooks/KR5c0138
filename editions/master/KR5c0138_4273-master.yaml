@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4273
+seq: 4273
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物皆有當不可失也
+  hash: sha256:55f9df3ea171623f616289934b91d5a0aa57276d15f14f3161b911cf6ba6295a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8d2a6e5774b93d78e90d492dd748bdaad950b7aa6582aa1193f35f21d6b82e7f

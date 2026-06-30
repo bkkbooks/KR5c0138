@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3299
+seq: 3299
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 齧缺之為人也聦明叡知給數以敏其性過人
+  hash: sha256:aa42affe35dea80d854a19a89dbc96a24fa7c96f5687b4a2dc693659a59cc6e9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:96b53277c43945d0d8aeb2d9dd318469ab91fdc56c03f3ca86a70ac9ecf4d3ff

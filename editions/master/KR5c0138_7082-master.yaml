@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7082
+seq: 7082
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 死生非逺也理不可覩
+  hash: sha256:91805df8983347cdb7f5ec7551c81badb3774942861cb796599ef7de96086c09
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2b3d6397380dc2b9a98d0397f2802323047f0a3d34ff09527c944656f0722e9d

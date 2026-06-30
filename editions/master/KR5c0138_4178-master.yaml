@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4178
+seq: 4178
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 竒𩔖皆自牡牝也
+  hash: sha256:f74921b550cbd2fc59734ea6887b3b1aedee66cbf5caa37a97f46993c7d9f303
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c5b343b142f8d0bb7314b86b1351e86d36f2d0c457eebf488dbf79f2d760999e

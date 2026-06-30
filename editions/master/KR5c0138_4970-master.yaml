@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4970
+seq: 4970
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言物雖有性亦須數習而後能耳
+  hash: sha256:8f874684e6f623904d6018c6e2cd120909cbf24bffe6163cea34b1f5ba9bc0ff
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:93a048da808f12e3c48fc3c4f58971ee87154cdf8aacd870524eaa2605ffe832

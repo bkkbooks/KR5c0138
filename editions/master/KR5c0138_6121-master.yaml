@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6121
+seq: 6121
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有長而無本剽者宙也
+  hash: sha256:b10a4145b6818b4d9e1190c8d267c4b814f18c78e30c207bb2e7ab238667ff48
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dc41d4bbef7397e623a1142152b4df49eb4c2d14e8378fb31b3fccf164d123f3

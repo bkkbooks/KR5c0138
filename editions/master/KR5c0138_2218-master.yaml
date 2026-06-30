@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2218
+seq: 2218
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以方内為桎梏明所貴在方外也夫逰外者依内離人者
+  hash: sha256:5181989d93fbd8c4d6e6abe794c6b7ba1d3471fd5d2b323b970d9f4583ea853e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:64b9f07572224a5b268dafd2f7aa5630defccc44b3385a8dcae47be738dfd860

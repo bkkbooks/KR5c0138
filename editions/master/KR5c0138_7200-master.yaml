@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7200
+seq: 7200
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 惠子謂荘子曰子言無用荘子曰知無用而始可與言用矣夫地非不廣且大也人之所用容足耳然則厠足而墊之致黄泉人尚有用乎惠子曰無用莊子曰然則
+  hash: sha256:2db19cad9dd4e09f6795dfd754bc48043597ddb50a91fef37f690afa04171fb0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dfe18703cb6bcc6c14ce759d96e5c27bb77716d393fd75b25ba1c3d736f9f31c

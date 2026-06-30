@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8010
+seq: 8010
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 法而為之太過雖欲饒天地更非所以為愛也
+  hash: sha256:949c5e6d3a9a3b3445c985f9cf4a333b721f58adcc0076d7bd439306a74014e3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:50bde9ed5decef5728d88ac7826a8cc502cec537a12654d562c67de271b2e5b3

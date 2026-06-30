@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5719
+seq: 5719
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 難肥處故知豕肥耳問道亦况下賤則知道也
+  hash: sha256:c4e178e0ba88f8066d3ccd179f8342ce7f7c5ef6574739fdc368759a6ffcf8d9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6e436632ac0d52481a6066c61b5bdc0432df654c3def2d45e22b49196815be7a

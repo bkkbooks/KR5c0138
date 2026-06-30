@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2397
+seq: 2397
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又復問無名人曰汝逰心於淡
+  hash: sha256:f43e24a99c317e9cf5188b0a9d1dd0ed4b5214263251e5bb9504a4bfc6c4d83b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7d8671130056f38cac2bc4f6a6dc7a32d39319d0976fa61386a1af8f227477a6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/418
+seq: 418
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 四時行耳故死生之狀雖異其於各安所遇一也今生者方自謂生為生而死者方自謂生為死則無生矣生
+  hash: sha256:c7d4d2e001e1c44265c464ee2bedfe9e009dd889d871ad8e74b969237b6ce449
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ef1ed453eb43942c19eb416088a5c8f1f508fe986b2cd596b03e80f6713a5a6f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7596
+seq: 7596
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 殺
+  hash: sha256:b0a025ddb6adcf34c78ed76f0c172d7e525c57f22576d70400e4f331199fb98c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8596dd2827659f2897a3463a721d91ced428331d5b7054c712c8d65b158f115d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2807
+seq: 2807
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 糧而趣之則内棄其親而外去其主之事足跡接諸侯之境車軌結乎千里之外
+  hash: sha256:99d3256ec242e5048c31b089d7c9ef2fb736d92dc48574367c597364a1cf7688
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:19bb3c736a209de6de7aad212678ea3c0eec50d7d6cf0cb78ee822b9bacdd784

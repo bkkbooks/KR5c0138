@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8064
+seq: 8064
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 願天下之安寧以活民命人我之養畢足而止
+  hash: sha256:ed744e1a331df2111f6e31db0f8d7e4ed28209a5119f7a01243610c5f2d7119d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:42db82d6c62087302bcbf4bf01b743f65ae94e9351e32085cd2b876ffadb070f

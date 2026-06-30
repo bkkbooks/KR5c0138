@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2893
+seq: 2893
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 淖約柔乎剛强
+  hash: sha256:f41d0c736a748614bd585271a23f633b512ac0dde879a8c3ea2966941873bf39
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0626c2ff0c11232e2f8bfd204b83e05acdd5fc90de663c3ff97593b1c85025c0

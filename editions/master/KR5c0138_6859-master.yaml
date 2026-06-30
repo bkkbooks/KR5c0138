@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6859
+seq: 6859
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今自以四海為大然計在旡窮
+  hash: sha256:e8aa914309e0058bb14a743ebf35c22ee9607bea6f115de30bc0ecccc4efefdd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3f387cec0450e1d1f49065bf98fe9a78e940af66f0578eaa802be23b7d496a36

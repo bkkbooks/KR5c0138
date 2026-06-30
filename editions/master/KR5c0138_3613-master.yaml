@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3613
+seq: 3613
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫無為也則羣才萬品各任其事而自當
+  hash: sha256:7454417630291157589d6dfdb38c382fac5b2610b0d93fcaa7498f00a29ffb53
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:224d37fe8b9b19ee00452fab7dc6e03a413bc7a6d1650ede6a7dafd22de97ac0

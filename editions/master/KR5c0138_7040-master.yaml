@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7040
+seq: 7040
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡此事故云為趣舍近起於隂陽之相照四時之相代也悪烏路反橋
+  hash: sha256:6dd6e3aa5d0e63f615ceeb81d469406da3441b78c35a575e33a6a0d5f3584836
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2ed46d1d9d87c51e7a6946400785ccbdc775f727df246c35793e1bad987905e2

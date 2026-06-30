@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7720
+seq: 7720
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 重禦冦過於老人
+  hash: sha256:e6b1d9ff66c6693529ea62639b4d8498014112634992b5c2a4db824c03d8e804
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f8006dd20e48fad2e6c0c5c2b7ee7d3ddb0a850053875cdbd9c141e632168fcb

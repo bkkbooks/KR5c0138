@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1411
+seq: 1411
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而以義譽之不亦逺乎
+  hash: sha256:8fd6b2c8dae8ddee1e5ea49d12ffdc0e9063f6017a75fe43720157b7f276d4c7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e722a8d7b331bd58273c933257a07a7eab41661c10beaa4969f64455c662ee34

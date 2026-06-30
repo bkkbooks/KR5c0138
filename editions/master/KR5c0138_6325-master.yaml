@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6325
+seq: 6325
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 從無為為之乃成耳
+  hash: sha256:6d737208604e7e4614fd592923840bac3a7239e86173ef0ee53730f2534d1d75
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:764318ab0421812e4bd3091b6ec0c48402730ce33a6e584faca32d75eeee8b66

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8262
+seq: 8262
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 曰至大無外謂之大一至小無内謂之小一
+  hash: sha256:7081e5d02197c1cffbaab9d7dce328b43a4f027d91e5e395fb42c1aae9bf9d79
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:95e81feb209e41d1fb4af79229d54990a251c143cf7b5fc153b529dfbf52e29a

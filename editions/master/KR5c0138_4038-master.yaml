@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4038
+seq: 4038
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 時移世異禮亦宜變故因物而無所係焉斯不勞而
+  hash: sha256:b34f6021ed2d9c06bc630f80fd31c97639c632a0c13804bb0d0d4daf7412d0cb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:db4b354e61ccea42abaefc35f534c061c19d3e1d48a57329270b5f5c3919bd8e

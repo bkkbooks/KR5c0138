@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1777
+seq: 1777
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 喪惡用徳不貨惡用商
+  hash: sha256:9af80b24e299ef8a0ea2bd233fcaef1a4baa73f28b686ad768ba94616dfc3b7d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3803992269c8e89b0d74355380fa4f165270da89b180845372739cd2c6f017d6

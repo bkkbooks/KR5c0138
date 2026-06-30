@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3357
+seq: 3357
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖湯武之事茍順天應人未為不間也故
+  hash: sha256:abaf0e60fcf352df4db88518bda3ae8d7897b9b1148b6612b92951ce313bc152
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:60008d1637584e036b3fab2243f618600e096fd44bddb28c77aa16befa715362

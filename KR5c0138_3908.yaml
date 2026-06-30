@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3908
+seq: 3908
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫南行者至於郢北面而不見㝠山是何也則去之逺也
+  hash: sha256:fbfe5a0489ba178673a7c6358f6d6001376b1e169864c417d18770d4164f81d5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e3c47c6fdb8d19f2a5bacb40cde70239c47f5b14eb125831dfddc9e549a809a8

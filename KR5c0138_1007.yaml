@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1007
+seq: 1007
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 窮盡也為薪猶前薪也前薪以指指盡前薪之
+  hash: sha256:75ecf6e426d0f08e4fc845b3de9ed2c6b90665d8322041f9c9717487cbc05c6b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e8b92b2320d2d5ab2a27cd493401a80054dc35621677114595bc87ee65fd07bd

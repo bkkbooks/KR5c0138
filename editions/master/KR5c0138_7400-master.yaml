@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7400
+seq: 7400
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼謂無係也夫無係者視榮祿若蚊虻鳥
+  hash: sha256:7d7e68146c116707aedb66168ff17222c2a059c21cc230d92f9118ef6622f5ff
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1a72beefed09b06b474a0c4a3feafbb485184651e86fb2365c95700683299f1c

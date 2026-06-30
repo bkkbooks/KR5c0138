@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3263
+seq: 3263
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 立之本原而知通於神
+  hash: sha256:e564f066b2ae79ed2f2f90f2294664b7b6a57c305ff9062b6fdf5a7b26918808
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4791c31905c9deb924f1ebc3261c04766f1b7596ecef214467cdcabd958f91fd

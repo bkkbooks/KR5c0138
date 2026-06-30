@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5928
+seq: 5928
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 桑弟子也漢書古今人表作南榮疇
+  hash: sha256:c80db51c75160bb952fa2edfb500e6c59fa369dadf80a324290896fe0393466f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b274d4b2a63c3f350887af2361a15a4ebf520904f84b1c209a26438287266809

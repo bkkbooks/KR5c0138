@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3041
+seq: 3041
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知而復知與復乖矣
+  hash: sha256:d79488470dfd63a69ba53c82a3033dcd549beac14211a24c57fc99ecda735c9a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f5ac0fa7f49aa68cd8e80e0d18018bf973dc0e90fbee27cc32853ebd4f9e33f4

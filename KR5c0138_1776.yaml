@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1776
+seq: 1776
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聖人不謀惡用知不斲惡用膠無
+  hash: sha256:71d8461cd5a6974922c5b23041a8a0edbc42f52349900956cf521ef2468e66eb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1447d6d5dd6c4f0382bc7c9ea4e25ada3a34d0c5962781ad22965cd125d8366b

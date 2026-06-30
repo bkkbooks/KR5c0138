@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4299
+seq: 4299
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 野語有之曰衆人重利廉士重名賢士尚志聖人貴精
+  hash: sha256:b39125dddd397dad389333c96b77b45162c9bdf13594ea0ba1d086d40e8cd8be
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:82ad16a090173ec9221c9022ebeab072b8c8c62a727c36dd20346e4f5cecb721

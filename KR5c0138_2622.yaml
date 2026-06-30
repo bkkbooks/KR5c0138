@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2622
+seq: 2622
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾所謂聰者非謂其聞彼也自聞而已矣吾所謂明者非謂其見彼也
+  hash: sha256:0a0307ea8c419bc721cb363f887c22efd510d6b2ced4ad474459ef3fcc905e9b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fbdc9a6ca5d3c4ca2df8b90863431bcac570c94f303816b30e82f620db45e35a

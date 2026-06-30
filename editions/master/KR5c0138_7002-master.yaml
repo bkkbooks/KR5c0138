@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7002
+seq: 7002
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 萬物殊理道不故無名無名故無為無為而無不為
+  hash: sha256:1248bbcc68b01e13c494a8f2883fe9658f55763c84b553fb586f0cadc354faba
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ed2c3c2e4cda442e48e76a0c8a1a1631853fde75b903654c20dbf7c7c66d3786

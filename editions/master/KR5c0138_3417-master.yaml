@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3417
+seq: 3417
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其動止也其死生也其廢起也此又非其所以也
+  hash: sha256:66699b095594749ce659ea3dd5d57f44bdc7b222fe0c60d407e8db511a2b0a70
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0b04740a9fe639213e398f9ef751d9ca2f9669651973db70908ab59401fbece8

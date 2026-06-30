@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1302
+seq: 1302
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鄙吝心生而不自覺也故大人蕩然放物於自得之場不苦人之能不竭人之歡故四海之交可全
+  hash: sha256:4a6b175a2887a0c79e35bb4323b059ee8a9355132665d89ffd5030ac5ceb6ac1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1ed9660f554477b3a46add0fe37ca7796c6041116f4d8039fd38b2c201be7476

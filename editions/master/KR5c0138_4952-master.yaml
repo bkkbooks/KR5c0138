@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4952
+seq: 4952
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不厭其天不忽於人
+  hash: sha256:8097cb8caa11f82f70884c2d354706358d74d52754a363c4dadc19d9110a13d1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a1c38b1ca71e5b7e2b9d8ab4acf93af2a6830ce17dfb9a8aec3d26d0fb4aaa39

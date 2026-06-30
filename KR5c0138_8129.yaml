@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8129
+seq: 8129
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不能知是之與非前之與後䁕目恣性茍免當時之患也
+  hash: sha256:f5191689e6530464658e327897f8fb513db2d57a2c503fe121d97a3ea41e3703
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:109001a9a36adb28cefe41a20779fa077b7643d2aad0af06f95c241d29df0315

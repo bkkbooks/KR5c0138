@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3506
+seq: 3506
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 情盡命至天地樂矣
+  hash: sha256:6de56e63c66145e3ce9273cd7d7d3530252865f6aedde70b1909bc71f19b96fd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:17366573905c23a7480f997cee8f10175d3914c5014219344e9a96b9973262c2

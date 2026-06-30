@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4218
+seq: 4218
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 平易恬淡則憂患不能入邪氣不能襲
+  hash: sha256:9fc1bb16198b1f420488a299b15cd6f4c5f6acd3dc70f3722928cb3dde88c07e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8c8ea849def1355f7ab8169ffe0bff73e9a1f0fd71859a9eb0c1b582d22bfc3d

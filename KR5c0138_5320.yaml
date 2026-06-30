@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5320
+seq: 5320
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言自賢之道無時而
+  hash: sha256:632daf782dc9c05c037e58f851fbeae6d3e9206e08bb85a22ae90f9e1e927864
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:eeb74dd7e416a67d61e67dd7b9c250978021b1a8fe7795cf33f576f062fc01f5

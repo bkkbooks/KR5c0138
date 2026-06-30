@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8311
+seq: 8311
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 兩足所以行而非動也故行由足發動由神御今雞雖兩足須神而行故曰三足也
+  hash: sha256:def12802ab488eeae312bb5155afb06e0d52a47e4fa1c8c9bbc4cad4b1d96fbd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8f31372fe8f6959b120301deff79573d673ba3c3c5dbf21d4c0a773070c49191

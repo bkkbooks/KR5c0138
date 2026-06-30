@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/100
+seq: 100
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼於致福者未數數然也
+  hash: sha256:5df20ac09828fa9678c7fffc6509eb8b27fe6c556661ac8c1b035b52b28187eb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ccbcc9133bf5c4642035cb8a759c1c0743942be752b12a9ecb88cced78b12278

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5269
+seq: 5269
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾命有在外者也
+  hash: sha256:7304bdd551ebf58e9bf43e7dc41ddc81c443f618bfeb5ab4a6ec7233ecb40fbb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bc29ec0e447ae085202a5bf7c849139f42059de1d9eeba5f236b82297c4deb9a

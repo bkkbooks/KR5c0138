@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6386
+seq: 6386
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知士無思慮之變則不樂辯士無談説之序則不樂察士無凌誶之事則不樂皆囿於物者也
+  hash: sha256:8a154b2610157922aa0863e4c34ae565cd6c42b82e1b85de9b1e4522a0707799
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:749566c3e830cc989e94373be1052f7dcad632e50d9078de0f1e8adef41ea70e

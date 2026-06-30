@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2033
+seq: 2033
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 樂豈有極乎
+  hash: sha256:6f251836a8c30867fbb3a997ae071adef1e0e87a70c2eb013326ac4f2452e21a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3c9aed1d4dacf30f69a3f98035db5020e78dadbf31ee1ded2ac93b8fb71f8c2d

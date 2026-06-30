@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5420
+seq: 5420
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 生有所乎萌
+  hash: sha256:a083edb6f6c82a115f1757414ebc9d0ba61c1f947a14bc19ffd3c3300ffdd93a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:244fd84c921da0b8982a8d699169322d295577aa3afaf6d5d9e664ffeee6d28c

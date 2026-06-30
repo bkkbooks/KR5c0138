@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1737
+seq: 1737
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 使日夜無郤
+  hash: sha256:8b43102947bfae41952fce1840506f2b2ac0070526960816e821e6e9a0de1ad4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:86ed4eb46bc2981cb2983c1feb49ff08251216b780b0d255b5f0a71993d1195f

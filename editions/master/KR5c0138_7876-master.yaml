@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7876
+seq: 7876
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 然自得而不知所以德也
+  hash: sha256:d5d197ef3d44a6613c513d59549b35f7b6b2af747f8da698ba5d9d9d838c1827
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0e5ad6fb521d7ed04d01a0a38e691cf4e6fb6c2a37a37eb35993f3989a756d48

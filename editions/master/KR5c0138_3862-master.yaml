@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3862
+seq: 3862
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 得彼情惟㤀言遺書者耳
+  hash: sha256:a4fe2eb0ebe44ca5c8afebd047226786ba227420b1f0e1005652c1c728667f9c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fbedb51f38cfc7bef3a054adcc20bfeacc6bef14803e97dbdcab451603ddb5d2

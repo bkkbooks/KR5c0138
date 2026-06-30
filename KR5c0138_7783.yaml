@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7783
+seq: 7783
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 衆人以不必必之故多兵
+  hash: sha256:9765f96ef0f1be893b0eb8ae37e2d6b52a65790041ef44b6735dad2d04f5f3f6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:093c0b8a284935f02262456a3e4f65877768d244bbfcb21362d324816eccac93

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/322
+seq: 322
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 直自存耳
+  hash: sha256:44e7980560356477572c7fca697b98ca22eab6f0087562c1843179a75922830a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2f68d164bd96f9b5ebc8161d6894ad2fd5831e657f6e8ba52e130473d7133aa9

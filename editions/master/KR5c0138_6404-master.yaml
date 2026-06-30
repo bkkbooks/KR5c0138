@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6404
+seq: 6404
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 權勢生於事變
+  hash: sha256:0a6cdd587f46fd41702792e34990b68fcdd21fab2511d454b2351ea6469e4017
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:124c8c9e4134fbd4d208a0ed1f34f1d940bf2d2d5cd60d2ab57fad211cbe196c

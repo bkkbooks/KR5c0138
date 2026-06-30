@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5651
+seq: 5651
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 我不匱此明道之贍物在於不贍不贍而物自得故曰此其道與言至道之無功無功乃足稱道也
+  hash: sha256:fa54b3808832fccaf953b9a0f70d84cc5f199eecf14c152ebfca1c47b0f52f0c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4b62d7df182a1e5a53bfb638aeb4446c4709538b4f8ba4c9133f94a488388611

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6631
+seq: 6631
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以有事求旡事
+  hash: sha256:e10a8ad576c9aefe278f5cccad47c66cae68c2b6a417872a8ac76ae21ad335bd
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:04ba9c527fc8cb47f4dc7a06ec307e660da39386555cc02957c6b0b8a939c61f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4442
+seq: 4442
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天下之水莫大於海萬川歸之不知何時止而不盈尾閭泄之不知何時已而不虚春秋不變水旱不知此其過江河之流不
+  hash: sha256:e7007b31a752ac9e0e5b5ea805556013e22e96a717e1ecc4489bac5abeee27ee
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:722ddedf9dde6a456a3e7901c241b04149bc2787ed210827adbbe6d8157e3cb2

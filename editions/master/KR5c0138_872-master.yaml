@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/872
+seq: 872
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 兩非景之所制而景非形之所使形非無之所化也則化與不化然與不然從人之與由己莫不自爾吾安識
+  hash: sha256:88dec1cbec2031a22abc5c03fa773757c5fbcf506c21e68b07151b84402cf500
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3f230e01e3f6b692ea4a35961a831f710a54f913b525a75cc4a350b303c5fe9b

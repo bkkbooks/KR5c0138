@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4013
+seq: 4013
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 命者莫不資焉
+  hash: sha256:45173db46280cdb2ea4c9b5dedd01dee4c37aca50c2c47b5b42aafe43bbd2557
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:72d729d69e8b5b2964f9f5a42d40eb343e8e11ebe8b4872d3c9c96e87f02d643

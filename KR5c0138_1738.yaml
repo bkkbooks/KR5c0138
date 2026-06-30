@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1738
+seq: 1738
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 冺然常任之郤去逆反間也
+  hash: sha256:1b5b1b81830677ff090350fab05ed470ef51d9ea5b162697d08e79cb1c77e63f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:54c63be5a5bfed8094c744ad7083f2d913a9a4ae6317f899a3c9faa2ec81879f

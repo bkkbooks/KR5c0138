@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4927
+seq: 4927
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不以心使之
+  hash: sha256:5cc65c227811d29f79d14d7c9372fda06aea4a49afec1afe2435582d54712bc2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:41fc7d0c3f4139176ad5000d89975fb55315c36b07d07455cd14a2096b4e4d05

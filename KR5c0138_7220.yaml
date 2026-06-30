@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7220
+seq: 7220
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 當時應務所在為正
+  hash: sha256:a8d3d021e899de09fd2b7f446fc646a0b1518e3cea4c1e1b1a4f0a3ebcbc29b1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fb31a55ab2902098ef2cbdbd06b6fe0295ca09d12ce4f873825c51e6c081e6c8

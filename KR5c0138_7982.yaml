@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7982
+seq: 7982
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天下之人各為其所欲焉以
+  hash: sha256:7e628503f7171996e0a8b8c1424ee36ec2e9c1503e45d0d747e4667e5413f809
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1461656c430569113303677b9e50ae5428ef8d001eaafe59ca92044d5cca532b

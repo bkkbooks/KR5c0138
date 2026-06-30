@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5804
+seq: 5804
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 冉求失問而退明日復見曰昔者吾問未有天地可知乎夫子曰可古猶今也昔日吾昭然今日吾昧然敢問何謂也仲尼曰昔之昭然也神者先受之
+  hash: sha256:d823b1409a72a8a63f21e3ba9ae661056e28187878765a411a0b0a34ef5781ce
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4b7f8a8409602948d70ca2b7507dd6747d048cf3cb4a3f9ceace800a078c46f6

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7934
+seq: 7934
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 真為也為其真為則無為矣又何加焉
+  hash: sha256:bcacc757ac521f1f45153b40a954cf709e1249d6fd42a143190d6b0b55f727a6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9b04f40f44af192a96f5bf748af49e894cfed14ec23384437374bcc4c681920b

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5645
+seq: 5645
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 運量萬物而不匱
+  hash: sha256:3bbd77a63fb1973ba4899275580079ea826b82576331d5a0606fc33b1a05b66b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dae399495a0e2e475fc3535604c011bc3a77f9f0bda4347decd5c88bd185f927

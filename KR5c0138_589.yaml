@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/589
+seq: 589
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其可窮乎
+  hash: sha256:47b5bf5559ed01d5ced365454a4f85c4588ffcf86cf27156f26d68d9db86c939
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3edf345362f8aa1f0a1de2eaf66615560ced06d88e0a32cc6c02226e8bd7f4b2

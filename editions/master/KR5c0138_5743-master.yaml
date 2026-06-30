@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5743
+seq: 5743
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 反閎音宏虛廓之謂也
+  hash: sha256:29c18a4e5cfadfaee6a267465d259ebe8d46d1e771f2ab230bfe82653cb7939f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:594993d14c2e6b8f0c24ec1cf3f78ebc83d479d350153e9c40c4631a84ab8b76

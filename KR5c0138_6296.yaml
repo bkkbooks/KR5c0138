@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6296
+seq: 6296
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 各得其所好則無思
+  hash: sha256:5c147072e17bb59429f4064d7872e9090b02da1c486710691854ab1f541c25ba
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a96fef9444791c1eabe031cf567dbb961e7a4bfa8fb50bd8772275e3864a2287

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1783
+seq: 1783
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自思之非我思也必自不思非我不思也或思而免之或思而不免或不思而免之或不思而不免凡此皆非
+  hash: sha256:f118c70d46768ed8fe3494fc8e5047f6691ffc779db654a130522de0f06f96fa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7a5c43a4edc6d81efbeefa7d0225c6e685f8567618f5f35ad47997328279b389

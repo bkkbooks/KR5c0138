@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2983
+seq: 2983
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 失無窮之道則自信於一變而不得均同上下
+  hash: sha256:c50d749233830a5d4fe3befce6eed1c222336f43554a65b24e048f459dcd18f4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a8ba45afff69b35a316fb6026dcd40f266f2e976b3c6aaf78f619cbfe18ba1e2

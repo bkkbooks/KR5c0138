@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1806
+seq: 1806
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 兒之始生也不以目求乳不以耳向明不以足操物不以手求行豈百骸無定司形貌無素主而專由情以制
+  hash: sha256:722d42094f4ca920e2af5e06c7950e229295617e7889fa064ccfb5692681367c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e23e47c9f381c1a0bec9c3d56462a9203260279956a337ae6fdd575d46206616

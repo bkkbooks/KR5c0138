@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2350
+seq: 2350
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 應帝王第七
+  hash: sha256:63c51e7a2cb3b632edc34fcbf65721da266a20236eada956f16ccf71d1b04753
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:09ee35e99357a54d202fd7b7c6129398e7461d0f4869563852456b983a43f5fc

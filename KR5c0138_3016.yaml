@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3016
+seq: 3016
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 皆坐而受害也
+  hash: sha256:9a040bc0f6e6615d1d74db90657eab138dba9bb7bb2b72c9ed8ed4ae66e86436
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:61dba9f400c605229d955e291ea4293972dd38a0a7edab1a798cde4de7b191b9

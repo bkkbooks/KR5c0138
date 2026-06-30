@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7239
+seq: 7239
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 之用制之由人非不得已之符也
+  hash: sha256:90fa32fb5fd8bc0be520c5203b9a4906eeb7c7b46a1ffc79c5e1695304996ac0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:72397e4555b69f898be5f6631361f90ea100add4f9b7a9d3656ef1b9f6133933

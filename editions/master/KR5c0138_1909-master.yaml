@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1909
+seq: 1909
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 日登天六合俱照非愛人而照之也故聖人之在天下煖焉若陽春之自和故澤者不謝凄乎若秋霜之自降故彫落者不怨
+  hash: sha256:cc114555518c3a68cba622e5b6b0b22bf53c5d474c94fc584911f42c33e1642d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:507b27321d02e64f98ddf756be0aba7ee6df94717e988fd741529b0b30a42161

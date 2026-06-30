@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7022
+seq: 7022
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 少知曰然則謂之道足乎大公調曰不然今計物之數不止於萬而期曰萬物者以数之多者號而讀之也
+  hash: sha256:1cc49be4cc3e192124171320ed231413723c06a9fe7e003365dd355a2ed75362
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:442109858172b9ac84a94b51fcb6507a023c9c7878ce7177ca8bf44bd7e41247

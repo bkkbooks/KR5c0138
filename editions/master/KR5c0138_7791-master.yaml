@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7791
+seq: 7791
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 苞苴以遺竿牘
+  hash: sha256:7e228ffe5ba99c34ae81b6989d4a19bb4607ba4fb09a1e8193635b1cde4a5b91
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:eff991af1cfc23d4cff1efbfb5b4d4c744bad0f7f9c5bdc7be73063e26150264

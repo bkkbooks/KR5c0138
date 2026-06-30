@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5279
+seq: 5279
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 未有自疏外於人而人存之者也畏人而入於人間此鳥之所以稱知也矣
+  hash: sha256:c7c495bf6627ffa1d1ab77cdd600c27fc95700fb3e65c619ea9f45e33463ae01
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e2ef6b8f4953399a74c04adcd302d2abadee3ae1f10a30aace463287b6d7f47d

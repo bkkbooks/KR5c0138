@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2090
+seq: 2090
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 見獨而後能無古今
+  hash: sha256:2347531056b09a84aed078584811ae837659e29013daca0737d4cf63e1a44430
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:590ee731358b1b6364bf7391ab4f4eeacbfe4f4e2c8b3cc7f02050d32a1cd751

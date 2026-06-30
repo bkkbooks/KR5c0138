@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4794
+seq: 4794
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 舉羣趣其所樂乃不避死也誙亡耕反
+  hash: sha256:df7882a06ad3b46cd36ef6204953317144f78ace420e1926e08d3d15a3e43c30
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:22da7dd1dea6378f0f2f5673ec56ef5912cee2707b4aae2d8ad820587e0dc8f9

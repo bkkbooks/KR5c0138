@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5727
+seq: 5727
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若逰有則不能周徧咸也故同合而論之然后知道無不在知道之
+  hash: sha256:e71452c06aea905e4db6edc49be3a6d9961e55917fad0ceca8eb3b057abb8af9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:18e1e3aa031f25a5e05dc07d0b9099f5150270ab0e9b0b87a73119e23848a31a

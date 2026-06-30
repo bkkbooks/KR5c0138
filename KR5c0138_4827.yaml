@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4827
+seq: 4827
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 樂之塲矣
+  hash: sha256:2bb7a94c85347690b8306259467c40cc002eaaca6ae9af0f00b9ff769e8eac2e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dc7c75cfaafdf145cb9e354b1c6d81bf36d9937e6edfd86b36544e7245247d7c

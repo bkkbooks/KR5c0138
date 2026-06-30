@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6040
+seq: 6040
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 安之若命故其成不滑滑音骨
+  hash: sha256:9bb96382e9f21469fa07c458b28fc6e50aa08587e3660795037ec1e6b2c9388b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6028114effabadd748bc3c7168a6d7ff8e05f2217b472509d118b991121a418b

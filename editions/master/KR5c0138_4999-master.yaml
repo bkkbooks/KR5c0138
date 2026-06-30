@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4999
+seq: 4999
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 柴立其中央
+  hash: sha256:28521b61629a5c891ae83d9f3b94ae965beff6efc25a10b99b68dec71be0c576
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:586eb197dc832e36d8529ef7fe3b1b2c7cc3fffd18ffb79e46098711846b6f32

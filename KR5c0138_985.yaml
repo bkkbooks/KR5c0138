@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/985
+seq: 985
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 怪其不倚户觀化乃至三號也
+  hash: sha256:cf07a962b3e57ab5b8a99ba604d44dcd3c0f6209718c9070a87c0d83408e8639
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:54ec9ad38f723b02e07703f6b2d7fca67efd609984ec18524af8107511f673db

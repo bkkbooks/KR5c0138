@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2590
+seq: 2590
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是非以仁義易其性與
+  hash: sha256:6218c699f36e090af33920f7409d7f5c80fabdb2640bfe605b3f5132f4b87a8c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5075a6ded5c322b8b3b1b97125f2038995dd7d9e751908bcacaa30dbb08c54ee

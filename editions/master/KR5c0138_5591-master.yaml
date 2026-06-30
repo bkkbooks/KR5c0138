@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5591
+seq: 5591
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 隂陽四時運行各得其序
+  hash: sha256:b046585cac94895e867aff2060523267403314a0e6d26a3b93948d7df10ab62a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:39d7a6cc42aa803c9ef11ba10f64908e601e1d7fb857b5292324c4450a835f2f

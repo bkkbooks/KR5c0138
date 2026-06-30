@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7820
+seq: 7820
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不自知也視音示
+  hash: sha256:c0d83a3acff0e7b2345426f884038d5f113e1f28e0c53dc82382696ed92f9032
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d11f73d2b99175a1c0c492d897381732e9c7147fcfc2e00525abb96724a25828

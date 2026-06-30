@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2431
+seq: 2431
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子之未懷道也既盡也言汝受訓未熟故未成若衆雌無雄則無卵也
+  hash: sha256:5e80b6ca045e7909b867fe3ed0a8daa5e3f9e50cf862a43923c7c9608f76d49b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d92dc748e349cbdff411740098edf0a53ffdba65bb843b51a3327dd96f403fec

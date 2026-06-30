@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2790
+seq: 2790
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此數人者所稟多方故使天下躍而效之效之則失我我失由彼則彼為亂主矣夫天下之大患者
+  hash: sha256:7664d46393f054d7af4bd0027dc8463a35ba81cc91c77b33c6f095d18e8c335a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:78fbf1c4b05c4404970a86decc4dc361fb6170467559256dd2a0a11a1346831a

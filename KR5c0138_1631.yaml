@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1631
+seq: 1631
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 魯有兀者叔山無趾踵見仲尼
+  hash: sha256:99f79ce1597ffb5336ece9a051b47776f2326ddf8d4f9d7c72f55fa32695b3b4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:917ed58bcde12b23f16fc1eb770f28478e4bf300b45d9b76001543cda9d9c5d2

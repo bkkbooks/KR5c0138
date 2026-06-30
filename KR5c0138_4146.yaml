@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4146
+seq: 4146
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人自為種而天下耳
+  hash: sha256:8526939ccd787aec77f06495cdd79d24574ea88eb601d419b6e6e43f4cf5bb4a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3cde9380ef2c8d1ac8566801771c6ce15bb62e2802dff592234775fee5d75a24

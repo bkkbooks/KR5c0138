@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3310
+seq: 3310
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 斯迹也將遂使後世由已以制物則萬物乖矣
+  hash: sha256:9c36d5eeee470df827e09fd3b005cbe7b87aaffb666c52312f7f561dbf1d8465
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:24add1bb2235dd9cb19bf96ff778054981cbc7e3c951ea0d7b4d1d85a21191ca

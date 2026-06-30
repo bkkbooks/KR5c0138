@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2027
+seq: 2027
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 特犯人之形而猶喜之若人之形者萬化而未始有極也
+  hash: sha256:4fd350277ce135479610c9c4006206c0a28b5cb03f94709c2d151df47b42467d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3a82a4cb09b92ca72d0232fbc92908a760bf23b0bf5fd1eb8dec117f17697653

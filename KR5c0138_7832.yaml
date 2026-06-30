@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7832
+seq: 7832
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明不謂當時也
+  hash: sha256:598ebb1bdcbd9b7a0ee1d87af6bbcb2d1a7448d03f935e540d882de3cf7dc203
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d9c1ef0dedc53d1c9f006a6094f43d76ada602f55182a31a636f24e94f920b39

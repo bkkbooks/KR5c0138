@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/200
+seq: 200
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 蓬非直達者也此章言物各有宜茍得其宜安往而不逍遥也百金金方寸
+  hash: sha256:22d467f9751a7ff9f284c30b6ce103273d996145de636966f306e0328bbfd4b0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fbd5707ea2f3dc124d071c1087c341da42b7dcfe54db51b43b2dc3b5cc653222

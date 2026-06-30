@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1569
+seq: 1569
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所謂逆旅六骸手足首身也
+  hash: sha256:68140e2649688c86342bc89a142afb7b10e4c3adb75cad4fc310d0fed2e59bbc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0f273f2d27f50149ce8981d4e81cfb42ef4015ee30df7b584f16962f5b0be9d7

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5992
+seq: 5992
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若能自而用此言便欲自謂至人之德
+  hash: sha256:86311a6966db5fc8034ca38d4dd72903b3122093b812f5d7f24c9d4152338a3c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f0ae9248acf99bff9db7756d4fface9510331fb6ae283d011e3e08b3a90e7522

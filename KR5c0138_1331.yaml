@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1331
+seq: 1331
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 徐所列反無方李云方道也
+  hash: sha256:7288f15488e5aa966ed42c7be2ff240a8df850c344bbc477632b07bf26978705
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1021677c3f2e65146005215e5c7c85456030c834eb0c4b42c125bbb3f859c1cd

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1898
+seq: 1898
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凄然似秋
+  hash: sha256:bc1001d596f4abc4e7f35ac99f5cda8d4272179460265c8827f5ab140c900f4d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c2fce7022d02f5ecc0959df042765d58a6512e7524c354ec7e5e9f4f4ceb4d8e

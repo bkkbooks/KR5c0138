@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/810
+seq: 810
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫愚者大夢而自以為寤故竊竊然以所好為君上而所
+  hash: sha256:c1dcbed9e30398062bc8d5819997fbcdea0023c969ad55240b48db3daed4b779
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:802b109d8af008160bacb3d19ef72899ceda4de75affe4b10ebafc4b01768ae0

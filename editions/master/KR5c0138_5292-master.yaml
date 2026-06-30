@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5292
+seq: 5292
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聖人晏然體逝而終矣
+  hash: sha256:99ac762e1c8798f309eecd124d9b230df440d1b72113a4c455d186f7e72ccf77
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:dbb28829c14fba9f196a2b23e18f39f0dead58bb7600cf041d35f066a53b1e62

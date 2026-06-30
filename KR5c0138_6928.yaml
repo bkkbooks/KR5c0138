@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6928
+seq: 6928
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以正為在民以枉為在已
+  hash: sha256:904fb59044cbf67242771dc0ba58dc8b81ac40ee4d8adf53a0d6ec2fdca971e2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:495144db4e425879d4de414ca55920f3691daa5b659b8bfc6c14d5c5eb21dd1e

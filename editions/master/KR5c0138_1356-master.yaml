@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1356
+seq: 1356
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以犯此人危殆之道
+  hash: sha256:f93cc81be2ac993e0bf6eabb519cf2480acccd59553d9982e11630a01a60f68f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:00fd6cd96cf752b668b6167cc8bc4f8d0affe9e457936ed21b2629af194a7b27

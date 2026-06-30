@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1247
+seq: 1247
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 為人臣子者固有所不得己行事之情而忘其身
+  hash: sha256:67b79459cc96d6a8dc7daf547acbf184019be18a528e12441a546752c1cc0d66
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:109b9a56a28d332c6d1b1d065331be39fe24ace13dbc0b21240f7a93c60b951e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7879
+seq: 7879
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 及其有睫也而内視内視而敗矣
+  hash: sha256:2db828353736ae675fe006ce490193533634adf47ad95ba227a240bf4d3286e2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9cf9c47a2f1f360570e11bdf6bbf6acf193a86d32c796602e168a5ae290920e4

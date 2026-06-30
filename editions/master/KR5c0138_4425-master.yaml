@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4425
+seq: 4425
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今寄去則不樂由是觀之雖樂未嘗不荒也
+  hash: sha256:6df3df8b0867342faa0eb6af16b0fbf365dce57e4956be25d3ca690950aae927
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:93b9eb58fca3ea97ed480c69281044b7b966069462b08acf1a95819bca82aac6

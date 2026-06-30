@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/437
+seq: 437
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 樞始得其環中以應無窮
+  hash: sha256:e3227d64bb3bcc422df4fe07d46e889d24dde4021093f108665deeb154762132
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c7f6ef9b2e9f6b3e5aae111aab41676e3c49e4840ae02d5767f4a6b19c17d618

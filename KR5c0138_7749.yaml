@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7749
+seq: 7749
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 十年而緩自殺其父夣之曰使而子為墨者予也闔胡嘗視其良既為秋栢之實矣
+  hash: sha256:c6ee044b8de54c2107645684820b8bbc0c9950a73e07c27daacda60edc35338c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5b409b8d5993288d9e9986c6cb72f94ca0eabee785e9d50c947cb61a7b4ee891

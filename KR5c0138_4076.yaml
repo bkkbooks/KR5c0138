@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4076
+seq: 4076
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以遊逍遙之虚食於茍簡之田
+  hash: sha256:e7202402d4d86735b28300c491ee0b19dc108bb23ffdc1889f7440a8bc972da1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0b63a8eb380c5ba72e9cd8a3751b8cd6548e5357c681c9a7ab92372d30b11421

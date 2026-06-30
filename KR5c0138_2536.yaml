@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2536
+seq: 2536
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 枝於仁者擢徳塞性以収名聲使天下簧鼔以奉不及之法非乎而曾史是已
+  hash: sha256:178d219e765458d51f912d58a4c1357c26741b1acd1d7f319fab641a8b70b20b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:20627d2025d2405db3bd658b7e9e17c838c16ca21796b74c6672ad53908165f5

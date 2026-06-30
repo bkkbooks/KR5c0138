@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1457
+seq: 1457
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 生故亡生而不死
+  hash: sha256:6a1c7958f3f4820801940ab649b76b5e0ee6d1cc361f0bba9a223dbb2a8a2c73
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fc87282af68282cf7a50e7521d1c5c10e6d177575477161fa87b5fbb46d57d00

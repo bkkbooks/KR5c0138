@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/213
+seq: 213
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 死灰槁木取其寂漠無情耳夫任自然而忘是非者其體中獨任天真而已又何所有哉
+  hash: sha256:51d2ab1331ccd3003a261d3c417fbf4909df52cdf05f438bf1375333422ae041
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a6d76c0f62cb0cf0f3f5fbed2c4aa34ee1c8a97a1e546d66e57a1cc6dc03a3c8

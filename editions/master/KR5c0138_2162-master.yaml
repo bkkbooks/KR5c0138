@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2162
+seq: 2162
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 寐寤自若不以死生累心
+  hash: sha256:d06088f4f40b691778f2082e5ce509488b74534b36d402caf05f28e1798bd6e2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:add831ab074c845c8e0830317a3f6533075893fdf2bb9857780e67cf876e0685

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3013
+seq: 3013
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 解獸之羣而鳥皆夜鳴
+  hash: sha256:359c5d5b18b81444650c673dd9ace3ccc9effcae45305148fa54e91bfc975fac
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4b55ae2e6c25d8b1271974816381a0794b4b196636d8da1bfd8bcbb171a0b220

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6575
+seq: 6575
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今旡怪行而有
+  hash: sha256:a796293bf49015dc7d6bef3fec588f461d171226df54cc6b99fb216ae62067f4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:528c9f5d60b5f3f764accae94a98ea95b0cc963901eff56eb97dd5c02254fa9f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5633
+seq: 5633
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天不得不髙地不得不廣日月不得不行萬物不得不昌此其道與
+  hash: sha256:a7f17bc55ca6cc7e0004a3ecc24cc21a0f845c2f3d3dd87f1e4c8641a36fa94a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2493d7a4fd563e0db888fe77504083f220f511f9a3ac6adc1cd95bf532d9a1c6

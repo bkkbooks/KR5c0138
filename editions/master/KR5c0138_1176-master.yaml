@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1176
+seq: 1176
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 使物自若無門者也付天下之自安無毒者也毒治也
+  hash: sha256:21aa153cbe69a2d13339cffafd6699f35857fef57d5af020a550a1c5a2aa05cc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e0adb5e354b94f1637dfef3ee79280dc0cfdf618b05a7dbe5f8d7d805ff69abf

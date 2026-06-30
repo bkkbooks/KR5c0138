@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1150
+seq: 1150
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫有其心而為之者誠未易也齊側皆反下同
+  hash: sha256:fcac2760da508aebf47fe7682b713c5e5fe1d858de98422b0193ef59bca67a92
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b2a34cb4606c6e50cef480b46cb8f7b9936f5dc45136a87ae460bad7deeb79c2

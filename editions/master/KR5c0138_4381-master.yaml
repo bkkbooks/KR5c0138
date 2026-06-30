@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4381
+seq: 4381
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古之所謂隱士者非伏其身而弗見也非閉其言而不出也非藏其知而不發也時命大謬也
+  hash: sha256:893aabdbc73675b66626bfb1a653daa78541fee0153790d2129701d2892972e2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1dbfa9114e373a33486e718902745a358df3594c34d91cede1990ee4bca79f2a

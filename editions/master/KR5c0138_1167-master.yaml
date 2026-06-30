@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1167
+seq: 1167
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 既得心齊之使則無其身
+  hash: sha256:a31c221e6a8453682ffd4252371455b236585b1924d052c9573688ab03672afe
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:88a8ff696d750460610637c3dcfb0f649e99bf6a2a6990e0a2a060719c66771c

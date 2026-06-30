@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5319
+seq: 5319
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 吾不知其美也其惡者自惡吾不知其惡也陽子曰弟子記之行賢而去自賢之行安徃而不愛哉
+  hash: sha256:538a91767c7b3dd5f9d59feffd1e14f988059a280decb90c634f26d00c4e6f7d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c4de0c89fc355b9e0d0920631d2a7eaf24a1bb315a898a744d00ce533911882f

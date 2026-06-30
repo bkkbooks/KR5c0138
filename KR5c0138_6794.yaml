@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6794
+seq: 6794
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聖人無愛若鏡耳然而事濟於
+  hash: sha256:79e694401298140cae5ffa1a867c9a18a34d0dcc27cab78a11101e68af5aa389
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1a57186f71913dd663443d77c05e874b4f7447fa041229048012c1676481f495

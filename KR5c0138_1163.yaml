@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1163
+seq: 1163
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 顔回曰回之未始得使實自回也
+  hash: sha256:9fb2636f2d9406224ac4bc27bfaa1ffb3574738fbcc811f8e5faefa125eb62b8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f5cf53eb0e9db23a7565e0367c7daa95391d4e4c4f30e0c57f94b90e592ed729

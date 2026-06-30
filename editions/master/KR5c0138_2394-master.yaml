@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2394
+seq: 2394
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 物故能出處常通而無狹滯之地埌音浪壙埌猶曠蕩也
+  hash: sha256:e4949bb66a454cb41a6a9537cb46aed50549f29c53b37a149a536f79d04cdbdf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:510d5c85ccbbecafaed7c624961d2c135756741f1f71374deb8d13a0b550a21e

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7916
+seq: 7916
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以一家之平平
+  hash: sha256:caf8d25dd53d3da7716d214e35d0454a17e16c5ecc453fb5311a2d65e51364e9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9f8dd5c65be572ae7ed595a2f37d73b7240dfe14dd992f81e243cf3eba2e23d3

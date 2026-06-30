@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7028
+seq: 7028
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所謂道可道也
+  hash: sha256:907ecef8edd6738d295b927d4ea4bbcd7f9d442c772dea1e648c5d3bafffcb0b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d368d4aab08e14b30a93ff74838e8668a9f52834cd666d1a1b827a7e12e2b818

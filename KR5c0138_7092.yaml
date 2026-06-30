@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7092
+seq: 7092
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 道故不能使有而有者常自然也
+  hash: sha256:32c41fe69527664da3ead336f457ac72e6bb264e4db0b5b4c6b5d9715571a5cf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f231ba49a30bcbcb2b09f38fdaac74dd1633ea002e414c99ae08c644314f855a

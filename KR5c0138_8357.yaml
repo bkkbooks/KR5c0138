@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8357
+seq: 8357
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 水不動鳥動影生影有光亡亡非徃生非來墨子曰影不徙也
+  hash: sha256:5712780556fde0b6ad161a8167f7713b3fa1248fd76b8d70ab6f09700325259e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:80aae7b584f7171e802be8ec39884ea8695ea28c57230a7578295c5296bab921

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2148
+seq: 2148
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自古或有能違父母之命者未有能違陰陽之變而距晝夜之節者也鼠肝委棄
+  hash: sha256:37f3b20ce39aadbf4beeb938948e160b5fea072e50668951bf376a8998bb834b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8601ff6e3d799b4f37a67b8986e96b7800e05ac0b527fc06d0f4c2994afd5a15

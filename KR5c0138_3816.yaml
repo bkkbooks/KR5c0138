@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3816
+seq: 3816
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 士成綺鴈行避影履行遂進而問脩身若何老子曰而容崖然
+  hash: sha256:dabcd03f915c934ef982e53c6a5b84e420a85dedf9cdc67a05092fbce955f3d0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:04586c8f12fc46c76f02d0f48bd13e0d860c261fe36a3a776f338d1d051bbda4

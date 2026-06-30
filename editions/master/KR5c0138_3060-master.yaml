@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3060
+seq: 3060
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此以人之國僥倖也㡬何僥倖而不喪人之國乎其存人之國也無萬分之一而喪人之國也一不成而萬有
+  hash: sha256:a01f1ce1eeeb0c831ebfa51cb7a58aa0f33a6265fc039ae2a77e685346a3027a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7f8c7cf8161311e9c4312667f12a93047081e594a98163e1bb6c3f9ed3a65cb5

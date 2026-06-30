@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4941
+seq: 4941
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 飄落之瓦雖復中人人莫之怨者由其無情忮音支害也
+  hash: sha256:405693a0c416e0a545baa971858f6991e170a5bb9114cc623995d1063fc4d4e7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:17d05912de54cdd86c2ed782c50804e58a96ad642eb14e8969235ec0ccdf8ac2

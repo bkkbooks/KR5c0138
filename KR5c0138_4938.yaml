@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4938
+seq: 4938
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 復讐者不折鏌干
+  hash: sha256:1676e20c5befad9d30c133f371f1bb2f30886bd3bdd0c17652135b7b846d2b47
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a0e8c6ec958c86740a90f461c6eff29568a5c524a4dac8c5391938f4c6d11a65

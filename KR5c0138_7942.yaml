@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7942
+seq: 7942
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以仁為恩以義為理以禮為行以樂為和薫然慈仁謂之君子
+  hash: sha256:9ab4a7a5dcad8407dc8d1e9e776fe3a91a3c7293ccacf78a51ea7d281a0f3b8e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c437b076c5978a0453dc9b294786753472f82377f0baac8cc5c7549b6a46bbf2

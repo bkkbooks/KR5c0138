@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7436
+seq: 7436
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 理必自終不由於知非命如何
+  hash: sha256:ffa9d3a26c8c1c87abfe2374400838623ade33dcd5e99705412b394c3e1d81ec
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f1aa2bf2bfdb7e72c8b0279494e8a9d9a740c3dd75d1b8d5ec4b926d0fcdffbb

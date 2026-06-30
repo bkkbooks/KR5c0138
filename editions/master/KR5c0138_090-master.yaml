@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/90
+seq: 90
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 身故間於世也數數音朔
+  hash: sha256:b1686c4fa8ba78fe68d77921fa33ebd311857bee4704747398fd3a95abbac24e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4c72dc0fc7b1c56b30a2ee65e686d145e407364ea3ef3e5aafae127248bdd944

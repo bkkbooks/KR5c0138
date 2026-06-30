@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3932
+seq: 3932
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是以道不渝
+  hash: sha256:6a515331f05c2a007dbf22ce5c7571b098a1b8cd067869d5e5a46e8cfb626703
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:563cb43ed11108f5e5504cb3b3db70056226ad9aa8eff48ce5cea1f1771e116f

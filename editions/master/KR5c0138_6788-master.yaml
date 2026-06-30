@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6788
+seq: 6788
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 若知之若不知之若聞之若不聞之其可喜也終無已
+  hash: sha256:b3941144d5b05347b58ad12f527e9a88edfc62e435148d1f93db579b97a02abc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:81252bfe80707f663a143ee8c973edab9d5c65aee8e6f9417f1467a762ca17fa

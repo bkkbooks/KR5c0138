@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6952
+seq: 6952
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 亦能順世而不係於彼我故也
+  hash: sha256:8ca6109c7dd290c1ebfab24cc98977cb7dd94cc9b4371ee72611edbfbd6f323a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:733f1c90adb1e5b4bedb484b5c8fc1acaa905522d023ae5f6da1030e4e50b126

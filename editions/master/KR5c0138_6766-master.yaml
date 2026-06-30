@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6766
+seq: 6766
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 風鎮其動心也
+  hash: sha256:bdbaa5338718eaf2ef8b9907684d2ee73619e2411d226a04118312685d470817
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9ab8480fe6897e445d9c742d98a7bef8d5b6246ec476541800bc470c1bb84cac

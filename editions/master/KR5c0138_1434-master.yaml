@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1434
+seq: 1434
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所以為不祥也此乃神人之所以為大祥也
+  hash: sha256:1099ae71eac3a8b85864ba44099a49cbf8e1403b98f12698e03284054406f2aa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a2998c204452e732a5d2e3eed09186e884475ff9931b0212e27c15904843d65d

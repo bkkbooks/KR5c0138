@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2844
+seq: 2844
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人大喜邪毗於陽大怒邪毗於陰陰陽並毗四時不至寒暑之
+  hash: sha256:2ce5ad5b739338538d594f462244001ebda0ab0cd7c3cd95f6556ec54ed29c18
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:41ec6ea51e00607d96960f1cb77dd29817d50752b5db30584d934fafffd1339e

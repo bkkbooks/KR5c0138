@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5357
+seq: 5357
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自喪也無哀則已有哀則心死者乃哀之大也
+  hash: sha256:bae83a3c296a9a18f4508a07c71c24796b25a089205d0485ae9c071c7fa5efb7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7f7add550151920c03508e5df23442c6fc7825563289ec7267176a2543396f22

@@ -1,0 +1,28 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/markers/896
+seq: 896
+markers:
+  front: []
+  body:
+  - {type: xml-element, offset: 0, content: '', id: KR5c0138_master_002, name: p, role: open, attrs: {'xml:id': KR5c0138_master_002}}
+  - {type: 'tls:seg-start', offset: 0, content: '', id: KR5c0138_tls_002_s2, seg_type: root, member_ids: [KR5c0138_tls_002_s2]}
+  - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_002_s2}
+  - {type: page-break, offset: 0, content: '', id: KR5c0138_WYG_002-1a}
+  - {type: line-break, offset: 0, content: '', id: KR5c0138_master_896-bkklb1}
+  - {type: line-break, offset: 6, content: '', id: KR5c0138_master_896-bkklb2}
+  - {type: indent, offset: 6, content: 　, id: KR5c0138_master_896-bkkind1}
+  - {type: indent, offset: 11, content: 　, id: KR5c0138_master_896-bkkind2}
+  - {type: indent, offset: 11, content: 　, id: KR5c0138_master_896-bkkind3}
+  - {type: indent, offset: 11, content: 　, id: KR5c0138_master_896-bkkind4}
+  - {type: indent, offset: 11, content: 　, id: KR5c0138_master_896-bkkind5}
+  - {type: indent, offset: 11, content: 　, id: KR5c0138_master_896-bkkind6}
+  - {type: indent, offset: 11, content: 　, id: KR5c0138_master_896-bkkind7}
+  - {type: indent, offset: 11, content: 　, id: KR5c0138_master_896-bkkind8}
+  - {type: indent, offset: 12, content: 　, id: KR5c0138_master_896-bkkind9}
+  - {type: indent, offset: 14, content: 　, id: KR5c0138_master_896-bkkind10}
+  - {type: line-break, offset: 15, content: '', id: KR5c0138_master_896-bkklb3}
+  - {type: indent, offset: 15, content: 　, id: KR5c0138_master_896-bkkind11}
+  - {type: indent, offset: 15, content: 　, id: KR5c0138_master_896-bkkind12}
+  - {type: 'tls:seg-end', offset: 20, content: '', id: KR5c0138_tls_002_s2_end, seg_type: root}
+  - {type: 'tls:seg-start', offset: 20, content: '', id: KR5c0138_tls_002_n3, seg_type: comm, member_ids: [KR5c0138_tls_002_n3]}
+  back: []
+hash: sha256:6cab84d8ea991791299f7dca8e554ebfa16a9bdffdc1f39b2ce08afa55d18649

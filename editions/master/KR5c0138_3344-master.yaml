@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3344
+seq: 3344
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫聖人鶉居
+  hash: sha256:c9c46f99a02c9ff70ea339479131cbc84bb6d5ae6c035fd6b64c9f3395a976ab
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:39f5070523ff3a47147111d8b291740cedc61b04ea95bb864d5c56eca5e26686

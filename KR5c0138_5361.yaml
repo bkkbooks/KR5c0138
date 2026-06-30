@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5361
+seq: 5361
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 目成見功足成行功也
+  hash: sha256:6300c4254f079a959180fe1802c7ddc63d5940754ef831478d60b998b8cfc97d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:299224a5313f6e4cab4039d2b5132eb4f7354afbd463eb8a9b0b9c55003f423e

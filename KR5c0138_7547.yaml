@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7547
+seq: 7547
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 数疏各反椆水又作淍水又音封本作洞云洞水在潁陽一云在范陽郡界
+  hash: sha256:e8decc7cfaf2cb666b053e8dbdaf9af161887a38cdddec55b093cbe76cfa660e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8fb0f70ef39d10bc47047d916bba0c6ea31a639391b02f409652a15be19feb4b

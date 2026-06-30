@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5583
+seq: 5583
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 豈待為之而后存焉扁音偏又音幡
+  hash: sha256:48db0374388247c4114ea236a9be28d5cd33ed7779debcf6def4cb8d2e6dd4dc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0070c3a24affa49a3bdc87c0dc02ed62c4b936beebeab96e3b8591bdb70bc12d

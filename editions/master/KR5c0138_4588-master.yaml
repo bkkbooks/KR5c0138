@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4588
+seq: 4588
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故曰蓋師是而無非師治而無亂乎是未明天地之理萬物之情者也
+  hash: sha256:53e30bd7e5294404d0cdde5871008d5c0c1c621c8f949332751f815bf9f0c7ea
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5a657dc7c9d360ac42d5f910ea8a4bc2036db67736a6b74590db851343f608a8

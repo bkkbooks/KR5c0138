@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6655
+seq: 6655
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 旡意則止於分所以為審
+  hash: sha256:467d2ec0ebb2b530644443e78390c18ec4a933353e4208920c2e09994c8b38c3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bfb7e7f30f3605a07e0041c1dc7e42d026df6165ef1560c70a38a2bf65a1a40c

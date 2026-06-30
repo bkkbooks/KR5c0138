@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3601
+seq: 3601
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 水靜則明燭鬚眉平中准大匠取法焉水靜猶明而况精神聖人之心靜乎天地之鍳也萬物之鏡也
+  hash: sha256:77b01a10b5d1dae562a2bb49899b9d32ff79c4d762d28dcbded707ecc9a59e26
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:80fa6979d6c40b0089b6a1f98a0c569fb0ad13b38fe2d2fe56c9611e1fc039a9

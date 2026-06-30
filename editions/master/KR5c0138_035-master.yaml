@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/35
+seq: 35
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 野馬也塵埃也生物之以息相吹也
+  hash: sha256:43168a0fef1a39309f6ef85425de98c3a72576ea3875648ca28b00e5ed2e6620
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c50f28654da5f91314e61a5c5c58a6d46136d6fc1e3c6a50df0b8cb6fd791ce1

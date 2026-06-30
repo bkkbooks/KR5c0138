@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1961
+seq: 1961
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 任治之自殺故雖殺而寛
+  hash: sha256:6fc99bc222eb7a396454dd930fff489f896705397481400d836f42e91e9b4613
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7ea91bd4001b23409192e8e48822031713099e34554bc84cab5469959b4f1951

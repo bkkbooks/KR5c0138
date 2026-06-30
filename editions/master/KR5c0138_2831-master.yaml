@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2831
+seq: 2831
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 啍啍以已誨人也
+  hash: sha256:764ed46b7fabcdc9e8d22e9db7f0daf0d59158f504acc367076a6e3e182731dc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e1f42543c3bb3ed8670538270a46463c91b80daef67e9c92eaf61f1814f7e7b3

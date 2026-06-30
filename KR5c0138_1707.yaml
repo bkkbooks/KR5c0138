@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1707
+seq: 1707
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 翣屨者以足武為本
+  hash: sha256:3705cefa3d2421d6735c1074b512b331505a8b1d093c2dcf53483916fc0799f8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a29b0ae30d16b68a4f158546bd4ff283265232c6fefe3f8948e2c2e83b6b3d3a

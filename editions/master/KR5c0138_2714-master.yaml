@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2714
+seq: 2714
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 世有齊國自敬仲至莊子九世知齊政自太公和至威王三世為齊侯故云十二世也
+  hash: sha256:4958596d69751a9c6cecf212d0d959213680b2597ef822ed3085b960e2837354
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c6a2fe63d176705c652ee9f12a268a842fff8bf04179eff940c332212e94861b

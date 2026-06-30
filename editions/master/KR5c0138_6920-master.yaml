@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6920
+seq: 6920
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 馳乎夸之間非病如何
+  hash: sha256:211604caaaf5d87cac6c2ee9828f54b8f35d2affabc29c7e3c617e93f435e36e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8c86e26592ae1eb0db6c75aa43e7b0a0490c070759f75c1c7f39bc5b2d6f51b5

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3551
+seq: 3551
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 亦不問道理期於相善耳
+  hash: sha256:f9dce33d9af2ecfc65bea14169b80c8e81de3fcce15ec25c0686cd15dc639b27
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0e92d7320cdab1a9fc46114e46343305995ad4fb428aeec68798639fc93274d2

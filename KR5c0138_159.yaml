@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/159
+seq: 159
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 乘雲氣御飛龍而逰乎四海之外其神凝使物不疵癘而年穀熟吾以是狂而不信也
+  hash: sha256:c90daa8d7226ff00fc7374d370ed22a3cf0e793b518f03156717d87709394fbe
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:83a8bc32a4eaf3d653406ea920f4f838d1599cefbb3687aa55f0fcc8bd74136c

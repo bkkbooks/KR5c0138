@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6982
+seq: 6982
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 已不亦妄乎故墓一本作大墓沙丘地名其子靈公讀絶句一以其子字絶句云言子孫不足可憑故使公
+  hash: sha256:480aa5c6bccafe3d5eacf41e49aa06e51c2741aaad32264865e5fb1add5ca2fb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e8535b7dadf63b9d908152a9f46632849d90e1405e7956068be38bda9923d3b8

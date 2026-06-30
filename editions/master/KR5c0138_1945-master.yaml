@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1945
+seq: 1945
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 至人無厲與世同行故若厲也厲本作廣云苞羅者廣也
+  hash: sha256:9e08ef3d5243a586be55fa70f26e7d66791d78c2e438dc9ac7d9da0912bfe64e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e800ef8be9f6499dbbd5524ad21e7a98f8379625a64481f43e320edbdaf57a33

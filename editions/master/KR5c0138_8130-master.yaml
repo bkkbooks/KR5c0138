@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8130
+seq: 8130
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 魏然而已矣
+  hash: sha256:14dcb78944c5c419f720615de2e8547fcc8c9b9015b28e66eb14466b3da21cd8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e52158f744de3f86b9dfebfb72a7484b7eb03eb1f9c070e138a7a74840dee278

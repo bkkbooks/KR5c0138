@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4488
+seq: 4488
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 明乎坦途
+  hash: sha256:dc7153dd9aa6a31bdc519f0651b130db0f22aa8ba384edf036c88a12f70107bc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:68ebd7c1e4d4e483d2db56c8d88e741b04065dadd24168234be47ba497097bc3

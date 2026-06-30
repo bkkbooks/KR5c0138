@@ -1,0 +1,21 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/markers/7632
+seq: 7632
+markers:
+  front: []
+  body:
+  - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_009_s684}
+  - {type: page-break, offset: 0, content: '', id: KR5c0138_WYG_009-31b}
+  - {type: line-break, offset: 0, content: '', id: KR5c0138_master_7632-bkklb1}
+  - {type: line-break, offset: 21, content: '', id: KR5c0138_master_7632-bkklb2}
+  - {type: line-break, offset: 42, content: '', id: KR5c0138_master_7632-bkklb3}
+  - {type: line-break, offset: 63, content: '', id: KR5c0138_master_7632-bkklb4}
+  - {type: line-break, offset: 84, content: '', id: KR5c0138_master_7632-bkklb5}
+  - {type: punctuation, offset: 103, content: ⬤, id: KR5c0138_master_7632-bkkpn1}
+  - {type: line-break, offset: 104, content: '', id: KR5c0138_master_7632-bkklb6}
+  - {type: punctuation, offset: 107, content: ⬤, id: KR5c0138_master_7632-bkkpn2}
+  - {type: line-break, offset: 124, content: '', id: KR5c0138_master_7632-bkklb7}
+  - {type: line-break, offset: 145, content: '', id: KR5c0138_master_7632-bkklb8}
+  - {type: 'tls:seg-end', offset: 154, content: '', id: KR5c0138_tls_009_s684_end, seg_type: root}
+  - {type: 'tls:seg-start', offset: 154, content: '', id: KR5c0138_tls_009_n685, seg_type: comm, member_ids: [KR5c0138_tls_009_n685]}
+  back: []
+hash: sha256:4bb5631b56652fd991e8f7d3d5185162507fa2182678121240f86567956bba0b

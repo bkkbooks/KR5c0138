@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3580
+seq: 3580
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不推誰其比憂
+  hash: sha256:473f1dc81af3f062ed3b9f15fddafc0f8fcb4ffc13c5c37005e2a30deaca00fc
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ccc93c0428992b40316f92be4cecbc568e390b6ceae3dc3efaf718fa7f198395

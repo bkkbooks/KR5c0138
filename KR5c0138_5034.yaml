@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5034
+seq: 5034
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有偏能得而任之則天下無難矣用夫無難以涉乎生生之道何徃而不通也
+  hash: sha256:b50c332539fd57c0a7c021c16564f93facb323bca62035c9e90002137f42bb6d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a386232acf63b9b2f33ecf471d36cec3296c6803bd07b6dd5b5e0502c6441ebe

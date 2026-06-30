@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2494
+seq: 2494
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無為謀府
+  hash: sha256:36e280856b5f07c6a1062f2a470a3e6228e5c220c7e90fdd03c796d5fb3d4244
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:918ac3735eb62fe4e12fada833096be2e7f6b6101ce55a843ad7889b5023b1e0

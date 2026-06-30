@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3142
+seq: 3142
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 應禮非由忌諱
+  hash: sha256:e96a3aa1bb3ad6a646be97ebfdfaf417af522e8fc16dfe821bdd1de5c4baaa7e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9456646d5ea50b1a1df801818a088e0a76430d8fcc45b9bc357d57c8ccad857b

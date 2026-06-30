@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6092
+seq: 6092
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 所惡乎分者其分也以備
+  hash: sha256:e4943787b5cc94b85bbd5bd925dfd4b88fd3b5f34e7f21f253292c6b7d7d4afa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e9639095717e501614fd9e0a11c0092a9f6237e3fe93df4e92c84488c7531e69

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2922
+seq: 2922
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天下脊脊大亂罪在攖人心故賢者伏處大山嵁岩之下而萬乘之君憂慄乎廟堂之上
+  hash: sha256:24cd8017aa77500556c13ea4b5e042ade8edcafec0b0733f3608ce9b062eea75
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:528d93b711493ce037a69951e83dcddb6bd33487ddc8ff4fe092c57516e4e85b

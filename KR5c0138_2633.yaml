@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2633
+seq: 2633
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 馬蹄可以踐霜雪毛可以禦風寒齕草飲水翹足而陸此馬之真性也
+  hash: sha256:274cb39adfaafac01541c93a49ee85183b486b1615f4982df3cc69abce783412
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0b4e6d11a12b0267c0c63646ea88c67fa556ce345c56e428cdf503c99152886d

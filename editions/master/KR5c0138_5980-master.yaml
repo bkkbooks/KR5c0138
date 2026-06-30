@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5980
+seq: 5980
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 任目之自見非係於色也瞚字又作瞬動也
+  hash: sha256:dc283dbd1e9e1276294c5f6b93a3d4447e17905704b42f745ae5b7b8c73636b8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ae6da74678b56b52fed298398b2a8f35894af4515422bffa018f5114ae131831

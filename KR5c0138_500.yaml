@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/500
+seq: 500
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其次以為有物矣而未始有封也
+  hash: sha256:b30a6e47f584d14673bdbb330f4bb3875ec1c2f2032a2fb68548823aed652532
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b8855340490fa154cc0536c21c63b238e4401a5c342723bac0e5752ab1baf4e7

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7134
+seq: 7134
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 唯僓然無矜遺形自得道乃盡也僓音頺順也
+  hash: sha256:e0039f0134b8c7281d071c1dde767d13f73ce4baeef95678990e9b628fa2c9c3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1c364bccb8fbc5ba9d8b98172bf5117aca876c7006bd450fd4329095061dfd64

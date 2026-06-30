@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8386
+seq: 8386
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 惠施不能以此自寧散於萬物而不厭卒以善辯為名惜乎惠施之才駘蕩而不得逐萬物而不反是窮響以聲形與影兢走也悲夫
+  hash: sha256:c1f20da239b78da653b1c04dd0642f8e24ac70b32424210c58f3328a7434fd5f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0d4c310480b4d3d1ae57a286c0c80c0acfa07199ae4488fa129266b8887b048a

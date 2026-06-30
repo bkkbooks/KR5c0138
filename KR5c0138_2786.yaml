@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2786
+seq: 2786
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 匠之指可攦也倕音堯時巧者也
+  hash: sha256:1711904c48a79cc0d50acca8a57a461dcfda44b3c2feb5feee4eaedb373c07a6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7710a4dda4e92bc31531c168b51213f710b87fff906dc1bb9ed13a29f83f5d65

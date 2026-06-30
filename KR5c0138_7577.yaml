@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7577
+seq: 7577
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 餔字林云日中
+  hash: sha256:f983e8d70fbd109632b7a45b72e017e436e5e5a5bc8f73f11e8868b711d3fbff
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7ea09bc6f9000dcf42e30c209b2f2fd18fd174a933f41de9288590f0ee59b36e

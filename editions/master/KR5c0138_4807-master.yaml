@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4807
+seq: 4807
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 皆自清寧耳非為之所得
+  hash: sha256:ded7222207f9caf1eae3faf6a4c86a808e4d076bc958a62d0913069966520a8e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ccbde772db104a1c72093ef7958b469cecc41e8db5eb14ad485c04f1a9df2a75

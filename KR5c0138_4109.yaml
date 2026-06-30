@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4109
+seq: 4109
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又奚傑然若負建鼔而求亡子者邪
+  hash: sha256:564c00b3f279acc08c061f4d81de274d7447b5c55b5f1815d6a56cc82ed861b6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5ad1fdc5fa408be087a9068b001fdc05bf9cc1c1b72fb05b2e4ee6c2243682ce

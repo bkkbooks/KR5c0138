@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4650
+seq: 4650
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫心之所安則危不能危意無不適故苦不能苦也
+  hash: sha256:42f4cd8b6d688e8ed8456dc70417117385aad12a0c159d8ae30c270dda0e53ae
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:17b070c5f386a8e696b1677ca6b4fd1aadb58f998aadd185a4275f598d838797

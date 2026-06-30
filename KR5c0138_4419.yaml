@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4419
+seq: 4419
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不為窮約趨俗
+  hash: sha256:7264921cc498b4f43c8cdf411d095f0842ad7c7e0b33ba298c0498e035935af1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cb8756957788b541895e64a650b426c4dce59c697b768e0ac0ddee889293d7c3

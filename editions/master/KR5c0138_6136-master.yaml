@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6136
+seq: 6136
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此所以明有之不能為有
+  hash: sha256:7e0dff637adad26ede29102b6a2c58aeec1eb8b5611ae7f3d2bc1294a733d623
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7b1335a8a7b1423d305ed185df6c12206795628e80cbe5c3b95b8fde71c54cf1

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3328
+seq: 3328
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫何足以配天乎雖然有族有祖
+  hash: sha256:76decdec913c516138332ed251688391bdf3bae5f0135352c605915fc3552394
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d89a80da6aac3241896d8cedbd25372ac5cfc4a5bb4fc0eeaeb1b3ecc235906f

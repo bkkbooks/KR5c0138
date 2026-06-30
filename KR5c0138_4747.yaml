@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4747
+seq: 4747
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 性各有所安也呿起據反司
+  hash: sha256:a837dc94062fa82cf5a98e52d7b5c6b7a7b2e8c61529dc15357fac763549c4d5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4ba4187d188ce771f0a1b1720aab051483caa9a388f3213421b657c8c72dcb53

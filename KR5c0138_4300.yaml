@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4300
+seq: 4300
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 與神為一非守神也不逺其精非貴精也然其迹則貴守之
+  hash: sha256:4876f5866a5983fdf637a6854808dc92394b1ff1dfe02cbc576a7d0f434a43f9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:94a74785a5df346186d49d9efb76b0591a9e5d951a2904306fc485ebfa372527

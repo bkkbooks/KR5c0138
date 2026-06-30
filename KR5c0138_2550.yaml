@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2550
+seq: 2550
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以合正枝乃謂枝為其知反
+  hash: sha256:8f5cecfc6f6edff649fe6750fa59f954231db850f5b161ce2a9c38cce58a9ed8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3f2df1e24fbda39b7f53ddcb0165ea1a891a9c488ee8dfae9461f3c39ed6a3bf

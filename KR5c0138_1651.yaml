@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1651
+seq: 1651
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孔子曰弟子勉之夫無趾兀者也猶務學以復補前行之惡而
+  hash: sha256:ca405856b074fde67834cfaff0615130e85832cba8e89752683a5408712eaa85
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4f7b5474a116ab03c37ff24596b1562a56ee890cc62d3115390a41ae859920ea

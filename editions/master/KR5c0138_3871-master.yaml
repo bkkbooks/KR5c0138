@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3871
+seq: 3871
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 古在今哉古不在今今事已變故絶學任性與時變化而後至焉
+  hash: sha256:05a57e00bb1c94f1692307ae18f32289155dd3c9d82771afe09f682fc7c13fef
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:32aac2d9b929cc4819147b55f1f5d3cfee1c2e68a36c1a863a781ad1e58b7424

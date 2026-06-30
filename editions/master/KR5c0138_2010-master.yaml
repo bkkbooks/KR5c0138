@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2010
+seq: 2010
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 死與生皆命也
+  hash: sha256:022fab67898affdc0b86ef470ac910e4efd0c82902a9e3dc553a547f722c7d3d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:73e8ed336096ad6ee2755942187eba8ee76b0295dc8060c527fce1605e3970f9

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1500
+seq: 1500
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其用心也獨若之何仲尼曰死生亦大矣
+  hash: sha256:876dcd339170e1b4c63084569a657d1e6b3fe99bfe76fb24151b7e05611fe594
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:813a7233941e1f689acd4d236f298d3fc87e13a25fcf1cece10b85e8755cda4e

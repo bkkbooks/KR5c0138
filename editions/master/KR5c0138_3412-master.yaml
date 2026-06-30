@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3412
+seq: 3412
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 首趾
+  hash: sha256:31efbdf552db1e5b79e62beaff32cae905683e6eeea62ca3a27db49e7975d533
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f39165bba7edbb9f4be4e3cac8a3098dddfa89a8d6ed3ab3a8304b43e8863eb1

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/554
+seq: 554
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 齊斯又忘其一也
+  hash: sha256:a006cd88ef8f7e8d2a5a16842c2b548c777845472dfe59589bfe269adb111623
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e3d2188b5fa9930767c0d27bed3f5be88039b84e235f4aea029f9f62b4d3eadb

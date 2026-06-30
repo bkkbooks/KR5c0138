@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2558
+seq: 2558
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知其性分非所㫁續而任之則無所去憂而憂自去也
+  hash: sha256:4c1ae3d6b5bcb59cf758be5c0244ada17ac93786e79fab5b4db9b8359938d92d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:9e5f62fa2bdf561f87685a1ca39d5c4e599420305b626b141f73f6947dc77462

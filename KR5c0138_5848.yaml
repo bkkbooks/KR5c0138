@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5848
+seq: 5848
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 和也夫儒之師天下之難和者而
+  hash: sha256:2694fc89f69a0f0e689e52147440e74314efd20487902069f6abc697c807d86c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3d5052907eb01976814f4e1ab8bb4f769e2ddde69cfaa3b610b2ecc13c1dd59a

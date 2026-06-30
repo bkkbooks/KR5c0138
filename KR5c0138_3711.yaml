@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3711
+seq: 3711
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 是故古之明大道者先明天而道德次之
+  hash: sha256:d4f6f866138a41d7cb79f173c673c789f71b441ad44ab78bd58c62841cf25ca7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:042f5ab9ea173ab2475d32994e727e3fdea509426e1298b8a2bc3eaca2cdec0a

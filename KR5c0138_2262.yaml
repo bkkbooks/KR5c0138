@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2262
+seq: 2262
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 已化而生焉知未生之時哉未化而死焉知己死之後哉故無
+  hash: sha256:6662c48e1f3340f1629a13d08e7fefa367947588d433459cc82498398be53799
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:71d0ebd8b8ed0a801a18f422d6a0e06705f8f254c264121adc2756c656bfb898

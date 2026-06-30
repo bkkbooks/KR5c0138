@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/921
+seq: 921
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 直寄道理於技耳所好者非技也譆音熈歎聲也
+  hash: sha256:d5fc0f1078e8cb11d966b62846bf08e589f2a090388dccf44fa1b18f188756c0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d0d6a4a56100fe17186647f345799a2909d718674aa93105b7a27efefee37a33

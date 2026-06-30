@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8327
+seq: 8327
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 火不熱
+  hash: sha256:5455c4502892d9108f0743e8be42da392be3d053db2702c50df0ba7d5b97b56f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:04a1e5d3b30c1cd009f425716708a77eccca1ea6e41864ca942cb525612eb101

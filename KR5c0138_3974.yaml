@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3974
+seq: 3974
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 常在極上住也
+  hash: sha256:300aa823a0db25cf18b9921ca0ec7e6e5e144e4188219cc55f085dbb8a57aad4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1f905c5efae31cbcb4f4c5562357d37f84a9099e40d8a5524f8408a4d83a104e

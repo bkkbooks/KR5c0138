@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1663
+seq: 1663
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無趾曰天刑之安可解
+  hash: sha256:5052b0d4d6809b95c13dd15bff04f9b8ab8c6ffa3e00c2e0bf1c2fefbdec3e0c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f833d9e990a6e7e7ef4f5a91335c3e973b9387c3f5ba49e06ed4b79cfa71d8f5

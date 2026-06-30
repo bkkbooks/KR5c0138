@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4234
+seq: 4234
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 任理而起吾不得已也
+  hash: sha256:9ec36f9beb6d3a7bca0ae7f4855adf3ae7371ac0fa83f97215f0a0b2ca8a2bd4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:01fee590501296bfba54f84bb7bc4d1b534c3a971662c14d54ff7a42b7a70a6b

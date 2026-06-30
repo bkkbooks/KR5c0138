@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7822
+seq: 7822
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 令以上民則後世百姓非
+  hash: sha256:c0184f08b7cb02320ce54f47cbf5264879a21e2c8ce4224b4b72fc08062722f7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:19ba0932ffc6892e4d2990f1da3af3f43f9456bfb7310015c43b46f3a21ed248

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3346
+seq: 3346
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鶉居謂無常處也又云如鶉之居猶言野處
+  hash: sha256:0be47294caaeea73b263d96f8654a10e5d09e2129e806c3f27135f7c9a1c7a14
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b8d8d13030cd4388d4eae28f1cc9fae0d62b080e6aeb394c65dc0c9b1d5438fb

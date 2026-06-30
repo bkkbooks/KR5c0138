@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/525
+seq: 525
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼非所明而明之故以堅白之昧終
+  hash: sha256:bc59d7724d7f1859ecb76500f0ba0fabf9926953526ed3d33bfd5cb878e7eccb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:87b84638f8907fbca7fa08d7b6cee923d2667bc7d92e04d9393df9f15cf30faf

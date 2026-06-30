@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3885
+seq: 3885
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 二者俱不能相為各自爾也為于偽反
+  hash: sha256:1751167d0228b5e52a03f68073e2a553ffe2034f5664ef3d358be5d8601f316b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7e19a670d22e2e186b99702d1be73d48da44f6d8153edcac853a58ba7142566f

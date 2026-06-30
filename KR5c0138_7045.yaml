@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7045
+seq: 7045
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 隨序之相理橋運之相使窮則反終則始此物之所有
+  hash: sha256:7129f474d7a1423d51c5012e22b5388a493811f9845b6bbfa4752f06cc89348f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2dae167740c5227d047730a5d8dd28ec8ecbb5ad038cdd6901cf2df20c017056

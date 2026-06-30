@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7920
+seq: 7920
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以其所見應之則必有不合矣
+  hash: sha256:00e2f28a4dd34390976ab8a2cf38980cc8fee1e7be1f73631e5a59ac4ad464a1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:77f2e3af4fa838b3d62f601929a7a35593d438dda966c68d8ae44859f657675f

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2175
+seq: 2175
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 近情也
+  hash: sha256:6ecd0e3dffac2839905325e012b22b62a23b5cf2d3fc4e794283ed391c3567c4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7abbf1f10f2ead54593ad12a1004654970b509a179a60331281ae1b3eab74ac4

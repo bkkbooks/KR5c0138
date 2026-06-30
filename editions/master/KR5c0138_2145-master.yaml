@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2145
+seq: 2145
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫死生猶寤寐耳於理當寐耳於理當寐
+  hash: sha256:05569a1296efc3fae77f3700c8031c18e7170b2679b15c970ffbb6bf3cf0f39d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fbc32d729a7be134aac845eec891d2071594ae1e2a08e29362e4c10ae2c8d6ba

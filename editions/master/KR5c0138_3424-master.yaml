@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3424
+seq: 3424
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 㤀已之人是之謂入於天
+  hash: sha256:2b1ed8ad2d32190c56c5e12118c96298bb6ae071f72742d254ee314c5704f6a4
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f2ddb344ab2017b594c6919158dfcaa40b7d3f3744bf401822de82e279cf94c7

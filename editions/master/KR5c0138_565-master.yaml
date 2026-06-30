@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/565
+seq: 565
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 謂無是非即復有謂
+  hash: sha256:79d74a50aba8f924886922be79db211a44fec8edd684cfb1a825a9ea7600f36f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:71db41f30ac7e8eff1ecf37c07a238e992787a0e19b91858ae63d9c61c069b06

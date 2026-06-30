@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3912
+seq: 3912
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 海山名
+  hash: sha256:2ecf5e7deb178092f3fdabc403b694f9bf9465013d34692f8ecf10c34aa1b0ae
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5ce96dae817362732a58197a545c696b3b4b544da00699aca13a335d0d393f54

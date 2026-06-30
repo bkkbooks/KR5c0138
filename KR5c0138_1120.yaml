@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1120
+seq: 1120
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 然則我内直而外曲成而上比
+  hash: sha256:cf57a27950641dc619487e5bc4b6df86a2f9cd05eafbc4fd7490a25eece10e3b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fcf817ac814eb787df841cf87208a0f9bb478b57c89db8b878839dfa5d4f0817

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7732
+seq: 7732
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而焉用之感豫出異也
+  hash: sha256:01d759dd9a21778a64d0ef59b566b085d7e31212abd2a88779f5a1e5f748cfee
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:931b0ea72f1659d6218ed55427dad6f6b5e5bff98b512b82bf18d409d0e9f744

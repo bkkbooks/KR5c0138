@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/897
+seq: 897
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫生以養存則養生者理之極也若乃養過其極以養傷生非養生之主
+  hash: sha256:3a85bfc278a17a7b79927a324b25cb3b4acd165ef07893e4ca4e8bf13905200a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fb6c1e150c2fd608f0177ff0c3ee8fc60472730650aaa47d0e7dd4ed688599df

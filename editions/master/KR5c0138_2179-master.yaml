@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2179
+seq: 2179
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 子貢趨而進曰敢問臨尸而歌禮乎二人相視而笑曰是惡知禮意
+  hash: sha256:56e5bcd3ac628ae968077c2ce6a210505d25f246feaf27b0876ca1d607e69367
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:57ea8f36b5f59dee68bcf82c22beccb8aabba327768c25a6d07cc0bd79f2551d

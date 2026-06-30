@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4266
+seq: 4266
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 無所於忤虛之至也
+  hash: sha256:66f9ef2705e2045020bce4dc71d31e095665b518f7c9d55840ebb960e1d3d237
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:85cf223191290a38eebf9c49f0e35fd0e4a3264198ae9b500baae76bad7c193a

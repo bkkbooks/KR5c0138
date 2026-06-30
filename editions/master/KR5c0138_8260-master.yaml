@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8260
+seq: 8260
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 麻古歴字歴
+  hash: sha256:a5c4ecbc09e83997dbbb316cb9831c454d1cda978680457eb8f6676b36c09fd5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7da559ce76672e3413c8eb266e7bfb6b2859057cb935f1be64e83129b5871427

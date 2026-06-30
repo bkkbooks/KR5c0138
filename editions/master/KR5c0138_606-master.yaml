@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/606
+seq: 606
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 有分有辯
+  hash: sha256:08cac96a5cc244c62f44649341fa194465ef080f858afd61dd80d1216afda3a5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ee8fa3133b07dc43f1325403dca31fba9913f2a45d06a55ae0d059042f69c1d1

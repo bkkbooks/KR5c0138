@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2634
+seq: 2634
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 駑各適於身而足
+  hash: sha256:448ef8f99d290c61783d4eaadc6148f05a4dd964c0ad620e90689a7a38758745
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6c8c3afbf0beb31182974f9d6b7d3a1ff77153898ad3d226a870a0cf1140e72d

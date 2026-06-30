@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6508
+seq: 6508
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此之謂不言之辯
+  hash: sha256:f1ff097b8e5aa2f4950d450cc44b8fff1f8242f02832a7114e8caa899b2d4501
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:271b0fc5d4154ad93764e087d952a644f4597c51c6efbd447b707914bf5cb33e

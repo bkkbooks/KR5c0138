@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5476
+seq: 5476
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 天下相信
+  hash: sha256:db2fbba1be1c2f3f6738ca16481bd6520d06713cd04af29e5c9e56a312fa9417
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ba1b3caa5cbdbe7ba3128fcdd494f96aba0712150337aea9936d002d34ca9666

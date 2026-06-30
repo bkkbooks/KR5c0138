@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4417
+seq: 4417
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故不為軒冕肆志
+  hash: sha256:e305fd564bfbc0da5cc449dd6ba38cd324956e00d19c035ce92095c0a9b85c4e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:de52bc1f27cd23b2576d53ae1b671d7e3be3f9e4a64178a1f1b318484b2e0d25

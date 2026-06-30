@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4371
+seq: 4371
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫道以不貴故能存世然世存則貴之貴之道
+  hash: sha256:c6d37097b149d8542d10784572846cbc5b58cd3116cb347d85266453c506771a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:343ae8b46b644c081c19beb0f68a966ef556956f2bd71dbb0ed5cf03c55320b3

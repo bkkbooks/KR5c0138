@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2886
+seq: 2886
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 崔瞿問於老曰不治天下安臧人心老曰汝慎無攖人心
+  hash: sha256:914e37e9ea481cc1ce5b5c8ca3dc1c9e858a3d9851a1a275336f2cfe63feb9bf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:73238e409d293468f9e91d5278628017d1f502a1d5f1596e281549dbe14300f1

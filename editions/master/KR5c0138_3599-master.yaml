@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3599
+seq: 3599
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 萬物無足以鐃心者故靜也
+  hash: sha256:9f363cb270ebc7e6b4f80b60de4667f7c678113c78d0321d105b900b0eaad37d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6b04bce8f1ae22ecb123226d5d8a5e753ea6e502f9fa1af58ae769760726b69d

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/224
+seq: 224
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 律故音短長髙下萬殊之聲聲雖萬殊而所稟之度一也然則優劣無所錯其間矣況之風物異音同是而咸
+  hash: sha256:a2897fae8fe513b997bdb48496450e9bb9f92ddf81dddd85623c94daf739764a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3cfdde493ed162ae4091d364f30b600b640ad0ff6e06f7afc5496c33b32dc1c5

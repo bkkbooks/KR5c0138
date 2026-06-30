@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3300
+seq: 3300
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 聦敏過人則使人跂之屢傷於人也
+  hash: sha256:73d56f19845cf30e64a57319daf370a6020e86253112179d1d7d70d364f55155
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c6181e10fa190f5d4e55231687873c0c812a1284ecbc685f41b0c708f5c984fd

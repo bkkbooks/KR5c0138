@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7834
+seq: 7834
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 治之則偽故聖人不治也
+  hash: sha256:67aef92688a2ceb4b541ee918c4a6ec4a42eaca4b51f3f05930ed140296725f9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:c69c48861a25dfc64295f6b82271aaea3b5694ee02674d6b3333ecddc1816511

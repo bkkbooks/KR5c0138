@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2120
+seq: 2120
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 積習而成者盖増近以至逺硏粗以至精故乃七重而後無之名九重而後疑無是始也疑始又疑無是始
+  hash: sha256:17c7e0dde6f3d02e6f1001b0b17d574df8ede4ba9cba35b7ea2fec10a3ce9268
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bd1df545acd1341140538be36d1d72e4fe1ba0bfcd88eb2f472bd18c87082f78

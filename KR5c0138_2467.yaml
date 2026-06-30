@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2467
+seq: 2467
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 列子九淵作鯢旋則桓當為盤桓審作畨一作潘水之盤回也
+  hash: sha256:cb3688da54047b6a9c0870e4956e3107d0045e14527a41f1c53dce5e83af0765
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:af935790ff1c9c4cce8f4f5593ccaf6bf8bc28044db59cb03bc24e4fe266566d

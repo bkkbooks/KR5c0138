@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5194
+seq: 5194
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 彼皆居然自得此行耳非由名而後處之
+  hash: sha256:0c0c8b8366db5dff65a83e0e8e7df8f4e486d29e000d4b4ac22950dca04da866
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5b60e5ab7bfef194a5c67f148f8b79b32d20107fd4ac7d68e92a9c15cd6ba43d

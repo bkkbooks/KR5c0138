@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2426
+seq: 2426
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 列子見之而心醉歸以吿壺子曰始吾以夫子之道為至矣則又有至焉者矣
+  hash: sha256:3839946dda606e0db59a432343b091b15e45625f15c1d8945d7429b6e43d5318
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:162cf5bb63b9766bc7d2f25a674676645f6f9827fed047bbfad45881d1b81d53

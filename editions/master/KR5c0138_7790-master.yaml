@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7790
+seq: 7790
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 小夫之知不離苞苴竿牘
+  hash: sha256:ca3fa9f97f4dfbc77c1290a865e31c19cf159529b2125d0fb8a72cbaf3aec7df
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:486d89def2458ad80b8688d37756819c262e420e6567fcae5c85248e6f2b8fb5

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7813
+seq: 7813
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡言方且皆謂後世從事
+  hash: sha256:f41f2b10d11c3b7cbf0297422fdfb70f60dcdd5efb6df5ce9b84e1d2fcd45568
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cfe3e8a36cff257b11c1e9d6f3cd5947fd7a1e83366fe84beaf9b47b33f20702

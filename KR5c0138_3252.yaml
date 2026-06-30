@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3252
+seq: 3252
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 萬物一府死生同状
+  hash: sha256:dfeac46ecf777fbf4248db92dd9fb5765fecadf45f79d8d82e502c73d68dd6a5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6dd2c43a37456dccc18658f66bd541a26b8bf78cc8382487711c18765781e182

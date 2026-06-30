@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3112
+seq: 3112
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凌之則亂夫民物之所以卑而賤者不能因任故也是以任賤者貴因卑者尊此必然之符也
+  hash: sha256:f1181d23d6face56d3fb9a554755989b5239a44c88c19b39f495f4b18fea7305
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7101e1866856a13a182f6cb75ce581fd5edcc0426e1881d0b3eb15fdda17d545

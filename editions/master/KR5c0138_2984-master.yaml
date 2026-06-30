@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2984
+seq: 2984
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故俯仰異心
+  hash: sha256:735e7095e5fe78b620c0526b8f794d7989241d25abd704ecf0183dd65bdef321
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:70c98edf17d633e4cfd771ba20d3d262d433350462de4a603fe968265d3a76a3

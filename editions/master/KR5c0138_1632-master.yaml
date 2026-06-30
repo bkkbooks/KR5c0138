@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1632
+seq: 1632
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 踵頻也叔山字無足趾踵頻
+  hash: sha256:8da5418890338efc74924bab0b7c2e0fce378b247b03a9d53cf4041124027c92
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:ceb5224155a27fcd4508b9ff6148d678d10deb13579234b3de1974d3691c9f58

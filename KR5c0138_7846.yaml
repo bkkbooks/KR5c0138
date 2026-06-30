@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7846
+seq: 7846
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 内外無刑
+  hash: sha256:a77ab75e9e17651738899e2b38ff404504da8f8c997302d5f0b0e12f8c9ade81
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:41a2275948d9742d1a160dd85320a767adc67268a2caeda1719f8cb8782e8d05

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3933
+seq: 3933
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 去華取實故也
+  hash: sha256:5f43ca7ec89c67fef0077fd8ae11f4dc3e17e316003063d91f52c700e00fb942
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:50366bc044a4bbc73ef3f8d7c48401d3cf4745ec8ae9aa1f5f3023cbd1219d79

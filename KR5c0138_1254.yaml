@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1254
+seq: 1254
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 近者得接故以其信驗親相靡服也
+  hash: sha256:a562eba8387f26d0be22a6fd1b3eb6ea1ab8fa46a4f0453c3a6bf86e335971d5
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b714ac48ff9a2be2ac7dae280cc3aec1d739eb4ff41fe9e8de50781677677e37

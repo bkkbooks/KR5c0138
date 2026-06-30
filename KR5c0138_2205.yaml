@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2205
+seq: 2205
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 忘其肝膽遺其耳目
+  hash: sha256:da855640c122644c71962bae93a4366c412a3876c6fa5604062c1b100cd0d887
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:328b7dd3f594edfd7e9f6118326861b060d9655cd444453e155e644915a2b9d0

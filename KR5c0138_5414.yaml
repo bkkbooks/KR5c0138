@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5414
+seq: 5414
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莫見為紀之形明其自爾
+  hash: sha256:48cd2aeb7cc36a7b48f82d04ea3d160361a0f3f50b567e4b460cb22194732ad3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:98b40d579f9f16f66293df32def27baec1260a24208428e1862cc2e461e76943

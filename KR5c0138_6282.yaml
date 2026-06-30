@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6282
+seq: 6282
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫真人之言何遜哉
+  hash: sha256:02654691650ce2ffaed1cbb33c602ffa2c5d56a05b1c941a3938310f6e824828
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8e53c48e300a43b232ac654a07332621b5bb96e5b76680ad2a26e0ba89b89337

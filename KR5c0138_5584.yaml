@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5584
+seq: 5584
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 六合為巨未離其内
+  hash: sha256:c80e5c4c7560eb33171d21acdded4c9357ccdab3942e09d09cdfda06b9ef6749
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8e9e30814ad5825beaaa0aca07006c45dd1de1278332edab8d001376e1af597d

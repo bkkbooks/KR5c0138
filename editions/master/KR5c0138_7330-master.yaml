@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7330
+seq: 7330
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 巵言日出和以天倪因以曼衍所以窮年
+  hash: sha256:2b74abdac707e8dd531269af7d28c332bbd578881d6a154a60ce1a252a57312c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6c0d7f4534a5d22186b978f3b605fc42fb56fede9d77ab8497ce2ffec144d9b4

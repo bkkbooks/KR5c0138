@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4560
+seq: 4560
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 河伯曰若物之外若物之内惡至而倪貴賤惡至而倪小大北海若曰以道觀之物無貴賤
+  hash: sha256:0df139db1330c81658e8a5fae79925033c162059cdc1efa0af316cc33129f065
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a621e01087b4b44bc98f57b9f0fbe533792211e244bd9cffe8f1a00c114b136a

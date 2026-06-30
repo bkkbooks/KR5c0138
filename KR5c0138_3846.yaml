@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3846
+seq: 3846
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故不患其大也
+  hash: sha256:bd6fe4ab5e21ab1d00d10ef5bc183a7013360bcf02ea862d0cfd6d38f56e4775
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fbe93479f78a6556c3245296d11ad60c1f63678b77f63f829f19fc8c9fbe68d7

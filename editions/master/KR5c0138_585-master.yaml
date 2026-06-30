@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/585
+seq: 585
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 言言一而一非言也則一與言為二矣一既一矣言又二之有一有二得不謂之三乎夫以一言言一猶乃成
+  hash: sha256:0aa85e64b4e2688d146acf318f3f31bc3ad320424159a8fa457e27ec8bba2d2f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:935b43885867fe8ff8cb7e2bfb40fceaecf27f7e9d254566f90e36120f81c3ac

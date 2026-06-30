@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2008
+seq: 2008
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 又苦對反徐胡罪反佚音逸
+  hash: sha256:2d431285f1cf528060c7ed4449314ce6e01c3485f3a1a3c090a7e43f3475c965
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:84df8e3c81ea589752c03487d8ec304ac37663d60c4d5f5a5afd25da39d09a7f

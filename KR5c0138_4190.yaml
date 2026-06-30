@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4190
+seq: 4190
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 案即詩所謂螟蛉有子蜾嬴負之
+  hash: sha256:1262ed98cc65f9a232f96c4a4d85bf373d7c6bc132fc16c844f32a406b5f71a7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8e7a48a8d6526cf49c7159f9d944fa3480db4573a471a7a5f1c2e2e8ff4241a1

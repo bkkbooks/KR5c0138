@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5514
+seq: 5514
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 伏戲黄帝者功號耳
+  hash: sha256:9b2706ac870f5fea9febcac1bed8e869a6ab5114e0825efa07d2d00e98b40de3
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f4d268c65593fb00766419c02d6b1dc3f11d936663ec4af1b71c5756d5cba184

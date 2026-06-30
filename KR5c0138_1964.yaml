@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1964
+seq: 1964
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以知為時者不得已於事也
+  hash: sha256:031be70d9a547ee9a2c7b8b156c5e358cc065ef7d6424f21cbdc33ad0a5916c8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2a2ff2fedb538457409c1c3fb1fcac7d8fb6fcb082d53a3d6f85d7887b935b27

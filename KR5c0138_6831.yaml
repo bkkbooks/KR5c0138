@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6831
+seq: 6831
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 任其自聚非囿之也從其自散非解之也
+  hash: sha256:00a3e4b5a91b5dcd7af21f2b3357419b1c1a9713e831e03e3d17869393b6ce20
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a17b0db67cd1c4660a4aa350de7cdb6972eeb34b5e3f433e6caded1f64094f39

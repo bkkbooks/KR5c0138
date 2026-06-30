@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/911
+seq: 911
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 順中以為常也縁順也督中也經常也
+  hash: sha256:badcd70a52c7582723f59cc1c02d078e83ad2e1d1058ee503e5a827b48b41f2e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d6cb1fd282d43f8e8a2a51427ee5c6b37040397319fc5a59d6f29e764231a85c

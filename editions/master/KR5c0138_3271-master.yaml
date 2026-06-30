@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3271
+seq: 3271
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 視乎㝠㝠聽乎無聲㝠㝠之中獨見曉焉無聲之中獨聞和焉
+  hash: sha256:a8c6ed99b703e5d95c20273f33fe31b385e8a77540a1e4fc35c268e82bb8717d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:58ae81eec54540ab7e3e9fe42ed03c9a8baefcecb6579d3fc9e456948a13fc20

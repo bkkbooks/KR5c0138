@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2282
+seq: 2282
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 靡所不吾也故𤣥同外内彌貫古今與化日新豈知吾之所在也
+  hash: sha256:0d98f92e3e4ec28fdf4c054260be26ccbdce8a1a186ebfda06e1ba429fb050ea
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b3daadf6afa7348f7b77dbee7919cc1cdaf27c27e0f3799eb17d70e73be5ef16

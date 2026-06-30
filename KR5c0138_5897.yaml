@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5897
+seq: 5897
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不欲為物標杓杓音的
+  hash: sha256:986da067e7a969301884381b025721e593f4bea32a28ffb8474b8a5c9891b17d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:58f4d50fed06f53cf250e7e322e83f51ad0569fcee5af996c1992aee95ccf5a5

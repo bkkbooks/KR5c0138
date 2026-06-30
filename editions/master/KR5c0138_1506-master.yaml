@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1506
+seq: 1506
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖天地覆墜亦將不與之遺
+  hash: sha256:d509ccf9dfde7fb68ff3b3dff9093d7cad28e2ba61f929c26735b84c8d377219
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:bae942ae2620189d60a643f3e7f33e92c06a3a92de0ce686794f369e4ff1e0be

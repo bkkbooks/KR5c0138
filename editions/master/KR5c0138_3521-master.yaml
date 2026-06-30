@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3521
+seq: 3521
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 賢當其位非尚之也
+  hash: sha256:fe9dc6ba0285208364701aa4ec3a5b45ae7fc76a66e30b139d21da7e29764faf
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:5e8ec06cb4448df2ac19d8ea7316c369d0a80d51b62d62eb09fbe111d199d577

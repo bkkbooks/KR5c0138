@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3884
+seq: 3884
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雲者為雨乎雨者為雲乎
+  hash: sha256:b8e1eac9e716a773fea0bad12b46f262a549fa31b9804bf842f7f64353f8b85c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a76b48a118c1a7433865e7a3182d621b004e62c8f727e9c22fca701abca225e6

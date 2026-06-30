@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3157
+seq: 3157
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 不通於道者無自而可
+  hash: sha256:86904ffb42dbd6064d9681afd63aad9016ba173804cb0db14cef6f2f676dc2fa
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:97b5e56fc75baf30f2d343e38406bc396c981d48a731d442758b586602290eb7

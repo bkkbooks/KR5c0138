@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2692
+seq: 2692
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫馬陸居則食草飲水喜則交頸相靡怒則分背相踶馬知已此矣
+  hash: sha256:111ef23f06cdc7d7c5e7c541490c722f928890900479d835fc9e6e65ef23fa9b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fb612658a41403d7d0db5cf930c1ca39d2b18ff0a668e5aad538a02015916496

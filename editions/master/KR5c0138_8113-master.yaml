@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8113
+seq: 8113
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 慎到棄知去已而縁不得已泠汰於物以為道理
+  hash: sha256:06b6a59b84a72dfadae0c876477877584c137fd612e67b7e1ad889e1d683f39f
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fadca44d6708e9d295e1ae1d6a7f85aff186d4488a8a5cd82d6bea2c9d0b61ce

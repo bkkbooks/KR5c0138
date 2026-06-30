@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5442
+seq: 5442
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 且萬化而未始有極也夫孰足以患心已為道者解乎此
+  hash: sha256:cd18036db59a637833d5f85ebec86802e8ed1a840c5471adf10b31672b5a7b29
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e2b2d595241507c28dd27f0c796f77dd2e40dbdd71bc2cda4de338164b92506a

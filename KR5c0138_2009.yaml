@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2009
+seq: 2009
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故善吾生者乃所以善吾死也
+  hash: sha256:e621609e6ff8f34ff01a4ea392d23ee57c227f05a6e6c94589d8b59c4c2122b7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3e205e78ba41119f7063033b4e29ee96f9b4a4cca8e87de485051e19bc462104

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1210
+seq: 1210
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 重其使欲有所求也
+  hash: sha256:b92966a7064bdf7a764b17b538151db15f1524da29f2b733bb32b13489ef842d
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:2df5d2782b47ece7497a403f9d8588f696a69516b08774665f6aee2a5ff12dc0

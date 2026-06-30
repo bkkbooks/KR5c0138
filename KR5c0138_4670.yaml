@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4670
+seq: 4670
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此天然之知自行而不出乎分
+  hash: sha256:1e14466eb19646747ed4e92733c39ae7527cb0bc630f62160983d8c0707a6519
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:7e23d57b42a63d52ba907d9bd0c81739d1fc481d1141e73fad80253bbc79b3cd

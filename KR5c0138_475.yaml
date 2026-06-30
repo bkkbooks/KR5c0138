@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/475
+seq: 475
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 凡物無成與毁復通為一
+  hash: sha256:1212df2dad2b979ff07693fa26bfb239e48895158a85fb89c7409d206c46ebc1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e18d5b2913b804b542ff1b7b7d6f2658d1f0563e628ad227970409c9a8b081ca

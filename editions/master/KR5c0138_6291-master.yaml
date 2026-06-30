@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6291
+seq: 6291
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 今先生何以説吾君使吾君説若此乎徐無鬼
+  hash: sha256:877767d0b2b03b1310c980d60cb190dcc0b420e84695528cbc49a009196c7174
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:547558ff4b9384a26a633e20d618eae7ebf5105a1823c4d6768bf10c983b1d1a

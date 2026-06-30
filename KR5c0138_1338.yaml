@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1338
+seq: 1338
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖然之二者有患就不欲入
+  hash: sha256:6afb9e6984a6070cb409fde74185be78c5f0c91c0d392ebea990cf05ff5d99f8
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:81810a38a0a3d1573a757bf2c958405c5e8470c2ae662c7128c3a1e372ce3c6c

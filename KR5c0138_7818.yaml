@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7818
+seq: 7818
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 以視民而不知不信
+  hash: sha256:f7663714d4f8eb07c769a8638fd38c1274f7a2371de7e360dd89d6a24c2976ff
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a5a2e4f3526673473ba784e3eb1a9d0ea578a75e8a1805649197d2cd93f86143

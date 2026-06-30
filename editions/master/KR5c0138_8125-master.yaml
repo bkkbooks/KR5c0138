@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/8125
+seq: 8125
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 椎拍輐㫁與物宛轉
+  hash: sha256:7c7db66a494b7655fba279845bfc05410b1eaa94724df9ade212127fbcd3cb43
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:12181b715d2fdcd8972ec8e2882d9f7dca6c7357cb92400508e4fa9b45cc03f4

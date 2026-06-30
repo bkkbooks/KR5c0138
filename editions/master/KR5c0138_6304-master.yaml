@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6304
+seq: 6304
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 久矣夫莫以真人之言謦欬吾君之側乎
+  hash: sha256:f67a589f1a46a721128e488a1c361a4997508b94b77c0a22c3c73ad6becc748a
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:42b6bb5f18dd5b85ccdece239edf2c66655141c292ced1e17a2c1ef1ffcc51fc

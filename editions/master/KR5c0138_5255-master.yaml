@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5255
+seq: 5255
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 囘曰敢問無受天損易仲尼曰飢渇寒暑窮桎不行天地之行也運物之泄也
+  hash: sha256:0eb9afd49490e6fda1dfe1ab55d1d60080231146fcd0a6958197d2550e2facb1
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:46547dee2f29ea15bd73d3f35e97c3b56b6c199447a8bb5764ab5b3f11f8ea97

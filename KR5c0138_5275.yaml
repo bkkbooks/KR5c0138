@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/5275
+seq: 5275
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故曰鳥莫知於鷾鴯目之所不宜處不給視雖落其實棄之而走
+  hash: sha256:e87358effd643aeae5fcda282176f7652e57be23b2e847a3e56e9b53981430d6
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:e1f4ee6f4c766a79158fb25e8217419c6f24b594bef2e7add06c2de8c89710f6

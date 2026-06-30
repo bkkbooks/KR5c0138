@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3283
+seq: 3283
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 此寄明得真之所由赤水在
+  hash: sha256:087f2aa253552dd7fa2f7ac0af0fee2d6eff784c3cafc4145bc50bf00f2e95f2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6308b730d4edfe1c2c3d11ac73e4e4ba32715929b10d9fe4512483fc418e77e2

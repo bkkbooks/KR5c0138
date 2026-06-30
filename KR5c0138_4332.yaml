@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4332
+seq: 4332
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 禮樂徧行則天下亂矣
+  hash: sha256:5487c9a25e9dfba2713ac480d62e8994499faf05b3816332087bbd46c3a81425
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:6f693c6992edcb3104aead27874e5846c1f5ae716e0b4d110823a5819e220dc7

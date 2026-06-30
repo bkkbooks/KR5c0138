@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2393
+seq: 2393
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莽眇羣碎之謂耳乘羣碎馳萬
+  hash: sha256:dcdb8e4cb21e31fa1dc3fdd2e73e1e203ec04de85d6c5d8589a530eebdfcf4f7
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:24588826a673c38a0011ab1ed16663d7878b0562f8f0cc19ef5fb850ad88a370

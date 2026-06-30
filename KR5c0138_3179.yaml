@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3179
+seq: 3179
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人卒雖衆其主君也
+  hash: sha256:e2f31a133998596bb34fcad666504737471a2ca34cf47d315b2dbdb22e50e991
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:a53086bcb7defcbf507878124a5be2ec94b13bea8fd014cedd033e8fa709c862

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7210
+seq: 7210
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 人之所好不避是非死生以之
+  hash: sha256:52ed1bbc913506f1d92df800be7795214d09502683dc7d01563641139928d752
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:17c9f66059cc51c31b76db88f7cd617a4265603546e6d3e329a0098600fa8386

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1838
+seq: 1838
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 知天之所為者天而生也
+  hash: sha256:e0b7c1f87d36cc2375be51d835c2f815d78641fbd78fa0abb4c76314d1998656
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:41600f634af117cddc28102171cdb127871f584e3b16154a12bf284476e47b50

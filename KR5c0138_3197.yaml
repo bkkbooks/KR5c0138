@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3197
+seq: 3197
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 行於萬物者道也
+  hash: sha256:5fd29d82fa5326b8700d025ddb4dec7e6274d2e3a0b352b442c9255e9abf21c0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:1574adffa8138cbd898eabcc9f5445629ea50419e5d7331d83395b088855ce43

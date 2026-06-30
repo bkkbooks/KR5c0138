@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7193
+seq: 7193
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 情故得魚鵜徒兮反鵜鶘水鳥也一名淘河
+  hash: sha256:0becf54d9f8d38fe8ae55f16621b1927373c010676ecba123fa2ea3b9a4a56c9
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:8e37a61203ac35fb0d4236314591febaeb2706b037abd7060dd886d965143b3c

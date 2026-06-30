@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3273
+seq: 3273
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 故深之又深而能物焉
+  hash: sha256:a7615d4e27154bea57af2eb8c780f62fccbcf4f1b5643f7ebf248b7637252ce2
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:4d7be1aa3a1ea41cf4ce1d9211bcc98ece13b4e0b57adba60cc71261ef372cef

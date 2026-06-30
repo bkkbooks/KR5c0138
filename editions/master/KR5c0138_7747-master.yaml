@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/7747
+seq: 7747
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 河潤九里澤及三族使其弟墨儒墨相與辯其父助翟
+  hash: sha256:12ace943d91388d9b51d1f2300771294673b610ff2c016659cdc334b078c6c2e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:cd91037ebdeb71c0b3d19709b845682913b5a4c92831485402e6de6c5178377c

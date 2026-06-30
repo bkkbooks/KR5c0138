@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6992
+seq: 6992
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 自外入者大人之化也由中出者民物之性也
+  hash: sha256:24be875dfff85ac5f23812c9192e918b3a3d1d38955040ab4f4d4353a39e12c0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:99b07c254ac58ba95cba64f61f196cad6d9b440e63699b311f9cec026a0dcf09

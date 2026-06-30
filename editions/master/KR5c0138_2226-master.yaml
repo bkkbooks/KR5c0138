@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/2226
+seq: 2226
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 孔子曰魚
+  hash: sha256:04f5873b0a7f6ebfa6d1e2d3f5afde20c089f0da3165d4c8bf15b9df04f20ad0
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f38483dd66649a3a02703467a208e16fc3357c4a75bcba8422555a9118f0718c

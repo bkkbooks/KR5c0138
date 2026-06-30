@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1032
+seq: 1032
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 其道不足以救彼患
+  hash: sha256:4526b19eec2e4c7fc06e3b5982be676e3520a0e7ecd3c39bb610dea0c87a6496
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:b72d14f647b612e8653cf14916001cb5bb7fe84237e05bdf2142ab4edcd534a4

@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1496
+seq: 1496
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 夫神全心
+  hash: sha256:a7dc682a9e1542568f1a613c15dd642a32f9331bcde74278df3fe7b0ad340781
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:fe521a238773416c9a1edbbac42c1f05871cba38ebe6d9af9edcb268c7bda53b

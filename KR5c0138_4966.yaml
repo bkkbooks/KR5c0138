@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/4966
+seq: 4966
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖天地之大萬物之多而唯蜩翼之知吾不反不側不以萬物易蜩之翼何
+  hash: sha256:70474613525aa53fbdc304e044a88800d9810535a302338903859c3010adc732
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0ae3e1dc7719bff734818b1fbf37c4754d8d49ff41cb4689a3fb7213da4f1daa

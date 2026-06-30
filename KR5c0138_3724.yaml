@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3724
+seq: 3724
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 原省已明而是非次之
+  hash: sha256:27e3f827143c83e2e20d32f7bef6841cb9741e61fa664169a447c7a276b4c720
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:f79d0e6ac17db7ee0087669274fafd96b9a55967844ded0c3b5df796da5e3ec5

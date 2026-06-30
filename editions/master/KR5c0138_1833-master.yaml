@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1833
+seq: 1833
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 莊子注巻二
+  hash: sha256:833eb41d599d32a363f98bcefe7e0b9aaea66cd6530e62f6096294e6cca0f17c
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:abe77842e8360dc12657292b063c01c262a2356c0a5fd0665d9c39c21f77273d

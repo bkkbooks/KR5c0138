@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/6856
+seq: 6856
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 君曰噫其虚言與曰臣請為君實之君以意在四方上下有窮乎君曰無窮曰知遊心於無窮而反在通達之國
+  hash: sha256:c603706705c433c3fe2da8f0dd4974163cd2283fd17408c2de24957be3729c1b
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:d7d63924ea917153081e585ad6e63473d4797cf5546284ee47dc3218ec21e679

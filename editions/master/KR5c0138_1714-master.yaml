@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/1714
+seq: 1714
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 採擇嬪御及燕
+  hash: sha256:028a57805a646ae41ca78f81efa5ab303da7e7f7485cd6e173defc5e101f1c25
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:3942d601a10928d52a5d96ffd51ff927591c90c3259c71bbacf35191077f49b3

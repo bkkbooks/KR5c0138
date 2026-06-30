@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/162
+seq: 162
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 雖淡然而不待坐忘行忘忘而為之故行若曳枯木止若聚死灰是以云其神凝也其神凝則不凝者自得矣
+  hash: sha256:4692194c346732ae197e7004d69db669904e69b122a90af874c8e42e6c894d6e
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:54eba881bb37a7392cf3b06128d5307071878ba35ecbd7377c595e7dc4b41896

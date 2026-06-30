@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR5c0138/master/v1/juan/3709
+seq: 3709
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 而非其道者安取道
+  hash: sha256:9410fcdff9a52f89c8c002227a16e647048aa111a1f5b72343c89d0a15bd81bb
+metadata:
+  title: 莊子注
+  edition:
+    short: master
+  source:
+    repository: tls-texts
+    path: data/tls/KR5c0138.xml
+hash: sha256:0a6af5e11d5b8af260936ccd2566c8725d4e03b9bb4bc951742b7fb9297bd16f
