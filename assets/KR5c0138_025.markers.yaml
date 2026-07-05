@@ -4,7 +4,6 @@ markers:
   front: []
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_001_s6}
-  - {type: substitution, offset: 1, original: 㝠, replacement: 冥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-1024}}
   - {type: line-break, offset: 21, content: '', id: KR5c0138_master_025-bkklb1}
   back: []
-hash: sha256:ebe7aa2015bce8dd97cd28e27263a6498016bfc4f117b77f720d62e13ce409b6
+hash: sha256:6908e4199fb037dea70a501f1c6740ddb6660b48b62bda733a1043ca30bb88fa

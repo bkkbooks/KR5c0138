@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 分逍遙一也豈容勝負於其間哉
-  hash: sha256:da71eb87ccd96cac62941ef05bc4fcd90e5b1243c7dfdb05d625c51aa5a03741
+  text: 分逍遥一也豈容勝負於其間哉
+  hash: sha256:cf19629470428ff82374e423126c7d2af52395b6afbc731bf1d56b1c104e4206
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:03dc56d562bc042a26a53fc5cfdbfd8ce14757bb48049a315f467c1394b01efe
+hash: sha256:663dae7dfbf8437cbf372a9db6d90dd8244d5e9eed872a58bfabedd95cd6600f

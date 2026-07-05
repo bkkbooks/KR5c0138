@@ -11,6 +11,5 @@ markers:
   - {type: indent, offset: 0, content: 　, id: KR5c0138_master_895-bkkind3}
   - {type: line-break, offset: 0, content: '', id: KR5c0138_master_895-bkklb3}
   - {type: indent, offset: 0, content: 　, id: KR5c0138_master_895-bkkind4}
-  - {type: substitution, offset: 3, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3741}}
   back: []
-hash: sha256:635a952fa4290924d2e999d5a9a2868974e00c81932c4c9c1d7e4b0be6c49159
+hash: sha256:ac654828116ff3a5b19b5d965dc618131f9c87fe0cd678f015aa444b71434d4f

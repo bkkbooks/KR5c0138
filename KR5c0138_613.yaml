@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 夫六合之外謂萬物性分之表耳夫物之性表雖有理存焉而非性分之內則未嘗
-  hash: sha256:17f8c264d1011bf88fc1c4014e17b0249a623818d4c3616795726ebfce7c9791
+  text: 夫六合之外謂萬物性分之表耳夫物之性表雖有理存焉而非性分之内則未嘗
+  hash: sha256:c9b2f5174da4b8a2008009acd2681d7104fe448cd3709f6245bb0f9db4a28f5c
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:8e43c4b6a5d70816e40f56e0de8cf537f56f3ab2bcaf7324461705b8cad9ddad
+hash: sha256:2ec4205fc2e47f2c1a72c09eecf009bcc44043ffffbc9569462214d6a69189b1

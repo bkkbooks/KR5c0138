@@ -49,7 +49,6 @@ markers:
   - {type: variant, offset: 26, length: 27, content: 黄門侍郎束海王越引為太傅主簿事迹具晉書本傳劉義慶世說新, WYG: 無者必得無於名表故雖𤣥㝠猶未極而又推寄於參寥亦𤣥之又𤣥也參髙也寥曠不可名也參寥聞之疑始夫自然之理有積習而成者盖増近以至逺硏粗以至精故乃七重而後無之名九重而後疑無是始也疑始又疑無是始則始非無名也子杞子輿子犂子來四人相與}
   - {type: page-break, offset: 26, content: '', id: KR5c0138_WYG_003-10b, image: WYG1056/WYG1056-0040b.png}
   - {type: variant, offset: 26, length: 27, content: 黄門侍郎束海王越引為太傅主簿事迹具晉書本傳劉義慶世說新, krp: 無者必得無於名表故雖𤣥㝠猶未極而又推寄於參寥亦𤣥之又𤣥也參髙也寥曠不可名也參寥聞之疑始夫自然之理有積習而成者盖増近以至逺硏粗以至精故乃七重而後無之名九重而後疑無是始也疑始又疑無是始則始非無名也子杞子輿子犂子來四人相與}
-  - {type: substitution, offset: 26, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4545}}
   - {type: line-break, offset: 33, content: '', id: KR5c0138_master_003-bkklb2}
   - {type: indent, offset: 33, content: 　, id: KR5c0138_master_003-bkkind5}
   - {type: indent, offset: 33, content: 　, id: KR5c0138_master_003-bkkind6}
@@ -62,7 +61,6 @@ markers:
   - {type: indent, offset: 50, content: 　, id: KR5c0138_master_003-bkkind12}
   - {type: variant, offset: 55, length: 2, content: 注荘, WYG: 孰能以無為首以生為脊以死為尻孰知死生存亡之一體者吾與之友矣四人相視而笑莫逆於心遂相與為友俄而}
   - {type: variant, offset: 55, length: 2, content: 注荘, krp: 孰能以無為首以生為脊以死為尻孰知死生存亡之一體者吾與之友矣四人相視而笑莫逆於心遂相與為友俄而}
-  - {type: substitution, offset: 56, original: 荘, replacement: 莊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4420}}
   - {type: variant, offset: 58, length: 0, content: '', WYG: 輿有病子把往問之曰偉哉夫造物}
   - {type: variant, offset: 58, length: 0, content: '', krp: 輿有病子把往問之曰偉哉夫造物}
   - {type: variant, offset: 59, length: 1, content: 數, WYG: 將以予為此拘拘也曲僂發背上有五管頤𨼆於齊肩髙於頂句贅指天陰陽之氣有沴沴陵亂也子把崔云淮南作子水行年五}
@@ -115,4 +113,4 @@ markers:
   - {type: variant, offset: 73, length: 11, content: 外别為解義妙演奇致大暢, WYG: 巻三}
   - {type: variant, offset: 73, length: 11, content: 外别為解義妙演奇致大暢, krp: 巻三}
   back: []
-hash: sha256:fe3f3770dca4180212cd07c8a08e72148432b9b7f3dcfebbcf6344ed979d6c1b
+hash: sha256:5e6764956ffabffe02333560062c20ef8af85c89061687431f690c42b073fd5c

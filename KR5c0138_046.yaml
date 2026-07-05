@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 茍足于其性則雖大鵬無以自貴於小鳥小鳥無羡於天地而榮願有餘矣故小大雖殊逍遙一也蜩音條鸒鳩鸒音預鶻鵰也毛詩草木疏云
-  hash: sha256:0a31c3fe037d8e8634f97decd5fcf4620a6324d1c90ad2b12fbd50b6d2086482
+  text: 茍足扵其性則雖大鵬無以自貴於小鳥小鳥無羨於天地而榮願有餘矣故小大雖殊逍遥一也蜩音條鸒鳩鸒音預鶻鵰也毛詩草木疏云
+  hash: sha256:26fcb6b79b05b8a270d1cb4bd76d62de0ea75eb62ff870937b40a82f7b4c41c4
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:ee0fd1bfcf6f9e3db2c37d788e4b30889b68d8d559c9c207493f2cff3a3251a1
+hash: sha256:1b2265a1807541ce78671944e8c34da78f3514e06cc417415fdb0930edd9c033

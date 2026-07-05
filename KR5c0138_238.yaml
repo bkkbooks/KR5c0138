@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 大木百圍之竅穴似鼻似口似耳似枅似圈似臼似窪者似汚者
-  hash: sha256:40128c3fd50e9bcbc7db9c45bc9bc63c8d12c060e0bde34efb30006da358e008
+  text: 大木百圍之竅穴似鼻似口似耳似枅似圈似臼似洼者似汚者
+  hash: sha256:fd1d992893a5b5410c3ee2f7930c1e86f5122a5a956d321183d664fb6fbfcd47
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:68069bbe35a028974a968605dbeb2aa05556e6df9aed5f6c27083dae53386f18
+hash: sha256:4310b5b01f62ab2e4a395c1617d4e50cb1abd1d810d036f946d3839fc3999654

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 以不辨為懷耳聖人無懷
-  hash: sha256:e6fcb38c7e78f3d91423e13fbe3aa466008ebe08c038296ea958ea3d84957d35
+  text: 以不辯為懷耳聖人無懷
+  hash: sha256:632e5a8ba42e562cefbc7e983c63c6662c9e5a56b586244adc9d77cf736b72fb
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:36878b9cbcf691e6cb3188b5dd1fb082060d927e1946271c668205a5f2288a77
+hash: sha256:faee864f2c3a3179095b99d1732a3a9b7e5110bd3fa4d207b0418e3ef5c2a86f

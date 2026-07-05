@@ -60,7 +60,6 @@ markers:
   - {type: variant, offset: 16, length: 2, content: 載校, krp: 尚也大聲謂咸池六英}
   - {type: variant, offset: 19, length: 6, content: 如逍遥逰有蓬, WYG: 樂也折楊皇荂則嗑然而笑俗人得嘖曲則同聲動笑也荂况花反折楊皇華皆古歌曲也是故高言不止於衆人}
   - {type: variant, offset: 19, length: 6, content: 如逍遥逰有蓬, krp: 樂也折楊皇荂則嗑然而笑俗人得嘖曲則同聲動笑也荂况花反折楊皇華皆古歌曲也是故高言不止於衆人}
-  - {type: substitution, offset: 21, original: 遥, replacement: 遙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4468}}
   - {type: variant, offset: 27, length: 1, content: 句, WYG: 不以存懐至言不出俗言勝也此天下所以未曽用聖而常自用也以二鍾惑而所適不得矣各自信據故不知所之以二鍾應作垂鍾應作踵言埀脚空中必不得有所適也而今也以天下惑予雖有祈嚮其庸可得邪知其不可得也而强之又一惑也故莫若}
   - {type: page-break, offset: 27, content: '', id: KR5c0138_WYG_005-14a, image: WYG1056/WYG1056-0068a.png}
   - {type: variant, offset: 27, length: 1, content: 句, krp: 不以存懐至言不出俗言勝也此天下所以未曽用聖而常自用也以二鍾惑而所適不得矣各自信據故不知所之以二鍾應作垂鍾應作踵言埀脚空中必不得有所適也而今也以天下惑予雖有祈嚮其庸可得邪知其不可得也而强之又一惑也故莫若}
@@ -126,7 +125,6 @@ markers:
   - {type: variant, offset: 46, length: 1, content: 盗, WYG: 齊萬物而人人自别斯人自為種也承百代之流而㑹乎當今之變其弊至於斯者非禹也故曰天下耳言聖知之迹非亂天下而天下必有斯亂種章勇反是以天下大駭儒墨皆起此乃百代之弊其作始有倫而今乎婦女今之以女為婦而上下悖逆者非作始之無理但至理之弊遂至於此何言哉弊生於理故無所復言余語女三皇五帝之治天下名曰治之而亂莫甚焉必弊故也三皇之知上悖日月之明下睽山川之精中墮四時之施其知憯於蠆之尾鮮規之獸莫得安其性命之情者而猶自以為聖人}
   - {type: page-break, offset: 46, content: '', id: KR5c0138_WYG_005-34b, image: WYG1056/WYG1056-0078b.png}
   - {type: variant, offset: 46, length: 1, content: 盗, krp: 齊萬物而人人自别斯人自為種也承百代之流而㑹乎當今之變其弊至於斯者非禹也故曰天下耳言聖知之迹非亂天下而天下必有斯亂種章勇反是以天下大駭儒墨皆起此乃百代之弊其作始有倫而今乎婦女今之以女為婦而上下悖逆者非作始之無理但至理之弊遂至於此何言哉弊生於理故無所復言余語女三皇五帝之治天下名曰治之而亂莫甚焉必弊故也三皇之知上悖日月之明下睽山川之精中墮四時之施其知憯於蠆之尾鮮規之獸莫得安其性命之情者而猶自以為聖人}
-  - {type: substitution, offset: 46, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3333}}
   - {type: variant, offset: 48, length: 0, content: '', WYG: 可耻乎其無恥也子貢蹵蹵然立不安子貢本謂老子獨絶三王故欲同三王於五帝耳今又見老子通毁五帝上及三皇則失其所以為談矣七感反音例許謁反或云依字上當作蠆下當作蠍通俗文云長尾為蠆短尾為蠍鮮規之獸明貌一云小蟲也一云小獸也孔子謂老曰丘治詩書禮樂易春秋六經自以為乆矣熟知其故矣以奸者七十二君論先王之道而明周召之迹一君無所鉤用甚矣夫人之難説也道之難明邪老子曰幸矣子之不遇治世之君也夫六經先王之陳迹也豈其所以迹哉所以迹者真性也夫任物之真性者其迹則六經也奸音干三蒼云犯也鉤取也今子之所言猶迹也夫迹履之所出而迹豈履哉况今之人事則以自然為復六經為迹夫白鶂之相視眸子不運而風化蟲雄鳴於上風雌應於下風而化鶂以眸子相視蟲以鳴聲相應俱不待合而便生子故曰風化鶂五歴反𩔖自為雌雄故風化夫同𩔖之雌雄各自有以相感相感之異不可勝極茍得其𩔖其化不難故乃有遙感而風化也𩔖自為雌雄故風化或説云方之物𩔖猶如草木異種而同𩔖也山海經云亶爰之山有獸焉其狀如狸而有髪其名曰獅𩔖帶小有烏其状如鳥五采文其名曰竒𩔖皆自牡牝也性不可易命不可變時不可}
   - {type: page-break, offset: 48, content: '', id: KR5c0138_WYG_005-35a, image: WYG1056/WYG1056-0078c.png}
   - {type: page-break, offset: 48, content: '', id: KR5c0138_WYG_005-35b, image: WYG1056/WYG1056-0078d.png}
@@ -158,7 +156,6 @@ markers:
   - {type: indent, offset: 84, content: 　, id: KR5c0138_master_005-bkkind24}
   - {type: variant, offset: 94, length: 41, content: 中凡文與荘子相同者亦兼引向郭二注所載達生篇佝僂丈人承蜩一條向注與郭一字不異應帝王篇, WYG: 卷五}
   - {type: variant, offset: 94, length: 41, content: 中凡文與荘子相同者亦兼引向郭二注所載達生篇佝僂丈人承蜩一條向注與郭一字不異應帝王篇, krp: 卷五}
-  - {type: substitution, offset: 98, original: 荘, replacement: 莊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4420}}
   - {type: line-break, offset: 101, content: '', id: KR5c0138_master_005-bkklb7}
   - {type: indent, offset: 101, content: 　, id: KR5c0138_master_005-bkkind25}
   - {type: indent, offset: 101, content: 　, id: KR5c0138_master_005-bkkind26}
@@ -170,4 +167,4 @@ markers:
   - {type: indent, offset: 118, content: 　, id: KR5c0138_master_005-bkkind31}
   - {type: indent, offset: 118, content: 　, id: KR5c0138_master_005-bkkind32}
   back: []
-hash: sha256:e3300d14a4632c7c7ac2550f202b7a56cd1ed3b2f5c00bae4c68665f231d99e0
+hash: sha256:d15106050b0e6e3ff4951e72cb5c5ee78cdb989110ffad09534b637c8791f0bc

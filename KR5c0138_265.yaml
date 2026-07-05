@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 此蓋知之不同知音智
-  hash: sha256:c93aa1ffe81fc5c683de84b43a3b1934653a302f93a646d42cb3ba6550580462
+  text: 此盖知之不同知音智
+  hash: sha256:69a9b82a80be2aef404e10dab7e3ebe70a6c113e85d783212986a9bcdf863e64
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:5613dd9250e29df405e99e3e670624b7a8d29485c3e41b4241c5fc33f942ee9a
+hash: sha256:3cf63bc22db8a2795f45cb511395ed9c9dbdd5cc6d516dc276ec11ac3eecc29a

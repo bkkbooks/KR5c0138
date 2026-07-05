@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 是非之辨為化聲夫化聲之相待俱不足以相
-  hash: sha256:a36905337aee1a699501f406d0b7e72db326b4c62619fb1956ed944224e1b8ab
+  text: 是非之辯為化聲夫化聲之相待俱不足以相
+  hash: sha256:0668261a83c4d1325f257b9b073733e78dede0715d6f8b69652c4c3345b5113a
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:b40d6d48aaa108fa1d6039d3e2ed23768a633857ac194b32b0134733129a2b6e
+hash: sha256:70ca68888bcd0163889e991c3a470ad19f6a01c037a365feed42c9a73257d47e

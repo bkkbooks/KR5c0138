@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 聞孟浪之言便以為妙道之行斯亦無異見卵而責司夜之功見彈而求梟炙之實也夫不能安時處順而探
-  hash: sha256:560072f4dd75c73fd548f62be132fbafe1fba5737a91ee20a1402e29dad66655
+  text: 聞孟浪之言便以為妙道之行斯亦無異見卵而責司夜之功見彈而求鴞炙之實也夫不能安時處順而探
+  hash: sha256:9100759c7857eb263e22f447f74bcb98edbdd795627287c9b97b7e60b74e40ed
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:8cd3fe23187ccc13ba538032071bbc58e8e740e95097498755b5fc9de9754407
+hash: sha256:72d01e14dd44d8db09430bc4ff8232b1d9a09bb2d39b8231b0c86cd679e37ae5

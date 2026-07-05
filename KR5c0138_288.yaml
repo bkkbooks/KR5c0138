@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 此蓋性情之異者補口義熱作熱熊作態
-  hash: sha256:213421f71677d94364f4d6db05ecac87be8e388ff4ffa5c5ea4efbc8c76b1e03
+  text: 此盖性情之異者補口義熱作熱熊作態
+  hash: sha256:6d4cf23e6525d476ae9312ab36ac6b6ead5214d4ae13b87e26fa603bb13ce468
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:497080f5c1fe6a73f57082a1c750ca514b4f2fb93bef70c71bb41a21d4d00d42
+hash: sha256:97d649e6f7822afd65d98c1bd2233012147d700089c75a661d4755a29b8bff0b

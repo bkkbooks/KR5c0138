@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 非若信非則亦無緣復有是之者也今是其所同而非其所異異同既具而是非無主故夫是非者生於好辨
-  hash: sha256:2925446f62d39d264f07ef2087d35df8a28e27a4c687bb7be38415698cd54868
+  text: 非若信非則亦無縁復有是之者也今是其所同而非其所異異同既具而是非無主故夫是非者生於好辯
+  hash: sha256:5fd2af22b8e3cbc5ce873d857cdd7e698b7e7ed3830f92999ade6c5eaa9e7c29
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:5745154ffe0b22bf3abd8aa179d6a12f36fd156d37f0c7a504072eb3f67cd8c8
+hash: sha256:7bcd597ca00ef40887fda62554267447328aa75a8583d99839ebae04f1d90836

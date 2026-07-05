@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 喜怒哀樂慮嘆變熱姚佚啓熊
-  hash: sha256:0f403f4554ea95f22cc2e617bff4e4f14be2ca16c20e8ec942b97bdc35fd80af
+  text: 喜怒哀樂慮嘆變熱姚佚啟熊
+  hash: sha256:d9f34ea474ec6c809cbdf9ef77878188c0cd31c0276fa7c42335c3b42c156bcb
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:5e9552d222a96700e3c0874d4e910a6ce7a836e75d13a1217e9a8054e8a381bc
+hash: sha256:62979009ea9b7a9386ef0fd09bcc72ce760fc6ba8c597bce0ea9e1c47439e548

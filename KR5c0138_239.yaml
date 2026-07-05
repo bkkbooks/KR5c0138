@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 此略舉衆竅之所似似鼻似口言風吹
-  hash: sha256:fb2bb3160ccbd73a47d7c3e7d0782c2aa4ed5b60de78d513dea7d86eb988563f
+  text: 此畧舉衆竅之所似似鼻似口言風吹
+  hash: sha256:82bb175cedadd3b38937c9818a3d847b9f7dba3646d9af15d501b223d296c77d
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:704ccde8996233910be33ef5b634e400fc60250f8554cdaeffd8f0a95a9afec8
+hash: sha256:e80af1aae0baabab915ff109b70dd2541387244a2e1f4bba85612d58b94f9c9a

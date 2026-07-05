@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 西之非已也故無行而不與百姓共者亦無往而不為天下之君矣以此為君若天之至髙實君之德也若獨
-  hash: sha256:098a56490dcd4e84f48e7447a1349586c6b020638d118734f5947663c415ef96
+  text: 西之非已也故無行而不與百姓共者亦無往而不為天下之君矣以此為君若天之至髙實君之徳也若獨
+  hash: sha256:e631b4d588aa9cb36f64ac59b0bbf5a52f7e17280a5f9226b0a87b7b0665f271
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:ef6e7562f8e08e5727a286b3dbb7520a5264111dfa9183a5eeecd4427beb12ac
+hash: sha256:6ad848a7562a898c97d77a430ccb761ed1e60c396581a466919270c525f42230

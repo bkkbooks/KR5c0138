@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 而不知所以得也今罔兩之因景猶云俱生而非待也則萬物皆聚而共成乎天而皆歷然莫不獨見矣故罔
-  hash: sha256:2727f26c8bc9416156e377e22799b317e2be70e7c7fafd0e27511572872e9c27
+  text: 而不知所以得也今罔兩之因景猶云俱生而非待也則萬物皆聚而共成乎天而皆歴然莫不獨見矣故罔
+  hash: sha256:639e4562a141e50f687e72bb03123ac770b86cfe6583840c69ea594b95ff696f
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:9296637b27be66474305f1244ff10a4e7545d22099f92caa443506b83059baf3
+hash: sha256:08bd26427818053141707bfdb6761bffe518062ec5d0ca48f59f0452b1401272

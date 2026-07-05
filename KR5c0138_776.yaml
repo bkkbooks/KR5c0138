@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 參萬歲而一成純
-  hash: sha256:7d0ee6f24f92a07a12c9f553e557dc3ffe6ea6c5d1cb092d676f706c100495e8
+  text: 參萬歳而一成純
+  hash: sha256:4343ccd1fba30afaa0972a736b8d9ef9e2757f9c6252c26db1a9b8a38a9437f8
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:a17e3b0b092fe95d1a56ef0ef9a1e49723b47db76a76468f1810b879fd3ef9e9
+hash: sha256:3cdabe0cdd443a3a14d13f43eec5942ed2e59f5a5ce3c350506bd3d8bdb511de

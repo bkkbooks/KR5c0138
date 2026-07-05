@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 豈識其𡨕哉故將求四子於海外而據堯於所見因謂與物同波者失其所以逍遙也然未知至逺之所順者
-  hash: sha256:cc14ec36d58b640aa0512cea4a16a8ec1cb6f1ad5ee02a1d2ad7e5984dfe5085
+  text: 豈識其𡨕哉故將求四子於海外而據堯於所見因謂與物同波者失其所以逍遥也然未知至逺之所順者
+  hash: sha256:6c5f929036059fa8c341e2a62f2462bc141b97bac85bc14a43261380af55430e
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:146c5952c01c6f2278303a1dd1cea0ea9414cec5334c66576d8143d1d09ce2ab
+hash: sha256:856366fb5654eaf662f58858730b3089eafd6408575081ebfc8cb0c0198905bd

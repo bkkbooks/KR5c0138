@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 滿之意國語曰嗛嗛之德不足就也言其自小即此嗛字
-  hash: sha256:ea953e685eac176800c1c9bf509513bf0a16c47994742e8f66ed6d8f518dbc4a
+  text: 滿之意國語曰嗛嗛之徳不足就也言其自小即此嗛字
+  hash: sha256:cbebab55becf39920984b04089fb8d67450c8dc09f9ef58afdd6538e9bc7c79b
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:76305c8a985b7109f62f5b2196b58fc2bc739d2fef37c2013cb6ab03ce781a1e
+hash: sha256:b5922583b216c1acf751e3c10b34603a778886cbacbeafc8d9b42f5ca7eb324f

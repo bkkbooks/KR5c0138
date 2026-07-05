@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 也將使萬物各反所宗於體中而不待乎外外無所謝而內無所矜是以蕃然皆生而不知所以生同焉皆得
-  hash: sha256:a62813afac68d841e8785f42dbed805d7fe28eb86a6d0aa5381721860b0106be
+  text: 也將使萬物各反所宗於體中而不待乎外外無所謝而内無所矜是以蕃然皆生而不知所以生同焉皆得
+  hash: sha256:69eb6cb56923063efc26d7c0bc07a07e9e3ef33bbf5738203aa62b752d6a6b69
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:527d953ae198d25f9a0bbfd7a144cce8aea0c5c59ed1f922b1c97a141c8c3340
+hash: sha256:b7ba31d45d104b6fc364cab59a6e850567fab501d91ca7b1dfd4e0aae49a110f

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 異於死生之辨也今所以自喻適志由其分定非由無分也
-  hash: sha256:fab351844d81b6d425ecdaeaf268a84da7ce2b20d7de07aeff3ac5564aa553f2
+  text: 異於死生之辯也今所以自喻適志由其分定非由無分也
+  hash: sha256:85dd6fbdd1007b1fd4ec1a090b669733ef067b3712e8ce91327a0b14487cb20f
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:bf4fa2cf9ab6d75e913f4ae4ba720de767296ecfa326bd2bd054841adb3e8ddc
+hash: sha256:be268763fa3c164e48928a6c589e7c3cbe64824446d396fa7600ec89ff9666f5

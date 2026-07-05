@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 罔兩景外之微陰也
-  hash: sha256:b8296a44f57aedb3f156844e88160a825583b9861401edffd8704cf14d773c08
+  text: 罔兩景外之㣲陰也
+  hash: sha256:311cc0e8a8db259c3eda69975a3885f00f70b6073b0f45ede967ab4886b4b47a
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:16cf42b92e253d11953fac54445990cf7ff7428a4609d59bb76fa9cc3fb65601
+hash: sha256:df8d1c62c3877c954035fe1d342929ed09ae5eb23f556e5347a655ad93cac980

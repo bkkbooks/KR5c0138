@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 外臣代乎內主斯有為君之名而無任君之實也
-  hash: sha256:0c9da83e632711d5f269b9541d46e6e7140ffe74f01d6140e05faf42b5bb905c
+  text: 外臣代乎内主斯有為君之名而無任君之實也
+  hash: sha256:be41833f3f6111542fdd967effb161e4b168bdbe2a9fd2fec60eb0742fb12140
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:9c4433bbc11f3a72bde4648ce0d4eca4b5eeb16baede68ad8805242dc994fa04
+hash: sha256:653aa93ba8e6968974d0bae033b33fb05c9e6272b863c3b96a9a868b1d20e65e

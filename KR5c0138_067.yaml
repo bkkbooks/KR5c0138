@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 窮髮之北有冥海者天池也有魚焉其廣數千里未有知其修者其名為鯤有鳥焉其名為鵬背若泰山翼
-  hash: sha256:9a48771d9590b4e983884f7e15a6eb2b4d362c22f5dcbccbac14d4e188ec8cdf
+  text: 窮髮之北有㝠海者天池也有魚焉其廣數千里未有知其脩者其名為鯤有鳥焉其名為鵬背若泰山翼
+  hash: sha256:2f2b94d55c8ab4818a76c14ec7673d0d1bcf06013cf8ffcc73ad93b6bf4d2092
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:668d6ccbf401f2a31c18c2db5e3ce93bb055b71d442a36a813625e6d1ac1f873
+hash: sha256:7830bfc2a7372f9a0dfd6dea10c16f3b23a8d1f97fe62da0280c17922c9ec8a3

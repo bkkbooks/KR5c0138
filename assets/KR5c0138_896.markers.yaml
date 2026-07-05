@@ -10,7 +10,6 @@ markers:
   - {type: line-break, offset: 0, content: '', id: KR5c0138_master_896-bkklb1}
   - {type: line-break, offset: 6, content: '', id: KR5c0138_master_896-bkklb2}
   - {type: indent, offset: 6, content: 　, id: KR5c0138_master_896-bkkind1}
-  - {type: substitution, offset: 9, original: 巻, replacement: 卷, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3741}}
   - {type: indent, offset: 11, content: 　, id: KR5c0138_master_896-bkkind2}
   - {type: indent, offset: 11, content: 　, id: KR5c0138_master_896-bkkind3}
   - {type: indent, offset: 11, content: 　, id: KR5c0138_master_896-bkkind4}
@@ -24,4 +23,4 @@ markers:
   - {type: indent, offset: 15, content: 　, id: KR5c0138_master_896-bkkind11}
   - {type: indent, offset: 15, content: 　, id: KR5c0138_master_896-bkkind12}
   back: []
-hash: sha256:78bae0b75e9c5a4425ea153509b3517fe42d4a70783b1e69989a8c2af3c0ed2d
+hash: sha256:2693b2b60b6d8d791e5783b5847344d4dc8a0d5c0eea3ab8bc430b2a0f299a45

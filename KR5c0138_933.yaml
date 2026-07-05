@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 有際之處因而批之令離批鋪迷反擊也郤音郤
-  hash: sha256:cc3619f67a459fe735f4403259ef411ac207c90b84e26c1f2e9fd5075a9ca629
+  text: 有際之處因而批之令離批鋪迷反擊也郤音郄
+  hash: sha256:ffa02bf2d97686db19756ac7112a4f344be5e9dc22b82e8889b2e10f036ac284
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:fcdfc5d05167551fc808d576c2a8d185c51ab548d6c45ba7d5cf5a06044595b1
+hash: sha256:9ae7f4f6a2b56ed5aba510398a70f674ab979a4b9a83cc4351bf776759704aff

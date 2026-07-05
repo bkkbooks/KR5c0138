@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 豫惡乎知說
-  hash: sha256:24ac93d490b2bdb78572c035512e2360cd9b4d31e511e29352d849b726d9be29
+  text: 予惡乎知說
+  hash: sha256:c14eedc1943bc65de9d332355573c44a47883b69b077694b0332d93b420326aa
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:0a8e35c5871f142b9a0c10c226ae2a273bb6d6d5c17baca254970b5993a416bf
+hash: sha256:68f0ece684b3f4016db0ef1ca8d259a3466be27e8c7323ee44805280ae7dae10

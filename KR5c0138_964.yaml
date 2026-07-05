@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 拭刀而韜之也善刀善猶拭也
-  hash: sha256:48808b0a412dac83da716ac91f3ba3d3bdcf3384c4bbefd39039becd669a7b0b
+  text: 拭刀而弢之也善刀善猶拭也
+  hash: sha256:bc4906d482f3b531281e7634b40d458da0de15b9f691618bd76114a6fbb6ad3c
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:9263e9834bd7e9506b9676e21251006bad85ab666066d402fc35672168454006
+hash: sha256:815cb66363a5bb5122752acd7ee637274087c67c9eec022beb1bfeecb3c1068e

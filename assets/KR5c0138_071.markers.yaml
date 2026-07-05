@@ -6,6 +6,5 @@ markers:
   - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_001_n71}
   - {type: punctuation, offset: 0, content: ⬤, id: KR5c0138_master_071-bkkpn1}
   - {type: punctuation, offset: 19, content: ○, id: KR5c0138_master_071-bkkpn2}
-  - {type: substitution, offset: 19, original: 髪, replacement: 髮, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4450}}
   back: []
-hash: sha256:4afe1649f5861869540163e7f1766a07e8fa4854d56082131de769f2eace19b5
+hash: sha256:623c936d984b0aeaddd396d4580300a020c68f3c8dfcaa63cf19ffd42e5a8752

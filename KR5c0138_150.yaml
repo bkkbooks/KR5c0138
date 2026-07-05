@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 下之至實也各得其實又何所為乎哉自得而已矣故堯許天地雖異其於逍遙一也
-  hash: sha256:c4abb3141fce603f9286f971694cd038bcaebdf48ed39186d8a7946c7194f8e3
+  text: 下之至實也各得其實又何所為乎哉自得而已矣故堯許天地雖異其於逍遥一也
+  hash: sha256:9ce266ffeee601b283910b80bebc176f25bfbf430dc449b8f57a480057afaccf
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:97e55f3f400a547666d74e3f36f5c2dd62441422c71f593cddf5cfd11df122d7
+hash: sha256:919d14aaed7118439b79aae7d4a0a6e32fda48daa181fe1d7ad7782ef3aa9b04

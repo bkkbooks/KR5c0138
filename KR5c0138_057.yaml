@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 奚以知其然也朝菌不知晦朔蟪蛄不知春秋此小年也楚之南有冥靈者以五百歲為春五百歲為秋上古有大椿者以八千歲為春八千歲為秋而彭祖乃今以久特聞衆人匹之不亦悲乎
-  hash: sha256:7cd4084cf1eb83733df7b24fb8d7f948984fc542c38854e46cb064a82525c735
+  text: 奚以知其然也朝菌不知晦朔蟪蛄不知春秋此小年也楚之南有㝠靈者以五百歳為春五百歳為秋上古有大椿者以八千歳為春八千歳為秋而彭祖乃今以久特聞衆人匹之不亦悲乎
+  hash: sha256:c9d5edf6ee8a47f52627c5304310cfeefb9ed46b3d06f195494e0904ea412607
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:79660d79e46bff38e30dce9b72cfc9b27c40fc942faf4997211ba99d512a5536
+hash: sha256:ff9790f61f3f7afb70a4d62efedb1d0b7f911c93b49e68eca29cad1dd710b23b

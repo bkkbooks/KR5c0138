@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 不復屬目於他物也為于僞反下皆同
-  hash: sha256:49f9b705bc71e8055dfd0a0caafcb04a2d4bb9a9278337b266268fbc13586009
+  text: 不復屬目於他物也為于偽反下皆同
+  hash: sha256:3916f200b15358e55a45754d6eb8f3c08f2ff08ce52c92271ec53ede3e67e42c
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:47ddf25b2cd630b1a6776af3a9707a7c5404bf5e2f72bdba974ecd60aef1afff
+hash: sha256:f8ec07d06e77a6b64554c989be6c2ce1cb52cf245f669dae76815ec6507804a8
