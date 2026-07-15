@@ -4,6 +4,9 @@ markers:
   front: []
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_001_n361}
+  - {type: substitution, offset: 1, original: 盖, replacement: 蓋, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17353}}
   - {type: punctuation, offset: 6, content: ○, id: KR5c0138_master_271-bkkpn1}
+  - {type: substitution, offset: 16, original: 驩, replacement: 歡, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16431}}
+  - {type: substitution, offset: 23, original: 寛, replacement: 寬, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20767}}
   back: []
-hash: sha256:2e1ae55443ba186cd1ee9e2bb61b467b7e395c3f89c076adfc48fa06323b46d3
+hash: sha256:2fa9b7d0102f7f8b6ec267cd14ae276579f37ac4e27be82120b51b20eb3cb235

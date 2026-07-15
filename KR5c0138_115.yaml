@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 時黄氣也秋食淪陰淪陰者日沒已後赤黄氣也冬食沆瀣沆瀣者北方夜半氣也夏食正陽正陽者南方日
-  hash: sha256:6db6f5368000b6568f64715691453bfdba2beba64df4ed5833aa927226efecc7
+  text: 時黃氣也秋食淪陰淪陰者日沒已後赤黃氣也冬食沆瀣沆瀣者北方夜半氣也夏食正陽正陽者南方日
+  hash: sha256:e069e463a0c771de32a6063af77ee59bf3b924221f810befc7077eab3968ed4b
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:0c85f0f6155789c19cd0c6bf3311ecd48fc58f0615e600bbfdb2a18ac8b1d145
+hash: sha256:2c90dfde86821f1db584ed8e2f5905e7bef7f01f26118eee839f1378a41a74e3

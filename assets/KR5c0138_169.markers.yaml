@@ -5,5 +5,7 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_001_n215}
   - {type: punctuation, offset: 22, content: ○, id: KR5c0138_master_169-bkkpn1}
+  - {type: substitution, offset: 30, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20813}}
+  - {type: substitution, offset: 31, original: 静, replacement: 靜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20691}}
   back: []
-hash: sha256:7bbd025985140ae36763bbadfb3db275406764fe855e5ef801f1a543d1c37cb8
+hash: sha256:5a586a54d7c4cbf2a8b04c11ec1424a7cd5d260b056cc6ec5e36fc12eece1a04

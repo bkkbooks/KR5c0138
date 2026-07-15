@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 故明乎衆形之自物而後始可與言造物耳若以步有物之域雖復罔兩未有不獨化於𤣥𡨕者也故造物者
-  hash: sha256:39fbcb6deefe1e3f3ce37cb579936b074b4381b3a1a29345317b8e40654a8b29
+  text: 故明乎衆形之自物而後始可與言造物耳若以步有物之域雖復罔兩未有不獨化於玄𡨕者也故造物者
+  hash: sha256:f712a16a340168268f157f03cbbf09dced7b67f9faabe6f321b0499605608514
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:22f92c63bd97141a2192b923c4e34d50dca3d14566dc6c995dc11c07f62fb6a7
+hash: sha256:74a7e306400433c383ef75880436a91d617d48bbd0fb1b1e6f33852df641ed1f

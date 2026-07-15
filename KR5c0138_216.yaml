@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 今之𨼆几者非昔之𨼆几者也
-  hash: sha256:218aeb27f2eb08dd900a034f01c9bea1146d7432f81cb22965aa4ec661b9f8a7
+  text: 今之隱几者非昔之隱几者也
+  hash: sha256:681bb2cc84864ab5efe59f170b40f62c9f0bea608b88475d2a2cc1526f30057d
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:1422d3772a20d1f75a58195ff1f18981ddac17a27beac2ff56c0023279eee1e2
+hash: sha256:dec5437004698cb5654ddeddfc9f8a7a0f2add97821a2c6ab03b07ceaf1f42fd

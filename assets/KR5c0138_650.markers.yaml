@@ -4,5 +4,6 @@ markers:
   front: []
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_001_s856}
+  - {type: substitution, offset: 2, original: 园, replacement: 園, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-16509}}
   back: []
-hash: sha256:eb092969fb85ccd29338c14f13a3f357591f03ec42ed31da8e816f1b168720f6
+hash: sha256:350cfa129a9db869920622df527d7e9e96cf7b7bc48a12bc78d78a4c3a7b59df

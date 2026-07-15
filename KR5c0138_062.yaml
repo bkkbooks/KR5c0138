@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 者不及春春鳴者不及秋廣雅云蟪蛄蛁勞也即楚詞所云寒螿者也𡨕靈木名也江南生以葉生為春葉落為秋此木以二千歳為一年椿木一名橓橓木槿也此木三萬二千歳為一年彭祖名鏗堯臣封於彭城歴虞
-  hash: sha256:09c9bbd3b800eebd1aff46f83dea50a54f4785001d721719443fee21c70aff6b
+  text: 者不及春春鳴者不及秋廣雅云蟪蛄蛁勞也即楚詞所云寒螿者也𡨕靈木名也江南生以葉生為春葉落為秋此木以二千歲為一年椿木一名蕣蕣木槿也此木三萬二千歲為一年彭祖名鏗堯臣封於彭城歷虞
+  hash: sha256:889578c4a849714a100683848e5e0c5b597265081bf86c3e659eeb1340c40aea
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:fd629f98ab2a0291272d789ceb61c10ca9503b48dd297022a3c8fc3f1e9625f1
+hash: sha256:27204df5e04973b1f297291ba5680593699eaa69a59a1c152355ea9e3780d8b1

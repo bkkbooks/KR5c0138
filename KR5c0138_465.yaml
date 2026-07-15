@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 夫莛横而楹縱厲醜而西施好所謂齊者豈必齊形狀同規矩
-  hash: sha256:7664756da0d6ce99f4922f09409f296f052a995bac10834d25cb39608941ad7c
+  text: 夫莛橫而楹縱厲醜而西施好所謂齊者豈必齊形狀同規矩
+  hash: sha256:84441e67280194b6e1630a982e5fb2c47b92ef709dd1655a7e4af30f66175bdf
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:024d0bf88424200c5c1930e1efc54cee89a40b22efcb7004af725a50c0400b30
+hash: sha256:a51e77d8a38f0ed6ead1902f934c93a8df533f82c2f74dbffb92df2504a95cc9

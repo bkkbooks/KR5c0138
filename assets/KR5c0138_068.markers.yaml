@@ -7,7 +7,8 @@ markers:
   - {type: page-break, offset: 0, content: '', id: KR5c0138_WYG_001-4b}
   - {type: line-break, offset: 0, content: '', id: KR5c0138_master_068-bkklb1}
   - {type: line-break, offset: 21, content: '', id: KR5c0138_master_068-bkklb2}
+  - {type: substitution, offset: 29, original: 㝠, replacement: 冥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17241}}
   - {type: line-break, offset: 42, content: '', id: KR5c0138_master_068-bkklb3}
   - {type: line-break, offset: 63, content: '', id: KR5c0138_master_068-bkklb4}
   back: []
-hash: sha256:5f33b5beca437d8a104bbede996d9fe0facf2b8640ff77f40e75357a6461e8bd
+hash: sha256:18a073d653cba211996beb46e87b05966cabf03c60eae771cc68c5a6044f638e

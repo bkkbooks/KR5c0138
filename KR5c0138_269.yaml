@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 此盖寤寐之異
-  hash: sha256:c7bb638446bcd56380b63043cb2525d28af326ca20d0af4508fed727fce66d85
+  text: 此蓋寤寐之異
+  hash: sha256:e5b7d47750abe43cd999bbbee12d7328e110e68d1f2abb0f876356a7a6ffbf42
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:3e8fe3a13749483fca1e04c33d968a16017c4fd7c6737ce32b5ea8844bfbd17e
+hash: sha256:51126a63c73c74dd6892b6974926eadd4fe0015943d21ee28cbed1b5514370bf

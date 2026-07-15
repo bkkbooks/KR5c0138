@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 者非名也故夫堯舜者豈直堯舜而已哉必有神人之實焉今所稱堯舜者徒名其塵垢粃糠耳
-  hash: sha256:32c0fdf1c6c22b478c65449eb149f3405e7fa8452d1ea852680f99a42fec7faa
+  text: 者非名也故夫堯舜者豈直堯舜而已哉必有神人之實焉今所稱堯舜者徒名其塵垢粃粳耳
+  hash: sha256:495be3e152a9b84a76acef9957c6a5ed6e64944ed419f4087cca92a1b8eb9953
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:05de7a29213dd9ba75269eff06a0374ffa59220ae0c961527a23e7f3b6977179
+hash: sha256:13350c824259b889b2eed3029a0e705d55042a984efdc8af5a98b440458f2d92

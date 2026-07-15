@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 夫大鳥一去半歳至天池而息小鳥一飛半朝搶榆枋而止此比所能則有間矣其於適性一也
-  hash: sha256:f024cdd1eab4e81a7255f0c24300289c5505839baf1058b005d9d3a5952e40b2
+  text: 夫大鳥一去半歲至天池而息小鳥一飛半朝搶榆枋而止此比所能則有間矣其於適性一也
+  hash: sha256:3095e4ce8cb6d612ee1c4dc1c50785ba1ccbf8caf40b953f5e0b67f50608b373
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:b1b06cc67086d7619e6d0e04f260343064eb615b9fdb47145711e0fecf526787
+hash: sha256:27e1017298ee03cee6b0a63557f16c0a29e181e695fd838d08b81d069338480a

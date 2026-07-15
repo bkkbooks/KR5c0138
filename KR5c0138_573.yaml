@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 小則天下無大矣秋毫為大則天下無小也無小無大無夀無天是以蟪蛄不羨大椿而欣然自得斥鷃不貴
-  hash: sha256:e99759bd3f5675c020f48beb71a9778b7298f6c203349205037860fd0797e943
+  text: 小則天下無大矣秋毫為大則天下無小也無小無大無夀無天是以蟪蛄不羡大椿而欣然自得斥鷃不貴
+  hash: sha256:bd91bd284610d378b3c32d2efca6daa8283ce277c68e0ee56ad07b9641ab1407
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:2fedcf208283063ab7239c0c82d072450fe1da4db46cfef8a1fce39b8dba789f
+hash: sha256:f0b5ef3f52eff0dd368f7306ab4c43071ee5b210c6f5d27d98156d4b846c0f3e

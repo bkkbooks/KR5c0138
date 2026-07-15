@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 如水激也謞音孝若箭去之聲司馬云若讙謞聲叱音七若叱咄聲吸若噓吸聲叫若叫聲也譹音豪若譹哭
-  hash: sha256:ec04e2ba2a45661593d2cdbc85dd026dab4c3b78d8cc73a6b934df6774044c41
+  text: 如水激也謞音孝若箭去之聲司馬云若歡謞聲叱音七若叱咄聲吸若噓吸聲叫若叫聲也譹音豪若譹哭
+  hash: sha256:9dce45db083ad9d625172c7fc139996f1def9c8aa63210fea189323bee4490a9
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:d63ca308558ce81fc7194452d57dd486f01ee1f8d6846bd49e589927c8f4a667
+hash: sha256:d8c36e680170ebe3f86f743306d044dd0aa5d570904bfbefd337d03bd9d58801

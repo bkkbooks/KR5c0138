@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 汝皆說之乎其有私焉
-  hash: sha256:a22da816efd4e112ff9962b441bbb12139580f234dc15a5673273dc084887d12
+  text: 汝皆説之乎其有私焉
+  hash: sha256:3cba793e0c724b8b486e9b7bf641bcebaee08b94cd41b8d771762be4fc70715f
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:c6a33025550c588dcd16a667717edce2f21c78f56b8bafc50245df12a7e8494c
+hash: sha256:3a68c8c9eeafe8d64c9396056c27668c8c529cf311df0642bb37b108383599d3

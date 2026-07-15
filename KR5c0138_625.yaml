@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 衆人辯之以相示也故曰辯也者有不見也
-  hash: sha256:55e9311e49b8d96de43c00261dfcc90cdd8869c9c68e2d997055494adcc19256
+  text: 衆人辨之以相示也故曰辨也者有不見也
+  hash: sha256:47981bd4c5d9f8a2f75a0dc8aa319ea745f3a11916575df63f1d2c2789458dfc
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:e106b9b6d9f2c9c3b2f08148fd2bf964e5b3c64d97f2b173bca0955ce64779a1
+hash: sha256:dd83bbc51ea10f96d248a940bceef716d33b75d1381e08807b1ccc6dedf207ad

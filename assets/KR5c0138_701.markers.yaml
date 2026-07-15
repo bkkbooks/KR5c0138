@@ -5,6 +5,8 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_001_s924}
   - {type: line-break, offset: 5, content: '', id: KR5c0138_master_701-bkklb1}
+  - {type: substitution, offset: 16, original: 慄, replacement: 栗, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17105}}
+  - {type: substitution, offset: 19, original: 猨, replacement: 猿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17626}}
   - {type: line-break, offset: 26, content: '', id: KR5c0138_master_701-bkklb2}
   back: []
-hash: sha256:866d33bb823f3333d9ccc348635d4cf3af193c49c7d6d16b85f6c4497471c74a
+hash: sha256:ed6b27002c736ffdf45e837bff1e9ade86fe3772e4eab8db438911f0a60afd61

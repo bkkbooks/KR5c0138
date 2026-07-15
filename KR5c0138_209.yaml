@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 南郭子綦𨼆几而坐仰天而噓嗒焉似喪其耦
-  hash: sha256:7b28e9c0c607bee4ab404d0cd4e54d56fcbcefca72fd612332dc58fada6d03d9
+  text: 南郭子綦隱几而坐仰天而噓嗒焉似喪其耦
+  hash: sha256:1f760074d62f0d31806f399f83e2e6243690a64689a581ebbc24fcdc8af9e8d7
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:56c985b3ad2ef994370b95da8d715bf0af95b8fb5379623c09b61f3671cd2114
+hash: sha256:26712978e8a423d1d5138f8bc7970c855fbc569361ab1e1e2bf0960dddc42af6

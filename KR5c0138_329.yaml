@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 之任則失矣故知君臣上下手足外内乃天理自然豈直人之所為哉
-  hash: sha256:328c00d3b3ed0d0876a0c9f56bb872b9d5a7c65193f2fb815e41139be0e41bb4
+  text: 之任則失矣故知君臣上下手足外內乃天理自然豈直人之所為哉
+  hash: sha256:2065e51896c8c6d49e6d4c290ba2f1e0b4993bb0fe5533b6763297734c987789
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:ec9160e91e2943fba8c53069be4712a2bf0d81421f6696dd4d90261030fbb363
+hash: sha256:cbf2b2d57f3eceb40d8e18a083d5662cf7009e01c8a890a0440c45935b85f6c6

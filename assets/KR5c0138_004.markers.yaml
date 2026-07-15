@@ -93,6 +93,7 @@ markers:
   - {type: indent, offset: 51, content: 　, id: KR5c0138_master_004-bkkind16}
   - {type: variant, offset: 52, length: 18, content: 樂二篇又易馬蹄一篇其餘衆篇或㸃定文句, WYG: 徳之世乎昔者容成氏大庭氏伯皇氏中央氏栗陸氏驪畜氏軒轅氏赫胥氏尊盧氏祝融氏伏戲氏神農氏當是時也民結繩而用之足以紀畧}
   - {type: variant, offset: 52, length: 18, content: 樂二篇又易馬蹄一篇其餘衆篇或㸃定文句, krp: 徳之世乎昔者容成氏大庭氏伯皇氏中央氏栗陸氏驪畜氏軒轅氏赫胥氏尊盧氏祝融氏伏戲氏神農氏當是時也民結繩而用之足以紀畧}
+  - {type: substitution, offset: 66, original: 㸃, replacement: 點, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-6519}}
   - {type: line-break, offset: 68, content: '', id: KR5c0138_master_004-bkklb5}
   - {type: indent, offset: 68, content: 　, id: KR5c0138_master_004-bkkind17}
   - {type: indent, offset: 68, content: 　, id: KR5c0138_master_004-bkkind18}
@@ -124,6 +125,7 @@ markers:
   - {type: indent, offset: 85, content: 　, id: KR5c0138_master_004-bkkind22}
   - {type: indent, offset: 85, content: 　, id: KR5c0138_master_004-bkkind23}
   - {type: indent, offset: 85, content: 　, id: KR5c0138_master_004-bkkind24}
+  - {type: substitution, offset: 85, original: 荘, replacement: 莊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20700}}
   - {type: variant, offset: 87, length: 1, content: 義, WYG: 迹愈粗粗與妙自塗之夷險耳逰者豈常改其足哉故聖人}
   - {type: page-break, offset: 87, content: '', id: KR5c0138_WYG_004-19b, image: WYG1056/WYG1056-0056d.png}
   - {type: variant, offset: 87, length: 1, content: 義, krp: 迹愈粗粗與妙自塗之夷險耳逰者豈常改其足哉故聖人}
@@ -174,4 +176,4 @@ markers:
   - {type: page-break, offset: 132, content: '', id: KR5c0138_WYG_004-27b, image: WYG1056/WYG1056-0060d.png}
   - {type: variant, offset: 132, length: 4, content: 陳振孫稱, krp: 同神而不可不為者天也執意不為雖神非天况不神哉故聖人觀於天而不助順自為而已成於徳而不累自然與髙會也出於道而不謀不謀而一所以為易會於仁而不恃恃則不廣薄於義而不積率性居逺非積也應於禮而不諱自然應禮非由忌諱接於事而不辭事以理接能否自任應動而動無所辭讓齊於法而不亂御麤以妙故不亂也恃於民而不輕恃其自為耳不輕用也因於物而不去因而就任之不去其本也物者莫足為也而不可不為夫為者豈以足為故為哉自體此為故不得而止也物者莫足為也分外也而不可不為分内也不明於天者不純於徳不明自然則有為有為而徳不純也不通於道者無自而可不能虛已以待物則事事失會不明於道者悲夫何謂道有天道有人道無為而尊者天道也在上而任萬物之自為也有為而累者人道也以有為為累者不能率其自然也主者天道也同乎天之任物則自然居物上臣者人道也各當所任天道之與人道也相去逺矣君任無為而委百官百官有所司而君不與焉二者俱以不為而自得則君道逸臣道勞勞逸之際不可同日而論之也不可不察也不察則君臣之位亂矣莊子注巻四}
   back: []
-hash: sha256:37bac507f3b236066edc86cfc1fe0cd591555c9877ecf9f73d06fe1ad33ba4e4
+hash: sha256:56b89b03dacd3f147efc366f5aa8e91451420b6a61476e17a97338ae047bb325

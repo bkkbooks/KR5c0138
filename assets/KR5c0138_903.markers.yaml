@@ -5,8 +5,10 @@ markers:
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_002_n9}
   - {type: line-break, offset: 14, content: '', id: KR5c0138_master_903-bkklb1}
+  - {type: substitution, offset: 53, original: 㝠, replacement: 冥, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17241}}
   - {type: line-break, offset: 56, content: '', id: KR5c0138_master_903-bkklb2}
+  - {type: substitution, offset: 90, original: 冺, replacement: 泯, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-18008}}
   - {type: line-break, offset: 98, content: '', id: KR5c0138_master_903-bkklb3}
   - {type: punctuation, offset: 104, content: ○, id: KR5c0138_master_903-bkkpn1}
   back: []
-hash: sha256:1ab2d10b8e5ed166c43b903c8c5e89114d9f5b413a11723827ce31854d51209b
+hash: sha256:e9ac5c2491671df47f6e6d959948f0b5fe11bc39771fc984e045fb849303916b

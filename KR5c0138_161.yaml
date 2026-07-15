@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 乗兩儀而御六氣同人羣而驅萬物茍無物而不順則浮雲斯乘矣無形而不載則飛龍斯御矣遺身而自得
-  hash: sha256:f404696a24e0ab864e62035b8e54668a792ee6d73dbd259af14c3c470fab09d1
+  text: 乘兩儀而御六氣同人羣而驅萬物茍無物而不順則浮雲斯乘矣無形而不載則飛龍斯御矣遺身而自得
+  hash: sha256:be434d5ccfe1fabc16b6177f53c3fa4e19e8220a5dbb2c3990603b25928c1225
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:d059b4eb7836c6c0977c737059c8a557b180d827bf6461de7b416c428d9bcd1c
+hash: sha256:8165450d83652c459df914e75d46b1fb87ff7f5c13dd78147bf18a5d1aca45f4

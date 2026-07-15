@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 有競有争
-  hash: sha256:5860ddf1550c6055c4bd9e78930379bfd929ed92864e9360051f859c393b2bea
+  text: 有競有爭
+  hash: sha256:a1136e8c5d5a21c9a70b8386b80df37d1e9a003ccd2a2853daab73609e7e050b
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:990c4e485e9d410a86d6704abc6b973e80d8f1b5e664c831d23dde24167d4ba1
+hash: sha256:cae18810d63af756942dfa9af7fd33b98699eb4b56a9a78d5a57d7e46fe70d44

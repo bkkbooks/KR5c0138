@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 魚慕鳥耳雖希翼鸞鳳擬規日月此愈近彼愈逺實學彌得而性彌失故齊物而偏尚之累去矣园五丸反圓
-  hash: sha256:851726cb92a84683bce93b75d58b6b1156b739c86cec383ccee76f91921b1069
+  text: 魚慕鳥耳雖希翼鸞鳳擬規日月此愈近彼愈逺實學彌得而性彌失故齊物而偏尚之纍去矣園五丸反圓
+  hash: sha256:bd3e52f0da782e40fbce66dff2c7de50e4f14522dbb99db54e888bb929d0cf54
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:8885308a7ad8fd2a8ae520c5a9e1085932fc25247e99f01d9db042c34511dc00
+hash: sha256:401f6bf283eae1c43a1cdefe485031abe5ca1f088e06dd67eb5e628e04b101ab

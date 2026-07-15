@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 不縁道
-  hash: sha256:64a94ddb0a5c920c3ace059297c9f35ee5b025f1dd29a8ac5eb2c2fe452f5fcc
+  text: 不緣道
+  hash: sha256:2f2ca672c41458d6db1d423136c73a638389fd614fa85a4a577ccca94e79828c
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:f8f2dbdfae59098cf0977a4851df16bd7c25237f0ac7e0c98719765d1c6fe37e
+hash: sha256:b677ecebb306155811730cd4951563bc01275d1eef1e2b5559e39597dcb5b165

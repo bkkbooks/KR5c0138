@@ -4,7 +4,9 @@ markers:
   front: []
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_001_s936}
+  - {type: substitution, offset: 0, original: 猨, replacement: 猿, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17626}}
+  - {type: substitution, offset: 13, original: 㳺, replacement: 遊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20160}}
   - {type: line-break, offset: 19, content: '', id: KR5c0138_master_708-bkklb1}
   - {type: line-break, offset: 41, content: '', id: KR5c0138_master_708-bkklb2}
   back: []
-hash: sha256:b648c5c4f7a1eb9551415eaab9222d9ef3101018143f6d274c8cab970cfea041
+hash: sha256:79251fdb594d929e0316574ca68b74f79d12e35b2c3ac7a31f6551f5aa8276ed

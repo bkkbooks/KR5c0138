@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 夫利於彼者或害於此而天下之彼我無窮則是非之竟無常故唯莫之辯而任其自是然後
-  hash: sha256:e0efd39df75f43abe34515ee4060538b424c210423707c069d5aa1ddfb10b46d
+  text: 夫利於彼者或害於此而天下之彼我無窮則是非之竟無常故唯莫之辨而任其自是然後
+  hash: sha256:e4a5d2ffef097c99b821985c2d212700136af2237204ad094f499ac0139e18d6
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:8b309e848199b9599757ef75202ee3383c10a704a7352b5f520795c3fdad761e
+hash: sha256:9a8c9a41286d7f9d0950dd7fc347eaa30655b601906afd9db82c3b0fb34b714c

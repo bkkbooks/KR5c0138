@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 彼是方生之說也雖然方生方死方死方生方可方不可方不可方可因是因非因非因是
-  hash: sha256:55e92cba9e49db9de2956c0794d7f66d367925bcf7605364285d1aa12b83dfe5
+  text: 彼是方生之説也雖然方生方死方死方生方可方不可方不可方可因是因非因非因是
+  hash: sha256:3767cbf7f484a93c10f054eb478e4c7b87449cf1eeb6dd22380bad8b8fb5d171
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:eabe332d0aa328f3da1ac87402aad8d2a08709391b79f63f450abc082cd8f00a
+hash: sha256:681953e8327ab1ab4afc2f4511da4eff0f86bc2f5742950c74bd2b8025680e64

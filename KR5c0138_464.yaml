@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 無物不然無物不可故為是舉莛與楹厲與西施恢恑憰怪道通為一
-  hash: sha256:76f5dd58e2250f405f1140f21b98dd4fcfce868aa1a0374ed57a95c2b376bea8
+  text: 無物不然無物不可故為是舉莛與楹厲與西施恢恑譎怪道通為一
+  hash: sha256:b9c45b7b0509f650e3672852afaf7b79d23a2144d2034322b4f67c27bf976b76
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:c6b1e1df1ee723b23f5c8f88a57f555e4bee3b9b4bc30e10a532de5a2829508d
+hash: sha256:ddaaaf72383e3b512697f90d9a434ff57cffa71e5486a8e05b8347461c47d308

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 得風征乗風而行與鄭穆公同時泠音零
-  hash: sha256:f7e76f987b8414a14347e01532498ed11138bae7d59a3997405f8f18fd51ac69
+  text: 得風征乘風而行與鄭穆公同時泠音零
+  hash: sha256:80327001bc29969a8b12277edead4499e8430f044ad3184260a8de45eece350d
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:6928b2e13b8b8871badc850f135c988749ccf6a4c2902c5734fe6cc7b9cf3aa0
+hash: sha256:9abbe03a5ab147cb53a76faf2ad89116bfb182ed9d8c3c9eab6850e6250f3d65

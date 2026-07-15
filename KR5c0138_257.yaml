@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 有生之𩔖㑹而共成一天耳無既無矣則不能生有有之未生又不能為生然則生生者誰哉塊然而自生耳
-  hash: sha256:78a8291fa8eaa9029bf9bf0ff5645f4871587d0b25002ecf72501c96c80aca07
+  text: 有生之類會而共成一天耳無既無矣則不能生有有之未生又不能為生然則生生者誰哉塊然而自生耳
+  hash: sha256:d26901271d55c300555a8e8a1448d3d3301fa638459f7f630a3e2090088d1d63
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:e53b1dc21667a1d4ced38e82be54d2a8836651707dc8639f2e18fed660e65e05
+hash: sha256:07921a9d4f0d15d12de71eba5f8f23a4a51a5fc93e1cd9882b51aa3a1e7c1d28

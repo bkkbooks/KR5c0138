@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 也吾以為其人也而今非也向吾入而弔焉有老者哭之如哭其子少者哭之如哭其母彼其所以㑹之必有不蘄言而言不蘄哭而哭者
-  hash: sha256:9085b9122aff3d51c0c7b122026c42b566c644ce0106699dc9feaa00a43ae5e9
+  text: 也吾以為其人也而今非也向吾入而弔焉有老者哭之如哭其子少者哭之如哭其母彼其所以會之必有不蘄言而言不蘄哭而哭者
+  hash: sha256:32dea159f0980ceeb60a422944180f14d3dfd125cf4941ea1eebf68842bb5e52
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:9b2145c4d0162ef8f2cb5df1d5da5b5141a31224179e904a739ef40276fbaecf
+hash: sha256:9282312138f15c456417e10e7913792b5cdd621f9bc3a59138c81548cf462d54

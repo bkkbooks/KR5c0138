@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 宋人資章甫而適諸越越人斷髮文身無所用之堯治天下之民平海内之政往見四子藐姑射之山汾水之陽窅然喪其天下焉
-  hash: sha256:b8794dd68affd803b8ca7b7a128099f56314e1d3ad89514c110a569b695cd4b8
+  text: 宋人資章甫而適諸越越人斷髮文身無所用之堯治天下之民平海內之政往見四子藐姑射之山汾水之陽窅然喪其天下焉
+  hash: sha256:12b1e1d63b46488ef193810561151e0f046781ecd0d5a1b9bc38dea028f4e9ae
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:a1b92a1285fde5d814438cf6f9edaa50d4587d1d800125d49e9d27a98f833a97
+hash: sha256:5d94fc07bb3263ada3a8923dfd8ca0737bf0b4dee14a2262f15cdb1922c37d5c

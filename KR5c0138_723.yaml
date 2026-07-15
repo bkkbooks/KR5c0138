@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 若然者乗雲氣
-  hash: sha256:98488c271eef033901ff0269d1641a7c3bbb597d1d3081a0cc706588e2ce3998
+  text: 若然者乘雲氣
+  hash: sha256:af66d8c121ec1263156ec939066eeb5141de9e4fda92369f54db4977529b9d38
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:df585ee5b3386c05945bd09efe624b395846efa1ded77f4b5ac7d8268b1b3488
+hash: sha256:f09e08af57c7a16f025be820a7a7b47c7c3e7a74df20d5d29fe4a227e05aa90e

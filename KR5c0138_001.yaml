@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 欽定四庫全書子部十四荘子注道家𩔖提要
-  hash: sha256:7aa780bf363002301e31b84ee638fbafe1a83557b05f2e868d57c18fd0151d80
+  text: 欽定四庫全書子部十四莊子注道家類提要
+  hash: sha256:e6cbf4ebe38428277ecd481b318ecc684e2f0ddb711d93d60a5c6e7f91209ab4
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:e1e931a5045c208afea2fe9daf41847c66569f1a6b82a514cffd010bc4ba5a61
+hash: sha256:958342c1bf09d5cfcd4e639d6f109168cae6b3886c0cb1bed77e322665cfde1a

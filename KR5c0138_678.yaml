@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 夫日月雖無私於照猶有所不及徳則無不得也而
-  hash: sha256:f79c86f4f4ce077cf0116109676a4fa1a0591210b6e6f1eb728153af5ad14ae5
+  text: 夫日月雖無私於照猶有所不及德則無不得也而
+  hash: sha256:524843b0995c137f5db533ec46a3cd8b22d9c4162ba477f713d7c78c3a5ba4b8
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:3b11dd2d5fe16b99cc3a67356f69fb3ada21ae264d579096edb8e1703f42a22f
+hash: sha256:14bfb8d0b14481966a99e7dd2cbce4691096d2850fe5e4d7cf94b5d4b7ac4516

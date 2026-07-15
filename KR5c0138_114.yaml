@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 中為正陽日入為飛泉夜半為沆瀣天𤣥地黄為六氣王楚辭注凌陽子明經言春食朝霞朝霞者日欲出
-  hash: sha256:a12875b51b231cb2b8f69b8a1b70f45d629297fa8852d93dfeda0fbbff3fa71e
+  text: 中為正陽日入為飛泉夜半為沆瀣天玄地黃為六氣王楚辭注凌陽子明經言春食朝霞朝霞者日欲出
+  hash: sha256:6571f94d5fec9750e10125ea30449b5404c54c6bce0dfa26a166aece2063b369
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:7bdf8da3efcbb8d4d14dfb0f2439eb7697e05f7bf807a4881ef2eb930e77585a
+hash: sha256:06dd239231c0453f7bb79d715881d3d121084a7e5362ceea91aae7d8f6bd5837

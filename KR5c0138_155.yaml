@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 耳處子者不以外傷内逕徐古定反庭勑定反逕庭謂徼過也姑射山名在北海中
-  hash: sha256:87908ecfa8bd19aac921e1262dd723782724462d9191a76af9a4e356d9dabfd0
+  text: 耳處子者不以外傷內徑徐古定反庭勑定反徑庭謂徼過也姑射山名在北海中
+  hash: sha256:c37b290e5fc523dfb48b218fea4aef56cb71f972c5111f6162e3136f354d5a1a
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:71440f30d863f438464d0083f04b816e63ea3fcca479d47661ae3b2331cf9e5b
+hash: sha256:930b524760ece95285499d53d3e85478184e0a576fbb266e30214b70d72e8583

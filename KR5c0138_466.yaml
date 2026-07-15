@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 哉故舉縦横好醜恢恑憰怪各然其所然各可其所可則形雖萬殊而性同得故曰道通於一也無物不然
-  hash: sha256:7bce285aeb18b7359e12e3912a7e21c945f218da16a891c1123017ffe73d0acc
+  text: 哉故舉縱橫好醜恢恑譎怪各然其所然各可其所可則形雖萬殊而性同得故曰道通於一也無物不然
+  hash: sha256:c22b4fa59fe697c4b35c6c50454f3cfdd69dcf6be65e2180944250add5f963ac
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:170628b7a24a0507ce294721ddb9804208a341e3412cb5b38bc8b0d99457e36f
+hash: sha256:6042c84dfd9dca1e39b4fa575269c4b68cea304a883afd7a6399c9ae08bce38d

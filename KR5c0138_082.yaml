@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 定乎内外之分
-  hash: sha256:d4ffea4a541c82ae47c9e6c86075474028185f2e506b395eda2387d41dacd12f
+  text: 定乎內外之分
+  hash: sha256:c5b53d2be1ae06397df81ae79bfab71ee74e6ac3b5ae575c19dde29e2439dbab
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:ae28d1c75cd0953ac24642eeb596f5bf0fdf1eb2c2b5549b2dab405a08310eec
+hash: sha256:c1afef756b05f3e6cef5041aaeea60b7592b9898b40a60ca221ecdc266fe3cb1

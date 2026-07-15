@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 成榮華自𨼆於道而道不可𨼆則真偽是非者行於榮華而止於實當見於小成而滅於大全也
-  hash: sha256:58b1396f3876dad68ecbc260a9084d96f0113ebd49ffbb8ddeb54e441f2bdad5
+  text: 成榮華自隱於道而道不可隱則真偽是非者行於榮華而止於實當見於小成而滅於大全也
+  hash: sha256:ad0e332f4aeda75a6916aaefa65956eca075f15fb926f862d01959a84045bb58
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:7f0ea6b21c6af3b02900a7d40915dd0955656372ed162e99cf2c0c8ca16cad3e
+hash: sha256:52dfb1bab17e1fd0d12c815c690213d828419b739822c3b99a544be04fc4c930

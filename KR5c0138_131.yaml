@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 出乎無為也取於堯而足豈借之許由哉若謂拱黙乎山林之中而後得稱無為者此莊老之談所以見棄於
-  hash: sha256:a032d5026c94f8e9b8f1cb88a034ee985a4d40393f9379e956dc170e3a5dcea5
+  text: 出乎無為也取於堯而足豈借之許由哉若謂拱默乎山林之中而後得稱無為者此莊老之談所以見棄於
+  hash: sha256:0551e99721e829496e2c7839be6fd21e55677704dec742137043aa46a5cf837a
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:1a0a6ea678f928bb73c450b25dfcbd98830e05a4e6ae6419b6c33632023ed97b
+hash: sha256:c04f94ae4440b61ce9c1318f750793d883f0306d0cf8c2aa3cdb3918f6055cd3

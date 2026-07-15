@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 茍得中而㝠度則事事無不可也夫養生非求過分盖全理盡年而已矣
-  hash: sha256:ed7426169cacb7df3c4215c36085a7c00273d9d524ed463051ae940dd7ab4388
+  text: 茍得中而冥度則事事無不可也夫養生非求過分蓋全理盡年而已矣
+  hash: sha256:951e6a3065d38d79a1d4deeb45a10d0c2b9a4d96eb7a92d29b95ddcaba0baccd
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:b36ba0617d66ced4511628042ca9e9d98398de60d89c13416c32c93e72bc8f05
+hash: sha256:3f67b85e8d653d31ad5984b748c982bcb09324723e58b4dd5fcdc5b358a62144

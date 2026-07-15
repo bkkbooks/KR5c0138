@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 皦然廉清貪名
-  hash: sha256:187cf7cf767603c01a1f7cad75f25c3f3699821f0ed1c70e4889983b3551a069
+  text: 皎然廉清貪名
+  hash: sha256:c580dc7108c38aa9376b28bc1d9635b2da343b0c936407c8ac5b710336c7bdaa
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:9ec2752a23dcce2d63a4e103459adedfc89bf5bce6a6dc1645295139fe048479
+hash: sha256:a66d2157f7ea7e55974478a2c34bb7107cb33fd8b912d72964a707b27f89b336

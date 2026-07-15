@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 道𨼆於小成言𨼆於榮華
-  hash: sha256:28b0d008e3275ee60527b5faa83c212480f20e7ba893a319ced60e31c4e87b97
+  text: 道隱於小成言隱於榮華
+  hash: sha256:8f2dce2d445bbdbcef91ff9c414ca7bd206eb3baa8bb36625685e5d5419726f3
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:707027540d259f0f502b3b4e6e7cfd6f954bc61a8f0f26e842afcf97bb3d9286
+hash: sha256:77f55b26e9864280647c5d74001b243bc1647b17d5eac77770a863a075b7d697

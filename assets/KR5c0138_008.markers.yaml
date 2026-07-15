@@ -18,12 +18,15 @@ markers:
   - {type: variant, offset: 4, length: 1, content: 觧, WYG: 制步仞之丘陵巨獸無所隱其軀而㜸狐為之祥弟子謂大人必有豐禄也八尺曰尋倍尋曰常六尺為步七尺曰仞廣一步髙一仞也孔安國云八尺曰仞小爾雅云四尺曰仞㜸魚竭反云野狐依之作妖祥也且夫尊賢授能先善與利自古堯舜以然而况畏壘之民乎夫子亦聽矣庚桑子曰小子來夫函車之獸介而離山則不免于罔罟之患吞舟之魚碭而失水則蟻能苦之故鳥獸不厭髙魚龞不厭深去利逺害乃全函車之獸獸大如車也一云大容車介音戒廣雅云獨也離力智反碭徒浪反謂陽溢而失水也夫全其形生之人藏其身也不厭深𦕈而已矣若嬰身於利禄則粗而淺且夫二子者又}
   - {type: page-break, offset: 4, content: '', id: KR5c0138_WYG_008-2b, image: WYG1056/WYG1056-0115b.png}
   - {type: variant, offset: 4, length: 1, content: 觧, krp: 制步仞之丘陵巨獸無所隱其軀而㜸狐為之祥弟子謂大人必有豐禄也八尺曰尋倍尋曰常六尺為步七尺曰仞廣一步髙一仞也孔安國云八尺曰仞小爾雅云四尺曰仞㜸魚竭反云野狐依之作妖祥也且夫尊賢授能先善與利自古堯舜以然而况畏壘之民乎夫子亦聽矣庚桑子曰小子來夫函車之獸介而離山則不免于罔罟之患吞舟之魚碭而失水則蟻能苦之故鳥獸不厭髙魚龞不厭深去利逺害乃全函車之獸獸大如車也一云大容車介音戒廣雅云獨也離力智反碭徒浪反謂陽溢而失水也夫全其形生之人藏其身也不厭深𦕈而已矣若嬰身於利禄則粗而淺且夫二子者又}
+  - {type: substitution, offset: 4, original: 觧, replacement: 解, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19553}}
   - {type: variant, offset: 6, length: 0, content: '', WYG: 足以稱揚}
   - {type: variant, offset: 6, length: 0, content: '', krp: 足以稱揚}
   - {type: variant, offset: 7, length: 4, content: 考劉孝標, WYG: 二子謂堯舜是其於辯也將妄鑿垣墻而殖蓬蒿也将令後}
   - {type: variant, offset: 7, length: 4, content: 考劉孝標, krp: 二子謂堯舜是其於辯也將妄鑿垣墻而殖蓬蒿也将令後}
   - {type: variant, offset: 12, length: 10, content: 說注引逍遥逰向郭義各, WYG: 妄行穿鑿而殖亂也簡髮而櫛數米而炊理錐刀之末也櫛莊畢反理於小利也竊竊乎又何足以濟世哉混然}
   - {type: variant, offset: 12, length: 10, content: 說注引逍遥逰向郭義各, krp: 妄行穿鑿而殖亂也簡髮而櫛數米而炊理錐刀之末也櫛莊畢反理於小利也竊竊乎又何足以濟世哉混然}
+  - {type: substitution, offset: 12, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
+  - {type: substitution, offset: 16, original: 遥, replacement: 遙, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20748}}
   - {type: line-break, offset: 17, content: '', id: KR5c0138_master_008-bkklb2}
   - {type: indent, offset: 17, content: 　, id: KR5c0138_master_008-bkkind5}
   - {type: indent, offset: 17, content: 　, id: KR5c0138_master_008-bkkind6}
@@ -41,6 +44,7 @@ markers:
   - {type: indent, offset: 34, content: 　, id: KR5c0138_master_008-bkkind10}
   - {type: indent, offset: 34, content: 　, id: KR5c0138_master_008-bkkind11}
   - {type: indent, offset: 34, content: 　, id: KR5c0138_master_008-bkkind12}
+  - {type: substitution, offset: 42, original: 盗, replacement: 盜, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19616}}
   - {type: variant, offset: 43, length: 31, content: 跖篇惟注三十八字說劍篇惟注七字似不應簡畧至此疑有所脫佚又列子生, WYG: 如何知音智之數}
   - {type: variant, offset: 43, length: 31, content: 跖篇惟注三十八字說劍篇惟注七字似不應簡畧至此疑有所脫佚又列子生, krp: 如何知音智之數}
   - {type: line-break, offset: 51, content: '', id: KR5c0138_master_008-bkklb4}
@@ -48,6 +52,8 @@ markers:
   - {type: indent, offset: 51, content: 　, id: KR5c0138_master_008-bkkind14}
   - {type: indent, offset: 51, content: 　, id: KR5c0138_master_008-bkkind15}
   - {type: indent, offset: 51, content: 　, id: KR5c0138_master_008-bkkind16}
+  - {type: substitution, offset: 51, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
+  - {type: substitution, offset: 62, original: 畧, replacement: 略, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17299}}
   - {type: line-break, offset: 68, content: '', id: KR5c0138_master_008-bkklb5}
   - {type: indent, offset: 68, content: 　, id: KR5c0138_master_008-bkkind17}
   - {type: indent, offset: 68, content: 　, id: KR5c0138_master_008-bkkind18}
@@ -139,6 +145,7 @@ markers:
   - {type: page-break, offset: 89, content: '', id: KR5c0138_WYG_008-36a, image: WYG1056/WYG1056-0132a.png}
   - {type: page-break, offset: 89, content: '', id: KR5c0138_WYG_008-36b, image: WYG1056/WYG1056-0132b.png}
   - {type: variant, offset: 89, length: 0, content: '', krp: 築十仞之城城者既十仞矣則又壊之此胥靡之所苦也今兵不起七年矣此王之基也衍亂人不可聴也華子聞而醜之曰善言伐齊者亂人也善言勿伐者亦亂人也謂伐之與不伐亂人也者又亂人也君曰然則若何曰君求其道而已矣惠子聞之而見戴晋人戴晉人曰有所謂蝸者君知之乎曰然蝸至㣲而有兩角魏莹魏惠王也田侯齊威王也名牟史記威王名因不名牟犀首魏官名也若今虎牙将軍公孫衍為此官元嘉本作齒首忌也出走忌畏而走抶猪栗反折之古反季子魏臣華子亦魏臣也惠子惠施也戴晉人梁國賢人惠施薦之於魏王蝸音戈蝸蟲有兩角俗謂之蝸牛三蒼云小牛螺也云俗名黄犢有國於蝸之左角者曰觸氏有國於蝸之右角者曰蠻氏時相與爭地而戰伏尸數萬逐北旬有五日而後反誠知所爭者若此之細也則天下旡爭矣軍走曰北君曰噫其虚言與曰臣請為君實之君以意在四方上下有窮乎君曰無窮曰知遊心於無窮而反在通達之國人迹所及為通達謂今四海之内也若存若亡乎君曰然今自以四海為大然計在旡窮之中若有若旡也曰通達之中有魏於魏中有梁於梁中有王王與蠻氏有辯乎君曰無辯王與蠻氏俱有限之物耳有限則不問大小俱不得與無窮者計也雖復天地共在無窮之中皆篾如也况魏中之梁梁中之王而足爭哉客出而君倘然若有亡也自悼所爭者細惝音敞字林云惘也客出惠子見君曰客大人也聖人不足以當之惠子曰夫吹管也猶有嗃也吹劍首者吷而已矣堯舜人之所譽也道堯舜於戴晉人之前譬猶一吷也曽不足聞莞音管本亦作管嗃許交反管聲也玉篇呼洛反劒首謂劍環頭小孔也吷音血吷然如風過孔子之楚舍於蟻丘之漿其鄰有夫妻臣妾登極者子路曰是稯稯何為者耶仲尼曰是聖人僕也是自埋於民與民同蟻丘山名漿賣漿家一謂逆旅舍以菰草覆之也極屋棟也升之以也一云極平頭屋也稯音緫聚貌聖人僕謂懐聖德而隱僕隸也自藏於畔進不荣華退不枯槁藏於畔脩田農之業是隱藏於畔其聲銷損其名也銷音消小也其志無窮規是生也其口雖言其心未嘗言所言者皆世言方且與世違而心不屑與之俱心與世異是陸沈者也人中隱者譬旡水而沈也陸沈當顯而反隱如旡水而沈也是其市南宜僚耶子路請徃召之孔子曰已矣彼知丘之著於己也著明也知丘之適楚也以丘為必使楚王之召已也彼且以丘為侫人也夫若然者其於侫人也羞聞其言而况親見其身乎而何以為存不如舍之以從其志𥙷存史記過存之存言又何存問之也口義作必去而不留子路徃視之其室虚矣果逃去也長梧封人問子牢曰君為政焉勿鹵莽治民焉勿㓕裂鹵莽㓕裂輕脱粗畧不盡其分長梧地名封人守封疆之人也子牢即琴牢孔子弟子鹵音魯鹵莽猶麄粗也謂淺耕稀種也㓕裂斷其草也昔予為禾耕而鹵莽之則其實亦鹵莽而報予芸而㓕裂之其實亦㓕裂而報予予來年變齊深其耕而熟耰之功盡其分旡所不至齊才細反一如字云變更也謂變更所法也齊同也耰音憂鋤也字林云摩田器也其禾繁以滋予終年厭飱}
+  - {type: substitution, offset: 89, original: 荘, replacement: 莊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20700}}
   - {type: variant, offset: 91, length: 0, content: '', WYG: 聞之曰今人之治其形理其心多有似封人之所謂遁其天離其性㓕其情亡其神以衆為夫遁離㓕亡以衆為之所致也若各致其極則何患也飱音孫故鹵莽其性者欲悪之孽為性萑葦萑葦害禾稷欲悪傷生性悪音路反萑音丸葦蘆也蒹葭始以扶吾形形扶踈則神氣傷蒹古恬反廉也葭音加}
   - {type: variant, offset: 91, length: 0, content: '', krp: 聞之曰今人之治其形理其心多有似封人之所謂遁其天離其性㓕其情亡其神以衆為夫遁離㓕亡以衆為之所致也若各致其極則何患也飱音孫故鹵莽其性者欲悪之孽為性萑葦萑葦害禾稷欲悪傷生性悪音路反萑音丸葦蘆也蒹葭始以扶吾形形扶踈則神氣傷蒹古恬反廉也葭音加}
   - {type: variant, offset: 92, length: 0, content: '', WYG: 蘆也尋擢吾性以欲悪引性不止於當並潰漏發不擇所出漂疽疥癰内熱溲膏是也此鹵莽之報也故治性者安可以不齊其至分潰回内反漏發謂精氣散泄上潰下漏不擇所出也漂疽謂病瘡膿出也疥音界溲所求反謂虚勞人尿上生肥白沫也皆為利欲感動失其正氣不如深耕熟耰之}
@@ -169,6 +176,7 @@ markers:
   - {type: variant, offset: 104, length: 1, content: 本, krp: 殉}
   - {type: variant, offset: 105, length: 1, content: 荘, WYG: 焉}
   - {type: variant, offset: 105, length: 1, content: 荘, krp: 焉}
+  - {type: substitution, offset: 105, original: 荘, replacement: 莊, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20700}}
   - {type: variant, offset: 106, length: 1, content: 子, WYG: 殊}
   - {type: variant, offset: 106, length: 1, content: 子, krp: 殊}
   - {type: variant, offset: 107, length: 1, content: 皆, WYG: 向}
@@ -202,4 +210,4 @@ markers:
   - {type: page-break, offset: 128, content: '', id: KR5c0138_WYG_008-42b, image: WYG1056/WYG1056-0135b.png}
   - {type: variant, offset: 128, length: 8, content: 復考矣乾隆四十六, krp: 圍皆不為而自爾或之使莫之為未免於物而終以為過物有相使亦皆自爾故莫之為者未為非物也凡物云云皆由莫為而過去或使則實實自使之莫為則虛無使之也有名有實是物之居指名實之所在無名無實在物之虚物之所在其實至虛可言可意言而愈䟽故求之於言意之表而後至焉未生不可忌突然自生制不由我我不能禁已死不可徂忽然自死吾不能違徂一本作阻死生非逺也理不可覩近於身中猶莫見其自爾而欲憂之或之使莫之為疑之所假此二者世所至疑也吾觀之本其往無窮吾求之末其來無止無窮無止言之無也與物同理物理無窮故其言無窮然後與物同理也或使莫為言之本也與物終始恒不為而自使然也道不可有有不可無道故不能使有而有者常自然也道之為名所假而行物所由而行故假名之曰道或使莫為在物一曲夫胡為於大方舉一隅便可知言而足則終日言而盡道求道於言意之表則足言而不足則終日言而盡物不能忘言而存意則不足道物之極言黙不足以載夫道物之極常莫為而自爾不在言與不言非言非黙議其有極極於自爾非言黙而議也莊子注巻八}
   back: []
-hash: sha256:d1d5f6758088f882563dee330d994f30c76fe2f534d5374cf88a3932fe4e2d0d
+hash: sha256:3ffd4ebd153c6298a77feaf02188e8f9a78f5a6ee1f1079d2cf033203672ed5c

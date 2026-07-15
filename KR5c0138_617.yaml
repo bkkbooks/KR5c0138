@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 春秋經世先王之志聖人議而不辯
-  hash: sha256:18065d139a47f8a823287478a1b7c595a54bec307cfb7e445627b5329b54e526
+  text: 春秋經世先王之志聖人議而不辨
+  hash: sha256:f090b63db29219d59d0925a8fa4e2cfea46293b58fd5cbe67fa2056fa81b9fc5
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:b3006ffc331171ae9ff235eae9ba75887e8f171626bd0a53754b2e0d05666343
+hash: sha256:5e4f50aa29b8d57c47b384385719057fa5b4cd21dd39083c8991a146af06b1b7

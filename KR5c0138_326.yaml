@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 也有私則不能賅而存矣故不說而自存不為而自生也皆說音恱註同今本多即作恱字後皆放此
-  hash: sha256:0e4b7d78b4e3b564948ca046ab0fa2eef50251f4f2b2e3f5d9c0ad7317ad50b6
+  text: 也有私則不能賅而存矣故不説而自存不為而自生也皆説音恱注同今本多即作恱字後皆放此
+  hash: sha256:6dded027bd9b1a814dc623e09f5c9f12318b093f80af9a4c5cd7d1a340648fca
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:f1f2aae09042b42378f46898f1ef3496da8edb7fe509f49fe3a6a3839296ea26
+hash: sha256:f7c9acbb5c915375ae3c03b03da398552cb4cc03425541b5123bfe25bbddea03

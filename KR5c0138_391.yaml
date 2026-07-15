@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 道惡乎𨼆而有真偽言惡乎
-  hash: sha256:e4b2dfb5bf9ee8c8de1eec352879396f1eb0709ba06f5a6c138e39cc8d7898f1
+  text: 道惡乎隱而有真偽言惡乎
+  hash: sha256:2c53d8d8086224786b2dd0d42c4a7085ac187164ef275cbe8b40146f97f279ac
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:3a4f02240fad8b48a0bb89d6980663abc36e0538181851e5296affb66c77bb0b
+hash: sha256:33aca99c97d44c17183bf981a92e803c8a3b0edae60e908449bc7aa466815a2a

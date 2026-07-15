@@ -127,6 +127,7 @@ markers:
   - {type: variant, offset: 79, length: 1, content: 殆, krp: 非是非者各自任則定矣至樂活身唯無為幾存百姓足則吾身近乎存也請嘗試言之天無為以之清地無為以之寧皆自清寧耳非為之所得故兩無為相合萬物皆化不為而自合故皆化若有意乎為之則有時而滯也芒乎芴乎而無從出乎皆自出耳未有為而出之也芒李音荒又乎晃反下同芴音忽下同芴乎芒乎而無有象乎無有為之象萬物職職皆從無為殖皆自殖耳故曰天地無為也而無不為也若有為則有不齊也人也孰能得無為哉得無為則無樂而樂至矣莊子妻死惠子弔之莊子則方箕踞鼓盆而歌惠子曰與人居長子老身死不哭亦足矣又鼔盆而歌不亦甚乎莊子曰不然是其始死也我獨何能無槩然察其始而本無生非徒無生也而本無形非徒無形也而本無氣雜乎芒芴之間變而有氣氣變而有形形變而有生今又變而之死是相與為春秋冬夏四時行也人且偃然寢於巨室而我噭噭然隨而哭之自以為不通乎命故止也未明而槩已達而止斯所以誨有情者將令推至理以遣累也支離叔與滑介叔觀於㝠伯之丘崐崘之虚黄帝之所休俄而柳生其左肘其意蹷蹷然惡之支離叔曰子惡之乎滑介叔曰亡予何惡生者假借也假之而生生者塵垢也死生為晝夜且吾與子觀化而化及我我又何惡焉斯皆先示有情然後尋至理以遣之若云我本無情故能無憂則夫有情者遂自絶於逺曠之域而迷困於憂樂之塲矣莊子之楚}
   - {type: variant, offset: 81, length: 8, content: 吾杜徳機句鄉吾示, WYG: 空髑髏髐然有形撽以馬捶因而問}
   - {type: variant, offset: 81, length: 8, content: 吾杜徳機句鄉吾示, krp: 空髑髏髐然有形撽以馬捶因而問}
+  - {type: substitution, offset: 83, original: 徳, replacement: 德, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20773}}
   - {type: line-break, offset: 85, content: '', id: KR5c0138_master_006-bkklb6}
   - {type: indent, offset: 85, content: 　, id: KR5c0138_master_006-bkkind21}
   - {type: indent, offset: 85, content: 　, id: KR5c0138_master_006-bkkind22}
@@ -170,4 +171,4 @@ markers:
   - {type: variant, offset: 127, length: 9, content: 二十二字郭注無之鄉, WYG: 卷六}
   - {type: variant, offset: 127, length: 9, content: 二十二字郭注無之鄉, krp: 卷六}
   back: []
-hash: sha256:2d47c890969a7e120cae11f27e4f6e93103229629d5e10606d6e77675d451e79
+hash: sha256:1742cf364cb78bb4b46c585ab84b293522824574d5bc09c47b7f8f26aefee439

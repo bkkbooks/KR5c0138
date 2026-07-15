@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 畧而判之有此八徳
-  hash: sha256:af522fb2b470ad264a44e3095f37a727057d35a5411257f5ced56d5e7276fd4c
+  text: 略而判之有此八德
+  hash: sha256:5cc3d67dc0e62284a45e9cd12e44dce6be10d56194517934f8272e7ba08f6eb1
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:400074be65ac3360b26c2001a59a55555d94eeeebedf9f6cf1eadc03df3829af
+hash: sha256:0bd71769a7ed046fe396030f2a62a3fd952b4a230cbee4a10f5c8b9884801fa5

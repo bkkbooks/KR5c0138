@@ -4,5 +4,6 @@ markers:
   front: []
   body:
   - {type: 'tls:seg', offset: 0, content: '', id: KR5c0138_tls_001_n17}
+  - {type: substitution, offset: 6, original: 歳, replacement: 歲, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19452}}
   back: []
-hash: sha256:da3f7914cebae66f00db9244729ebea4d469f1c0fcb382431258a730c5d01280
+hash: sha256:d4d7a5405fd1cf545364ab5c166ba0bf6febfe058c214c619b0ecb8ed91fdf6c

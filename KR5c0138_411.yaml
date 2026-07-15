@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 故無非彼無非彼則天下無是矣無非是則天下無彼矣無彼無是所以𤣥同也
-  hash: sha256:919258026592a0481e54cf41da179070c69d76ccadd7219c511c005539b75ede
+  text: 故無非彼無非彼則天下無是矣無非是則天下無彼矣無彼無是所以玄同也
+  hash: sha256:c4f9ad7c3ebb91e5ead5ed6b0f0c29c98fbd2f51ca4b4b794f342287b8598f4f
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:134bf6019d9cd83e9555d1b80b67acfd96682802d0f14f959548ada08ab80ed5
+hash: sha256:51442847e5479eaef0e9a5b8a5eff169609fb3092ef5cc1d962fa5d972e9ba85

@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 至至者之不虧哉今言至徳之人而寄之此山將明世所無由識故乃託之於絶垠之外而推之於視聽之表
-  hash: sha256:ab0e631ac7bbc76ab561f7126873c50960dc52693bb74d69e44e9b7f989d7bd0
+  text: 至至者之不虧哉今言至德之人而寄之此山將明世所無由識故乃託之於絶垠之外而推之於視聽之表
+  hash: sha256:60cec3f954999dbd8589a3431284224e277d687383401ae8a022212781c27e33
 metadata:
   title: 莊子注
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR5c0138.xml
-hash: sha256:8e277e84f7a50198cc7d8c7cddc8991480867cb6cb8aea760074e6b20e2cd088
+hash: sha256:6af16a3618a9a13ab0603e7278282398e8e30c7c744276cfd5157f1bcc059741
